@@ -6,9 +6,9 @@ on:
     branches:
       - main
   schedule:
-      # This expression means every day at UTC 00:30
+      # This expression means every day at UTC 00:45
       # See https://crontab.guru/examples.html for more examples
-      - cron:  '0 30 * * *'
+      - cron:  '45 0 * * *'
 
 jobs:
   build:
