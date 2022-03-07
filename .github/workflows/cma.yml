@@ -1,0 +1,23 @@
+name: 'build'
+on:
+  push:
+    branches:
+      - main
+  schedule:
+      # This expression means every day at UTC 00:30
+      # See https://crontab.guru/examples.html for more examples
+      - cron:  '0 30 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: luob/create-my-awesome@v1
+      # Commit the change
+      # See https://github.com/EndBug/add-and-commit
+      - uses: EndBug/add-and-commit@v5
+        with:
+          message: 'Update README.md'
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
