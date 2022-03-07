@@ -1,1 +1,142 @@
-# awesome
+# Awesome  [![build](https://github.com/tripleo1/awesome/workflows/build/badge.svg)](https://github.com/tripleo1/awesome/actions)
+
+A collection of awesome things.
+
+- [Assembly](#assembly)
+- [C](#c)
+- [C#](#c-1)
+- [C++](#c-2)
+- [CSS](#css)
+- [Clojure](#clojure)
+- [Dart](#dart)
+- [Go](#go)
+- [HTML](#html)
+- [Haskell](#haskell)
+- [Java](#java)
+- [JavaScript](#javascript)
+- [Makefile](#makefile)
+- [OCaml](#ocaml)
+- [Python](#python)
+- [Rust](#rust)
+- [Shell](#shell)
+- [Swift](#swift)
+- [TypeScript](#typescript)
+- [Misc](#misc)
+
+---
+
+## Assembly
+
+- [nakst/flip](https://github.com/nakst/flip) - A 16-bit Lisp based operating system.
+
+## C
+
+- [console-tools/moc](https://github.com/console-tools/moc) - Music On Console
+- [pixeltris/webc86](https://github.com/pixeltris/webc86) - Compile / run C in a web browser via TCC / x86 emulation
+- [vlang/c2v](https://github.com/vlang/c2v) - C/C++ to V translator
+
+## C#
+
+- [jksware/yatc](https://github.com/jksware/yatc) - Yet Another Tiger Compiler
+- [kaby76/AntlrVSIX](https://github.com/kaby76/AntlrVSIX) - AntlrVSIX is a language server for use with Visual Studio 2019, Visual Studio Code, and Gnu Emacs to support Antlr, Bison, and W3C EBNF grammars. In addition to the IDE extensions provided here, a command-line tool is available to refactor grammars in order to make them cleaner, more readable, and more efficient.
+- [microsoft/ApplicationInspector](https://github.com/microsoft/ApplicationInspector) - A source code analyzer built for surfacing features of interest and other characteristics to answer the question 'What's in the code?' quickly using static analysis with a json based rules engine. Ideal for scanning components before use or detecting feature level changes.
+
+## C++
+
+- [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
+- [baislsl/jtiger](https://github.com/baislsl/jtiger) - 虎书tiger语言的jvm编译器
+- [c3d/xl](https://github.com/c3d/xl) - A minimalist, general-purpose programming language based on meta-programming and parse tree rewrites
+- [github/securitylab](https://github.com/github/securitylab) - Resources related to GitHub Security Lab
+- [rochus-keller/OberonSystem](https://github.com/rochus-keller/OberonSystem) - Modified version of the original from http://www.projectoberon.com/ for use with the Oberon IDE
+- [wez/atomicparsley](https://github.com/wez/atomicparsley) - AtomicParsley is a lightweight command line program for reading, parsing and setting metadata into MPEG-4 files, in particular, iTunes-style metadata.
+
+## CSS
+
+- [SquareBracketAssociates/Booklet-Smacc](https://github.com/SquareBracketAssociates/Booklet-Smacc) - A booklet on the Smacc compiler compiler framework
+
+## Clojure
+
+- [elias94/tryclojure](https://github.com/elias94/tryclojure) - Clojure live REPL tutorial
+
+## Dart
+
+- [gskinnerTeam/flokk](https://github.com/gskinnerTeam/flokk) - A fresh and modern Google Contacts manager that integrates with GitHub and Twitter.
+
+## Go
+
+- [elimisteve/v2go](https://github.com/elimisteve/v2go) - V-to-Go translator
+- [hashsplit/hashsplit-spec](https://github.com/hashsplit/hashsplit-spec) - 
+- [perkeep/perkeep](https://github.com/perkeep/perkeep) - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
+
+## HTML
+
+- [MahdiF/taptaptap](https://github.com/MahdiF/taptaptap) - 🕹 Open Source Javascript Game
+- [oberon-lang/oberon-lang.github.io](https://github.com/oberon-lang/oberon-lang.github.io) - The Oberon+ Programming Language
+
+## Haskell
+
+- [fumieval/incremental](https://github.com/fumieval/incremental) - Type class for patch and diff
+
+## Java
+
+- [HotswapProjects/HotswapAgent](https://github.com/HotswapProjects/HotswapAgent) - Java unlimited redefinition of classes at runtime.
+- [amyjko/whyline](https://github.com/amyjko/whyline) - The Whyline for Java, an interactive debugging tool that lets you ask "why" questions about program out.
+- [eclipse-openj9/openj9](https://github.com/eclipse-openj9/openj9) - Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high throughput.   Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with the Extensions for OpenJDK for OpenJ9 repo.
+- [jnode/jnode](https://github.com/jnode/jnode) - Code for the JNode operating system
+- [madhephaestus/OmniscientDebugger](https://github.com/madhephaestus/OmniscientDebugger) - Bil Lewis' Omniscient Debugger for Java. Also known as ODB
+- [matthewmccullough/OmniscientDebugger](https://github.com/matthewmccullough/OmniscientDebugger) - Bil Lewis' Omniscient Debugger for Java. Also known as ODB
+- [thinkberg/snipsnap](https://github.com/thinkberg/snipsnap) - SnipSnap - A java based wiki
+
+## JavaScript
+
+- [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser.
+- [WardCunningham/remodeling](https://github.com/WardCunningham/remodeling) - The original wiki rewritten as a single page application
+- [crisdosyago/Diskernet](https://github.com/crisdosyago/Diskernet) -  💾 Diskernet - An internet on yer disk. Full text search archive from your browsing and bookmarks. Weclome! to the Diskernet:  Your preferred backup solution. It's like you're still online! Disconnect with Diskernet, an internet for the post-online apocalypse. Or the airplane WiFi. Or the site goes down. Or ... You get the picture. Get Diskernet. 80s logo. Formerly 22120 (project codename)
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
+- [simon1573/teddit-redirect](https://github.com/simon1573/teddit-redirect) - Redirect reddit.com to teddit.net
+
+## Makefile
+
+- [kostya/benchmarks](https://github.com/kostya/benchmarks) - Some benchmarks of different languages
+
+## OCaml
+
+- [janestreet/incremental](https://github.com/janestreet/incremental) - A library for incremental computations
+
+## Python
+
+- [AndreMiras/coveralls-python-action](https://github.com/AndreMiras/coveralls-python-action) - GitHub Action for Python Coveralls.io
+- [ArchiveTeam/grab-site](https://github.com/ArchiveTeam/grab-site) - The archivist's web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns
+- [BruceDLong/CodeDog](https://github.com/BruceDLong/CodeDog) - Auto-generate programs in C derived languages for multiple platforms
+- [cchen156/Learning-to-See-in-the-Dark](https://github.com/cchen156/Learning-to-See-in-the-Dark) - Learning to See in the Dark. CVPR 2018
+- [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
+- [lelit/tailor](https://github.com/lelit/tailor) - A tool to exchange changesets between different version control systems
+- [linuxmint/sticky](https://github.com/linuxmint/sticky) - A sticky notes app for the linux desktop
+- [martin68/apt-smart](https://github.com/martin68/apt-smart) - apt-smart: Smart, automated, robust apt-get mirror selection for Debian, Ubuntu and Linux Mint
+- [multiformats/py-multibase](https://github.com/multiformats/py-multibase) - Multibase implementation in Python
+- [ravexina/csp-sudoku-solver](https://github.com/ravexina/csp-sudoku-solver) - Python + tkinter + CSP Idea / Algorithm to solve sudoko
+
+## Rust
+
+- [ngeor/rusty-basic](https://github.com/ngeor/rusty-basic) - An interpreter for QBasic, written in Rust.
+
+## Shell
+
+- [64kramsystem/zfs-installer](https://github.com/64kramsystem/zfs-installer) - Program that prepares ZFS on a system, and installs Linux
+
+## Swift
+
+- [marciok/Mu](https://github.com/marciok/Mu) - It's a Swift playground explaining how to create a tiny programming language named Mu
+
+## TypeScript
+
+- [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
+
+## Misc
+
+- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
+- [X547/OberonUtils](https://github.com/X547/OberonUtils) - Utilities for Oberon/BlackBox
+- [d-cook/SomethingNew](https://github.com/d-cook/SomethingNew) - Collaboration for reinventing software in human terms
+- [digitalformula/qclocktwo](https://github.com/digitalformula/qclocktwo) - 
+- [phoe/the-elusive-language](https://github.com/phoe/the-elusive-language) - A small Common Lisp-related art project.
+
