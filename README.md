@@ -18,6 +18,7 @@ A collection of awesome things.
 - [OCaml](#ocaml)
 - [Python](#python)
 - [Rust](#rust)
+- [SCSS](#scss)
 - [Shell](#shell)
 - [Swift](#swift)
 - [TypeScript](#typescript)
@@ -45,6 +46,7 @@ A collection of awesome things.
 
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [baislsl/jtiger](https://github.com/baislsl/jtiger) - 虎书tiger语言的jvm编译器
+- [briantrice/slate-language](https://github.com/briantrice/slate-language) - The Slate programming language
 - [c3d/xl](https://github.com/c3d/xl) - A minimalist, general-purpose programming language based on meta-programming and parse tree rewrites
 - [github/securitylab](https://github.com/github/securitylab) - Resources related to GitHub Security Lab
 - [rochus-keller/OberonSystem](https://github.com/rochus-keller/OberonSystem) - Modified version of the original from http://www.projectoberon.com/ for use with the Oberon IDE
@@ -119,6 +121,10 @@ A collection of awesome things.
 ## Rust
 
 - [ngeor/rusty-basic](https://github.com/ngeor/rusty-basic) - An interpreter for QBasic, written in Rust.
+
+## SCSS
+
+- [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 
 ## Shell
 
