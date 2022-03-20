@@ -84,6 +84,7 @@ A collection of awesome things.
 - [HotswapProjects/HotswapAgent](https://github.com/HotswapProjects/HotswapAgent) - Java unlimited redefinition of classes at runtime.
 - [amyjko/whyline](https://github.com/amyjko/whyline) - The Whyline for Java, an interactive debugging tool that lets you ask "why" questions about program out.
 - [eclipse-openj9/openj9](https://github.com/eclipse-openj9/openj9) - Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high throughput.   Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with the Extensions for OpenJDK for OpenJ9 repo.
+- [ericscharff/SmallWorld](https://github.com/ericscharff/SmallWorld) - Tim Budds Simple Smalltalk interpreter in Java
 - [jnode/jnode](https://github.com/jnode/jnode) - Code for the JNode operating system
 - [madhephaestus/OmniscientDebugger](https://github.com/madhephaestus/OmniscientDebugger) - Bil Lewis' Omniscient Debugger for Java. Also known as ODB
 - [matthewmccullough/OmniscientDebugger](https://github.com/matthewmccullough/OmniscientDebugger) - Bil Lewis' Omniscient Debugger for Java. Also known as ODB
