@@ -22,6 +22,7 @@ A collection of awesome things.
 - [Rust](#rust)
 - [SCSS](#scss)
 - [Shell](#shell)
+- [SourcePawn](#sourcepawn)
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [Misc](#misc)
@@ -92,11 +93,13 @@ A collection of awesome things.
 - [amyjko/whyline](https://github.com/amyjko/whyline) - The Whyline for Java, an interactive debugging tool that lets you ask "why" questions about program out.
 - [eclipse-openj9/openj9](https://github.com/eclipse-openj9/openj9) - Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high throughput.   Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with the Extensions for OpenJDK for OpenJ9 repo.
 - [ericscharff/SmallWorld](https://github.com/ericscharff/SmallWorld) - Tim Budds Simple Smalltalk interpreter in Java
+- [google/mail-importer](https://github.com/google/mail-importer) - Mail Importer for Gmail will upload the contents of a Thunderbird mail archive to Gmail and do its best to preserve the read state, flagged state, and folders of the messages.
 - [intellij-dlanguage/intellij-dlanguage](https://github.com/intellij-dlanguage/intellij-dlanguage) - Intellij Plugin for the D Programming Language
 - [jnode/jnode](https://github.com/jnode/jnode) - Code for the JNode operating system
 - [madhephaestus/OmniscientDebugger](https://github.com/madhephaestus/OmniscientDebugger) - Bil Lewis' Omniscient Debugger for Java. Also known as ODB
 - [matthewmccullough/OmniscientDebugger](https://github.com/matthewmccullough/OmniscientDebugger) - Bil Lewis' Omniscient Debugger for Java. Also known as ODB
 - [thinkberg/snipsnap](https://github.com/thinkberg/snipsnap) - SnipSnap - A java based wiki
+- [tripleo1/gmail-mail-importer](https://github.com/tripleo1/gmail-mail-importer) - Mail Importer for Gmail will upload the contents of a Thunderbird mail archive to Gmail and do its best to preserve the read state, flagged state, and folders of the messages.
 
 ## JavaScript
 
@@ -125,6 +128,7 @@ A collection of awesome things.
 - [linuxmint/sticky](https://github.com/linuxmint/sticky) - A sticky notes app for the linux desktop
 - [martin68/apt-smart](https://github.com/martin68/apt-smart) - apt-smart: Smart, automated, robust apt-get mirror selection for Debian, Ubuntu and Linux Mint
 - [multiformats/py-multibase](https://github.com/multiformats/py-multibase) - Multibase implementation in Python
+- [nucleic/enaml](https://github.com/nucleic/enaml) - Declarative User Interfaces for Python
 - [ravexina/csp-sudoku-solver](https://github.com/ravexina/csp-sudoku-solver) - Python + tkinter + CSP Idea / Algorithm to solve sudoko
 
 ## Roff
@@ -142,6 +146,10 @@ A collection of awesome things.
 ## Shell
 
 - [64kramsystem/zfs-installer](https://github.com/64kramsystem/zfs-installer) - Program that prepares ZFS on a system, and installs Linux
+
+## SourcePawn
+
+- [civboot/fngi](https://github.com/civboot/fngi) - a readable language that grows from the silicone
 
 ## Swift
 
