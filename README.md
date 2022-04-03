@@ -90,13 +90,17 @@ A collection of awesome things.
 ## Java
 
 - [HotswapProjects/HotswapAgent](https://github.com/HotswapProjects/HotswapAgent) - Java unlimited redefinition of classes at runtime.
+- [Nuix/java-fs](https://github.com/Nuix/java-fs) - Various file system implementations based on the code of the JNode operating system
+- [Nuix/jnode-fs](https://github.com/Nuix/jnode-fs) - Various file system implementations based on the code of the JNode operating system
 - [amyjko/whyline](https://github.com/amyjko/whyline) - The Whyline for Java, an interactive debugging tool that lets you ask "why" questions about program out.
 - [eclipse-openj9/openj9](https://github.com/eclipse-openj9/openj9) - Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high throughput.   Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with the Extensions for OpenJDK for OpenJ9 repo.
 - [ericscharff/SmallWorld](https://github.com/ericscharff/SmallWorld) - Tim Budds Simple Smalltalk interpreter in Java
 - [google/mail-importer](https://github.com/google/mail-importer) - Mail Importer for Gmail will upload the contents of a Thunderbird mail archive to Gmail and do its best to preserve the read state, flagged state, and folders of the messages.
 - [intellij-dlanguage/intellij-dlanguage](https://github.com/intellij-dlanguage/intellij-dlanguage) - Intellij Plugin for the D Programming Language
+- [jnode-revisited/jnode](https://github.com/jnode-revisited/jnode) - Code for the JNode operating system
 - [jnode/jnode](https://github.com/jnode/jnode) - Code for the JNode operating system
 - [madhephaestus/OmniscientDebugger](https://github.com/madhephaestus/OmniscientDebugger) - Bil Lewis' Omniscient Debugger for Java. Also known as ODB
+- [magnusja/java-fs](https://github.com/magnusja/java-fs) - Various file system implementations based on the code of the JNode operating system
 - [matthewmccullough/OmniscientDebugger](https://github.com/matthewmccullough/OmniscientDebugger) - Bil Lewis' Omniscient Debugger for Java. Also known as ODB
 - [thinkberg/snipsnap](https://github.com/thinkberg/snipsnap) - SnipSnap - A java based wiki
 - [tripleo1/gmail-mail-importer](https://github.com/tripleo1/gmail-mail-importer) - Mail Importer for Gmail will upload the contents of a Thunderbird mail archive to Gmail and do its best to preserve the read state, flagged state, and folders of the messages.
