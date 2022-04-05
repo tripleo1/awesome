@@ -36,6 +36,7 @@ A collection of awesome things.
 ## C
 
 - [console-tools/moc](https://github.com/console-tools/moc) - Music On Console
+- [littlekernel/lk](https://github.com/littlekernel/lk) - LK embedded kernel
 - [pixeltris/webc86](https://github.com/pixeltris/webc86) - Compile / run C in a web browser via TCC / x86 emulation
 - [vlang/c2v](https://github.com/vlang/c2v) - C/C++ to V translator
 
@@ -132,6 +133,7 @@ A collection of awesome things.
 - [BruceDLong/CodeDog](https://github.com/BruceDLong/CodeDog) - Auto-generate programs in C derived languages for multiple platforms
 - [cchen156/Learning-to-See-in-the-Dark](https://github.com/cchen156/Learning-to-See-in-the-Dark) - Learning to See in the Dark. CVPR 2018
 - [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
+- [enthought/traits](https://github.com/enthought/traits) - Observable typed attributes for Python classes
 - [lelit/tailor](https://github.com/lelit/tailor) - A tool to exchange changesets between different version control systems
 - [linuxmint/sticky](https://github.com/linuxmint/sticky) - A sticky notes app for the linux desktop
 - [martin68/apt-smart](https://github.com/martin68/apt-smart) - apt-smart: Smart, automated, robust apt-get mirror selection for Debian, Ubuntu and Linux Mint
@@ -166,6 +168,7 @@ A collection of awesome things.
 ## TypeScript
 
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
+- [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
 
 ## Misc
 
