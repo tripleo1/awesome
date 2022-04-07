@@ -139,6 +139,7 @@ A collection of awesome things.
 - [martin68/apt-smart](https://github.com/martin68/apt-smart) - apt-smart: Smart, automated, robust apt-get mirror selection for Debian, Ubuntu and Linux Mint
 - [multiformats/py-multibase](https://github.com/multiformats/py-multibase) - Multibase implementation in Python
 - [nucleic/enaml](https://github.com/nucleic/enaml) - Declarative User Interfaces for Python
+- [oduwsdl/ipwb](https://github.com/oduwsdl/ipwb) - InterPlanetary Wayback: A distributed and persistent archive replay system using IPFS
 - [ravexina/csp-sudoku-solver](https://github.com/ravexina/csp-sudoku-solver) - Python + tkinter + CSP Idea / Algorithm to solve sudoko
 
 ## Roff
