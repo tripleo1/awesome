@@ -175,6 +175,7 @@ A collection of awesome things.
 
 - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
 - [X547/OberonUtils](https://github.com/X547/OberonUtils) - Utilities for Oberon/BlackBox
+- [aalhour/awesome-compilers](https://github.com/aalhour/awesome-compilers) - :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes
 - [d-cook/SomethingNew](https://github.com/d-cook/SomethingNew) - Collaboration for reinventing software in human terms
 - [digitalformula/qclocktwo](https://github.com/digitalformula/qclocktwo) - 
 - [phoe/the-elusive-language](https://github.com/phoe/the-elusive-language) - A small Common Lisp-related art project.
