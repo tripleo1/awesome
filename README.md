@@ -48,6 +48,7 @@ A collection of awesome things.
 
 ## C++
 
+- [LemonOSProject/LemonOS](https://github.com/LemonOSProject/LemonOS) - The Lemon Operating System
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [baislsl/jtiger](https://github.com/baislsl/jtiger) - 虎书tiger语言的jvm编译器
 - [briantrice/slate-language](https://github.com/briantrice/slate-language) - The Slate programming language
@@ -83,6 +84,7 @@ A collection of awesome things.
 ## HTML
 
 - [MahdiF/taptaptap](https://github.com/MahdiF/taptaptap) - 🕹 Open Source Javascript Game
+- [hundredrabbits/100r.co](https://github.com/hundredrabbits/100r.co) - Official Website
 - [oberon-lang/oberon-lang.github.io](https://github.com/oberon-lang/oberon-lang.github.io) - The Oberon+ Programming Language
 
 ## Haskell
@@ -134,6 +136,7 @@ A collection of awesome things.
 - [cchen156/Learning-to-See-in-the-Dark](https://github.com/cchen156/Learning-to-See-in-the-Dark) - Learning to See in the Dark. CVPR 2018
 - [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
 - [enthought/traits](https://github.com/enthought/traits) - Observable typed attributes for Python classes
+- [enthought/traitsui](https://github.com/enthought/traitsui) - TraitsUI: Traits-capable windowing framework
 - [lelit/tailor](https://github.com/lelit/tailor) - A tool to exchange changesets between different version control systems
 - [linuxmint/sticky](https://github.com/linuxmint/sticky) - A sticky notes app for the linux desktop
 - [martin68/apt-smart](https://github.com/martin68/apt-smart) - apt-smart: Smart, automated, robust apt-get mirror selection for Debian, Ubuntu and Linux Mint
@@ -157,6 +160,7 @@ A collection of awesome things.
 ## Shell
 
 - [64kramsystem/zfs-installer](https://github.com/64kramsystem/zfs-installer) - Program that prepares ZFS on a system, and installs Linux
+- [c3d/mbuto](https://github.com/c3d/mbuto) - Minimal Builder Using Terse Options
 
 ## SourcePawn
 
