@@ -43,7 +43,6 @@ A collection of awesome things.
 ## C#
 
 - [jksware/yatc](https://github.com/jksware/yatc) - Yet Another Tiger Compiler
-- [kaby76/AntlrVSIX](https://github.com/kaby76/AntlrVSIX) - AntlrVSIX is a language server for use with Visual Studio 2019, Visual Studio Code, and Gnu Emacs to support Antlr, Bison, and W3C EBNF grammars. In addition to the IDE extensions provided here, a command-line tool is available to refactor grammars in order to make them cleaner, more readable, and more efficient.
 - [microsoft/ApplicationInspector](https://github.com/microsoft/ApplicationInspector) - A source code analyzer built for surfacing features of interest and other characteristics to answer the question 'What's in the code?' quickly using static analysis with a json based rules engine. Ideal for scanning components before use or detecting feature level changes.
 
 ## C++
@@ -105,6 +104,7 @@ A collection of awesome things.
 - [jnode-revisited/magnusja-java-fs](https://github.com/jnode-revisited/magnusja-java-fs) - Various file system implementations based on the code of the JNode operating system
 - [jnode-revisited/nuix-java-fs](https://github.com/jnode-revisited/nuix-java-fs) - Various file system implementations based on the code of the JNode operating system
 - [jnode/jnode](https://github.com/jnode/jnode) - Code for the JNode operating system
+- [kaby76/AntlrVSIX](https://github.com/kaby76/AntlrVSIX) - AntlrVSIX is a language server for use with Visual Studio 2019, Visual Studio Code, and Gnu Emacs to support Antlr, Bison, and W3C EBNF grammars. In addition to the IDE extensions provided here, a command-line tool is available to refactor grammars in order to make them cleaner, more readable, and more efficient.
 - [madhephaestus/OmniscientDebugger](https://github.com/madhephaestus/OmniscientDebugger) - Bil Lewis' Omniscient Debugger for Java. Also known as ODB
 - [magnusja/java-fs](https://github.com/magnusja/java-fs) - Various file system implementations based on the code of the JNode operating system
 - [matthewmccullough/OmniscientDebugger](https://github.com/matthewmccullough/OmniscientDebugger) - Bil Lewis' Omniscient Debugger for Java. Also known as ODB
