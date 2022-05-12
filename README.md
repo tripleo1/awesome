@@ -144,6 +144,7 @@ A collection of awesome things.
 - [nucleic/enaml](https://github.com/nucleic/enaml) - Declarative User Interfaces for Python
 - [oduwsdl/ipwb](https://github.com/oduwsdl/ipwb) - InterPlanetary Wayback: A distributed and persistent archive replay system using IPFS
 - [ravexina/csp-sudoku-solver](https://github.com/ravexina/csp-sudoku-solver) - Python + tkinter + CSP Idea / Algorithm to solve sudoko
+- [seiferteric/remarkable_debfix](https://github.com/seiferteric/remarkable_debfix) - Remarkable Markdown Debian Package Fix
 
 ## Roff
 
