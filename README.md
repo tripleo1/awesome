@@ -22,7 +22,6 @@ A collection of awesome things.
 - [Rust](#rust)
 - [SCSS](#scss)
 - [Shell](#shell)
-- [SourcePawn](#sourcepawn)
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [Misc](#misc)
@@ -35,6 +34,7 @@ A collection of awesome things.
 
 ## C
 
+- [civboot/fngi](https://github.com/civboot/fngi) - a readable language that grows from the silicone
 - [console-tools/moc](https://github.com/console-tools/moc) - Music On Console
 - [littlekernel/lk](https://github.com/littlekernel/lk) - LK embedded kernel
 - [pixeltris/webc86](https://github.com/pixeltris/webc86) - Compile / run C in a web browser via TCC / x86 emulation
@@ -164,10 +164,6 @@ A collection of awesome things.
 
 - [64kramsystem/zfs-installer](https://github.com/64kramsystem/zfs-installer) - Program that prepares ZFS on a system, and installs Linux
 - [c3d/mbuto](https://github.com/c3d/mbuto) - Minimal Builder Using Terse Options
-
-## SourcePawn
-
-- [civboot/fngi](https://github.com/civboot/fngi) - a readable language that grows from the silicone
 
 ## Swift
 
