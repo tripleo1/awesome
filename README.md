@@ -24,6 +24,7 @@ A collection of awesome things.
 - [Shell](#shell)
 - [Swift](#swift)
 - [TypeScript](#typescript)
+- [V](#v)
 - [Misc](#misc)
 
 ---
@@ -38,7 +39,6 @@ A collection of awesome things.
 - [console-tools/moc](https://github.com/console-tools/moc) - Music On Console
 - [littlekernel/lk](https://github.com/littlekernel/lk) - LK embedded kernel
 - [pixeltris/webc86](https://github.com/pixeltris/webc86) - Compile / run C in a web browser via TCC / x86 emulation
-- [vlang/c2v](https://github.com/vlang/c2v) - C/C++ to V translator
 
 ## C#
 
@@ -175,6 +175,10 @@ A collection of awesome things.
 - [luooooob/create-my-awesome](https://github.com/luooooob/create-my-awesome) - Github Actions for automatically generating the personal awesome list from all of the repositories you starred.
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
+
+## V
+
+- [vlang/c2v](https://github.com/vlang/c2v) - C/C++ to V translator
 
 ## Misc
 
