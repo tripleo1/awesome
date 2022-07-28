@@ -37,6 +37,7 @@ A collection of awesome things.
 
 - [civboot/fngi](https://github.com/civboot/fngi) - a readable language that grows from the silicone
 - [console-tools/moc](https://github.com/console-tools/moc) - Music On Console
+- [github/securitylab](https://github.com/github/securitylab) - Resources related to GitHub Security Lab
 - [littlekernel/lk](https://github.com/littlekernel/lk) - LK embedded kernel
 - [pixeltris/webc86](https://github.com/pixeltris/webc86) - Compile / run C in a web browser via TCC / x86 emulation
 
@@ -52,7 +53,6 @@ A collection of awesome things.
 - [baislsl/jtiger](https://github.com/baislsl/jtiger) - 虎书tiger语言的jvm编译器
 - [briantrice/slate-language](https://github.com/briantrice/slate-language) - The Slate programming language
 - [c3d/xl](https://github.com/c3d/xl) - A minimalist, general-purpose programming language based on meta-programming and parse tree rewrites
-- [github/securitylab](https://github.com/github/securitylab) - Resources related to GitHub Security Lab
 - [nucleic/kiwi](https://github.com/nucleic/kiwi) - Efficient C++ implementation of the Cassowary constraint solving algorithm
 - [pin3da/Programming-contest](https://github.com/pin3da/Programming-contest) - My solutions of some problems from different online judges
 - [rochus-keller/OberonSystem](https://github.com/rochus-keller/OberonSystem) - Modified version of the original from http://www.projectoberon.com/ for use with the Oberon IDE
