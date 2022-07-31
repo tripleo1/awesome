@@ -15,6 +15,7 @@ A collection of awesome things.
 - [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Jupyter Notebook](#jupyter-notebook)
 - [Makefile](#makefile)
 - [OCaml](#ocaml)
 - [Python](#python)
@@ -120,6 +121,10 @@ A collection of awesome things.
 - [ditesh/node-poplib](https://github.com/ditesh/node-poplib) - POP3 client library for Node.js
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
 - [simon1573/teddit-redirect](https://github.com/simon1573/teddit-redirect) - Redirect reddit.com to teddit.net
+
+## Jupyter Notebook
+
+- [nurakib/fast.ai](https://github.com/nurakib/fast.ai) - Making neural nets uncool again
 
 ## Makefile
 
