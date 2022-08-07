@@ -163,6 +163,7 @@ A collection of awesome things.
 
 ## SCSS
 
+- [LispLang/lisplang.github.io](https://github.com/LispLang/lisplang.github.io) - Common Lisp homepage
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 
 ## Shell
