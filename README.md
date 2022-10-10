@@ -40,6 +40,7 @@ A collection of awesome things.
 - [MazinCE/RISC-V-Computer-2.0](https://github.com/MazinCE/RISC-V-Computer-2.0) - An enhanced yet simplified version of the original RISC-V-Computer build with Logisim
 - [civboot/fngi](https://github.com/civboot/fngi) - a readable language that grows from the silicone
 - [console-tools/moc](https://github.com/console-tools/moc) - Music On Console
+- [dspinellis/cscout](https://github.com/dspinellis/cscout) - C code refactoring browser
 - [github/securitylab](https://github.com/github/securitylab) - Resources related to GitHub Security Lab
 - [littlekernel/lk](https://github.com/littlekernel/lk) - LK embedded kernel
 - [pixeltris/webc86](https://github.com/pixeltris/webc86) - Compile / run C in a web browser via TCC / x86 emulation
@@ -198,5 +199,6 @@ A collection of awesome things.
 - [aalhour/awesome-compilers](https://github.com/aalhour/awesome-compilers) - :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes
 - [d-cook/SomethingNew](https://github.com/d-cook/SomethingNew) - Collaboration for reinventing software in human terms
 - [digitalformula/qclocktwo](https://github.com/digitalformula/qclocktwo) - 
+- [fasten-project/Debian-license-collector](https://github.com/fasten-project/Debian-license-collector) - 
 - [phoe/the-elusive-language](https://github.com/phoe/the-elusive-language) - A small Common Lisp-related art project.
 
