@@ -16,6 +16,7 @@ A collection of awesome things.
 - [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Makefile](#makefile)
 - [OCaml](#ocaml)
@@ -127,6 +128,12 @@ A collection of awesome things.
 - [ditesh/node-poplib](https://github.com/ditesh/node-poplib) - POP3 client library for Node.js
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
 - [simon1573/teddit-redirect](https://github.com/simon1573/teddit-redirect) - Redirect reddit.com to teddit.net
+- [thesephist/unim.press](https://github.com/thesephist/unim.press) - A Reddit front-page reader in the style of The New York Times.
+
+## Jinja
+
+- [debops/debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
+- [julien-lecomte/debops](https://github.com/julien-lecomte/debops) - DebOps - Your Debian-based data center in a box
 
 ## Jupyter Notebook
 
