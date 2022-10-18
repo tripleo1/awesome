@@ -208,4 +208,5 @@ A collection of awesome things.
 - [digitalformula/qclocktwo](https://github.com/digitalformula/qclocktwo) - 
 - [fasten-project/Debian-license-collector](https://github.com/fasten-project/Debian-license-collector) - 
 - [phoe/the-elusive-language](https://github.com/phoe/the-elusive-language) - A small Common Lisp-related art project.
+- [synflow/SHA-256](https://github.com/synflow/SHA-256) - SHA-256 implemented with the Cx language
 
