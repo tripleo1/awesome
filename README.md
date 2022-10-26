@@ -39,7 +39,7 @@ A collection of awesome things.
 ## C
 
 - [MazinCE/RISC-V-Computer-2.0](https://github.com/MazinCE/RISC-V-Computer-2.0) - An enhanced yet simplified version of the original RISC-V-Computer build with Logisim
-- [civboot/fngi](https://github.com/civboot/fngi) - a readable language that grows from the silicone
+- [civboot/fngi](https://github.com/civboot/fngi) - a readable language that grows from the silicon
 - [console-tools/moc](https://github.com/console-tools/moc) - Music On Console
 - [dspinellis/cscout](https://github.com/dspinellis/cscout) - C code refactoring browser
 - [github/securitylab](https://github.com/github/securitylab) - Resources related to GitHub Security Lab
@@ -191,6 +191,7 @@ A collection of awesome things.
 
 ## TypeScript
 
+- [bleedingedgeai/bleedingedge.ai](https://github.com/bleedingedgeai/bleedingedge.ai) - Bleeding edge is a feed of noteworthy developments in AI and machine learning.
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
 - [luooooob/create-my-awesome](https://github.com/luooooob/create-my-awesome) - Github Actions for automatically generating the personal awesome list from all of the repositories you starred.
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
