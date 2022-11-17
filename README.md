@@ -18,7 +18,6 @@ A collection of awesome things.
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
-- [Makefile](#makefile)
 - [OCaml](#ocaml)
 - [Python](#python)
 - [Roff](#roff)
@@ -58,6 +57,7 @@ A collection of awesome things.
 - [baislsl/jtiger](https://github.com/baislsl/jtiger) - 虎书tiger语言的jvm编译器
 - [briantrice/slate-language](https://github.com/briantrice/slate-language) - The Slate programming language
 - [c3d/xl](https://github.com/c3d/xl) - A minimalist, general-purpose programming language based on meta-programming and parse tree rewrites
+- [kostya/benchmarks](https://github.com/kostya/benchmarks) - Some benchmarks of different languages
 - [managarm/managarm](https://github.com/managarm/managarm) - Pragmatic microkernel-based OS with fully asynchronous I/O
 - [nucleic/kiwi](https://github.com/nucleic/kiwi) - Efficient C++ implementation of the Cassowary constraint solving algorithm
 - [pin3da/Programming-contest](https://github.com/pin3da/Programming-contest) - My solutions of some problems from different online judges
@@ -138,10 +138,6 @@ A collection of awesome things.
 ## Jupyter Notebook
 
 - [nurakib/fast.ai](https://github.com/nurakib/fast.ai) - Making neural nets uncool again
-
-## Makefile
-
-- [kostya/benchmarks](https://github.com/kostya/benchmarks) - Some benchmarks of different languages
 
 ## OCaml
 
