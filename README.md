@@ -49,6 +49,7 @@ A collection of awesome things.
 ## C#
 
 - [jksware/yatc](https://github.com/jksware/yatc) - Yet Another Tiger Compiler
+- [livingcomputermuseum/ContrAlto](https://github.com/livingcomputermuseum/ContrAlto) - This repository contains the source code for Living Computers: Museum+Labs's Xerox Alto emulator, ContrAlto.
 - [microsoft/ApplicationInspector](https://github.com/microsoft/ApplicationInspector) - A source code analyzer built for surfacing features of interest and other characteristics to answer the question 'What's in the code?' quickly using static analysis with a json based rules engine. Ideal for scanning components before use or detecting feature level changes.
 
 ## C++
@@ -156,6 +157,7 @@ A collection of awesome things.
 - [alxschwrz/codex_py2cpp](https://github.com/alxschwrz/codex_py2cpp) - Converts python code into c++ by using OpenAI CODEX.
 - [cchen156/Learning-to-See-in-the-Dark](https://github.com/cchen156/Learning-to-See-in-the-Dark) - Learning to See in the Dark. CVPR 2018
 - [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
+- [devse-org/osdk](https://github.com/devse-org/osdk) - 👾​ An operating system development kit.
 - [dragnet-org/dragnet](https://github.com/dragnet-org/dragnet) - Just the facts -- web page content extraction
 - [enthought/traits](https://github.com/enthought/traits) - Observable typed attributes for Python classes
 - [enthought/traitsui](https://github.com/enthought/traitsui) - TraitsUI: Traits-capable windowing framework
