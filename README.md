@@ -39,6 +39,7 @@ A collection of awesome things.
 ## C
 
 - [MazinCE/RISC-V-Computer-2.0](https://github.com/MazinCE/RISC-V-Computer-2.0) - An enhanced yet simplified version of the original RISC-V-Computer build with Logisim
+- [aheck/clib](https://github.com/aheck/clib) - Header-only library for C99 that implements the most important classes from GLib: GList, GHashTable and GString.
 - [civboot/fngi](https://github.com/civboot/fngi) - a readable language that grows from the silicon
 - [console-tools/moc](https://github.com/console-tools/moc) - Music On Console
 - [dspinellis/cscout](https://github.com/dspinellis/cscout) - C code refactoring browser
@@ -91,6 +92,7 @@ A collection of awesome things.
 - [elimisteve/v2go](https://github.com/elimisteve/v2go) - V-to-Go translator
 - [hashsplit/hashsplit-spec](https://github.com/hashsplit/hashsplit-spec) - 
 - [perkeep/perkeep](https://github.com/perkeep/perkeep) - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
+- [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
 
 ## HTML
 
