@@ -163,7 +163,7 @@ A collection of awesome things.
 - [alxschwrz/codex_py2cpp](https://github.com/alxschwrz/codex_py2cpp) - Converts python code into c++ by using OpenAI CODEX.
 - [cchen156/Learning-to-See-in-the-Dark](https://github.com/cchen156/Learning-to-See-in-the-Dark) - Learning to See in the Dark. CVPR 2018
 - [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
-- [devse-org/osdk](https://github.com/devse-org/osdk) - 👾​ An operating system development kit.
+- [cute-engineering/osdk](https://github.com/cute-engineering/osdk) - 👾​ An operating system development kit.
 - [dragnet-org/dragnet](https://github.com/dragnet-org/dragnet) - Just the facts -- web page content extraction
 - [enthought/traits](https://github.com/enthought/traits) - Observable typed attributes for Python classes
 - [enthought/traitsui](https://github.com/enthought/traitsui) - TraitsUI: Traits-capable windowing framework
