@@ -34,6 +34,7 @@ A collection of awesome things.
 
 ## Assembly
 
+- [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
 - [nakst/flip](https://github.com/nakst/flip) - A 16-bit Lisp based operating system.
 
 ## C
@@ -42,6 +43,7 @@ A collection of awesome things.
 - [aheck/clib](https://github.com/aheck/clib) - Header-only library for C99 that implements the most important classes from GLib: GList, GHashTable and GString.
 - [civboot/fngi](https://github.com/civboot/fngi) - a readable language that grows from the silicon
 - [console-tools/moc](https://github.com/console-tools/moc) - Music On Console
+- [containers/composefs](https://github.com/containers/composefs) - a file system for mounting container images
 - [dspinellis/cscout](https://github.com/dspinellis/cscout) - C code refactoring browser
 - [github/securitylab](https://github.com/github/securitylab) - Resources related to GitHub Security Lab
 - [littlekernel/lk](https://github.com/littlekernel/lk) - LK embedded kernel
@@ -65,6 +67,7 @@ A collection of awesome things.
 - [nucleic/kiwi](https://github.com/nucleic/kiwi) - Efficient C++ implementation of the Cassowary constraint solving algorithm
 - [pin3da/Programming-contest](https://github.com/pin3da/Programming-contest) - My solutions of some problems from different online judges
 - [rochus-keller/OberonSystem](https://github.com/rochus-keller/OberonSystem) - Modified version of the original from http://www.projectoberon.com/ for use with the Oberon IDE
+- [snej/smol_world](https://github.com/snej/smol_world) - Compact garbage-collected heap and JSON-like object model
 - [wez/atomicparsley](https://github.com/wez/atomicparsley) - AtomicParsley is a lightweight command line program for reading, parsing and setting metadata into MPEG-4 files, in particular, iTunes-style metadata.
 
 ## CSS
@@ -90,6 +93,7 @@ A collection of awesome things.
 ## Go
 
 - [elimisteve/v2go](https://github.com/elimisteve/v2go) - V-to-Go translator
+- [google/crfs](https://github.com/google/crfs) - CRFS: Container Registry Filesystem
 - [hashsplit/hashsplit-spec](https://github.com/hashsplit/hashsplit-spec) - 
 - [perkeep/perkeep](https://github.com/perkeep/perkeep) - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
