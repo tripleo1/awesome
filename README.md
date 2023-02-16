@@ -20,11 +20,13 @@ A collection of awesome things.
 - [Jupyter Notebook](#jupyter-notebook)
 - [Makefile](#makefile)
 - [OCaml](#ocaml)
+- [Pascal](#pascal)
 - [Python](#python)
 - [Roff](#roff)
 - [Rust](#rust)
 - [SCSS](#scss)
 - [Shell](#shell)
+- [Smalltalk](#smalltalk)
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [V](#v)
@@ -161,6 +163,10 @@ A collection of awesome things.
 
 - [janestreet/incremental](https://github.com/janestreet/incremental) - A library for incremental computations
 
+## Pascal
+
+- [arthurmteodoro/semantic-net](https://github.com/arthurmteodoro/semantic-net) - Criação de um software capaz de representar uma rede semântica, usando um arquivo de entrada e outro de saída, também mostrando informações quanto à rede semântica. Trabalho realizado no 2º período de Ciência da Computação do Instituto Federal de Minas Gerais(IFMG) - Campus Formiga para a Disciplina Matemática Discreta
+
 ## Python
 
 - [AndreMiras/coveralls-python-action](https://github.com/AndreMiras/coveralls-python-action) - GitHub Action for Python Coveralls.io
@@ -205,6 +211,11 @@ A collection of awesome things.
 - [64kramsystem/zfs-installer](https://github.com/64kramsystem/zfs-installer) - Program that prepares ZFS on a system, and installs Linux
 - [OSPreservProject/amoeba](https://github.com/OSPreservProject/amoeba) - amoeba operating system
 - [c3d/mbuto](https://github.com/c3d/mbuto) - Minimal Builder Using Terse Options
+
+## Smalltalk
+
+- [sbragagnolo/Xtreams](https://github.com/sbragagnolo/Xtreams) - Xtream project fork. Migration to Pharo. 
+- [seandenigris/Xtreams-Pharo](https://github.com/seandenigris/Xtreams-Pharo) - 
 
 ## Swift
 
