@@ -169,6 +169,8 @@ A collection of awesome things.
 
 ## Python
 
+- [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
+- [40uf411/SemaWal](https://github.com/40uf411/SemaWal) - SemaWal: A semantic network resolver in python
 - [AndreMiras/coveralls-python-action](https://github.com/AndreMiras/coveralls-python-action) - GitHub Action for Python Coveralls.io
 - [ArchiveTeam/grab-site](https://github.com/ArchiveTeam/grab-site) - The archivist's web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns
 - [BruceDLong/CodeDog](https://github.com/BruceDLong/CodeDog) - Auto-generate programs in C derived languages for multiple platforms
