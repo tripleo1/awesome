@@ -25,6 +25,7 @@ A collection of awesome things.
 - [Roff](#roff)
 - [Rust](#rust)
 - [SCSS](#scss)
+- [Scala](#scala)
 - [Shell](#shell)
 - [Smalltalk](#smalltalk)
 - [Swift](#swift)
@@ -135,6 +136,7 @@ A collection of awesome things.
 ## JavaScript
 
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
+- [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
 - [RAJAGOPALAN-GANGADHARAN/JS-OS](https://github.com/RAJAGOPALAN-GANGADHARAN/JS-OS) - An Unified Operating System on the web
 - [WardCunningham/remodeling](https://github.com/WardCunningham/remodeling) - The original wiki rewritten as a single page application
 - [az0/linkgopher](https://github.com/az0/linkgopher) - Firefox/Google Chrome add-on: Extracts all links from web page, sorts them, removes duplicates, and displays them in a new tab for inspection or copy and paste into other systems.
@@ -208,6 +210,10 @@ A collection of awesome things.
 - [LispLang/lisplang.github.io](https://github.com/LispLang/lisplang.github.io) - Common Lisp homepage
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 
+## Scala
+
+- [lihaoyi/Metascala](https://github.com/lihaoyi/Metascala) - A JVM written in Scala
+
 ## Shell
 
 - [64kramsystem/zfs-installer](https://github.com/64kramsystem/zfs-installer) - Program that prepares ZFS on a system, and installs Linux
@@ -243,6 +249,7 @@ A collection of awesome things.
 - [d-cook/SomethingNew](https://github.com/d-cook/SomethingNew) - Collaboration for reinventing software in human terms
 - [digitalformula/qclocktwo](https://github.com/digitalformula/qclocktwo) - 
 - [fasten-project/Debian-license-collector](https://github.com/fasten-project/Debian-license-collector) - 
+- [hardikvasa/awesome-programming](https://github.com/hardikvasa/awesome-programming) - A curated list of awesome programming talks, articles, books, resources and more!!
 - [phoe/the-elusive-language](https://github.com/phoe/the-elusive-language) - A small Common Lisp-related art project.
 - [synflow/SHA-256](https://github.com/synflow/SHA-256) - SHA-256 implemented with the Cx language
 
