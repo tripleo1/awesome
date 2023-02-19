@@ -8,6 +8,7 @@ A collection of awesome things.
 - [C++](#c-2)
 - [CSS](#css)
 - [Clojure](#clojure)
+- [Common Lisp](#common-lisp)
 - [D](#d)
 - [Dart](#dart)
 - [Gherkin](#gherkin)
@@ -82,6 +83,10 @@ A collection of awesome things.
 - [eliascotto/tryclojure](https://github.com/eliascotto/tryclojure) - Clojure live REPL tutorial
 - [hyperfiddle/electric](https://github.com/hyperfiddle/electric) - a reactive signals DSL for fullstack web UI, with compiler-managed network sync
 
+## Common Lisp
+
+- [Interlisp/medley](https://github.com/Interlisp/medley) - The main repo for the Medley Interlisp project. Wiki, Issues are here. Other repositories include maiko (the VM implementation) and Interlisp.github.io (web site sources)
+
 ## D
 
 - [intellij-dlanguage/intellij-dlanguage](https://github.com/intellij-dlanguage/intellij-dlanguage) - Intellij Plugin for the D Programming Language
@@ -110,6 +115,7 @@ A collection of awesome things.
 
 ## Haskell
 
+- [carp-lang/Carp](https://github.com/carp-lang/Carp) - A statically typed lisp, without a GC, for real-time applications.
 - [fumieval/incremental](https://github.com/fumieval/incremental) - Type class for patch and diff
 
 ## Java
@@ -190,8 +196,10 @@ A collection of awesome things.
 - [linuxmint/sticky](https://github.com/linuxmint/sticky) - A sticky notes app for the linux desktop
 - [martin68/apt-smart](https://github.com/martin68/apt-smart) - apt-smart: Smart, automated, robust apt-get mirror selection for Debian, Ubuntu and Linux Mint
 - [multiformats/py-multibase](https://github.com/multiformats/py-multibase) - Multibase implementation in Python
+- [nix-gui/nix-gui](https://github.com/nix-gui/nix-gui) - Use NixOS Without Coding
 - [nucleic/enaml](https://github.com/nucleic/enaml) - Declarative User Interfaces for Python
 - [oduwsdl/ipwb](https://github.com/oduwsdl/ipwb) - InterPlanetary Wayback: A distributed and persistent archive replay system using IPFS
+- [pixie-lang/pixie](https://github.com/pixie-lang/pixie) - A small, fast, native lisp with "magical" powers
 - [python-eel/Eel](https://github.com/python-eel/Eel) - A little Python library for making simple Electron-like HTML/JS GUI apps
 - [ravexina/csp-sudoku-solver](https://github.com/ravexina/csp-sudoku-solver) - Python + tkinter + CSP Idea / Algorithm to solve sudoko
 - [seiferteric/remarkable_debfix](https://github.com/seiferteric/remarkable_debfix) - Remarkable Markdown Debian Package Fix
