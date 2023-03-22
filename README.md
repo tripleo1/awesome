@@ -194,6 +194,7 @@ A collection of awesome things.
 - [enthought/traits](https://github.com/enthought/traits) - Observable typed attributes for Python classes
 - [enthought/traitsui](https://github.com/enthought/traitsui) - TraitsUI: Traits-capable windowing framework
 - [kennethreitz/maya](https://github.com/kennethreitz/maya) - Datetimes for Humans™
+- [knorrie/btrfs-heatmap](https://github.com/knorrie/btrfs-heatmap) - Visualize the layout of data on your btrfs filesystem over time
 - [lelit/tailor](https://github.com/lelit/tailor) - A tool to exchange changesets between different version control systems
 - [linuxmint/sticky](https://github.com/linuxmint/sticky) - A sticky notes app for the linux desktop
 - [martin68/apt-smart](https://github.com/martin68/apt-smart) - apt-smart: Smart, automated, robust apt-get mirror selection for Debian, Ubuntu and Linux Mint
