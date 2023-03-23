@@ -87,6 +87,7 @@ A collection of awesome things.
 ## Common Lisp
 
 - [Interlisp/medley](https://github.com/Interlisp/medley) - The main repo for the Medley Interlisp project. Wiki, Issues are here. Other repositories include maiko (the VM implementation) and Interlisp.github.io (web site sources)
+- [kiselgra/c-mera](https://github.com/kiselgra/c-mera) - Next-level syntax for C-like languages :)
 
 ## D
 
@@ -193,6 +194,7 @@ A collection of awesome things.
 - [dragnet-org/dragnet](https://github.com/dragnet-org/dragnet) - Just the facts -- web page content extraction
 - [enthought/traits](https://github.com/enthought/traits) - Observable typed attributes for Python classes
 - [enthought/traitsui](https://github.com/enthought/traitsui) - TraitsUI: Traits-capable windowing framework
+- [hungrywolf27/zfs-list-gtk](https://github.com/hungrywolf27/zfs-list-gtk) - A simple GUI that lists ZFS filesystems and snapshots in a Gtk TreeView widget. Written in Python.
 - [kennethreitz/maya](https://github.com/kennethreitz/maya) - Datetimes for Humans™
 - [knorrie/btrfs-heatmap](https://github.com/knorrie/btrfs-heatmap) - Visualize the layout of data on your btrfs filesystem over time
 - [lelit/tailor](https://github.com/lelit/tailor) - A tool to exchange changesets between different version control systems
