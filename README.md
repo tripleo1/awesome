@@ -32,6 +32,7 @@ A collection of awesome things.
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [V](#v)
+- [wisp](#wisp)
 - [Misc](#misc)
 
 ---
@@ -82,8 +83,13 @@ A collection of awesome things.
 
 ## Clojure
 
+- [clojure/core.logic](https://github.com/clojure/core.logic) - 
+- [donut-party/system](https://github.com/donut-party/system) - a dependency injection library for Clojure and ClojureScript 🍩
 - [eliascotto/tryclojure](https://github.com/eliascotto/tryclojure) - Clojure live REPL tutorial
 - [hyperfiddle/electric](https://github.com/hyperfiddle/electric) - a signals DSL for fullstack web UI, with fine-grained reactive network
+- [razum2um/awesome-clojure](https://github.com/razum2um/awesome-clojure) - A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff
+- [sixthnormal/clj-3df](https://github.com/sixthnormal/clj-3df) - Clojure(Script) client for Declarative Dataflow.
+- [weavejester/integrant](https://github.com/weavejester/integrant) - Micro-framework for data-driven architecture
 
 ## Common Lisp
 
@@ -255,6 +261,10 @@ A collection of awesome things.
 ## V
 
 - [vlang/c2v](https://github.com/vlang/c2v) - C/C++ to V translator
+
+## wisp
+
+- [wisp-lang/wisp](https://github.com/wisp-lang/wisp) - A little Clojure-like LISP in JavaScript
 
 ## Misc
 
