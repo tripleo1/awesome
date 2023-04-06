@@ -23,6 +23,7 @@ A collection of awesome things.
 - [OCaml](#ocaml)
 - [Pascal](#pascal)
 - [Python](#python)
+- [Reason](#reason)
 - [Roff](#roff)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -39,6 +40,7 @@ A collection of awesome things.
 
 ## Assembly
 
+- [dspinellis/unix-history-repo](https://github.com/dspinellis/unix-history-repo) - Continuous Unix commit history from 1970 until today
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
 - [nakst/flip](https://github.com/nakst/flip) - A 16-bit Lisp based operating system.
 
@@ -216,6 +218,10 @@ A collection of awesome things.
 - [ravexina/csp-sudoku-solver](https://github.com/ravexina/csp-sudoku-solver) - Python + tkinter + CSP Idea / Algorithm to solve sudoko
 - [seiferteric/remarkable_debfix](https://github.com/seiferteric/remarkable_debfix) - Remarkable Markdown Debian Package Fix
 - [yairchu/awesome-structure-editors](https://github.com/yairchu/awesome-structure-editors) - A list of projectional and structural editors
+
+## Reason
+
+- [dmtrKovalenko/odiff](https://github.com/dmtrKovalenko/odiff) - The fastest pixel-by-pixel image visual difference tool in the world.
 
 ## Roff
 
