@@ -46,7 +46,7 @@ A collection of awesome things.
 
 ## C
 
-- [MazinCE/RISC-V-Computer-2.0](https://github.com/MazinCE/RISC-V-Computer-2.0) - An enhanced yet simplified RISC-V based computer build with Logisim
+- [MazinCE/RISC-V-Computer-2.0](https://github.com/MazinCE/RISC-V-Computer-2.0) - An educational RISC-V based computer build with Logisim
 - [aheck/clib](https://github.com/aheck/clib) - Header-only library for C99 that implements the most important classes from GLib: GArray, GHashTable, GList and GString.
 - [civboot/fngi](https://github.com/civboot/fngi) - a readable language that grows from the silicon
 - [console-tools/moc](https://github.com/console-tools/moc) - Music On Console
