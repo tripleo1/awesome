@@ -88,7 +88,7 @@ A collection of awesome things.
 - [clojure/core.logic](https://github.com/clojure/core.logic) - 
 - [donut-party/system](https://github.com/donut-party/system) - a dependency injection library for Clojure and ClojureScript 🍩
 - [eliascotto/tryclojure](https://github.com/eliascotto/tryclojure) - Clojure live REPL tutorial
-- [hyperfiddle/electric](https://github.com/hyperfiddle/electric) - a signals DSL for fullstack web UI, with fine-grained reactive network
+- [hyperfiddle/electric](https://github.com/hyperfiddle/electric) - a reactive Clojure dialect for web development that uses a compiler to infer the frontend/backend boundary
 - [razum2um/awesome-clojure](https://github.com/razum2um/awesome-clojure) - A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff
 - [sixthnormal/clj-3df](https://github.com/sixthnormal/clj-3df) - Clojure(Script) client for Declarative Dataflow.
 - [weavejester/integrant](https://github.com/weavejester/integrant) - Micro-framework for data-driven architecture
