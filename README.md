@@ -237,6 +237,7 @@ A collection of awesome things.
 
 - [bennofs/nix-index](https://github.com/bennofs/nix-index) - Quickly locate nix packages with specific files
 - [ngeor/rusty-basic](https://github.com/ngeor/rusty-basic) - An interpreter for QBasic, written in Rust.
+- [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language. Work in progress!
 
 ## SCSS
 
@@ -295,5 +296,6 @@ A collection of awesome things.
 - [fasten-project/Debian-license-collector](https://github.com/fasten-project/Debian-license-collector) - 
 - [hardikvasa/awesome-programming](https://github.com/hardikvasa/awesome-programming) - A curated list of awesome programming talks, articles, books, resources and more!!
 - [phoe/the-elusive-language](https://github.com/phoe/the-elusive-language) - A small Common Lisp-related art project.
+- [sw-yx/buying-domains](https://github.com/sw-yx/buying-domains) - useful data and advice for buying domains.
 - [synflow/SHA-256](https://github.com/synflow/SHA-256) - SHA-256 implemented with the Cx language
 
