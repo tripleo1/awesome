@@ -55,9 +55,11 @@ A collection of awesome things.
 - [containers/composefs](https://github.com/containers/composefs) - a file system for mounting container images
 - [dspinellis/cscout](https://github.com/dspinellis/cscout) - C code refactoring browser
 - [github/securitylab](https://github.com/github/securitylab) - Resources related to GitHub Security Lab
+- [idunham/tinyxserver](https://github.com/idunham/tinyxserver) - A small X server, based on Xorg 1.2 but with security fixes.
 - [littlekernel/lk](https://github.com/littlekernel/lk) - LK embedded kernel
 - [pixeltris/webc86](https://github.com/pixeltris/webc86) - Compile / run C in a web browser via TCC / x86 emulation
 - [ponylang/ponyc](https://github.com/ponylang/ponyc) - :horse: Pony is an open-source, actor-model, capabilities-secure, high performance programming language
+- [tinycorelinux/tinyx](https://github.com/tinycorelinux/tinyx) - 
 
 ## C#
 
@@ -141,6 +143,7 @@ A collection of awesome things.
 - [eclipse-openj9/openj9](https://github.com/eclipse-openj9/openj9) - Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high throughput.   Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with the Extensions for OpenJDK for OpenJ9 repo.
 - [ericscharff/SmallWorld](https://github.com/ericscharff/SmallWorld) - Tim Budds Simple Smalltalk interpreter in Java
 - [google/mail-importer](https://github.com/google/mail-importer) - Mail Importer for Gmail will upload the contents of a Thunderbird mail archive to Gmail and do its best to preserve the read state, flagged state, and folders of the messages.
+- [heidisu/java8kanren](https://github.com/heidisu/java8kanren) - Implementation of minikanren in java
 - [jnode-revisited/jnode](https://github.com/jnode-revisited/jnode) - Code for the JNode operating system
 - [jnode-revisited/magnusja-java-fs](https://github.com/jnode-revisited/magnusja-java-fs) - Various file system implementations based on the code of the JNode operating system
 - [jnode-revisited/nuix-java-fs](https://github.com/jnode-revisited/nuix-java-fs) - Various file system implementations based on the code of the JNode operating system
@@ -203,6 +206,7 @@ A collection of awesome things.
 - [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
 - [cute-engineering/osdk](https://github.com/cute-engineering/osdk) - 👾​ An operating system development kit.
 - [dragnet-org/dragnet](https://github.com/dragnet-org/dragnet) - Just the facts -- web page content extraction
+- [enthought/pyface](https://github.com/enthought/pyface) - pyface: traits-capable windowing framework
 - [enthought/traits](https://github.com/enthought/traits) - Observable typed attributes for Python classes
 - [enthought/traitsui](https://github.com/enthought/traitsui) - TraitsUI: Traits-capable windowing framework
 - [hungrywolf27/zfs-list-gtk](https://github.com/hungrywolf27/zfs-list-gtk) - A simple GUI that lists ZFS filesystems and snapshots in a Gtk TreeView widget. Written in Python.
