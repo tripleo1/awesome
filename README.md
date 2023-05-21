@@ -306,6 +306,6 @@ A collection of awesome things.
 - [fasten-project/Debian-license-collector](https://github.com/fasten-project/Debian-license-collector) - 
 - [hardikvasa/awesome-programming](https://github.com/hardikvasa/awesome-programming) - A curated list of awesome programming talks, articles, books, resources and more!!
 - [phoe/the-elusive-language](https://github.com/phoe/the-elusive-language) - A small Common Lisp-related art project.
-- [sw-yx/buying-domains](https://github.com/sw-yx/buying-domains) - useful data and advice for buying domains.
+- [swyxio/buying-domains](https://github.com/swyxio/buying-domains) - useful data and advice for buying domains.
 - [synflow/SHA-256](https://github.com/synflow/SHA-256) - SHA-256 implemented with the Cx language
 
