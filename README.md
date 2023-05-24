@@ -91,7 +91,7 @@ A collection of awesome things.
 
 ## Clojure
 
-- [clojure/core.logic](https://github.com/clojure/core.logic) - 
+- [clojure/core.logic](https://github.com/clojure/core.logic) - A logic programming library for Clojure & ClojureScript
 - [donut-party/system](https://github.com/donut-party/system) - a dependency injection library for Clojure and ClojureScript 🍩
 - [eliascotto/tryclojure](https://github.com/eliascotto/tryclojure) - Clojure live REPL tutorial
 - [hyperfiddle/electric](https://github.com/hyperfiddle/electric) - a reactive Clojure dialect for web development that uses a compiler to infer the frontend/backend boundary
