@@ -210,7 +210,7 @@ A collection of awesome things.
 - [cchen156/Learning-to-See-in-the-Dark](https://github.com/cchen156/Learning-to-See-in-the-Dark) - Learning to See in the Dark. CVPR 2018
 - [chrisdone/awesome-structure-editors](https://github.com/chrisdone/awesome-structure-editors) - A list of projectional and structural editors
 - [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
-- [cute-engineering/osdk](https://github.com/cute-engineering/osdk) - 👾​ An operating system development kit.
+- [cute-engineering/cutekit](https://github.com/cute-engineering/cutekit) - 👾​ An operating system development kit.
 - [dragnet-org/dragnet](https://github.com/dragnet-org/dragnet) - Just the facts -- web page content extraction
 - [enthought/pyface](https://github.com/enthought/pyface) - pyface: traits-capable windowing framework
 - [enthought/traits](https://github.com/enthought/traits) - Observable typed attributes for Python classes
