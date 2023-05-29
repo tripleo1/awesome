@@ -83,6 +83,7 @@ A collection of awesome things.
 - [robertoraggi/cplusplus](https://github.com/robertoraggi/cplusplus) - A compiler front end for the C++ language
 - [rochus-keller/OberonSystem](https://github.com/rochus-keller/OberonSystem) - Modified version of the original from http://www.projectoberon.com/ for use with the Oberon IDE
 - [snej/smol_world](https://github.com/snej/smol_world) - Compact garbage-collected heap and JSON-like object model
+- [vygr/ChrysaLisp](https://github.com/vygr/ChrysaLisp) - Parallel OS, with GUI, Terminal, OO Assembler, Class libraries, C-Script compiler, Lisp interpreter and more...
 - [wez/atomicparsley](https://github.com/wez/atomicparsley) - AtomicParsley is a lightweight command line program for reading, parsing and setting metadata into MPEG-4 files, in particular, iTunes-style metadata.
 
 ## CSS
@@ -210,7 +211,7 @@ A collection of awesome things.
 - [cchen156/Learning-to-See-in-the-Dark](https://github.com/cchen156/Learning-to-See-in-the-Dark) - Learning to See in the Dark. CVPR 2018
 - [chrisdone/awesome-structure-editors](https://github.com/chrisdone/awesome-structure-editors) - A list of projectional and structural editors
 - [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
-- [cute-engineering/cutekit](https://github.com/cute-engineering/cutekit) - 👾​ An operating system development kit.
+- [cute-engineering/cutekit](https://github.com/cute-engineering/cutekit) - 🪄​ A build system and package manager
 - [dragnet-org/dragnet](https://github.com/dragnet-org/dragnet) - Just the facts -- web page content extraction
 - [enthought/pyface](https://github.com/enthought/pyface) - pyface: traits-capable windowing framework
 - [enthought/traits](https://github.com/enthought/traits) - Observable typed attributes for Python classes
