@@ -26,6 +26,7 @@ A collection of awesome things.
 - [Reason](#reason)
 - [Rich Text Format](#rich-text-format)
 - [Roff](#roff)
+- [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
 - [Scala](#scala)
@@ -103,7 +104,9 @@ A collection of awesome things.
 ## Common Lisp
 
 - [Interlisp/medley](https://github.com/Interlisp/medley) - The main repo for the Medley Interlisp project. Wiki, Issues are here. Other repositories include maiko (the VM implementation) and Interlisp.github.io (web site sources)
+- [armedbear/abcl](https://github.com/armedbear/abcl) - Armed Bear Common Lisp &lt;git+https://github.com/armedbear/abcl/&gt; &lt;--&gt; &lt;svn+https://abcl.org/svn&gt; Bridge
 - [kiselgra/c-mera](https://github.com/kiselgra/c-mera) - Next-level syntax for C-like languages :)
+- [pcostanza/closer-mop](https://github.com/pcostanza/closer-mop) - Closer to MOP is a compatibility layer that rectifies many of the absent or incorrect CLOS MOP features across a broad range of Common Lisp implementations.
 
 ## D
 
@@ -248,6 +251,11 @@ A collection of awesome things.
 ## Roff
 
 - [oasislinux/oasis](https://github.com/oasislinux/oasis) - a small statically-linked linux system
+
+## Ruby
+
+- [adamwiggins/rush](https://github.com/adamwiggins/rush) - Ruby replacement for bash+ssh
+- [isene/rsh](https://github.com/isene/rsh) - Ruby SHell
 
 ## Rust
 
