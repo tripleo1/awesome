@@ -105,6 +105,7 @@ A collection of awesome things.
 
 - [Interlisp/medley](https://github.com/Interlisp/medley) - The main repo for the Medley Interlisp project. Wiki, Issues are here. Other repositories include maiko (the VM implementation) and Interlisp.github.io (web site sources)
 - [armedbear/abcl](https://github.com/armedbear/abcl) - Armed Bear Common Lisp &lt;git+https://github.com/armedbear/abcl/&gt; &lt;--&gt; &lt;svn+https://abcl.org/svn&gt; Bridge
+- [froggey/Mezzano](https://github.com/froggey/Mezzano) - An operating system written in Common Lisp
 - [kiselgra/c-mera](https://github.com/kiselgra/c-mera) - Next-level syntax for C-like languages :)
 - [pcostanza/closer-mop](https://github.com/pcostanza/closer-mop) - Closer to MOP is a compatibility layer that rectifies many of the absent or incorrect CLOS MOP features across a broad range of Common Lisp implementations.
 
