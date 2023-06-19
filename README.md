@@ -123,6 +123,8 @@ A collection of awesome things.
 
 ## Go
 
+- [OpenOS-Project-Creator-Founder/astralboot](https://github.com/OpenOS-Project-Creator-Founder/astralboot) - a low level boot server that deploys servers from file system or ipfs
+- [cpg1111/ipos](https://github.com/cpg1111/ipos) - Linux Based OS using IPFS as a Root File System
 - [elimisteve/v2go](https://github.com/elimisteve/v2go) - V-to-Go translator
 - [google/crfs](https://github.com/google/crfs) - CRFS: Container Registry Filesystem
 - [hashsplit/hashsplit-spec](https://github.com/hashsplit/hashsplit-spec) - 
@@ -176,7 +178,7 @@ A collection of awesome things.
 - [az0/linkgopher](https://github.com/az0/linkgopher) - Firefox/Google Chrome add-on: Extracts all links from web page, sorts them, removes duplicates, and displays them in a new tab for inspection or copy and paste into other systems.
 - [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [ditesh/node-poplib](https://github.com/ditesh/node-poplib) - POP3 client library for Node.js
-- [dosyago/DiskerNet](https://github.com/dosyago/DiskerNet) -  💾 DiskerNet - An internet on yer disk. Full text search archive from your browsing and bookmarks. Weclome! to the Diskernet:  Your preferred backup solution. It's like you're still online! Disconnect with Diskernet, an internet for the post-online apocalypse. Or the airplane WiFi. Or the site goes down. Or ... You get the picture. Get DiskerNet
+- [dosyago/DiskerNet](https://github.com/dosyago/DiskerNet) -  💾 DiskerNet - Your Internet Archived to Your Disk
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of an entire web page in a single HTML file
 - [lengstrom/falcon](https://github.com/lengstrom/falcon) - Chrome extension for full text history search!
 - [mafintosh/abstract-chunk-store](https://github.com/mafintosh/abstract-chunk-store) - A test suite and interface you can use to implement a chunk based storage backend
@@ -260,6 +262,7 @@ A collection of awesome things.
 
 ## Rust
 
+- [anuvu/puzzlefs](https://github.com/anuvu/puzzlefs) - 
 - [ngeor/rusty-basic](https://github.com/ngeor/rusty-basic) - An interpreter for QBasic, written in Rust.
 - [nix-community/nix-index](https://github.com/nix-community/nix-index) - Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]
 - [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language. Work in progress!
@@ -277,6 +280,7 @@ A collection of awesome things.
 
 - [64kramsystem/zfs-installer](https://github.com/64kramsystem/zfs-installer) - Program that prepares ZFS on a system, and installs Linux
 - [OSPreservProject/amoeba](https://github.com/OSPreservProject/amoeba) - amoeba operating system
+- [OpenOS-Project-Creator-Founder/netboot.ipfs](https://github.com/OpenOS-Project-Creator-Founder/netboot.ipfs) - Network Based Operating System Installer
 - [c3d/mbuto](https://github.com/c3d/mbuto) - Minimal Builder Using Terse Options
 
 ## Smalltalk
@@ -299,6 +303,7 @@ A collection of awesome things.
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
 - [luooooob/create-my-awesome](https://github.com/luooooob/create-my-awesome) - Github Actions for automatically generating the personal awesome list from all of the repositories you starred.
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
+- [mihailtd/starter](https://github.com/mihailtd/starter) - Project Starter template using VueJS, Vite, GraphQL backend with PostGraphile, PostgreSQL database in Kubernetes with Crunchy Postgres Operator, local Kubernetes development with DevSpace and auto generated code with graphql-code-generator.
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 
 ## V
