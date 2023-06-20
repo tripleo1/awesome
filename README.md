@@ -20,6 +20,7 @@ A collection of awesome things.
 - [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Makefile](#makefile)
+- [Nix](#nix)
 - [OCaml](#ocaml)
 - [Pascal](#pascal)
 - [Python](#python)
@@ -36,6 +37,7 @@ A collection of awesome things.
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [V](#v)
+- [Zig](#zig)
 - [wisp](#wisp)
 - [Misc](#misc)
 
@@ -81,9 +83,11 @@ A collection of awesome things.
 - [nucleic/kiwi](https://github.com/nucleic/kiwi) - Efficient C++ implementation of the Cassowary constraint solving algorithm
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [pin3da/Programming-contest](https://github.com/pin3da/Programming-contest) - My solutions of some problems from different online judges
+- [raulcostajunior/obc](https://github.com/raulcostajunior/obc) - An Oberon 07 to LLVM IR compiler.
 - [robertoraggi/cplusplus](https://github.com/robertoraggi/cplusplus) - A compiler front end for the C++ language
 - [rochus-keller/OberonSystem](https://github.com/rochus-keller/OberonSystem) - Modified version of the original from http://www.projectoberon.com/ for use with the Oberon IDE
 - [snej/smol_world](https://github.com/snej/smol_world) - Compact garbage-collected heap and JSON-like object model
+- [vprover/vampire](https://github.com/vprover/vampire) - The Vampire Theorem Prover
 - [vygr/ChrysaLisp](https://github.com/vygr/ChrysaLisp) - Parallel OS, with GUI, Terminal, OO Assembler, Class libraries, C-Script compiler, Lisp interpreter and more...
 - [wez/atomicparsley](https://github.com/wez/atomicparsley) - AtomicParsley is a lightweight command line program for reading, parsing and setting metadata into MPEG-4 files, in particular, iTunes-style metadata.
 
@@ -98,6 +102,7 @@ A collection of awesome things.
 - [eliascotto/tryclojure](https://github.com/eliascotto/tryclojure) - Clojure live REPL tutorial
 - [hyperfiddle/electric](https://github.com/hyperfiddle/electric) - a reactive Clojure dialect for web development that uses a compiler to infer the frontend/backend boundary
 - [razum2um/awesome-clojure](https://github.com/razum2um/awesome-clojure) - A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff
+- [seancorfield/honeysql](https://github.com/seancorfield/honeysql) - Turn Clojure data structures into SQL
 - [sixthnormal/clj-3df](https://github.com/sixthnormal/clj-3df) - Clojure(Script) client for Declarative Dataflow.
 - [weavejester/integrant](https://github.com/weavejester/integrant) - Micro-framework for data-driven architecture
 
@@ -199,8 +204,13 @@ A collection of awesome things.
 
 - [kostya/benchmarks](https://github.com/kostya/benchmarks) - Some benchmarks of different languages
 
+## Nix
+
+- [nix-community/impermanence](https://github.com/nix-community/impermanence) - Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]
+
 ## OCaml
 
+- [Spivoxity/obc-3](https://github.com/Spivoxity/obc-3) - Oxford Oberon-2 compiler
 - [janestreet/incremental](https://github.com/janestreet/incremental) - A library for incremental computations
 
 ## Pascal
@@ -309,6 +319,10 @@ A collection of awesome things.
 ## V
 
 - [vlang/c2v](https://github.com/vlang/c2v) - C/C++ to V translator
+
+## Zig
+
+- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 ## wisp
 
