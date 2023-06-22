@@ -294,6 +294,7 @@ A collection of awesome things.
 - [OSPreservProject/amoeba](https://github.com/OSPreservProject/amoeba) - amoeba operating system
 - [OpenOS-Project-Creator-Founder/netboot.ipfs](https://github.com/OpenOS-Project-Creator-Founder/netboot.ipfs) - Network Based Operating System Installer
 - [c3d/mbuto](https://github.com/c3d/mbuto) - Minimal Builder Using Terse Options
+- [wmutschl/mutschler.dev](https://github.com/wmutschl/mutschler.dev) - Tech blog
 
 ## Smalltalk
 
