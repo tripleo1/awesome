@@ -137,6 +137,7 @@ A collection of awesome things.
 - [perkeep/perkeep](https://github.com/perkeep/perkeep) - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
 - [psilva261/opossum](https://github.com/psilva261/opossum) - Rudimentary web browser written in Golang
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
+- [vdemeester/docker-volume-ipfs](https://github.com/vdemeester/docker-volume-ipfs) - 🐳 This is an open source volume plugin that allows using an ipfs filesystem as a volume.
 - [wabarc/wayback](https://github.com/wabarc/wayback) - An archiving tool with an IM-style interface that prioritizes privacy and accessibility, integrated with various archival services including Internet Archive, archive.today, IPFS, Telegraph, and file systems.
 - [zignig/astralboot](https://github.com/zignig/astralboot) - a low level boot server that deploys servers from file system or ipfs
 
@@ -326,6 +327,7 @@ A collection of awesome things.
 
 ## Zig
 
+- [jamii/preimp](https://github.com/jamii/preimp) - 
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 ## wisp
