@@ -274,6 +274,7 @@ A collection of awesome things.
 
 - [adamwiggins/rush](https://github.com/adamwiggins/rush) - Ruby replacement for bash+ssh
 - [isene/rsh](https://github.com/isene/rsh) - Ruby SHell
+- [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
 
 ## Rust
 
@@ -348,6 +349,7 @@ A collection of awesome things.
 - [fasten-project/Debian-license-collector](https://github.com/fasten-project/Debian-license-collector) - 
 - [hardikvasa/awesome-programming](https://github.com/hardikvasa/awesome-programming) - A curated list of awesome programming talks, articles, books, resources and more!!
 - [phoe/the-elusive-language](https://github.com/phoe/the-elusive-language) - A small Common Lisp-related art project.
+- [sanmak/awesome-blogs](https://github.com/sanmak/awesome-blogs) - List of awesome blogs run, managed by a human or two and not an organisation, company or institution.
 - [swyxio/buying-domains](https://github.com/swyxio/buying-domains) - useful data and advice for buying domains.
 - [synflow/SHA-256](https://github.com/synflow/SHA-256) - SHA-256 implemented with the Cx language
 
