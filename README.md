@@ -197,7 +197,6 @@ A collection of awesome things.
 ## Jinja
 
 - [debops/debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
-- [julien-lecomte/debops](https://github.com/julien-lecomte/debops) - DebOps - Your Debian-based data center in a box
 
 ## Jupyter Notebook
 
