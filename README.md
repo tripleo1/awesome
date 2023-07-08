@@ -277,9 +277,9 @@ A collection of awesome things.
 
 ## Rust
 
-- [anuvu/puzzlefs](https://github.com/anuvu/puzzlefs) - 
 - [ngeor/rusty-basic](https://github.com/ngeor/rusty-basic) - An interpreter for QBasic, written in Rust.
 - [nix-community/nix-index](https://github.com/nix-community/nix-index) - Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]
+- [project-machine/puzzlefs](https://github.com/project-machine/puzzlefs) - 
 - [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language. Work in progress!
 
 ## SCSS
