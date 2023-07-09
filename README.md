@@ -346,6 +346,7 @@ A collection of awesome things.
 - [d-cook/SomethingNew](https://github.com/d-cook/SomethingNew) - Collaboration for reinventing software in human terms
 - [digitalformula/qclocktwo](https://github.com/digitalformula/qclocktwo) - 
 - [fasten-project/Debian-license-collector](https://github.com/fasten-project/Debian-license-collector) - 
+- [gunnarmorling/awesome-annotation-processing](https://github.com/gunnarmorling/awesome-annotation-processing) - A curated list of resources related to the Java annotation processing API (JSR 269)
 - [hardikvasa/awesome-programming](https://github.com/hardikvasa/awesome-programming) - A curated list of awesome programming talks, articles, books, resources and more!!
 - [phoe/the-elusive-language](https://github.com/phoe/the-elusive-language) - A small Common Lisp-related art project.
 - [sanmak/awesome-blogs](https://github.com/sanmak/awesome-blogs) - List of awesome blogs run, managed by a human or two and not an organisation, company or institution.
