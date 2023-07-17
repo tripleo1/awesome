@@ -47,6 +47,8 @@ A collection of awesome things.
 ## Assembly
 
 - [dspinellis/unix-history-repo](https://github.com/dspinellis/unix-history-repo) - Continuous Unix commit history from 1970 until today
+- [fjballest/nix.markII](https://github.com/fjballest/nix.markII) - nix mark II
+- [fjballest/nixMarkIV](https://github.com/fjballest/nixMarkIV) - Nix source
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
 - [nakst/flip](https://github.com/nakst/flip) - A 16-bit Lisp based operating system.
 
@@ -280,6 +282,7 @@ A collection of awesome things.
 - [adamwiggins/rush](https://github.com/adamwiggins/rush) - Ruby replacement for bash+ssh
 - [isene/rsh](https://github.com/isene/rsh) - Ruby SHell
 - [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
+- [ljulliar/FreeRIDE](https://github.com/ljulliar/FreeRIDE) - A Free Ruby IDE (written in Ruby)
 
 ## Rust
 
