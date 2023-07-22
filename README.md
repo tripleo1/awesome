@@ -23,6 +23,7 @@ A collection of awesome things.
 - [Makefile](#makefile)
 - [Nix](#nix)
 - [OCaml](#ocaml)
+- [Objective-C](#objective-c)
 - [Pascal](#pascal)
 - [Python](#python)
 - [Reason](#reason)
@@ -225,6 +226,11 @@ A collection of awesome things.
 - [Spivoxity/obc-3](https://github.com/Spivoxity/obc-3) - Oxford Oberon-2 compiler
 - [janestreet/incremental](https://github.com/janestreet/incremental) - A library for incremental computations
 
+## Objective-C
+
+- [gnustep/libs-steptalk](https://github.com/gnustep/libs-steptalk) - StepTalk is a scripting framework for creating scriptable servers or applications.
+- [onflapp/libs-steptalk](https://github.com/onflapp/libs-steptalk) - Scripting Framework for GNUstep Desktop
+
 ## Pascal
 
 - [arthurmteodoro/semantic-net](https://github.com/arthurmteodoro/semantic-net) - Criação de um software capaz de representar uma rede semântica, usando um arquivo de entrada e outro de saída, também mostrando informações quanto à rede semântica. Trabalho realizado no 2º período de Ciência da Computação do Instituto Federal de Minas Gerais(IFMG) - Campus Formiga para a Disciplina Matemática Discreta
@@ -351,6 +357,7 @@ A collection of awesome things.
 
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
+- [PaulKeeble/ScalaVErlangAgents](https://github.com/PaulKeeble/ScalaVErlangAgents) - A performance test comparing Scala verses Erlang with simple agents to determine messaging performance
 - [QianMo/Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes) - :anchor:  我的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog。涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding.
 - [X547/OberonUtils](https://github.com/X547/OberonUtils) - Utilities for Oberon/BlackBox
 - [aalhour/awesome-compilers](https://github.com/aalhour/awesome-compilers) - :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes
