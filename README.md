@@ -140,6 +140,8 @@ A collection of awesome things.
 ## Go
 
 - [OpenOS-Project-Creator-Founder/astralboot](https://github.com/OpenOS-Project-Creator-Founder/astralboot) - a low level boot server that deploys servers from file system or ipfs
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [cpg1111/ipos](https://github.com/cpg1111/ipos) - Linux Based OS using IPFS as a Root File System
 - [elimisteve/v2go](https://github.com/elimisteve/v2go) - V-to-Go translator
 - [google/crfs](https://github.com/google/crfs) - CRFS: Container Registry Filesystem
