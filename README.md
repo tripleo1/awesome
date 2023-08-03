@@ -141,6 +141,7 @@ A collection of awesome things.
 
 - [OpenOS-Project-Creator-Founder/astralboot](https://github.com/OpenOS-Project-Creator-Founder/astralboot) - a low level boot server that deploys servers from file system or ipfs
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [cpg1111/ipos](https://github.com/cpg1111/ipos) - Linux Based OS using IPFS as a Root File System
 - [elimisteve/v2go](https://github.com/elimisteve/v2go) - V-to-Go translator
