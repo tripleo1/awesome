@@ -170,6 +170,7 @@ A collection of awesome things.
 
 - [HotswapProjects/HotswapAgent](https://github.com/HotswapProjects/HotswapAgent) - Java unlimited redefinition of classes at runtime.
 - [Nuix/jnode-fs](https://github.com/Nuix/jnode-fs) - Various file system implementations based on the code of the JNode operating system
+- [Pr3roxDLC/JNode](https://github.com/Pr3roxDLC/JNode) - A WIP Block Programming Implementation in Java
 - [ShawnyXiao/LinkingGame](https://github.com/ShawnyXiao/LinkingGame) - A linking game with nice look and some interests
 - [amyjko/whyline](https://github.com/amyjko/whyline) - The Whyline for Java, an interactive debugging tool that lets you ask "why" questions about program out.
 - [bsideup/jabel](https://github.com/bsideup/jabel) - Jabel - unlock Javac 9+ syntax when targeting Java 8
@@ -199,6 +200,7 @@ A collection of awesome things.
 - [az0/linkgopher](https://github.com/az0/linkgopher) - Firefox/Google Chrome add-on: Extracts all links from web page, sorts them, removes duplicates, and displays them in a new tab for inspection or copy and paste into other systems.
 - [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [ditesh/node-poplib](https://github.com/ditesh/node-poplib) - POP3 client library for Node.js
+- [donno2048/snake](https://github.com/donno2048/snake) - A minimal snake in assembly 
 - [dosyago/DiskerNet](https://github.com/dosyago/DiskerNet) -  💾 DiskerNet - Your Internet Archived to Your Disk
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of a complete web page in a single HTML file
 - [lengstrom/falcon](https://github.com/lengstrom/falcon) - Chrome extension for full text history search!
