@@ -139,7 +139,6 @@ A collection of awesome things.
 
 ## Go
 
-- [OpenOS-Project-Creator-Founder/astralboot](https://github.com/OpenOS-Project-Creator-Founder/astralboot) - a low level boot server that deploys servers from file system or ipfs
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
@@ -318,7 +317,6 @@ A collection of awesome things.
 
 - [64kramsystem/zfs-installer](https://github.com/64kramsystem/zfs-installer) - Program that prepares ZFS on a system, and installs Linux
 - [OSPreservProject/amoeba](https://github.com/OSPreservProject/amoeba) - amoeba operating system
-- [OpenOS-Project-Creator-Founder/netboot.ipfs](https://github.com/OpenOS-Project-Creator-Founder/netboot.ipfs) - Network Based Operating System Installer
 - [c3d/mbuto](https://github.com/c3d/mbuto) - Minimal Builder Using Terse Options
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [wmutschl/mutschler.dev](https://github.com/wmutschl/mutschler.dev) - Tech blog
