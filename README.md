@@ -83,6 +83,7 @@ A collection of awesome things.
 - [baislsl/jtiger](https://github.com/baislsl/jtiger) - 虎书tiger语言的jvm编译器
 - [briantrice/slate-language](https://github.com/briantrice/slate-language) - The Slate programming language
 - [c3d/xl](https://github.com/c3d/xl) - A minimalist, general-purpose programming language based on meta-programming and parse tree rewrites
+- [facebook/redex](https://github.com/facebook/redex) - A bytecode optimizer for Android apps
 - [managarm/managarm](https://github.com/managarm/managarm) - Pragmatic microkernel-based OS with fully asynchronous I/O
 - [nucleic/kiwi](https://github.com/nucleic/kiwi) - Efficient C++ implementation of the Cassowary constraint solving algorithm
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
