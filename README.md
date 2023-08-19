@@ -300,6 +300,7 @@ A collection of awesome things.
 
 ## Rust
 
+- [ekzhang/crepe](https://github.com/ekzhang/crepe) - Datalog compiler embedded in Rust as a procedural macro
 - [ngeor/rusty-basic](https://github.com/ngeor/rusty-basic) - An interpreter for QBasic, written in Rust.
 - [nix-community/nix-index](https://github.com/nix-community/nix-index) - Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]
 - [project-machine/puzzlefs](https://github.com/project-machine/puzzlefs) - 
@@ -373,6 +374,7 @@ A collection of awesome things.
 - [gunnarmorling/awesome-annotation-processing](https://github.com/gunnarmorling/awesome-annotation-processing) - A curated list of resources related to the Java annotation processing API (JSR 269)
 - [hardikvasa/awesome-programming](https://github.com/hardikvasa/awesome-programming) - A curated list of awesome programming talks, articles, books, resources and more!!
 - [phoe/the-elusive-language](https://github.com/phoe/the-elusive-language) - A small Common Lisp-related art project.
+- [pysemtec/semantic-python-overview](https://github.com/pysemtec/semantic-python-overview) - (subjective) overview of projects which are related both to python and semantic technologies (RDF, OWL, Reasoning, ...)
 - [sanmak/awesome-blogs](https://github.com/sanmak/awesome-blogs) - List of awesome blogs run, managed by a human or two and not an organisation, company or institution.
 - [swyxio/buying-domains](https://github.com/swyxio/buying-domains) - useful data and advice for buying domains.
 - [synflow/SHA-256](https://github.com/synflow/SHA-256) - SHA-256 implemented with the Cx language
