@@ -47,6 +47,7 @@ A collection of awesome things.
 
 ## Assembly
 
+- [donno2048/snake](https://github.com/donno2048/snake) - A minimal snake in assembly 
 - [dspinellis/unix-history-repo](https://github.com/dspinellis/unix-history-repo) - Continuous Unix commit history from 1970 until today
 - [fjballest/nix.markII](https://github.com/fjballest/nix.markII) - nix mark II
 - [fjballest/nixMarkIV](https://github.com/fjballest/nixMarkIV) - Nix source
@@ -69,6 +70,7 @@ A collection of awesome things.
 - [pixeltris/webc86](https://github.com/pixeltris/webc86) - Compile / run C in a web browser via TCC / x86 emulation
 - [ponylang/ponyc](https://github.com/ponylang/ponyc) - Pony is an open-source, actor-model, capabilities-secure, high performance programming language
 - [tinycorelinux/tinyx](https://github.com/tinycorelinux/tinyx) - 
+- [xorvoid/sectorc](https://github.com/xorvoid/sectorc) - A C Compiler that fits in the 512 byte boot sector of an x86 machine
 
 ## C#
 
@@ -108,6 +110,7 @@ A collection of awesome things.
 - [eliascotto/tryclojure](https://github.com/eliascotto/tryclojure) - Clojure live REPL tutorial
 - [hyperfiddle/electric](https://github.com/hyperfiddle/electric) - a reactive Clojure dialect for web development that uses a compiler to infer the frontend/backend boundary
 - [jacekschae/conduit](https://github.com/jacekschae/conduit) - Real world application built with ClojureScript + re-frame
+- [jpmonettas/flow-storm-debugger](https://github.com/jpmonettas/flow-storm-debugger) - A debugger for Clojure and ClojureScript with some unique features.
 - [razum2um/awesome-clojure](https://github.com/razum2um/awesome-clojure) - A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff
 - [seancorfield/honeysql](https://github.com/seancorfield/honeysql) - Turn Clojure data structures into SQL
 - [sixthnormal/clj-3df](https://github.com/sixthnormal/clj-3df) - Clojure(Script) client for Declarative Dataflow.
@@ -200,7 +203,6 @@ A collection of awesome things.
 - [az0/linkgopher](https://github.com/az0/linkgopher) - Firefox/Google Chrome add-on: Extracts all links from web page, sorts them, removes duplicates, and displays them in a new tab for inspection or copy and paste into other systems.
 - [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [ditesh/node-poplib](https://github.com/ditesh/node-poplib) - POP3 client library for Node.js
-- [donno2048/snake](https://github.com/donno2048/snake) - A minimal snake in assembly 
 - [dosyago/DiskerNet](https://github.com/dosyago/DiskerNet) -  💾 DiskerNet - Your Internet Archived to Your Disk
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of a complete web page in a single HTML file
 - [lengstrom/falcon](https://github.com/lengstrom/falcon) - Chrome extension for full text history search!
