@@ -177,6 +177,7 @@ A collection of awesome things.
 - [ShawnyXiao/LinkingGame](https://github.com/ShawnyXiao/LinkingGame) - A linking game with nice look and some interests
 - [amyjko/whyline](https://github.com/amyjko/whyline) - The Whyline for Java, an interactive debugging tool that lets you ask "why" questions about program out.
 - [bsideup/jabel](https://github.com/bsideup/jabel) - Jabel - unlock Javac 9+ syntax when targeting Java 8
+- [centic9/jgit-cookbook](https://github.com/centic9/jgit-cookbook) - Provides examples and code snippets for the JGit Java Git implementation
 - [eclipse-openj9/openj9](https://github.com/eclipse-openj9/openj9) - Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high throughput.   Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with the Extensions for OpenJDK for OpenJ9 repo.
 - [ericscharff/SmallWorld](https://github.com/ericscharff/SmallWorld) - Tim Budds Simple Smalltalk interpreter in Java
 - [google/mail-importer](https://github.com/google/mail-importer) - Mail Importer for Gmail will upload the contents of a Thunderbird mail archive to Gmail and do its best to preserve the read state, flagged state, and folders of the messages.
@@ -378,6 +379,7 @@ A collection of awesome things.
 - [phoe/the-elusive-language](https://github.com/phoe/the-elusive-language) - A small Common Lisp-related art project.
 - [pysemtec/semantic-python-overview](https://github.com/pysemtec/semantic-python-overview) - (subjective) overview of projects which are related both to python and semantic technologies (RDF, OWL, Reasoning, ...)
 - [sanmak/awesome-blogs](https://github.com/sanmak/awesome-blogs) - List of awesome blogs run, managed by a human or two and not an organisation, company or institution.
+- [sjh258933/IntelliJGit](https://github.com/sjh258933/IntelliJGit) - 
 - [swyxio/buying-domains](https://github.com/swyxio/buying-domains) - useful data and advice for buying domains.
 - [synflow/SHA-256](https://github.com/synflow/SHA-256) - SHA-256 implemented with the Cx language
 - [xhorak/firefox-dev-flatpak](https://github.com/xhorak/firefox-dev-flatpak) - Create flatpak from freshly compiled Firefox Nightly.
