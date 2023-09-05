@@ -20,6 +20,7 @@ A collection of awesome things.
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Kotlin](#kotlin)
 - [Makefile](#makefile)
 - [Nix](#nix)
 - [OCaml](#ocaml)
@@ -220,6 +221,10 @@ A collection of awesome things.
 
 - [nurakib/fast.ai](https://github.com/nurakib/fast.ai) - Making neural nets uncool again
 
+## Kotlin
+
+- [tateisu/SubwayTooter](https://github.com/tateisu/SubwayTooter) - Mastodon client app for Android
+
 ## Makefile
 
 - [kostya/benchmarks](https://github.com/kostya/benchmarks) - Some benchmarks of different languages
@@ -322,6 +327,7 @@ A collection of awesome things.
 - [64kramsystem/zfs-installer](https://github.com/64kramsystem/zfs-installer) - Program that prepares ZFS on a system, and installs Linux
 - [OSPreservProject/amoeba](https://github.com/OSPreservProject/amoeba) - amoeba operating system
 - [c3d/mbuto](https://github.com/c3d/mbuto) - Minimal Builder Using Terse Options
+- [jarun/advcpmv](https://github.com/jarun/advcpmv) - A patch for GNU Core Utilities cp, mv to add progress bars
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [trytomakeyouprivate/Fedora-TV-KDE-Bigscreen](https://github.com/trytomakeyouprivate/Fedora-TV-KDE-Bigscreen) - A Linux TV based off the immutable Fedora Kinoite, along with KDE Plasma Bigscreen, Mycroft Voice control, a modified Firefox and preinstalled Flatpak apps.
 - [wmutschl/mutschler.dev](https://github.com/wmutschl/mutschler.dev) - Tech blog
@@ -356,6 +362,7 @@ A collection of awesome things.
 ## Zig
 
 - [jamii/preimp](https://github.com/jamii/preimp) - 
+- [nix-community/zon2nix](https://github.com/nix-community/zon2nix) - Convert the dependencies in `build.zig.zon` to a Nix expression [maintainer=@figsoda]
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 ## wisp
