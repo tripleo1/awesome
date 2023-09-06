@@ -378,6 +378,7 @@ A collection of awesome things.
 - [X547/OberonUtils](https://github.com/X547/OberonUtils) - Utilities for Oberon/BlackBox
 - [aalhour/awesome-compilers](https://github.com/aalhour/awesome-compilers) - :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [bxd/advcpmv](https://github.com/bxd/advcpmv) - A patch for cp / mv to add progress bars
 - [d-cook/SomethingNew](https://github.com/d-cook/SomethingNew) - Collaboration for reinventing software in human terms
 - [digitalformula/qclocktwo](https://github.com/digitalformula/qclocktwo) - 
 - [fasten-project/Debian-license-collector](https://github.com/fasten-project/Debian-license-collector) - 
