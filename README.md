@@ -172,6 +172,8 @@ A collection of awesome things.
 
 ## Java
 
+- [DBIS-UniKN/intellij-oberon](https://github.com/DBIS-UniKN/intellij-oberon) - A plugin to support the Oberon programming language in JetBrains IDEs.
+- [Hjertesvikt/HjerteLib](https://github.com/Hjertesvikt/HjerteLib) - 
 - [HotswapProjects/HotswapAgent](https://github.com/HotswapProjects/HotswapAgent) - Java unlimited redefinition of classes at runtime.
 - [Nuix/jnode-fs](https://github.com/Nuix/jnode-fs) - Various file system implementations based on the code of the JNode operating system
 - [Pr3roxDLC/JNode](https://github.com/Pr3roxDLC/JNode) - A WIP Block Programming Implementation in Java
