@@ -11,6 +11,7 @@ A collection of awesome things.
 - [Common Lisp](#common-lisp)
 - [D](#d)
 - [Dart](#dart)
+- [Erlang](#erlang)
 - [F#](#f)
 - [Gherkin](#gherkin)
 - [Go](#go)
@@ -133,6 +134,10 @@ A collection of awesome things.
 ## Dart
 
 - [gskinnerTeam/flokk](https://github.com/gskinnerTeam/flokk) - A fresh and modern Google Contacts manager that integrates with GitHub and Twitter.
+
+## Erlang
+
+- [parapluu/Concuerror](https://github.com/parapluu/Concuerror) - Concuerror is a stateless model checking tool for Erlang programs.
 
 ## F#
 
