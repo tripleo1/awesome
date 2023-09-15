@@ -215,6 +215,7 @@ A collection of awesome things.
 - [ditesh/node-poplib](https://github.com/ditesh/node-poplib) - POP3 client library for Node.js
 - [dosyago/DiskerNet](https://github.com/dosyago/DiskerNet) -  💾 DiskerNet - Your Internet Archived to Your Disk
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of a complete web page in a single HTML file
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [lengstrom/falcon](https://github.com/lengstrom/falcon) - Chrome extension for full text history search!
 - [mafintosh/abstract-chunk-store](https://github.com/mafintosh/abstract-chunk-store) - A test suite and interface you can use to implement a chunk based storage backend
 - [maxogden/abstract-blob-store](https://github.com/maxogden/abstract-blob-store) - A test suite and interface you can use to implement streaming file (blob) storage modules for various storage backends and platforms
@@ -315,6 +316,7 @@ A collection of awesome things.
 
 ## Rust
 
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [ekzhang/crepe](https://github.com/ekzhang/crepe) - Datalog compiler embedded in Rust as a procedural macro
 - [ngeor/rusty-basic](https://github.com/ngeor/rusty-basic) - An interpreter for QBasic, written in Rust.
 - [nix-community/nix-index](https://github.com/nix-community/nix-index) - Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]
@@ -336,6 +338,7 @@ A collection of awesome things.
 - [OSPreservProject/amoeba](https://github.com/OSPreservProject/amoeba) - amoeba operating system
 - [c3d/mbuto](https://github.com/c3d/mbuto) - Minimal Builder Using Terse Options
 - [jarun/advcpmv](https://github.com/jarun/advcpmv) - A patch for GNU Core Utilities cp, mv to add progress bars
+- [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [trentbuck/flash-kernel-efi](https://github.com/trentbuck/flash-kernel-efi) - 
 - [trytomakeyouprivate/Fedora-TV-KDE-Bigscreen](https://github.com/trytomakeyouprivate/Fedora-TV-KDE-Bigscreen) - A Linux TV based off the immutable Fedora Kinoite, along with KDE Plasma Bigscreen, Mycroft Voice control, a modified Firefox and preinstalled Flatpak apps.
