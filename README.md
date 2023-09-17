@@ -90,6 +90,7 @@ A collection of awesome things.
 - [facebook/redex](https://github.com/facebook/redex) - A bytecode optimizer for Android apps
 - [managarm/managarm](https://github.com/managarm/managarm) - Pragmatic microkernel-based OS with fully asynchronous I/O
 - [nucleic/kiwi](https://github.com/nucleic/kiwi) - Efficient C++ implementation of the Cassowary constraint solving algorithm
+- [onflapp/gs-desktop](https://github.com/onflapp/gs-desktop) - GNUstep Desktop
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [pin3da/Programming-contest](https://github.com/pin3da/Programming-contest) - My solutions of some problems from different online judges
 - [raulcostajunior/obc](https://github.com/raulcostajunior/obc) - An Oberon 07 to LLVM IR compiler.
@@ -253,6 +254,7 @@ A collection of awesome things.
 
 - [gnustep/libs-steptalk](https://github.com/gnustep/libs-steptalk) - StepTalk is a scripting framework for creating scriptable servers or applications.
 - [onflapp/libs-steptalk](https://github.com/onflapp/libs-steptalk) - Scripting Framework for GNUstep Desktop
+- [trunkmaster/nextspace](https://github.com/trunkmaster/nextspace) - NeXTSTEP-like desktop environment for Linux
 
 ## Pascal
 
