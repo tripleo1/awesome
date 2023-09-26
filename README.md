@@ -279,6 +279,7 @@ A collection of awesome things.
 - [enthought/pyface](https://github.com/enthought/pyface) - pyface: traits-capable windowing framework
 - [enthought/traits](https://github.com/enthought/traits) - Observable typed attributes for Python classes
 - [enthought/traitsui](https://github.com/enthought/traitsui) - TraitsUI: Traits-capable windowing framework
+- [graboluk/stiko](https://github.com/graboluk/stiko) - systray icon for syncthing
 - [hungrywolf27/zfs-list-gtk](https://github.com/hungrywolf27/zfs-list-gtk) - A simple GUI that lists ZFS filesystems and snapshots in a Gtk TreeView widget. Written in Python.
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
 - [kennethreitz/maya](https://github.com/kennethreitz/maya) - Datetimes for Humans™
@@ -364,7 +365,7 @@ A collection of awesome things.
 ## TypeScript
 
 - [bleedingedgeai/bleedingedge.ai](https://github.com/bleedingedgeai/bleedingedge.ai) - Bleeding edge is a feed of noteworthy developments in AI and machine learning.
-- [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and blazing-fast book searcher, create and search your private library. Index metadata for over 10 million books in one minute as well as search in 30µs. This project does not store and distribute copies of documents, but only provides indexing and searching.
+- [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and blazing-fast book searcher, create and search your private library. This project does not store and distribute copies of documents, but only provides indexing and searching.
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
 - [luooooob/create-my-awesome](https://github.com/luooooob/create-my-awesome) - Github Actions for automatically generating the personal awesome list from all of the repositories you starred.
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
@@ -399,6 +400,7 @@ A collection of awesome things.
 - [digitalformula/qclocktwo](https://github.com/digitalformula/qclocktwo) - 
 - [fasten-project/Debian-license-collector](https://github.com/fasten-project/Debian-license-collector) - 
 - [gunnarmorling/awesome-annotation-processing](https://github.com/gunnarmorling/awesome-annotation-processing) - A curated list of resources related to the Java annotation processing API (JSR 269)
+- [gutenye/syncthing-kindle](https://github.com/gutenye/syncthing-kindle) - Setup Syncthing on Kindle Touch
 - [hardikvasa/awesome-programming](https://github.com/hardikvasa/awesome-programming) - A curated list of awesome programming talks, articles, books, resources and more!!
 - [phoe/the-elusive-language](https://github.com/phoe/the-elusive-language) - A small Common Lisp-related art project.
 - [pysemtec/semantic-python-overview](https://github.com/pysemtec/semantic-python-overview) - (subjective) overview of projects which are related both to python and semantic technologies (RDF, OWL, Reasoning, ...)
