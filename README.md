@@ -244,6 +244,7 @@ A collection of awesome things.
 ## Nix
 
 - [nix-community/impermanence](https://github.com/nix-community/impermanence) - Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]
+- [tpwrules/nixos-apple-silicon](https://github.com/tpwrules/nixos-apple-silicon) - Resources to install NixOS bare metal on Apple Silicon Macs
 
 ## OCaml
 
@@ -321,7 +322,9 @@ A collection of awesome things.
 
 ## Rust
 
+- [DieracDelta/DAWN](https://github.com/DieracDelta/DAWN) - DAWN (Debug Adapter with Nix)
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+- [digama0/lean-sys](https://github.com/digama0/lean-sys) - Rust bindings for the Lean 4 proof assistant
 - [ekzhang/crepe](https://github.com/ekzhang/crepe) - Datalog compiler embedded in Rust as a procedural macro
 - [ngeor/rusty-basic](https://github.com/ngeor/rusty-basic) - An interpreter for QBasic, written in Rust.
 - [nix-community/nix-index](https://github.com/nix-community/nix-index) - Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]
