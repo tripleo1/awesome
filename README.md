@@ -23,10 +23,12 @@ A collection of awesome things.
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Makefile](#makefile)
+- [Modula-2](#modula-2)
 - [Nix](#nix)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Pascal](#pascal)
+- [Perl](#perl)
 - [Python](#python)
 - [Reason](#reason)
 - [Rich Text Format](#rich-text-format)
@@ -154,6 +156,7 @@ A collection of awesome things.
 
 ## Go
 
+- [Fault-lang/Fault](https://github.com/Fault-lang/Fault) - a language for building system dynamic models
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
@@ -246,6 +249,10 @@ A collection of awesome things.
 
 - [kostya/benchmarks](https://github.com/kostya/benchmarks) - Some benchmarks of different languages
 
+## Modula-2
+
+- [rochus-keller/OberonSystem3](https://github.com/rochus-keller/OberonSystem3) - A cross-platform version of the ETH Oberon System 3 compatible with the Oberon+ compiler and IDE
+
 ## Nix
 
 - [nix-community/impermanence](https://github.com/nix-community/impermanence) - Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]
@@ -265,6 +272,10 @@ A collection of awesome things.
 ## Pascal
 
 - [arthurmteodoro/semantic-net](https://github.com/arthurmteodoro/semantic-net) - Criação de um software capaz de representar uma rede semântica, usando um arquivo de entrada e outro de saída, também mostrando informações quanto à rede semântica. Trabalho realizado no 2º período de Ciência da Computação do Instituto Federal de Minas Gerais(IFMG) - Campus Formiga para a Disciplina Matemática Discreta
+
+## Perl
+
+- [jimsalterjrs/perlpv](https://github.com/jimsalterjrs/perlpv) - A proof-of-concept pipe viewer similar to Andrew Wood's pv—but written in perl, for eventual use internally in syncoid.
 
 ## Python
 
@@ -405,6 +416,7 @@ A collection of awesome things.
 - [aalhour/awesome-compilers](https://github.com/aalhour/awesome-compilers) - :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [bxd/advcpmv](https://github.com/bxd/advcpmv) - A patch for cp / mv to add progress bars
+- [castrojo/awesome-immutable](https://github.com/castrojo/awesome-immutable) - A list of resources for people who want to investigate image-based Linux desktops
 - [d-cook/SomethingNew](https://github.com/d-cook/SomethingNew) - Collaboration for reinventing software in human terms
 - [digitalformula/qclocktwo](https://github.com/digitalformula/qclocktwo) - 
 - [fasten-project/Debian-license-collector](https://github.com/fasten-project/Debian-license-collector) - 
