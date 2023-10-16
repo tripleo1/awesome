@@ -43,6 +43,7 @@ A collection of awesome things.
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [V](#v)
+- [Xtend](#xtend)
 - [Zig](#zig)
 - [wisp](#wisp)
 - [Misc](#misc)
@@ -396,6 +397,10 @@ A collection of awesome things.
 
 - [vlang/c2v](https://github.com/vlang/c2v) - C/C++ to V translator
 
+## Xtend
+
+- [kbirken/xtendency](https://github.com/kbirken/xtendency) - A collection of neat tools related to the Xtend language.
+
 ## Zig
 
 - [jamii/preimp](https://github.com/jamii/preimp) - 
@@ -429,5 +434,6 @@ A collection of awesome things.
 - [sjh258933/IntelliJGit](https://github.com/sjh258933/IntelliJGit) - 
 - [swyxio/buying-domains](https://github.com/swyxio/buying-domains) - useful data and advice for buying domains.
 - [synflow/SHA-256](https://github.com/synflow/SHA-256) - SHA-256 implemented with the Cx language
+- [titzer/student-projects](https://github.com/titzer/student-projects) - A collection of projects for students on Virgil, Wizard, or WebAssembly
 - [xhorak/firefox-dev-flatpak](https://github.com/xhorak/firefox-dev-flatpak) - Create flatpak from freshly compiled Firefox Nightly.
 
