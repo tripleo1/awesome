@@ -117,6 +117,7 @@ A collection of awesome things.
 ## CSS
 
 - [SquareBracketAssociates/Booklet-Smacc](https://github.com/SquareBracketAssociates/Booklet-Smacc) - A booklet on the Smacc compiler compiler framework
+- [gayanper/eclipse-themes](https://github.com/gayanper/eclipse-themes) - Eclipse themes and some features to enhance the look and feel of Eclipse Java IDE.
 
 ## Clojure
 
@@ -207,10 +208,12 @@ A collection of awesome things.
 - [Vineflower/vineflower](https://github.com/Vineflower/vineflower) - Modern Java decompiler aiming to be as accurate as possible, with an emphasis on output quality. Fork of the Fernflower decompiler.
 - [ZHENFENG13/My-Blog](https://github.com/ZHENFENG13/My-Blog) - :palm_tree::octocat:A simple & beautiful blogging system implemented with spring-boot & thymeleaf & mybatis My Blog 是由 SpringBoot + Mybatis + Thymeleaf 等技术实现的 Java 博客系统，页面美观、功能齐全、部署简单及完善的代码，一定会给使用者无与伦比的体验
 - [amyjko/whyline](https://github.com/amyjko/whyline) - The Whyline for Java, an interactive debugging tool that lets you ask "why" questions about program out.
+- [arnetheduck/j2c](https://github.com/arnetheduck/j2c) - Java to C++ translator
 - [bsideup/jabel](https://github.com/bsideup/jabel) - Jabel - unlock Javac 9+ syntax when targeting Java 8
 - [centic9/jgit-cookbook](https://github.com/centic9/jgit-cookbook) - Provides examples and code snippets for the JGit Java Git implementation
 - [cpater/iDontCare](https://github.com/cpater/iDontCare) - a java agent that turns a java.lang.NullPointerException in what it really means.
 - [eclipse-openj9/openj9](https://github.com/eclipse-openj9/openj9) - Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high throughput.   Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with the Extensions for OpenJDK for OpenJ9 repo.
+- [eclipse/xtext](https://github.com/eclipse/xtext) - Eclipse Xtext™ is a language development framework 
 - [ericscharff/SmallWorld](https://github.com/ericscharff/SmallWorld) - Tim Budds Simple Smalltalk interpreter in Java
 - [fesh0r/fernflower](https://github.com/fesh0r/fernflower) - Unofficial mirror of FernFlower Java decompiler (All pulls should be submitted upstream)
 - [google/mail-importer](https://github.com/google/mail-importer) - Mail Importer for Gmail will upload the contents of a Thunderbird mail archive to Gmail and do its best to preserve the read state, flagged state, and folders of the messages.
@@ -439,6 +442,7 @@ A collection of awesome things.
 ## Misc
 
 - [BruceDone/awesome-crawler](https://github.com/BruceDone/awesome-crawler) - A collection of awesome web crawler,spider in different languages
+- [DavidS95/Smokeless_UMAF](https://github.com/DavidS95/Smokeless_UMAF) - 
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [MinecraftForge/ForgeFlower](https://github.com/MinecraftForge/ForgeFlower) - Forge's modifications to FernFlower. Fixing various bugs/inconsistencies. Main Repo: https://github.com/MinecraftForge/FernFlower
 - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
