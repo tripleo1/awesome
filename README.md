@@ -228,6 +228,7 @@ A collection of awesome things.
 - [madhephaestus/OmniscientDebugger](https://github.com/madhephaestus/OmniscientDebugger) - Bil Lewis' Omniscient Debugger for Java. Also known as ODB
 - [magnusja/java-fs](https://github.com/magnusja/java-fs) - Various file system implementations based on the code of the JNode operating system
 - [matthewmccullough/OmniscientDebugger](https://github.com/matthewmccullough/OmniscientDebugger) - Bil Lewis' Omniscient Debugger for Java. Also known as ODB
+- [rkiddy/WhencePlugin](https://github.com/rkiddy/WhencePlugin) - 
 - [slipperyseal/trebuchet](https://github.com/slipperyseal/trebuchet) - Trebuchet Transcompiler is a Java to C++ source code translator
 - [thinkberg/snipsnap](https://github.com/thinkberg/snipsnap) - SnipSnap - A java based wiki
 - [tripleo1/gmail-mail-importer](https://github.com/tripleo1/gmail-mail-importer) - Mail Importer for Gmail will upload the contents of a Thunderbird mail archive to Gmail and do its best to preserve the read state, flagged state, and folders of the messages.
