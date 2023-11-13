@@ -173,6 +173,7 @@ A collection of awesome things.
 - [google/crfs](https://github.com/google/crfs) - CRFS: Container Registry Filesystem
 - [hashsplit/hashsplit-spec](https://github.com/hashsplit/hashsplit-spec) - 
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
+- [j-keck/zsd](https://github.com/j-keck/zsd) - cli tool to find older versions of a given file in your zfs snapshots.
 - [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup) - Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox or SSH compatible storage
 - [perkeep/perkeep](https://github.com/perkeep/perkeep) - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
 - [psilva261/opossum](https://github.com/psilva261/opossum) - Rudimentary web browser written in Golang
@@ -465,6 +466,7 @@ A collection of awesome things.
 - [hardikvasa/awesome-programming](https://github.com/hardikvasa/awesome-programming) - A curated list of awesome programming talks, articles, books, resources and more!!
 - [phoe/the-elusive-language](https://github.com/phoe/the-elusive-language) - A small Common Lisp-related art project.
 - [pysemtec/semantic-python-overview](https://github.com/pysemtec/semantic-python-overview) - (subjective) overview of projects which are related both to python and semantic technologies (RDF, OWL, Reasoning, ...)
+- [replayio/gecko-dev](https://github.com/replayio/gecko-dev) - Record Replay gecko based browser source
 - [sanmak/awesome-blogs](https://github.com/sanmak/awesome-blogs) - List of awesome blogs run, managed by a human or two and not an organisation, company or institution.
 - [sjh258933/IntelliJGit](https://github.com/sjh258933/IntelliJGit) - 
 - [swyxio/buying-domains](https://github.com/swyxio/buying-domains) - useful data and advice for buying domains.
