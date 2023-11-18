@@ -266,6 +266,7 @@ A collection of awesome things.
 
 ## Kotlin
 
+- [V9vek/Sorting-Visualizer](https://github.com/V9vek/Sorting-Visualizer) - Visualizes various sorting algorithms
 - [tateisu/SubwayTooter](https://github.com/tateisu/SubwayTooter) - Mastodon client app for Android
 
 ## Lua
