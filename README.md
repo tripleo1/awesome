@@ -31,6 +31,7 @@ A collection of awesome things.
 - [Pascal](#pascal)
 - [Perl](#perl)
 - [Python](#python)
+- [QML](#qml)
 - [Reason](#reason)
 - [Rich Text Format](#rich-text-format)
 - [Roff](#roff)
@@ -235,6 +236,7 @@ A collection of awesome things.
 - [thinkberg/snipsnap](https://github.com/thinkberg/snipsnap) - SnipSnap - A java based wiki
 - [tripleo1/gmail-mail-importer](https://github.com/tripleo1/gmail-mail-importer) - Mail Importer for Gmail will upload the contents of a Thunderbird mail archive to Gmail and do its best to preserve the read state, flagged state, and folders of the messages.
 - [tripleo1/magnusja-java-fs](https://github.com/tripleo1/magnusja-java-fs) - Various file system implementations based on the code of the JNode operating system
+- [usethesource/rascal](https://github.com/usethesource/rascal) - The implementation of the Rascal meta-programming language (including interpreter, type checker, parser generator, compiler and JVM based run-time system)
 - [zbra-dev/android-linq](https://github.com/zbra-dev/android-linq) - Manipulate collections easily using C# LINQ style queries and Java 8 closures.
 
 ## JavaScript
@@ -347,6 +349,10 @@ A collection of awesome things.
 - [sjvasquez/handwriting-synthesis](https://github.com/sjvasquez/handwriting-synthesis) - Handwriting Synthesis with RNNs ✏️
 - [vivien/i3blocks-contrib](https://github.com/vivien/i3blocks-contrib) - Official repository for community contributed blocklets
 - [yairchu/awesome-structure-editors](https://github.com/yairchu/awesome-structure-editors) - A list of projectional and structural editors
+
+## QML
+
+- [Wanderson-Magalhaes/Circular_ProgressBar](https://github.com/Wanderson-Magalhaes/Circular_ProgressBar) - 
 
 ## Reason
 
