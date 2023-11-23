@@ -254,7 +254,7 @@ A collection of awesome things.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [lengstrom/falcon](https://github.com/lengstrom/falcon) - Chrome extension for full text history search!
 - [mafintosh/abstract-chunk-store](https://github.com/mafintosh/abstract-chunk-store) - A test suite and interface you can use to implement a chunk based storage backend
-- [maxogden/abstract-blob-store](https://github.com/maxogden/abstract-blob-store) - A test suite and interface you can use to implement streaming file (blob) storage modules for various storage backends and platforms
+- [max-mapper/abstract-blob-store](https://github.com/max-mapper/abstract-blob-store) - A test suite and interface you can use to implement streaming file (blob) storage modules for various storage backends and platforms
 - [simon1573/teddit-redirect](https://github.com/simon1573/teddit-redirect) - Redirect reddit.com to teddit.net
 - [thesephist/unim.press](https://github.com/thesephist/unim.press) - A Reddit front-page reader in the style of The New York Times.
 
