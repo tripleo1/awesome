@@ -393,6 +393,7 @@ A collection of awesome things.
 ## Scala
 
 - [lihaoyi/Metascala](https://github.com/lihaoyi/Metascala) - A JVM written in Scala
+- [reggoodwin/ferrit](https://github.com/reggoodwin/ferrit) - Ferrit is a web crawler service written in Scala using Akka, Spray and Cassandra.
 
 ## Shell
 
@@ -454,6 +455,7 @@ A collection of awesome things.
 - [BruceDone/awesome-crawler](https://github.com/BruceDone/awesome-crawler) - A collection of awesome web crawler,spider in different languages
 - [DavidS95/Smokeless_UMAF](https://github.com/DavidS95/Smokeless_UMAF) - 
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+- [IntelliJIdeaKeymap4Eclipse/com.github.intellijideakeymap4eclipse.feature](https://github.com/IntelliJIdeaKeymap4Eclipse/com.github.intellijideakeymap4eclipse.feature) - 
 - [MinecraftForge/ForgeFlower](https://github.com/MinecraftForge/ForgeFlower) - Forge's modifications to FernFlower. Fixing various bugs/inconsistencies. Main Repo: https://github.com/MinecraftForge/FernFlower
 - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
 - [PaulKeeble/ScalaVErlangAgents](https://github.com/PaulKeeble/ScalaVErlangAgents) - A performance test comparing Scala verses Erlang with simple agents to determine messaging performance
