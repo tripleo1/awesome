@@ -256,6 +256,7 @@ A collection of awesome things.
 - [lengstrom/falcon](https://github.com/lengstrom/falcon) - Chrome extension for full text history search!
 - [mafintosh/abstract-chunk-store](https://github.com/mafintosh/abstract-chunk-store) - A test suite and interface you can use to implement a chunk based storage backend
 - [max-mapper/abstract-blob-store](https://github.com/max-mapper/abstract-blob-store) - A test suite and interface you can use to implement streaming file (blob) storage modules for various storage backends and platforms
+- [ollama-ui/ollama-ui](https://github.com/ollama-ui/ollama-ui) - Simple HTML UI for Ollama
 - [simon1573/teddit-redirect](https://github.com/simon1573/teddit-redirect) - Redirect reddit.com to teddit.net
 - [thesephist/unim.press](https://github.com/thesephist/unim.press) - A Reddit front-page reader in the style of The New York Times.
 
