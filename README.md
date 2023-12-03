@@ -93,6 +93,7 @@ A collection of awesome things.
 ## C++
 
 - [LemonOSProject/LemonOS](https://github.com/LemonOSProject/LemonOS) - The Lemon Operating System
+- [MeyerFabian/snow](https://github.com/MeyerFabian/snow) - B.Sc. Thesis Simulation of Snow
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [baislsl/jtiger](https://github.com/baislsl/jtiger) - 虎书tiger语言的jvm编译器
 - [briantrice/slate-language](https://github.com/briantrice/slate-language) - The Slate programming language
@@ -140,6 +141,7 @@ A collection of awesome things.
 - [Interlisp/medley](https://github.com/Interlisp/medley) - The main repo for the Medley Interlisp project. Wiki, Issues are here. Other repositories include maiko (the VM implementation) and Interlisp.github.io (web site sources)
 - [armedbear/abcl](https://github.com/armedbear/abcl) - Armed Bear Common Lisp &lt;git+https://github.com/armedbear/abcl/&gt; &lt;--&gt; &lt;svn+https://abcl.org/svn&gt; Bridge
 - [froggey/Mezzano](https://github.com/froggey/Mezzano) - An operating system written in Common Lisp
+- [jpcima/sbcl-image-builder](https://github.com/jpcima/sbcl-image-builder) - Lisp image build for SBCL
 - [kiselgra/c-mera](https://github.com/kiselgra/c-mera) - Next-level syntax for C-like languages :)
 - [pcostanza/closer-mop](https://github.com/pcostanza/closer-mop) - Closer to MOP is a compatibility layer that rectifies many of the absent or incorrect CLOS MOP features across a broad range of Common Lisp implementations.
 
@@ -166,6 +168,7 @@ A collection of awesome things.
 ## Go
 
 - [Fault-lang/Fault](https://github.com/Fault-lang/Fault) - a language for building system dynamic models
+- [MoodyReaper/multi-language-programming-playground](https://github.com/MoodyReaper/multi-language-programming-playground) - Multi-language programming playground (Go, Python, Rust, TypeScript)
 - [Xe/x](https://github.com/Xe/x) - Various tools, trinkets and experiments
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
@@ -344,6 +347,7 @@ A collection of awesome things.
 - [nix-gui/nix-gui](https://github.com/nix-gui/nix-gui) - Use NixOS Without Coding
 - [nucleic/enaml](https://github.com/nucleic/enaml) - Declarative User Interfaces for Python
 - [oduwsdl/ipwb](https://github.com/oduwsdl/ipwb) - InterPlanetary Wayback: A distributed and persistent archive replay system using IPFS
+- [oravus/seqNet](https://github.com/oravus/seqNet) - SeqNet: Code for the RA-L (ICRA) 2021 paper "SeqNet: Learning Descriptors for Sequence-Based Hierarchical Place Recognition"
 - [pixie-lang/pixie](https://github.com/pixie-lang/pixie) - A small, fast, native lisp with "magical" powers
 - [python-eel/Eel](https://github.com/python-eel/Eel) - A little Python library for making simple Electron-like HTML/JS GUI apps
 - [ravexina/csp-sudoku-solver](https://github.com/ravexina/csp-sudoku-solver) - Python + tkinter + CSP Idea / Algorithm to solve sudoko
@@ -381,6 +385,7 @@ A collection of awesome things.
 - [DieracDelta/DAWN](https://github.com/DieracDelta/DAWN) - DAWN (Debug Adapter with Nix)
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [digama0/lean-sys](https://github.com/digama0/lean-sys) - Rust bindings for the Lean 4 proof assistant
+- [dotboris/alt](https://github.com/dotboris/alt) - A simple version manager tool for switching between different versions of commands
 - [ekzhang/crepe](https://github.com/ekzhang/crepe) - Datalog compiler embedded in Rust as a procedural macro
 - [ngeor/rusty-basic](https://github.com/ngeor/rusty-basic) - An interpreter for QBasic, written in Rust.
 - [nix-community/nix-index](https://github.com/nix-community/nix-index) - Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]
@@ -403,12 +408,15 @@ A collection of awesome things.
 - [64kramsystem/zfs-installer](https://github.com/64kramsystem/zfs-installer) - Program that prepares ZFS on a system, and installs Linux
 - [OSPreservProject/amoeba](https://github.com/OSPreservProject/amoeba) - amoeba operating system
 - [c3d/mbuto](https://github.com/c3d/mbuto) - Minimal Builder Using Terse Options
+- [dlang/installer](https://github.com/dlang/installer) - dmd installers for various systems
 - [jarun/advcpmv](https://github.com/jarun/advcpmv) - A patch for GNU Core Utilities cp, mv to add progress bars
+- [kdabir/has](https://github.com/kdabir/has) - ✅ checks presence of various command line tools and their versions on the path 
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [presslabs/debuilder](https://github.com/presslabs/debuilder) - Docker images for building debian/ubuntu packages
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [trentbuck/flash-kernel-efi](https://github.com/trentbuck/flash-kernel-efi) - 
 - [trytomakeyouprivate/Fedora-TV-KDE-Bigscreen](https://github.com/trytomakeyouprivate/Fedora-TV-KDE-Bigscreen) - A Linux TV based off the immutable Fedora Kinoite, along with KDE Plasma Bigscreen, Mycroft Voice control, a modified Firefox and preinstalled Flatpak apps.
+- [version-manager/woof](https://github.com/version-manager/woof) - The version manager to end all version managers.
 - [wmutschl/mutschler.dev](https://github.com/wmutschl/mutschler.dev) - Tech blog
 - [zegl/extremely-linear](https://github.com/zegl/extremely-linear) - Extremely Linear Git History // git-linearize
 
@@ -465,6 +473,7 @@ A collection of awesome things.
 - [QianMo/Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes) - :anchor:  我的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog。涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding.
 - [X547/OberonUtils](https://github.com/X547/OberonUtils) - Utilities for Oberon/BlackBox
 - [aalhour/awesome-compilers](https://github.com/aalhour/awesome-compilers) - :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes
+- [awesome-cryosphere/cryosphere-links](https://github.com/awesome-cryosphere/cryosphere-links) - This is a link list with awesome data, models, and tools around the cryosphere.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [builtbybel/CloneApp](https://github.com/builtbybel/CloneApp) - 📦Easily Backup & Restore Windows Programs Settings
 - [bxd/advcpmv](https://github.com/bxd/advcpmv) - A patch for cp / mv to add progress bars
