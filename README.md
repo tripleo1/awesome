@@ -222,6 +222,7 @@ A collection of awesome things.
 - [eclipse/xtext](https://github.com/eclipse/xtext) - Eclipse Xtext™ is a language development framework 
 - [ericscharff/SmallWorld](https://github.com/ericscharff/SmallWorld) - Tim Budds Simple Smalltalk interpreter in Java
 - [fesh0r/fernflower](https://github.com/fesh0r/fernflower) - Unofficial mirror of FernFlower Java decompiler (All pulls should be submitted upstream)
+- [fluxtah/xtext-android-gradle-example](https://github.com/fluxtah/xtext-android-gradle-example) - Example of using xtext gradle plugin in an example project
 - [google/mail-importer](https://github.com/google/mail-importer) - Mail Importer for Gmail will upload the contents of a Thunderbird mail archive to Gmail and do its best to preserve the read state, flagged state, and folders of the messages.
 - [hassansartaj/cdst-toolkit](https://github.com/hassansartaj/cdst-toolkit) - A toolkit to automate the testing process of Cockpit Display Systems (CDS) 
 - [hassansartaj/uast-toolset](https://github.com/hassansartaj/uast-toolset) - A toolset to support automated system-level testing of unmanned aerial systems (UAS). 
@@ -231,6 +232,7 @@ A collection of awesome things.
 - [jnode-revisited/nuix-java-fs](https://github.com/jnode-revisited/nuix-java-fs) - Various file system implementations based on the code of the JNode operating system
 - [jnode/jnode](https://github.com/jnode/jnode) - Code for the JNode operating system
 - [kaby76/AntlrVSIX](https://github.com/kaby76/AntlrVSIX) - AntlrVSIX is a language server for use with Visual Studio 2019, Visual Studio Code, and Gnu Emacs to support Antlr, Bison, and W3C EBNF grammars. In addition to the IDE extensions provided here, a command-line tool is available to refactor grammars in order to make them cleaner, more readable, and more efficient.
+- [kukido/eclipser](https://github.com/kukido/eclipser) - Eclipser is an IntelliJ plugin. It converts Eclipse launch configurations into IntelliJ IDEA run configurations.
 - [madhephaestus/OmniscientDebugger](https://github.com/madhephaestus/OmniscientDebugger) - Bil Lewis' Omniscient Debugger for Java. Also known as ODB
 - [magnusja/java-fs](https://github.com/magnusja/java-fs) - Various file system implementations based on the code of the JNode operating system
 - [matthewmccullough/OmniscientDebugger](https://github.com/matthewmccullough/OmniscientDebugger) - Bil Lewis' Omniscient Debugger for Java. Also known as ODB
@@ -450,6 +452,7 @@ A collection of awesome things.
 ## Xtend
 
 - [kbirken/xtendency](https://github.com/kbirken/xtendency) - A collection of neat tools related to the Xtend language.
+- [xtext/xtext-gradle-plugin](https://github.com/xtext/xtext-gradle-plugin) - Gradle plugins for using Xtext and Xtend
 
 ## Zig
 
@@ -482,10 +485,12 @@ A collection of awesome things.
 - [diasks2/ruby-nlp](https://github.com/diasks2/ruby-nlp) - A collection of links to Ruby Natural Language Processing (NLP) libraries, tools and software
 - [digitalformula/qclocktwo](https://github.com/digitalformula/qclocktwo) - 
 - [fasten-project/Debian-license-collector](https://github.com/fasten-project/Debian-license-collector) - 
+- [ftomassetti/awesome-compilers](https://github.com/ftomassetti/awesome-compilers) - :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes
 - [gerardokaztro/cybersecurity-entry-level](https://github.com/gerardokaztro/cybersecurity-entry-level) - Curso para aprender Ciberseguridad desde cero, en español y 100% gratis. Abarca 5 dominios fundamentales que necesitas conocer para poder dar tus primeros pasos en este apasionante mundo.
 - [gunnarmorling/awesome-annotation-processing](https://github.com/gunnarmorling/awesome-annotation-processing) - A curated list of resources related to the Java annotation processing API (JSR 269)
 - [gutenye/syncthing-kindle](https://github.com/gutenye/syncthing-kindle) - Setup Syncthing on Kindle Touch
 - [hardikvasa/awesome-programming](https://github.com/hardikvasa/awesome-programming) - A curated list of awesome programming talks, articles, books, resources and more!!
+- [hrj/awesome-eclipse](https://github.com/hrj/awesome-eclipse) - List of awesome plugins and other resources for eclipse
 - [phoe/the-elusive-language](https://github.com/phoe/the-elusive-language) - A small Common Lisp-related art project.
 - [pysemtec/semantic-python-overview](https://github.com/pysemtec/semantic-python-overview) - (subjective) overview of projects which are related both to python and semantic technologies (RDF, OWL, Reasoning, ...)
 - [replayio/gecko-dev](https://github.com/replayio/gecko-dev) - Record Replay gecko based browser source
