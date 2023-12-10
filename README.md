@@ -64,6 +64,7 @@ A collection of awesome things.
 ## C
 
 - [9fans/drawterm](https://github.com/9fans/drawterm) - Connect to Plan 9 CPU servers from other operating systems.
+- [D-os/dos](https://github.com/D-os/dos) - D/os source code super-repo
 - [MazinCE/RISC-V-Computer-2.0](https://github.com/MazinCE/RISC-V-Computer-2.0) - An educational RISC-V based computer build with Logisim
 - [Old-Man-Programmer/tree](https://github.com/Old-Man-Programmer/tree) - Tree for Unix/LInux
 - [a0rtega/pafish](https://github.com/a0rtega/pafish) - Pafish is a testing tool that uses different techniques to detect virtual machines and malware analysis environments in the same way that malware families do
@@ -92,6 +93,8 @@ A collection of awesome things.
 
 ## C++
 
+- [HaikuArchives/BeFree](https://github.com/HaikuArchives/BeFree) - BeOS API and desktop on top of the Linux kernel.
+- [HaikuArchives/EasyToolkitAndExtension](https://github.com/HaikuArchives/EasyToolkitAndExtension) - A toolkit and extension on BeOS/Windows/POSIX, a little like the BeOS API on platforms other than BeOS.
 - [LemonOSProject/LemonOS](https://github.com/LemonOSProject/LemonOS) - The Lemon Operating System
 - [MeyerFabian/snow](https://github.com/MeyerFabian/snow) - B.Sc. Thesis Simulation of Snow
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
