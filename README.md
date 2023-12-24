@@ -208,7 +208,6 @@ A collection of awesome things.
 
 ## Java
 
-- [DBIS-UniKN/intellij-oberon](https://github.com/DBIS-UniKN/intellij-oberon) - A plugin to support the Oberon programming language in JetBrains IDEs.
 - [Hjertesvikt/HjerteLib](https://github.com/Hjertesvikt/HjerteLib) - 
 - [HotswapProjects/HotswapAgent](https://github.com/HotswapProjects/HotswapAgent) - Java unlimited redefinition of classes at runtime.
 - [Nuix/jnode-fs](https://github.com/Nuix/jnode-fs) - Various file system implementations based on the code of the JNode operating system
@@ -222,6 +221,7 @@ A collection of awesome things.
 - [bsideup/jabel](https://github.com/bsideup/jabel) - Jabel - unlock Javac 9+ syntax when targeting Java 8
 - [centic9/jgit-cookbook](https://github.com/centic9/jgit-cookbook) - Provides examples and code snippets for the JGit Java Git implementation
 - [cpater/iDontCare](https://github.com/cpater/iDontCare) - a java agent that turns a java.lang.NullPointerException in what it really means.
+- [dbis-ukon/intellij-oberon](https://github.com/dbis-ukon/intellij-oberon) - A plugin to support the Oberon programming language in JetBrains IDEs.
 - [eclipse-openj9/openj9](https://github.com/eclipse-openj9/openj9) - Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high throughput.   Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with the Extensions for OpenJDK for OpenJ9 repo.
 - [eclipse/xtext](https://github.com/eclipse/xtext) - Eclipse Xtext™ is a language development framework 
 - [ericscharff/SmallWorld](https://github.com/ericscharff/SmallWorld) - Tim Budds Simple Smalltalk interpreter in Java
