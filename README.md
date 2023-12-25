@@ -184,11 +184,13 @@ A collection of awesome things.
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [j-keck/zsd](https://github.com/j-keck/zsd) - cli tool to find older versions of a given file in your zfs snapshots.
 - [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup) - Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox or SSH compatible storage
+- [osminum/ink](https://github.com/osminum/ink) - Ink is a minimal programming language inspired by modern JavaScript and Go, with functional style.
 - [perkeep/perkeep](https://github.com/perkeep/perkeep) - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
 - [psilva261/opossum](https://github.com/psilva261/opossum) - Rudimentary web browser written in Golang
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
 - [slotix/dataflowkit](https://github.com/slotix/dataflowkit) - Extract structured data from web sites. Web sites scraping.  
+- [thesephist/ink](https://github.com/thesephist/ink) - Ink is a minimal programming language inspired by modern JavaScript and Go, with functional style.
 - [vdemeester/docker-volume-ipfs](https://github.com/vdemeester/docker-volume-ipfs) - 🐳 This is an open source volume plugin that allows using an ipfs filesystem as a volume.
 - [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero) - Backup and migrate Kubernetes applications and their persistent volumes
 - [wabarc/wayback](https://github.com/wabarc/wayback) - An archiving tool with an IM-style interface that prioritizes privacy and accessibility, integrated with various archival services including Internet Archive, archive.today, IPFS, Telegraph, and file systems.
@@ -199,6 +201,7 @@ A collection of awesome things.
 - [MahdiF/taptaptap](https://github.com/MahdiF/taptaptap) - 🕹 Open Source Javascript Game
 - [hundredrabbits/100r.co](https://github.com/hundredrabbits/100r.co) - Official Website
 - [oberon-lang/oberon-lang.github.io](https://github.com/oberon-lang/oberon-lang.github.io) - The Oberon+ Programming Language
+- [permazen/permazen](https://github.com/permazen/permazen) - Language-Natural Persistence Layer for Java
 - [viebel/klipse](https://github.com/viebel/klipse) - Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs.
 
 ## Haskell
@@ -228,6 +231,7 @@ A collection of awesome things.
 - [fesh0r/fernflower](https://github.com/fesh0r/fernflower) - Unofficial mirror of FernFlower Java decompiler (All pulls should be submitted upstream)
 - [fluxtah/xtext-android-gradle-example](https://github.com/fluxtah/xtext-android-gradle-example) - Example of using xtext gradle plugin in an example project
 - [google/mail-importer](https://github.com/google/mail-importer) - Mail Importer for Gmail will upload the contents of a Thunderbird mail archive to Gmail and do its best to preserve the read state, flagged state, and folders of the messages.
+- [google/truth](https://github.com/google/truth) - Fluent assertions for Java and Android
 - [hassansartaj/cdst-toolkit](https://github.com/hassansartaj/cdst-toolkit) - A toolkit to automate the testing process of Cockpit Display Systems (CDS) 
 - [hassansartaj/uast-toolset](https://github.com/hassansartaj/uast-toolset) - A toolset to support automated system-level testing of unmanned aerial systems (UAS). 
 - [heidisu/java8kanren](https://github.com/heidisu/java8kanren) - Implementation of minikanren in java
@@ -255,6 +259,7 @@ A collection of awesome things.
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
 - [MineDojo/Voyager](https://github.com/MineDojo/Voyager) - An Open-Ended Embodied Agent with Large Language Models
 - [RAJAGOPALAN-GANGADHARAN/JS-OS](https://github.com/RAJAGOPALAN-GANGADHARAN/JS-OS) - An Unified Operating System on the web
+- [Swatinem/diff](https://github.com/Swatinem/diff) - implementation of myers diff algorithm
 - [WardCunningham/remodeling](https://github.com/WardCunningham/remodeling) - The original wiki rewritten as a single page application
 - [az0/linkgopher](https://github.com/az0/linkgopher) - Firefox/Google Chrome add-on: Extracts all links from web page, sorts them, removes duplicates, and displays them in a new tab for inspection or copy and paste into other systems.
 - [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
@@ -266,6 +271,7 @@ A collection of awesome things.
 - [mafintosh/abstract-chunk-store](https://github.com/mafintosh/abstract-chunk-store) - A test suite and interface you can use to implement a chunk based storage backend
 - [max-mapper/abstract-blob-store](https://github.com/max-mapper/abstract-blob-store) - A test suite and interface you can use to implement streaming file (blob) storage modules for various storage backends and platforms
 - [ollama-ui/ollama-ui](https://github.com/ollama-ui/ollama-ui) - Simple HTML UI for Ollama
+- [reimertz/curse-words](https://github.com/reimertz/curse-words) - 
 - [simon1573/teddit-redirect](https://github.com/simon1573/teddit-redirect) - Redirect reddit.com to teddit.net
 - [thesephist/unim.press](https://github.com/thesephist/unim.press) - A Reddit front-page reader in the style of The New York Times.
 
@@ -279,8 +285,10 @@ A collection of awesome things.
 
 ## Kotlin
 
+- [CASC-Lang/Yakou](https://github.com/CASC-Lang/Yakou) - A Go Lang / V Lang / Rust syntax approach in JVM language.
 - [V9vek/Sorting-Visualizer](https://github.com/V9vek/Sorting-Visualizer) - Visualizes various sorting algorithms
 - [tateisu/SubwayTooter](https://github.com/tateisu/SubwayTooter) - Mastodon client app for Android
+- [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing) - A library for testing Kotlin and Java annotation processors, compiler plugins and code generation
 
 ## Lua
 
@@ -328,6 +336,7 @@ A collection of awesome things.
 - [BruceDLong/CodeDog](https://github.com/BruceDLong/CodeDog) - Auto-generate programs in C derived languages for multiple platforms
 - [FirmWire/FirmWire](https://github.com/FirmWire/FirmWire) - FirmWire is a full-system baseband firmware emulation platform for fuzzing, debugging, and root-cause analysis of smartphone baseband firmwares
 - [LunaTMT/Snake](https://github.com/LunaTMT/Snake) - Snake created with Pygame
+- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [Wanderson-Magalhaes/Modern_GUI_PyDracula_PySide6_or_PyQt6](https://github.com/Wanderson-Magalhaes/Modern_GUI_PyDracula_PySide6_or_PyQt6) - 
 - [alxschwrz/codex_py2cpp](https://github.com/alxschwrz/codex_py2cpp) - Converts python code into c++ by using OpenAI CODEX.
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
@@ -350,6 +359,7 @@ A collection of awesome things.
 - [martin68/apt-smart](https://github.com/martin68/apt-smart) - apt-smart: Smart, automated, robust apt-get mirror selection for Debian, Ubuntu and Linux Mint
 - [mist64/c64ref](https://github.com/mist64/c64ref) - Ultimate Commodore 64 Reference: ROM Disassembly, Memory Map, ...
 - [multiformats/py-multibase](https://github.com/multiformats/py-multibase) - Multibase implementation in Python
+- [nikitastupin/clairvoyance](https://github.com/nikitastupin/clairvoyance) - Obtain GraphQL API schema even if the introspection is disabled
 - [nix-gui/nix-gui](https://github.com/nix-gui/nix-gui) - Use NixOS Without Coding
 - [nucleic/enaml](https://github.com/nucleic/enaml) - Declarative User Interfaces for Python
 - [oduwsdl/ipwb](https://github.com/oduwsdl/ipwb) - InterPlanetary Wayback: A distributed and persistent archive replay system using IPFS
@@ -448,6 +458,7 @@ A collection of awesome things.
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
 - [mihailtd/starter](https://github.com/mihailtd/starter) - Project Starter template using VueJS, Vite, GraphQL backend with PostGraphile, PostgreSQL database in Kubernetes with Crunchy Postgres Operator, local Kubernetes development with DevSpace and auto generated code with graphql-code-generator.
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
+- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 
 ## V
 
@@ -474,6 +485,8 @@ A collection of awesome things.
 - [DavidS95/Smokeless_UMAF](https://github.com/DavidS95/Smokeless_UMAF) - 
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [IntelliJIdeaKeymap4Eclipse/com.github.intellijideakeymap4eclipse.feature](https://github.com/IntelliJIdeaKeymap4Eclipse/com.github.intellijideakeymap4eclipse.feature) - 
+- [LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) - List of Dirty, Naughty, Obscene, and Otherwise Bad Words
+- [MauriceButler/badwords](https://github.com/MauriceButler/badwords) - A highly consumable list of bad (profanity) english words
 - [MinecraftForge/ForgeFlower](https://github.com/MinecraftForge/ForgeFlower) - Forge's modifications to FernFlower. Fixing various bugs/inconsistencies. Main Repo: https://github.com/MinecraftForge/FernFlower
 - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
 - [PaulKeeble/ScalaVErlangAgents](https://github.com/PaulKeeble/ScalaVErlangAgents) - A performance test comparing Scala verses Erlang with simple agents to determine messaging performance
@@ -490,6 +503,7 @@ A collection of awesome things.
 - [diasks2/ruby-nlp](https://github.com/diasks2/ruby-nlp) - A collection of links to Ruby Natural Language Processing (NLP) libraries, tools and software
 - [digitalformula/qclocktwo](https://github.com/digitalformula/qclocktwo) - 
 - [fasten-project/Debian-license-collector](https://github.com/fasten-project/Debian-license-collector) - 
+- [first20hours/google-10000-english](https://github.com/first20hours/google-10000-english) - This repo contains a list of the 10,000 most common English words in order of frequency, as determined by n-gram frequency analysis of the Google's Trillion Word Corpus.
 - [ftomassetti/awesome-compilers](https://github.com/ftomassetti/awesome-compilers) - :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes
 - [gerardokaztro/cybersecurity-entry-level](https://github.com/gerardokaztro/cybersecurity-entry-level) - Curso para aprender Ciberseguridad desde cero, en español y 100% gratis. Abarca 5 dominios fundamentales que necesitas conocer para poder dar tus primeros pasos en este apasionante mundo.
 - [gunnarmorling/awesome-annotation-processing](https://github.com/gunnarmorling/awesome-annotation-processing) - A curated list of resources related to the Java annotation processing API (JSR 269)
