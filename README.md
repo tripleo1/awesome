@@ -451,7 +451,6 @@ A collection of awesome things.
 
 ## TypeScript
 
-- [Millera0/private](https://github.com/Millera0/private) - This project has been deleted to avoid legal risks.
 - [bleedingedgeai/bleedingedge.ai](https://github.com/bleedingedgeai/bleedingedge.ai) - Bleeding edge is a feed of noteworthy developments in AI and machine learning.
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
 - [luooooob/create-my-awesome](https://github.com/luooooob/create-my-awesome) - Github Actions for automatically generating the personal awesome list from all of the repositories you starred.
@@ -459,6 +458,7 @@ A collection of awesome things.
 - [mihailtd/starter](https://github.com/mihailtd/starter) - Project Starter template using VueJS, Vite, GraphQL backend with PostGraphile, PostgreSQL database in Kubernetes with Crunchy Postgres Operator, local Kubernetes development with DevSpace and auto generated code with graphql-code-generator.
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
+- [zu1k/bs-core](https://github.com/zu1k/bs-core) - 
 
 ## V
 
