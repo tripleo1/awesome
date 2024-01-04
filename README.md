@@ -70,6 +70,7 @@ A collection of awesome things.
 - [a0rtega/pafish](https://github.com/a0rtega/pafish) - Pafish is a testing tool that uses different techniques to detect virtual machines and malware analysis environments in the same way that malware families do
 - [aheck/clib](https://github.com/aheck/clib) - Header-only library for C99 that implements the most important classes from GLib: GArray, GHashTable, GList and GString.
 - [civboot/fngi](https://github.com/civboot/fngi) - a readable language that grows from the silicon
+- [cmu-sei/SCALe](https://github.com/cmu-sei/SCALe) - SCALe (Source Code Analysis Lab) is a static analysis aggregator/correlator which enables a source code analyst to combine static analysis results from multiple tools into one interface, and also provides mappings for diagnostics from the tools to the SEI CERT Secure Coding standards.
 - [console-tools/moc](https://github.com/console-tools/moc) - Music On Console
 - [containers/composefs](https://github.com/containers/composefs) - a file system for mounting container images
 - [dspinellis/cscout](https://github.com/dspinellis/cscout) - C code refactoring browser
@@ -101,6 +102,7 @@ A collection of awesome things.
 - [baislsl/jtiger](https://github.com/baislsl/jtiger) - 虎书tiger语言的jvm编译器
 - [briantrice/slate-language](https://github.com/briantrice/slate-language) - The Slate programming language
 - [c3d/xl](https://github.com/c3d/xl) - A minimalist, general-purpose programming language based on meta-programming and parse tree rewrites
+- [cmu-sei/pharos](https://github.com/cmu-sei/pharos) - Automated static analysis tools for binary programs
 - [facebook/redex](https://github.com/facebook/redex) - A bytecode optimizer for Android apps
 - [impedimentToProgress/Ratchet](https://github.com/impedimentToProgress/Ratchet) - Ratchet source code from OSDI 2016
 - [managarm/managarm](https://github.com/managarm/managarm) - Pragmatic microkernel-based OS with fully asynchronous I/O
@@ -223,6 +225,7 @@ A collection of awesome things.
 - [arnetheduck/j2c](https://github.com/arnetheduck/j2c) - Java to C++ translator
 - [bsideup/jabel](https://github.com/bsideup/jabel) - Jabel - unlock Javac 9+ syntax when targeting Java 8
 - [centic9/jgit-cookbook](https://github.com/centic9/jgit-cookbook) - Provides examples and code snippets for the JGit Java Git implementation
+- [cmu-sei/kaiju](https://github.com/cmu-sei/kaiju) - CERT Kaiju is a binary analysis framework extension for the Ghidra software reverse engineering suite. This repository is a "mirror" -- please file tickets, bug reports, or pull requests at the upstream home in @CERTCC: https://github.com/certcc/kaiju
 - [cpater/iDontCare](https://github.com/cpater/iDontCare) - a java agent that turns a java.lang.NullPointerException in what it really means.
 - [dbis-ukon/intellij-oberon](https://github.com/dbis-ukon/intellij-oberon) - A plugin to support the Oberon programming language in JetBrains IDEs.
 - [eclipse-openj9/openj9](https://github.com/eclipse-openj9/openj9) - Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high throughput.   Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with the Extensions for OpenJDK for OpenJ9 repo.
