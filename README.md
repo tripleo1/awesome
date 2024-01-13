@@ -228,6 +228,7 @@ A collection of awesome things.
 - [clarkware/jdepend](https://github.com/clarkware/jdepend) - A Java package dependency analyzer that generates design quality metrics.
 - [cmu-sei/kaiju](https://github.com/cmu-sei/kaiju) - CERT Kaiju is a binary analysis framework extension for the Ghidra software reverse engineering suite. This repository is a "mirror" -- please file tickets, bug reports, or pull requests at the upstream home in @CERTCC: https://github.com/certcc/kaiju
 - [cpater/iDontCare](https://github.com/cpater/iDontCare) - a java agent that turns a java.lang.NullPointerException in what it really means.
+- [cprice404/la-clojure](https://github.com/cprice404/la-clojure) - Clojure plugin for IntelliJ IDEA
 - [dbis-ukon/intellij-oberon](https://github.com/dbis-ukon/intellij-oberon) - A plugin to support the Oberon programming language in JetBrains IDEs.
 - [eclipse-openj9/openj9](https://github.com/eclipse-openj9/openj9) - Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high throughput.   Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with the Extensions for OpenJDK for OpenJ9 repo.
 - [eclipse/xtext](https://github.com/eclipse/xtext) - Eclipse Xtext™ is a language development framework 
@@ -277,6 +278,7 @@ A collection of awesome things.
 - [ollama-ui/ollama-ui](https://github.com/ollama-ui/ollama-ui) - Simple HTML UI for Ollama
 - [reimertz/curse-words](https://github.com/reimertz/curse-words) - 
 - [simon1573/teddit-redirect](https://github.com/simon1573/teddit-redirect) - Redirect reddit.com to teddit.net
+- [simonw/simonwillisonblog](https://github.com/simonw/simonwillisonblog) - The source code behind my blog
 - [thesephist/unim.press](https://github.com/thesephist/unim.press) - A Reddit front-page reader in the style of The New York Times.
 
 ## Jinja
