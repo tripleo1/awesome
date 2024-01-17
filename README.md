@@ -41,6 +41,7 @@ A collection of awesome things.
 - [Scala](#scala)
 - [Shell](#shell)
 - [Smalltalk](#smalltalk)
+- [StringTemplate](#stringtemplate)
 - [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
@@ -448,6 +449,10 @@ A collection of awesome things.
 
 - [sbragagnolo/Xtreams](https://github.com/sbragagnolo/Xtreams) - Xtream project fork. Migration to Pharo. 
 - [seandenigris/Xtreams-Pharo](https://github.com/seandenigris/Xtreams-Pharo) - 
+
+## StringTemplate
+
+- [Cuis-Smalltalk/TheCuisBook](https://github.com/Cuis-Smalltalk/TheCuisBook) - A book about Cuis Smalltalk
 
 ## Swift
 
