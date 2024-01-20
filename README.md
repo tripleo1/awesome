@@ -281,7 +281,7 @@ A collection of awesome things.
 - [max-mapper/abstract-blob-store](https://github.com/max-mapper/abstract-blob-store) - A test suite and interface you can use to implement streaming file (blob) storage modules for various storage backends and platforms
 - [ollama-ui/ollama-ui](https://github.com/ollama-ui/ollama-ui) - Simple HTML UI for Ollama
 - [reimertz/curse-words](https://github.com/reimertz/curse-words) - 
-- [simon1573/libreddit-redirect](https://github.com/simon1573/libreddit-redirect) - Redirect reddit.com to a libre alternatives
+- [simon1573/redlib-redirect](https://github.com/simon1573/redlib-redirect) - Redirect reddit.com to a libre alternatives
 - [simonw/simonwillisonblog](https://github.com/simonw/simonwillisonblog) - The source code behind my blog
 - [thesephist/unim.press](https://github.com/thesephist/unim.press) - A Reddit front-page reader in the style of The New York Times.
 
