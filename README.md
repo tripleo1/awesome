@@ -116,6 +116,7 @@ A collection of awesome things.
 - [raulcostajunior/obc](https://github.com/raulcostajunior/obc) - An Oberon 07 to LLVM IR compiler.
 - [ria-jit/ria-jit](https://github.com/ria-jit/ria-jit) - Lightweight and performant dynamic binary translation for RISC–V code on x86–64
 - [robertoraggi/cplusplus](https://github.com/robertoraggi/cplusplus) - A compiler front end for the C++ language
+- [rochus-keller/ActiveOberon](https://github.com/rochus-keller/ActiveOberon) - Parser and code browser for the ActiveOberon language (original version from 2004)
 - [rochus-keller/Are-we-fast-yet](https://github.com/rochus-keller/Are-we-fast-yet) - Implementations of the Are-we-fast-yet benchmark suite in Oberon+ and C++
 - [rochus-keller/OberonSystem](https://github.com/rochus-keller/OberonSystem) - Modified version of the original from http://www.projectoberon.com/ for use with the Oberon IDE
 - [snej/smol_world](https://github.com/snej/smol_world) - Compact garbage-collected heap and JSON-like object model
@@ -311,6 +312,7 @@ A collection of awesome things.
 
 ## Modula-2
 
+- [OberonSystem3/AOS_Bluebottle_Sources](https://github.com/OberonSystem3/AOS_Bluebottle_Sources) - This is the source code of the last stable release of the ETH AOS/Bluebottle System, dated March 12, 2004, in plain ISO 8859-1 UTF-8 text files
 - [OberonSystem3/Release_2.3.7_Sources](https://github.com/OberonSystem3/Release_2.3.7_Sources) - This is the source code of the Oberon System 3 Release 2.3.7 in plain ISO 8859-1 UTF-8 text files 
 - [rochus-keller/OberonSystem3](https://github.com/rochus-keller/OberonSystem3) - A cross-platform version of the ETH Oberon System 3 compatible with the Oberon+ compiler and IDE
 
@@ -525,10 +527,12 @@ A collection of awesome things.
 - [gutenye/syncthing-kindle](https://github.com/gutenye/syncthing-kindle) - Setup Syncthing on Kindle Touch
 - [hardikvasa/awesome-programming](https://github.com/hardikvasa/awesome-programming) - A curated list of awesome programming talks, articles, books, resources and more!!
 - [hrj/awesome-eclipse](https://github.com/hrj/awesome-eclipse) - List of awesome plugins and other resources for eclipse
+- [jelmer/awesome-codemods](https://github.com/jelmer/awesome-codemods) - Curated list of tools that can fix your code for you
 - [jossthev/linda](https://github.com/jossthev/linda) - Creation of a data shared space, based on Linda pattern, using Java (multi-threading, RMI)
 - [phoe/the-elusive-language](https://github.com/phoe/the-elusive-language) - A small Common Lisp-related art project.
 - [pysemtec/semantic-python-overview](https://github.com/pysemtec/semantic-python-overview) - (subjective) overview of projects which are related both to python and semantic technologies (RDF, OWL, Reasoning, ...)
 - [replayio/gecko-dev](https://github.com/replayio/gecko-dev) - Record Replay gecko based browser source
+- [rishirdua/awesome-code-formatters](https://github.com/rishirdua/awesome-code-formatters) - A curated list of awesome code formatting tools and libraries
 - [sanmak/awesome-blogs](https://github.com/sanmak/awesome-blogs) - List of awesome blogs run, managed by a human or two and not an organisation, company or institution.
 - [sjh258933/IntelliJGit](https://github.com/sjh258933/IntelliJGit) - 
 - [swyxio/buying-domains](https://github.com/swyxio/buying-domains) - useful data and advice for buying domains.
