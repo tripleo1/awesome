@@ -269,6 +269,7 @@ A collection of awesome things.
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
 - [MineDojo/Voyager](https://github.com/MineDojo/Voyager) - An Open-Ended Embodied Agent with Large Language Models
 - [Moon-0xff/gnome-mpris-label](https://github.com/Moon-0xff/gnome-mpris-label) - A music related GNOME extension.
+- [Overhear8805/redlib-redirect](https://github.com/Overhear8805/redlib-redirect) - Redirect reddit.com to a libre alternatives
 - [RAJAGOPALAN-GANGADHARAN/JS-OS](https://github.com/RAJAGOPALAN-GANGADHARAN/JS-OS) - An Unified Operating System on the web
 - [Swatinem/diff](https://github.com/Swatinem/diff) - implementation of myers diff algorithm
 - [WardCunningham/remodeling](https://github.com/WardCunningham/remodeling) - The original wiki rewritten as a single page application
@@ -283,7 +284,6 @@ A collection of awesome things.
 - [max-mapper/abstract-blob-store](https://github.com/max-mapper/abstract-blob-store) - A test suite and interface you can use to implement streaming file (blob) storage modules for various storage backends and platforms
 - [ollama-ui/ollama-ui](https://github.com/ollama-ui/ollama-ui) - Simple HTML UI for Ollama
 - [reimertz/curse-words](https://github.com/reimertz/curse-words) - 
-- [simon1573/redlib-redirect](https://github.com/simon1573/redlib-redirect) - Redirect reddit.com to a libre alternatives
 - [simonw/simonwillisonblog](https://github.com/simonw/simonwillisonblog) - The source code behind my blog
 - [thesephist/unim.press](https://github.com/thesephist/unim.press) - A Reddit front-page reader in the style of The New York Times.
 
