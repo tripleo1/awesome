@@ -107,7 +107,7 @@ A collection of awesome things.
 - [facebook/redex](https://github.com/facebook/redex) - A bytecode optimizer for Android apps
 - [impedimentToProgress/Ratchet](https://github.com/impedimentToProgress/Ratchet) - Ratchet source code from OSDI 2016
 - [managarm/managarm](https://github.com/managarm/managarm) - Pragmatic microkernel-based OS with fully asynchronous I/O
-- [mhx/dwarfs](https://github.com/mhx/dwarfs) - A fast high compression read-only file system for Linux and Windows
+- [mhx/dwarfs](https://github.com/mhx/dwarfs) - A fast high compression read-only file system for Linux, Windows and macOS
 - [nucleic/kiwi](https://github.com/nucleic/kiwi) - Efficient C++ implementation of the Cassowary constraint solving algorithm
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
 - [onflapp/gs-desktop](https://github.com/onflapp/gs-desktop) - GNUstep Desktop
