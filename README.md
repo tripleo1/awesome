@@ -79,8 +79,10 @@ A collection of awesome things.
 - [github/securitylab](https://github.com/github/securitylab) - Resources related to GitHub Security Lab
 - [idunham/tinyxserver](https://github.com/idunham/tinyxserver) - A small X server, based on Xorg 1.2 but with security fixes.
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
+- [jonathanhogg/usepackage](https://github.com/jonathanhogg/usepackage) - Usepackage Environment Manager
 - [kernc/xsuspender](https://github.com/kernc/xsuspender) - :eyes: :computer: :zzz: :battery: Save battery by auto-suspending unfocused X11 applications.
 - [littlekernel/lk](https://github.com/littlekernel/lk) - LK embedded kernel
+- [phmarek/fsvs](https://github.com/phmarek/fsvs) - Full System Versioning System
 - [pixeltris/webc86](https://github.com/pixeltris/webc86) - Compile / run C in a web browser via TCC / x86 emulation
 - [ponylang/ponyc](https://github.com/ponylang/ponyc) - Pony is an open-source, actor-model, capabilities-secure, high performance programming language
 - [tinycorelinux/tinyx](https://github.com/tinycorelinux/tinyx) - 
@@ -143,7 +145,7 @@ A collection of awesome things.
 - [razum2um/awesome-clojure](https://github.com/razum2um/awesome-clojure) - A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff
 - [seancorfield/honeysql](https://github.com/seancorfield/honeysql) - Turn Clojure data structures into SQL
 - [sixthnormal/clj-3df](https://github.com/sixthnormal/clj-3df) - Clojure(Script) client for Declarative Dataflow.
-- [taoensso/sente](https://github.com/taoensso/sente) - Realtime web comms for Clojure/Script applications
+- [taoensso/sente](https://github.com/taoensso/sente) - Realtime web comms library for Clojure/Script
 - [weavejester/integrant](https://github.com/weavejester/integrant) - Micro-framework for data-driven architecture
 
 ## Common Lisp
