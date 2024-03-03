@@ -160,6 +160,7 @@ A collection of awesome things.
 ## D
 
 - [intellij-dlanguage/intellij-dlanguage](https://github.com/intellij-dlanguage/intellij-dlanguage) - Intellij Plugin for the D Programming Language
+- [nin-jin/tree.d](https://github.com/nin-jin/tree.d) - Tree - simple fast compact user-readable binary-safe extensible structural format
 
 ## Dart
 
@@ -242,6 +243,7 @@ A collection of awesome things.
 - [ericscharff/SmallWorld](https://github.com/ericscharff/SmallWorld) - Tim Budds Simple Smalltalk interpreter in Java
 - [fesh0r/fernflower](https://github.com/fesh0r/fernflower) - Unofficial mirror of FernFlower Java decompiler (All pulls should be submitted upstream)
 - [fluxtah/xtext-android-gradle-example](https://github.com/fluxtah/xtext-android-gradle-example) - Example of using xtext gradle plugin in an example project
+- [gbpaixao/Creating-Programming-Language-with-SableCC](https://github.com/gbpaixao/Creating-Programming-Language-with-SableCC) - Building programming language using SableCC in Eclipse Java.
 - [google/mail-importer](https://github.com/google/mail-importer) - Mail Importer for Gmail will upload the contents of a Thunderbird mail archive to Gmail and do its best to preserve the read state, flagged state, and folders of the messages.
 - [google/truth](https://github.com/google/truth) - Fluent assertions for Java and Android
 - [hassansartaj/cdst-toolkit](https://github.com/hassansartaj/cdst-toolkit) - A toolkit to automate the testing process of Cockpit Display Systems (CDS) 
@@ -353,6 +355,7 @@ A collection of awesome things.
 - [FirmWire/FirmWire](https://github.com/FirmWire/FirmWire) - FirmWire is a full-system baseband firmware emulation platform for fuzzing, debugging, and root-cause analysis of smartphone baseband firmwares
 - [JohannesBuchner/chunk-fuse](https://github.com/JohannesBuchner/chunk-fuse) - Filesystem in User Space (fuse) using compressed and encrypted chunks
 - [LunaTMT/Snake](https://github.com/LunaTMT/Snake) - Snake created with Pygame
+- [NixIPFS/nixipfs-scripts](https://github.com/NixIPFS/nixipfs-scripts) - Mirror a Hydra jobset using IPFS or plain rsync
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [Wanderson-Magalhaes/Modern_GUI_PyDracula_PySide6_or_PyQt6](https://github.com/Wanderson-Magalhaes/Modern_GUI_PyDracula_PySide6_or_PyQt6) - 
 - [alxschwrz/codex_py2cpp](https://github.com/alxschwrz/codex_py2cpp) - Converts python code into c++ by using OpenAI CODEX.
