@@ -32,7 +32,6 @@ A collection of awesome things.
 - [Perl](#perl)
 - [Python](#python)
 - [QML](#qml)
-- [Reason](#reason)
 - [Rich Text Format](#rich-text-format)
 - [Roff](#roff)
 - [Ruby](#ruby)
@@ -209,6 +208,7 @@ A collection of awesome things.
 ## HTML
 
 - [MahdiF/taptaptap](https://github.com/MahdiF/taptaptap) - 🕹 Open Source Javascript Game
+- [bbonamin/strftimeslikethese](https://github.com/bbonamin/strftimeslikethese) - A Ruby WASM implementation, fully client-side, inspired by foragoodstrftime.com
 - [hundredrabbits/100r.co](https://github.com/hundredrabbits/100r.co) - Official Website
 - [oberon-lang/oberon-lang.github.io](https://github.com/oberon-lang/oberon-lang.github.io) - The Oberon+ Programming Language
 - [permazen/permazen](https://github.com/permazen/permazen) - Language-Natural Persistence Layer for Java
@@ -329,6 +329,7 @@ A collection of awesome things.
 ## OCaml
 
 - [Spivoxity/obc-3](https://github.com/Spivoxity/obc-3) - Oxford Oberon-2 compiler
+- [dmtrKovalenko/odiff](https://github.com/dmtrKovalenko/odiff) - The fastest pixel-by-pixel image visual difference tool in the world.
 - [janestreet/incremental](https://github.com/janestreet/incremental) - A library for incremental computations
 
 ## Objective-C
@@ -395,10 +396,6 @@ A collection of awesome things.
 ## QML
 
 - [Wanderson-Magalhaes/Circular_ProgressBar](https://github.com/Wanderson-Magalhaes/Circular_ProgressBar) - 
-
-## Reason
-
-- [dmtrKovalenko/odiff](https://github.com/dmtrKovalenko/odiff) - The fastest pixel-by-pixel image visual difference tool in the world.
 
 ## Rich Text Format
 
