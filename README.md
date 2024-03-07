@@ -536,6 +536,7 @@ A collection of awesome things.
 - [jelmer/awesome-codemods](https://github.com/jelmer/awesome-codemods) - Curated list of tools that can fix your code for you
 - [jossthev/linda](https://github.com/jossthev/linda) - Creation of a data shared space, based on Linda pattern, using Java (multi-threading, RMI)
 - [phoe/the-elusive-language](https://github.com/phoe/the-elusive-language) - A small Common Lisp-related art project.
+- [photopea/photopea](https://github.com/photopea/photopea) - Photopea is online image editor
 - [pysemtec/semantic-python-overview](https://github.com/pysemtec/semantic-python-overview) - (subjective) overview of projects which are related both to python and semantic technologies (RDF, OWL, Reasoning, ...)
 - [replayio/gecko-dev](https://github.com/replayio/gecko-dev) - Record Replay gecko based browser source
 - [rishirdua/awesome-code-formatters](https://github.com/rishirdua/awesome-code-formatters) - A curated list of awesome code formatting tools and libraries
