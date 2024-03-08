@@ -9,6 +9,7 @@ A collection of awesome things.
 - [CSS](#css)
 - [Clojure](#clojure)
 - [Common Lisp](#common-lisp)
+- [Component Pascal](#component-pascal)
 - [D](#d)
 - [Dart](#dart)
 - [Erlang](#erlang)
@@ -156,6 +157,10 @@ A collection of awesome things.
 - [kiselgra/c-mera](https://github.com/kiselgra/c-mera) - Next-level syntax for C-like languages :)
 - [pcostanza/closer-mop](https://github.com/pcostanza/closer-mop) - Closer to MOP is a compatibility layer that rectifies many of the absent or incorrect CLOS MOP features across a broad range of Common Lisp implementations.
 
+## Component Pascal
+
+- [k-john-gough/gpcp](https://github.com/k-john-gough/gpcp) - Gardens Point Component Pascal is an implementation of the Component Pascal Language (CP). There are implementations for both the CLR and the JVM.
+
 ## D
 
 - [intellij-dlanguage/intellij-dlanguage](https://github.com/intellij-dlanguage/intellij-dlanguage) - Intellij Plugin for the D Programming Language
@@ -191,6 +196,7 @@ A collection of awesome things.
 - [hashsplit/hashsplit-spec](https://github.com/hashsplit/hashsplit-spec) - 
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [j-keck/zsd](https://github.com/j-keck/zsd) - cli tool to find older versions of a given file in your zfs snapshots.
+- [nlewo/comin](https://github.com/nlewo/comin) - Git Push NixOS Machines
 - [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup) - Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox or SSH compatible storage
 - [osminum/ink](https://github.com/osminum/ink) - Ink is a minimal programming language inspired by modern JavaScript and Go, with functional style.
 - [perkeep/perkeep](https://github.com/perkeep/perkeep) - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
@@ -243,6 +249,8 @@ A collection of awesome things.
 - [ericscharff/SmallWorld](https://github.com/ericscharff/SmallWorld) - Tim Budds Simple Smalltalk interpreter in Java
 - [fesh0r/fernflower](https://github.com/fesh0r/fernflower) - Unofficial mirror of FernFlower Java decompiler (All pulls should be submitted upstream)
 - [fluxtah/xtext-android-gradle-example](https://github.com/fluxtah/xtext-android-gradle-example) - Example of using xtext gradle plugin in an example project
+- [ftomassetti/MonacoFX-Tutorials](https://github.com/ftomassetti/MonacoFX-Tutorials) - Tutorial projects for MonacoFX
+- [ftomassetti/spoon-examples](https://github.com/ftomassetti/spoon-examples) - 
 - [gbpaixao/Creating-Programming-Language-with-SableCC](https://github.com/gbpaixao/Creating-Programming-Language-with-SableCC) - Building programming language using SableCC in Eclipse Java.
 - [google/mail-importer](https://github.com/google/mail-importer) - Mail Importer for Gmail will upload the contents of a Thunderbird mail archive to Gmail and do its best to preserve the read state, flagged state, and folders of the messages.
 - [google/truth](https://github.com/google/truth) - Fluent assertions for Java and Android
@@ -266,11 +274,13 @@ A collection of awesome things.
 - [tripleo1/gmail-mail-importer](https://github.com/tripleo1/gmail-mail-importer) - Mail Importer for Gmail will upload the contents of a Thunderbird mail archive to Gmail and do its best to preserve the read state, flagged state, and folders of the messages.
 - [tripleo1/magnusja-java-fs](https://github.com/tripleo1/magnusja-java-fs) - Various file system implementations based on the code of the JNode operating system
 - [usethesource/rascal](https://github.com/usethesource/rascal) - The implementation of the Rascal meta-programming language (including interpreter, type checker, parser generator, compiler and JVM based run-time system)
+- [wucao/jw3gparser](https://github.com/wucao/jw3gparser) - Java Warcraft Ⅲ Replay Parser（Java解析《魔兽争霸3》游戏录像工具）
 - [zbra-dev/android-linq](https://github.com/zbra-dev/android-linq) - Manipulate collections easily using C# LINQ style queries and Java 8 closures.
 
 ## JavaScript
 
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - The Internet OS!
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
 - [MineDojo/Voyager](https://github.com/MineDojo/Voyager) - An Open-Ended Embodied Agent with Large Language Models
 - [Moon-0xff/gnome-mpris-label](https://github.com/Moon-0xff/gnome-mpris-label) - A music related GNOME extension.
@@ -282,6 +292,7 @@ A collection of awesome things.
 - [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [ditesh/node-poplib](https://github.com/ditesh/node-poplib) - POP3 client library for Node.js
 - [dosyago/DownloadNet](https://github.com/dosyago/DownloadNet) -  💾 DownloadNet - All content you browse online available offline. Search through the full-text of all pages in your browser history. ⭐️ Star to support our work!
+- [geoph9/hass-gshell-extension](https://github.com/geoph9/hass-gshell-extension) - A simple gnome shell extension for home assistant.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [lengstrom/falcon](https://github.com/lengstrom/falcon) - Chrome extension for full text history search!
@@ -358,6 +369,7 @@ A collection of awesome things.
 - [LunaTMT/Snake](https://github.com/LunaTMT/Snake) - Snake created with Pygame
 - [NixIPFS/nixipfs-scripts](https://github.com/NixIPFS/nixipfs-scripts) - Mirror a Hydra jobset using IPFS or plain rsync
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+- [VAST-AI-Research/TripoSR](https://github.com/VAST-AI-Research/TripoSR) - 
 - [Wanderson-Magalhaes/Modern_GUI_PyDracula_PySide6_or_PyQt6](https://github.com/Wanderson-Magalhaes/Modern_GUI_PyDracula_PySide6_or_PyQt6) - 
 - [alxschwrz/codex_py2cpp](https://github.com/alxschwrz/codex_py2cpp) - Converts python code into c++ by using OpenAI CODEX.
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
@@ -377,6 +389,7 @@ A collection of awesome things.
 - [knorrie/btrfs-heatmap](https://github.com/knorrie/btrfs-heatmap) - Visualize the layout of data on your btrfs filesystem over time
 - [lelit/tailor](https://github.com/lelit/tailor) - A tool to exchange changesets between different version control systems
 - [linuxmint/sticky](https://github.com/linuxmint/sticky) - A sticky notes app for the linux desktop
+- [lzzcd001/GShell](https://github.com/lzzcd001/GShell) - Official implentation of "Ghost on the Shell: An Expressive Representation of General 3D Shapes" (ICLR 2024 Oral)
 - [martin68/apt-smart](https://github.com/martin68/apt-smart) - apt-smart: Smart, automated, robust apt-get mirror selection for Debian, Ubuntu and Linux Mint
 - [mist64/c64ref](https://github.com/mist64/c64ref) - Ultimate Commodore 64 Reference: ROM Disassembly, Memory Map, ...
 - [multiformats/py-multibase](https://github.com/multiformats/py-multibase) - Multibase implementation in Python
@@ -384,6 +397,7 @@ A collection of awesome things.
 - [nix-gui/nix-gui](https://github.com/nix-gui/nix-gui) - Use NixOS Without Coding
 - [nucleic/enaml](https://github.com/nucleic/enaml) - Declarative User Interfaces for Python
 - [oduwsdl/ipwb](https://github.com/oduwsdl/ipwb) - InterPlanetary Wayback: A distributed and persistent archive replay system using IPFS
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
 - [oravus/seqNet](https://github.com/oravus/seqNet) - SeqNet: Code for the RA-L (ICRA) 2021 paper "SeqNet: Learning Descriptors for Sequence-Based Hierarchical Place Recognition"
 - [pixie-lang/pixie](https://github.com/pixie-lang/pixie) - A small, fast, native lisp with "magical" powers
 - [python-eel/Eel](https://github.com/python-eel/Eel) - A little Python library for making simple Electron-like HTML/JS GUI apps
