@@ -280,7 +280,7 @@ A collection of awesome things.
 ## JavaScript
 
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - The Internet OS!
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS!
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
 - [MineDojo/Voyager](https://github.com/MineDojo/Voyager) - An Open-Ended Embodied Agent with Large Language Models
 - [Moon-0xff/gnome-mpris-label](https://github.com/Moon-0xff/gnome-mpris-label) - A music related GNOME extension.
