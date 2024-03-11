@@ -104,6 +104,7 @@ A collection of awesome things.
 - [MeyerFabian/snow](https://github.com/MeyerFabian/snow) - B.Sc. Thesis Simulation of Snow
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [baislsl/jtiger](https://github.com/baislsl/jtiger) - 虎书tiger语言的jvm编译器
+- [bollu/elide](https://github.com/bollu/elide) - Elide: Elegant Metamodal Lean4 IDE. 
 - [briantrice/slate-language](https://github.com/briantrice/slate-language) - The Slate programming language
 - [c3d/xl](https://github.com/c3d/xl) - A minimalist, general-purpose programming language based on meta-programming and parse tree rewrites
 - [cmu-sei/pharos](https://github.com/cmu-sei/pharos) - Automated static analysis tools for binary programs
@@ -217,6 +218,7 @@ A collection of awesome things.
 
 - [MahdiF/taptaptap](https://github.com/MahdiF/taptaptap) - 🕹 Open Source Javascript Game
 - [bbonamin/strftimeslikethese](https://github.com/bbonamin/strftimeslikethese) - A Ruby WASM implementation, fully client-side, inspired by foragoodstrftime.com
+- [eine/elide](https://github.com/eine/elide) - Embedded Logic Integrated Design Environment
 - [hundredrabbits/100r.co](https://github.com/hundredrabbits/100r.co) - Official Website
 - [oberon-lang/oberon-lang.github.io](https://github.com/oberon-lang/oberon-lang.github.io) - The Oberon+ Programming Language
 - [permazen/permazen](https://github.com/permazen/permazen) - Language-Natural Persistence Layer for Java
@@ -269,9 +271,11 @@ A collection of awesome things.
 - [madhephaestus/OmniscientDebugger](https://github.com/madhephaestus/OmniscientDebugger) - Bil Lewis' Omniscient Debugger for Java. Also known as ODB
 - [magnusja/java-fs](https://github.com/magnusja/java-fs) - Various file system implementations based on the code of the JNode operating system
 - [matthewmccullough/OmniscientDebugger](https://github.com/matthewmccullough/OmniscientDebugger) - Bil Lewis' Omniscient Debugger for Java. Also known as ODB
+- [melix/gradlefs](https://github.com/melix/gradlefs) - Experiments around a Gradle dedicated FS
 - [meysholdt/xtext_stateful_lexer](https://github.com/meysholdt/xtext_stateful_lexer) - An experiment to derive a stateful lexer from an Xtext grammar
 - [rkiddy/WhencePlugin](https://github.com/rkiddy/WhencePlugin) - 
 - [slipperyseal/trebuchet](https://github.com/slipperyseal/trebuchet) - Trebuchet Transcompiler is a Java to C++ source code translator
+- [stepstone-tech/doom-graalvm](https://github.com/stepstone-tech/doom-graalvm) - PoC of running Doom on top of GraalVM
 - [thinkberg/snipsnap](https://github.com/thinkberg/snipsnap) - SnipSnap - A java based wiki
 - [tripleo1/gmail-mail-importer](https://github.com/tripleo1/gmail-mail-importer) - Mail Importer for Gmail will upload the contents of a Thunderbird mail archive to Gmail and do its best to preserve the read state, flagged state, and folders of the messages.
 - [tripleo1/magnusja-java-fs](https://github.com/tripleo1/magnusja-java-fs) - Various file system implementations based on the code of the JNode operating system
@@ -302,6 +306,7 @@ A collection of awesome things.
 - [lengstrom/falcon](https://github.com/lengstrom/falcon) - Chrome extension for full text history search!
 - [mafintosh/abstract-chunk-store](https://github.com/mafintosh/abstract-chunk-store) - A test suite and interface you can use to implement a chunk based storage backend
 - [max-mapper/abstract-blob-store](https://github.com/max-mapper/abstract-blob-store) - A test suite and interface you can use to implement streaming file (blob) storage modules for various storage backends and platforms
+- [novemberborn/never](https://github.com/novemberborn/never) - A function that throws when called, use with nullish coalescing to elide unexpected nullish values
 - [ollama-ui/ollama-ui](https://github.com/ollama-ui/ollama-ui) - Simple HTML UI for Ollama
 - [reimertz/curse-words](https://github.com/reimertz/curse-words) - 
 - [simonw/simonwillisonblog](https://github.com/simonw/simonwillisonblog) - The source code behind my blog
@@ -313,12 +318,14 @@ A collection of awesome things.
 
 ## Jupyter Notebook
 
+- [melix/NebulAI](https://github.com/melix/NebulAI) - Detecting planetary nebula using AI
 - [nurakib/fast.ai](https://github.com/nurakib/fast.ai) - Making neural nets uncool again
 
 ## Kotlin
 
 - [CASC-Lang/Yakou](https://github.com/CASC-Lang/Yakou) - An experimental JVM Language inspired by Rust.
 - [V9vek/Sorting-Visualizer](https://github.com/V9vek/Sorting-Visualizer) - Visualizes various sorting algorithms
+- [andregasser/bigbone](https://github.com/andregasser/bigbone) - BigBone - A Mastodon Client Library for Java and Kotlin
 - [tateisu/SubwayTooter](https://github.com/tateisu/SubwayTooter) - Mastodon client app for Android
 - [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing) - A library for testing Kotlin and Java annotation processors, compiler plugins and code generation
 
@@ -329,6 +336,7 @@ A collection of awesome things.
 ## Makefile
 
 - [kostya/benchmarks](https://github.com/kostya/benchmarks) - Some benchmarks of different languages
+- [riscv/riscv-svvptc](https://github.com/riscv/riscv-svvptc) - Eliding Memory-management Fences on setting PTE valid (Svvptc)
 
 ## Modula-2
 
@@ -430,6 +438,7 @@ A collection of awesome things.
 - [isene/rsh](https://github.com/isene/rsh) - Ruby SHell
 - [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
 - [ljulliar/FreeRIDE](https://github.com/ljulliar/FreeRIDE) - A Free Ruby IDE (written in Ruby)
+- [piotrmurach/strings-truncation](https://github.com/piotrmurach/strings-truncation) - Truncate strings with fullwidth characters and ANSI codes.
 - [ytti/oxidized](https://github.com/ytti/oxidized) - Oxidized is a network device configuration backup tool. It's a RANCID replacement!
 
 ## Rust
@@ -525,6 +534,7 @@ A collection of awesome things.
 - [BruceDone/awesome-crawler](https://github.com/BruceDone/awesome-crawler) - A collection of awesome web crawler,spider in different languages
 - [DavidS95/Smokeless_UMAF](https://github.com/DavidS95/Smokeless_UMAF) - 
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+- [Elidefunnyguy/ElidefunnyDash](https://github.com/Elidefunnyguy/ElidefunnyDash) - This is a pack for Geometry Dash made by Elidefunnyguy. It features piano versions of the RobTop levels, a custom logo thing, and a galaxy background; not anything crazy.
 - [IntelliJIdeaKeymap4Eclipse/com.github.intellijideakeymap4eclipse.feature](https://github.com/IntelliJIdeaKeymap4Eclipse/com.github.intellijideakeymap4eclipse.feature) - 
 - [LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) - List of Dirty, Naughty, Obscene, and Otherwise Bad Words
 - [MauriceButler/badwords](https://github.com/MauriceButler/badwords) - A highly consumable list of bad (profanity) english words
