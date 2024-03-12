@@ -23,12 +23,14 @@ A collection of awesome things.
 - [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [Lean](#lean)
 - [Lua](#lua)
 - [Makefile](#makefile)
 - [Modula-2](#modula-2)
 - [Nix](#nix)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
+- [PHP](#php)
 - [Pascal](#pascal)
 - [Perl](#perl)
 - [Python](#python)
@@ -59,6 +61,7 @@ A collection of awesome things.
 - [dspinellis/unix-history-repo](https://github.com/dspinellis/unix-history-repo) - Continuous Unix commit history from 1970 until today
 - [fjballest/nix.markII](https://github.com/fjballest/nix.markII) - nix mark II
 - [fjballest/nixMarkIV](https://github.com/fjballest/nixMarkIV) - Nix source
+- [jimon/libkorutin](https://github.com/jimon/libkorutin) - small C coroutine library based on pypy's stacklet and boost context
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
 - [nakst/flip](https://github.com/nakst/flip) - A 16-bit Lisp based operating system.
 
@@ -98,6 +101,8 @@ A collection of awesome things.
 
 ## C++
 
+- [AlienVault-Engineering/conveyor](https://github.com/AlienVault-Engineering/conveyor) - C++11 library : efficient event cache for osquery agent with multiple read cursor support
+- [GemHunt/CoinSorter](https://github.com/GemHunt/CoinSorter) - Sorts coins by solenoid on a conveyor by classifying images with Caffe & DIGETS
 - [HaikuArchives/BeFree](https://github.com/HaikuArchives/BeFree) - BeOS API and desktop on top of the Linux kernel.
 - [HaikuArchives/EasyToolkitAndExtension](https://github.com/HaikuArchives/EasyToolkitAndExtension) - A toolkit and extension on BeOS/Windows/POSIX, a little like the BeOS API on platforms other than BeOS.
 - [LemonOSProject/LemonOS](https://github.com/LemonOSProject/LemonOS) - The Lemon Operating System
@@ -110,6 +115,8 @@ A collection of awesome things.
 - [cmu-sei/pharos](https://github.com/cmu-sei/pharos) - Automated static analysis tools for binary programs
 - [facebook/redex](https://github.com/facebook/redex) - A bytecode optimizer for Android apps
 - [impedimentToProgress/Ratchet](https://github.com/impedimentToProgress/Ratchet) - Ratchet source code from OSDI 2016
+- [intel-iot-devkit/object-flaw-detector-cpp](https://github.com/intel-iot-devkit/object-flaw-detector-cpp) - Detect various irregularities of a product as it moves along a conveyor belt.
+- [ktock/container2wasm](https://github.com/ktock/container2wasm) - Container to WASM converter
 - [managarm/managarm](https://github.com/managarm/managarm) - Pragmatic microkernel-based OS with fully asynchronous I/O
 - [mhx/dwarfs](https://github.com/mhx/dwarfs) - A fast high compression read-only file system for Linux, Windows and macOS
 - [nucleic/kiwi](https://github.com/nucleic/kiwi) - Efficient C++ implementation of the Cassowary constraint solving algorithm
@@ -194,6 +201,7 @@ A collection of awesome things.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [cpg1111/ipos](https://github.com/cpg1111/ipos) - Linux Based OS using IPFS as a Root File System
 - [elimisteve/v2go](https://github.com/elimisteve/v2go) - V-to-Go translator
+- [go-python/gopy](https://github.com/go-python/gopy) - gopy generates a CPython extension module from a go package.
 - [google/crfs](https://github.com/google/crfs) - CRFS: Container Registry Filesystem
 - [hashsplit/hashsplit-spec](https://github.com/hashsplit/hashsplit-spec) - 
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
@@ -209,6 +217,7 @@ A collection of awesome things.
 - [slotix/dataflowkit](https://github.com/slotix/dataflowkit) - Extract structured data from web sites. Web sites scraping.  
 - [thesephist/ink](https://github.com/thesephist/ink) - Ink is a minimal programming language inspired by modern JavaScript and Go, with functional style.
 - [tripleos/ipos](https://github.com/tripleos/ipos) - Linux Based OS using IPFS as a Root File System
+- [tushar2708/conveyor](https://github.com/tushar2708/conveyor) - A go pipeline management library, supporting concurrent pipelines, with multiple nodes and joints
 - [vdemeester/docker-volume-ipfs](https://github.com/vdemeester/docker-volume-ipfs) - 🐳 This is an open source volume plugin that allows using an ipfs filesystem as a volume.
 - [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero) - Backup and migrate Kubernetes applications and their persistent volumes
 - [wabarc/wayback](https://github.com/wabarc/wayback) - An archiving tool with an IM-style interface that prioritizes privacy and accessibility, integrated with various archival services including Internet Archive, archive.today, IPFS, Telegraph, and file systems.
@@ -220,8 +229,10 @@ A collection of awesome things.
 - [bbonamin/strftimeslikethese](https://github.com/bbonamin/strftimeslikethese) - A Ruby WASM implementation, fully client-side, inspired by foragoodstrftime.com
 - [eine/elide](https://github.com/eine/elide) - Embedded Logic Integrated Design Environment
 - [hundredrabbits/100r.co](https://github.com/hundredrabbits/100r.co) - Official Website
+- [malisipi/ubuntu-tour](https://github.com/malisipi/ubuntu-tour) - Web-Based Ubuntu
 - [oberon-lang/oberon-lang.github.io](https://github.com/oberon-lang/oberon-lang.github.io) - The Oberon+ Programming Language
 - [permazen/permazen](https://github.com/permazen/permazen) - Language-Natural Persistence Layer for Java
+- [pypy/pypy.org](https://github.com/pypy/pypy.org) - Sources for website at https://www.pypy.org
 - [viebel/klipse](https://github.com/viebel/klipse) - Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs.
 
 ## Haskell
@@ -231,12 +242,15 @@ A collection of awesome things.
 
 ## Java
 
+- [ArcticDonkeys/Conveyor](https://github.com/ArcticDonkeys/Conveyor) - Decision Support System for Earthquake Situation
 - [Hjertesvikt/HjerteLib](https://github.com/Hjertesvikt/HjerteLib) - 
 - [HotswapProjects/HotswapAgent](https://github.com/HotswapProjects/HotswapAgent) - Java unlimited redefinition of classes at runtime.
+- [JetBrains/attachme](https://github.com/JetBrains/attachme) - IntelliJ plugin for auto-attaching the debugger to JVM applications
 - [Nuix/jnode-fs](https://github.com/Nuix/jnode-fs) - Various file system implementations based on the code of the JNode operating system
 - [Pr3roxDLC/JNode](https://github.com/Pr3roxDLC/JNode) - A WIP Block Programming Implementation in Java
 - [SQiShER/java-object-diff](https://github.com/SQiShER/java-object-diff) - Library to diff and merge Java objects with ease
 - [ShawnyXiao/LinkingGame](https://github.com/ShawnyXiao/LinkingGame) - A linking game with nice look and some interests
+- [StormPI69/CONVEYOR-ANALYZER](https://github.com/StormPI69/CONVEYOR-ANALYZER) - Disk Production Analyzer project for categorizing and counting disks by shape and size by analyzing pixels.
 - [Vineflower/vineflower](https://github.com/Vineflower/vineflower) - Modern Java decompiler aiming to be as accurate as possible, with an emphasis on output quality. Fork of the Fernflower decompiler.
 - [ZHENFENG13/My-Blog](https://github.com/ZHENFENG13/My-Blog) - :palm_tree::octocat:A simple & beautiful blogging system implemented with spring-boot & thymeleaf & mybatis My Blog 是由 SpringBoot + Mybatis + Thymeleaf 等技术实现的 Java 博客系统，页面美观、功能齐全、部署简单及完善的代码，一定会给使用者无与伦比的体验
 - [amyjko/whyline](https://github.com/amyjko/whyline) - The Whyline for Java, an interactive debugging tool that lets you ask "why" questions about program out.
@@ -273,6 +287,7 @@ A collection of awesome things.
 - [matthewmccullough/OmniscientDebugger](https://github.com/matthewmccullough/OmniscientDebugger) - Bil Lewis' Omniscient Debugger for Java. Also known as ODB
 - [melix/gradlefs](https://github.com/melix/gradlefs) - Experiments around a Gradle dedicated FS
 - [meysholdt/xtext_stateful_lexer](https://github.com/meysholdt/xtext_stateful_lexer) - An experiment to derive a stateful lexer from an Xtext grammar
+- [rabdulatipoff/ConvBagsGUI](https://github.com/rabdulatipoff/ConvBagsGUI) - Conveyor bags recognition UI software
 - [rkiddy/WhencePlugin](https://github.com/rkiddy/WhencePlugin) - 
 - [slipperyseal/trebuchet](https://github.com/slipperyseal/trebuchet) - Trebuchet Transcompiler is a Java to C++ source code translator
 - [stepstone-tech/doom-graalvm](https://github.com/stepstone-tech/doom-graalvm) - PoC of running Doom on top of GraalVM
@@ -288,6 +303,7 @@ A collection of awesome things.
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
 - [GonzaloGorgojo/Gnome-Shell-Crypto-Tracker](https://github.com/GonzaloGorgojo/Gnome-Shell-Crypto-Tracker) - Simple Gnome extension to keep track of BTC and ETH prices against USD and EUR.
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS!
+- [IBM/guide-conveyor-simulator](https://github.com/IBM/guide-conveyor-simulator) - # WARNING: This repository is no longer maintained :warning:  This content is no longer being updated or maintained. The content is provided “as is.” Given the rapid evolution of technology, some content, steps, or illustrations may have changed.
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
 - [MineDojo/Voyager](https://github.com/MineDojo/Voyager) - An Open-Ended Embodied Agent with Large Language Models
 - [Moon-0xff/gnome-mpris-label](https://github.com/Moon-0xff/gnome-mpris-label) - A music related GNOME extension.
@@ -303,6 +319,7 @@ A collection of awesome things.
 - [geoph9/hass-gshell-extension](https://github.com/geoph9/hass-gshell-extension) - A simple gnome shell extension for home assistant.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
+- [hardpixel/unite-shell](https://github.com/hardpixel/unite-shell) - Unite is an extension that makes GNOME Shell look like Ubuntu Unity Shell.
 - [lengstrom/falcon](https://github.com/lengstrom/falcon) - Chrome extension for full text history search!
 - [mafintosh/abstract-chunk-store](https://github.com/mafintosh/abstract-chunk-store) - A test suite and interface you can use to implement a chunk based storage backend
 - [max-mapper/abstract-blob-store](https://github.com/max-mapper/abstract-blob-store) - A test suite and interface you can use to implement streaming file (blob) storage modules for various storage backends and platforms
@@ -318,6 +335,8 @@ A collection of awesome things.
 
 ## Jupyter Notebook
 
+- [LabForComputationalVision/pyPyrTools](https://github.com/LabForComputationalVision/pyPyrTools) - Python tools for multi-scale image processing, including Laplacian pyramids, Wavelets, and Steerable Pyramids http://www.cns.nyu.edu/~lcv/software.php
+- [OpenDebates/openskill.py](https://github.com/OpenDebates/openskill.py) - Multiplayer Rating System. No Friction.
 - [melix/NebulAI](https://github.com/melix/NebulAI) - Detecting planetary nebula using AI
 - [nurakib/fast.ai](https://github.com/nurakib/fast.ai) - Making neural nets uncool again
 
@@ -326,8 +345,13 @@ A collection of awesome things.
 - [CASC-Lang/Yakou](https://github.com/CASC-Lang/Yakou) - An experimental JVM Language inspired by Rust.
 - [V9vek/Sorting-Visualizer](https://github.com/V9vek/Sorting-Visualizer) - Visualizes various sorting algorithms
 - [andregasser/bigbone](https://github.com/andregasser/bigbone) - BigBone - A Mastodon Client Library for Java and Kotlin
+- [copper-leaf/ballast](https://github.com/copper-leaf/ballast) - Opinionated Application State Management framework for Kotlin Multiplatform
 - [tateisu/SubwayTooter](https://github.com/tateisu/SubwayTooter) - Mastodon client app for Android
 - [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing) - A library for testing Kotlin and Java annotation processors, compiler plugins and code generation
+
+## Lean
+
+- [leanprover/leansat](https://github.com/leanprover/leansat) - This package provides an interface and foundation for verified SAT reasoning
 
 ## Lua
 
@@ -348,6 +372,7 @@ A collection of awesome things.
 
 - [gmodena/nix-flatpak](https://github.com/gmodena/nix-flatpak) - Install flatpaks declaratively
 - [nix-community/impermanence](https://github.com/nix-community/impermanence) - Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]
+- [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) - An unofficial NixOS fork with a FreeBSD kernel
 - [tpwrules/nixos-apple-silicon](https://github.com/tpwrules/nixos-apple-silicon) - Resources to install NixOS bare metal on Apple Silicon Macs
 
 ## OCaml
@@ -361,6 +386,10 @@ A collection of awesome things.
 - [gnustep/libs-steptalk](https://github.com/gnustep/libs-steptalk) - StepTalk is a scripting framework for creating scriptable servers or applications.
 - [onflapp/libs-steptalk](https://github.com/onflapp/libs-steptalk) - Scripting Framework for GNUstep Desktop
 - [trunkmaster/nextspace](https://github.com/trunkmaster/nextspace) - NeXTSTEP-like desktop environment for Linux
+
+## PHP
+
+- [glhd/conveyor-belt](https://github.com/glhd/conveyor-belt) - All the underlying mechanics necessary to write artisan commands that process lots of data efficiently
 
 ## Pascal
 
@@ -376,10 +405,12 @@ A collection of awesome things.
 - [40uf411/SemaWal](https://github.com/40uf411/SemaWal) - SemaWal: A semantic network resolver in python
 - [AndreMiras/coveralls-python-action](https://github.com/AndreMiras/coveralls-python-action) - GitHub Action for Python Coveralls.io
 - [ArchiveTeam/grab-site](https://github.com/ArchiveTeam/grab-site) - The archivist's web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns
+- [Baekalfen/PyBoy](https://github.com/Baekalfen/PyBoy) - Game Boy emulator written in Python
 - [BruceDLong/CodeDog](https://github.com/BruceDLong/CodeDog) - Auto-generate programs in C derived languages for multiple platforms
 - [FirmWire/FirmWire](https://github.com/FirmWire/FirmWire) - FirmWire is a full-system baseband firmware emulation platform for fuzzing, debugging, and root-cause analysis of smartphone baseband firmwares
 - [JohannesBuchner/chunk-fuse](https://github.com/JohannesBuchner/chunk-fuse) - Filesystem in User Space (fuse) using compressed and encrypted chunks
 - [LunaTMT/Snake](https://github.com/LunaTMT/Snake) - Snake created with Pygame
+- [MarcusRainbow/pypyrust](https://github.com/MarcusRainbow/pypyrust) - Python to Rust compiler
 - [NixIPFS/nixipfs-scripts](https://github.com/NixIPFS/nixipfs-scripts) - Mirror a Hydra jobset using IPFS or plain rsync
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [VAST-AI-Research/TripoSR](https://github.com/VAST-AI-Research/TripoSR) - 
@@ -387,6 +418,7 @@ A collection of awesome things.
 - [alxschwrz/codex_py2cpp](https://github.com/alxschwrz/codex_py2cpp) - Converts python code into c++ by using OpenAI CODEX.
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [cchen156/Learning-to-See-in-the-Dark](https://github.com/cchen156/Learning-to-See-in-the-Dark) - Learning to See in the Dark. CVPR 2018
+- [cherrypy/cherrypy](https://github.com/cherrypy/cherrypy) - CherryPy is a pythonic, object-oriented HTTP framework.      https://cherrypy.dev
 - [chrisdone/awesome-structure-editors](https://github.com/chrisdone/awesome-structure-editors) - A list of projectional and structural editors
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
 - [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
@@ -395,9 +427,14 @@ A collection of awesome things.
 - [enthought/pyface](https://github.com/enthought/pyface) - pyface: traits-capable windowing framework
 - [enthought/traits](https://github.com/enthought/traits) - Observable typed attributes for Python classes
 - [enthought/traitsui](https://github.com/enthought/traitsui) - TraitsUI: Traits-capable windowing framework
+- [gevent-on-pypy/pypycore](https://github.com/gevent-on-pypy/pypycore) - gevent.core implemented as cffi module, might be used with pypy
+- [gorakhargosh/mom](https://github.com/gorakhargosh/mom) - The do-not-repeat-yourself-library. All your utils.py and compat.py are belong to us. Python 2.5+, PyPy, and Python 3.x
 - [graboluk/stiko](https://github.com/graboluk/stiko) - systray icon for syncthing
+- [halgari/clj-pypy](https://github.com/halgari/clj-pypy) - A implementation of Clojure on PyPy
 - [hungrywolf27/zfs-list-gtk](https://github.com/hungrywolf27/zfs-list-gtk) - A simple GUI that lists ZFS filesystems and snapshots in a Gtk TreeView widget. Written in Python.
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
+- [jorgenkg/python-neural-network](https://github.com/jorgenkg/python-neural-network) - This is an efficient implementation of a fully connected neural network in NumPy. The network can be trained by a variety of learning algorithms: backpropagation, resilient backpropagation and scaled conjugate gradient learning. The network has been developed with PYPY in mind.
+- [jstepien/psota](https://github.com/jstepien/psota) - “Clojure on PyPy” would be an exaggeration
 - [kennethreitz/maya](https://github.com/kennethreitz/maya) - Datetimes for Humans™
 - [knorrie/btrfs-heatmap](https://github.com/knorrie/btrfs-heatmap) - Visualize the layout of data on your btrfs filesystem over time
 - [lelit/tailor](https://github.com/lelit/tailor) - A tool to exchange changesets between different version control systems
@@ -406,17 +443,24 @@ A collection of awesome things.
 - [martin68/apt-smart](https://github.com/martin68/apt-smart) - apt-smart: Smart, automated, robust apt-get mirror selection for Debian, Ubuntu and Linux Mint
 - [mist64/c64ref](https://github.com/mist64/c64ref) - Ultimate Commodore 64 Reference: ROM Disassembly, Memory Map, ...
 - [multiformats/py-multibase](https://github.com/multiformats/py-multibase) - Multibase implementation in Python
+- [netneurolab/pypyls](https://github.com/netneurolab/pypyls) - A Python implementation of Partial Least Squares (PLS) decomposition
 - [nikitastupin/clairvoyance](https://github.com/nikitastupin/clairvoyance) - Obtain GraphQL API schema even if the introspection is disabled
 - [nix-gui/nix-gui](https://github.com/nix-gui/nix-gui) - Use NixOS Without Coding
 - [nucleic/enaml](https://github.com/nucleic/enaml) - Declarative User Interfaces for Python
+- [nyaadevs/pybittorent-tracker-sanic](https://github.com/nyaadevs/pybittorent-tracker-sanic) - Don't use pypy, it's bad. Unmaintained, no longer used.
 - [oduwsdl/ipwb](https://github.com/oduwsdl/ipwb) - InterPlanetary Wayback: A distributed and persistent archive replay system using IPFS
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
 - [oravus/seqNet](https://github.com/oravus/seqNet) - SeqNet: Code for the RA-L (ICRA) 2021 paper "SeqNet: Learning Descriptors for Sequence-Based Hierarchical Place Recognition"
 - [pixie-lang/pixie](https://github.com/pixie-lang/pixie) - A small, fast, native lisp with "magical" powers
+- [polmuz/pypy-image-demo](https://github.com/polmuz/pypy-image-demo) - Video processing with pypy
+- [pypy/pypy](https://github.com/pypy/pypy) - PyPy is a very fast and compliant implementation of the Python language.
 - [python-eel/Eel](https://github.com/python-eel/Eel) - A little Python library for making simple Electron-like HTML/JS GUI apps
 - [ravexina/csp-sudoku-solver](https://github.com/ravexina/csp-sudoku-solver) - Python + tkinter + CSP Idea / Algorithm to solve sudoko
 - [seiferteric/remarkable_debfix](https://github.com/seiferteric/remarkable_debfix) - Remarkable Markdown Debian Package Fix
 - [sjvasquez/handwriting-synthesis](https://github.com/sjvasquez/handwriting-synthesis) - Handwriting Synthesis with RNNs ✏️
+- [skelsec/pypykatz_wasm](https://github.com/skelsec/pypykatz_wasm) - pypykats in your browser
+- [tekknolagi/scrapscript](https://github.com/tekknolagi/scrapscript) - A functional, content-addressable programming language.
+- [thatch45/sorbic](https://github.com/thatch45/sorbic) - Python/PYPY Hierarchical Distributed Hash Table Event Driven Async document/stream database/filesystem
 - [vivien/i3blocks-contrib](https://github.com/vivien/i3blocks-contrib) - Official repository for community contributed blocklets
 - [yairchu/awesome-structure-editors](https://github.com/yairchu/awesome-structure-editors) - A list of projectional and structural editors
 
@@ -449,11 +493,16 @@ A collection of awesome things.
 - [dotboris/alt](https://github.com/dotboris/alt) - A simple version manager tool for switching between different versions of commands
 - [ekzhang/crepe](https://github.com/ekzhang/crepe) - Datalog compiler embedded in Rust as a procedural macro
 - [kahing/catfs](https://github.com/kahing/catfs) - Cache AnyThing filesystem written in Rust
+- [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible VCS that is both simple and powerful
 - [ngeor/rusty-basic](https://github.com/ngeor/rusty-basic) - An interpreter for QBasic, written in Rust.
 - [nix-community/nix-index](https://github.com/nix-community/nix-index) - Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]
 - [pop-os/cosmic-text](https://github.com/pop-os/cosmic-text) - Pure Rust multi-line text handling
 - [project-machine/puzzlefs](https://github.com/project-machine/puzzlefs) - 
 - [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language. Work in progress!
+- [snowfallorg/nixos-conf-editor](https://github.com/snowfallorg/nixos-conf-editor) - A libadwaita/gtk4 app for editing NixOS configurations
+- [sunfishcode/c-ward](https://github.com/sunfishcode/c-ward) - An implementation of libc written in Rust
+- [sunfishcode/eyra](https://github.com/sunfishcode/eyra) - Rust programs written entirely in Rust
+- [sunfishcode/mustang](https://github.com/sunfishcode/mustang) - Rust programs written entirely in Rust
 
 ## SCSS
 
@@ -501,6 +550,7 @@ A collection of awesome things.
 
 ## TypeScript
 
+- [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI.
 - [bleedingedgeai/bleedingedge.ai](https://github.com/bleedingedgeai/bleedingedge.ai) - Bleeding edge is a feed of noteworthy developments in AI and machine learning.
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
 - [luooooob/create-my-awesome](https://github.com/luooooob/create-my-awesome) - Github Actions for automatically generating the personal awesome list from all of the repositories you starred.
@@ -576,4 +626,5 @@ A collection of awesome things.
 - [titzer/student-projects](https://github.com/titzer/student-projects) - A collection of projects for students on Virgil, Wizard, or WebAssembly
 - [transatomic/reactor](https://github.com/transatomic/reactor) - Transatomic reactor design documentation
 - [xhorak/firefox-dev-flatpak](https://github.com/xhorak/firefox-dev-flatpak) - Create flatpak from freshly compiled Firefox Nightly.
+- [zencq/NomNom](https://github.com/zencq/NomNom) - NomNom is the most complete savegame editor for NMS but also shows additional information around the data you're about to change. You can also easily look up each item individually to examine its attributes, independently of a savegame, or get other useful information that are not related to a specific savegame (but enhanced if one is loaded).
 
