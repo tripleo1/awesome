@@ -2,6 +2,7 @@
 
 A collection of awesome things.
 
+- [Arc](#arc)
 - [Assembly](#assembly)
 - [C](#c)
 - [C#](#c-1)
@@ -48,12 +49,17 @@ A collection of awesome things.
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [V](#v)
+- [Vue](#vue)
 - [Xtend](#xtend)
 - [Zig](#zig)
 - [wisp](#wisp)
 - [Misc](#misc)
 
 ---
+
+## Arc
+
+- [wting/hackernews](https://github.com/wting/hackernews) - Hacker News web site source code mirror.
 
 ## Assembly
 
@@ -255,6 +261,7 @@ A collection of awesome things.
 - [ZHENFENG13/My-Blog](https://github.com/ZHENFENG13/My-Blog) - :palm_tree::octocat:A simple & beautiful blogging system implemented with spring-boot & thymeleaf & mybatis My Blog 是由 SpringBoot + Mybatis + Thymeleaf 等技术实现的 Java 博客系统，页面美观、功能齐全、部署简单及完善的代码，一定会给使用者无与伦比的体验
 - [amyjko/whyline](https://github.com/amyjko/whyline) - The Whyline for Java, an interactive debugging tool that lets you ask "why" questions about program out.
 - [arnetheduck/j2c](https://github.com/arnetheduck/j2c) - Java to C++ translator
+- [bishopmatthew/HackerNews](https://github.com/bishopmatthew/HackerNews) - An open source Hacker News client for Android.
 - [bsideup/jabel](https://github.com/bsideup/jabel) - Jabel - unlock Javac 9+ syntax when targeting Java 8
 - [centic9/jgit-cookbook](https://github.com/centic9/jgit-cookbook) - Provides examples and code snippets for the JGit Java Git implementation
 - [clarkware/jdepend](https://github.com/clarkware/jdepend) - A Java package dependency analyzer that generates design quality metrics.
@@ -316,10 +323,12 @@ A collection of awesome things.
 - [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [ditesh/node-poplib](https://github.com/ditesh/node-poplib) - POP3 client library for Node.js
 - [dosyago/DownloadNet](https://github.com/dosyago/DownloadNet) -  💾 DownloadNet - All content you browse online available offline. Search through the full-text of all pages in your browser history. ⭐️ Star to support our work!
+- [dvajs/dva-hackernews](https://github.com/dvajs/dva-hackernews) - HackerNews clone built with Dva.
 - [geoph9/hass-gshell-extension](https://github.com/geoph9/hass-gshell-extension) - A simple gnome shell extension for home assistant.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [hardpixel/unite-shell](https://github.com/hardpixel/unite-shell) - Unite is an extension that makes GNOME Shell look like Ubuntu Unity Shell.
+- [kevlarr/awesome-wasm](https://github.com/kevlarr/awesome-wasm) - resources for Wasm presentation; comparison of JS vs. Wasm via implementations of Game of Life
 - [lengstrom/falcon](https://github.com/lengstrom/falcon) - Chrome extension for full text history search!
 - [mafintosh/abstract-chunk-store](https://github.com/mafintosh/abstract-chunk-store) - A test suite and interface you can use to implement a chunk based storage backend
 - [max-mapper/abstract-blob-store](https://github.com/max-mapper/abstract-blob-store) - A test suite and interface you can use to implement streaming file (blob) storage modules for various storage backends and platforms
@@ -328,6 +337,7 @@ A collection of awesome things.
 - [reimertz/curse-words](https://github.com/reimertz/curse-words) - 
 - [simonw/simonwillisonblog](https://github.com/simonw/simonwillisonblog) - The source code behind my blog
 - [thesephist/unim.press](https://github.com/thesephist/unim.press) - A Reddit front-page reader in the style of The New York Times.
+- [torch2424/made-with-webassembly](https://github.com/torch2424/made-with-webassembly) - A showcase of awesome production applications, side projects, and use cases made with WebAssembly (Wasm). 👷
 
 ## Jinja
 
@@ -542,6 +552,8 @@ A collection of awesome things.
 
 ## Swift
 
+- [amitburst/HackerNews](https://github.com/amitburst/HackerNews) - A Hacker News reader iOS app written in Swift.
+- [bennyguitar/News-YC---iPhone](https://github.com/bennyguitar/News-YC---iPhone) - The iPhone version of News/YC, a Hacker News reader and interactive iOS application.
 - [marciok/Mu](https://github.com/marciok/Mu) - It's a Swift playground explaining how to create a tiny programming language named Mu
 
 ## TeX
@@ -563,6 +575,12 @@ A collection of awesome things.
 ## V
 
 - [vlang/c2v](https://github.com/vlang/c2v) - C/C++ to V translator
+
+## Vue
+
+- [nuxt-community/hackernews-nuxt-ts](https://github.com/nuxt-community/hackernews-nuxt-ts) - Typescript Version of HackerNews Nuxt
+- [nuxt/hackernews](https://github.com/nuxt/hackernews) - HackerNews clone built with Nuxt.
+- [vuejs/vue-hackernews](https://github.com/vuejs/vue-hackernews) - HackerNews clone with Vue.js
 
 ## Xtend
 
@@ -594,8 +612,11 @@ A collection of awesome things.
 - [QianMo/Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes) - :anchor:  我的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog。涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding.
 - [X547/OberonUtils](https://github.com/X547/OberonUtils) - Utilities for Oberon/BlackBox
 - [aalhour/awesome-compilers](https://github.com/aalhour/awesome-compilers) - :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes
+- [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
+- [appcypher/awesome-wasm-runtimes](https://github.com/appcypher/awesome-wasm-runtimes) - A list of webassemby runtimes
 - [awesome-cryosphere/cryosphere-links](https://github.com/awesome-cryosphere/cryosphere-links) - This is a link list with awesome data, models, and tools around the cryosphere.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [beriberikix/awesome-wasm-blockchain](https://github.com/beriberikix/awesome-wasm-blockchain) - 📦⛓ Curated list of awesome things regarding WebAssembly (wasm) and Blockchain projects
 - [bhatti/JavaNOW](https://github.com/bhatti/JavaNOW) - Java Network of Workstation - Linda and Actor based framework for writing parallel and distributed applications
 - [builtbybel/CloneApp](https://github.com/builtbybel/CloneApp) - 📦Easily Backup & Restore Windows Programs Settings
 - [bxd/advcpmv](https://github.com/bxd/advcpmv) - A patch for cp / mv to add progress bars
@@ -613,9 +634,13 @@ A collection of awesome things.
 - [hardikvasa/awesome-programming](https://github.com/hardikvasa/awesome-programming) - A curated list of awesome programming talks, articles, books, resources and more!!
 - [hrj/awesome-eclipse](https://github.com/hrj/awesome-eclipse) - List of awesome plugins and other resources for eclipse
 - [jelmer/awesome-codemods](https://github.com/jelmer/awesome-codemods) - Curated list of tools that can fix your code for you
+- [jghoman/awe-wasm](https://github.com/jghoman/awe-wasm) - awe-wasm = awesome WASM - repo for tracking WASM related resources I find
 - [jossthev/linda](https://github.com/jossthev/linda) - Creation of a data shared space, based on Linda pattern, using Java (multi-threading, RMI)
+- [katopz/awesome-wasm](https://github.com/katopz/awesome-wasm) - WebAssembly FTW
+- [mbasso/awesome-wasm](https://github.com/mbasso/awesome-wasm) - 😎 Curated list of awesome things regarding WebAssembly (wasm) ecosystem.
 - [phoe/the-elusive-language](https://github.com/phoe/the-elusive-language) - A small Common Lisp-related art project.
 - [photopea/photopea](https://github.com/photopea/photopea) - Photopea is online image editor
+- [pventuzelo/awesome-wasm-examples](https://github.com/pventuzelo/awesome-wasm-examples) - :sunglasses: A curated list of WebAssembly (wasm) examples
 - [pysemtec/semantic-python-overview](https://github.com/pysemtec/semantic-python-overview) - (subjective) overview of projects which are related both to python and semantic technologies (RDF, OWL, Reasoning, ...)
 - [replayio/gecko-dev](https://github.com/replayio/gecko-dev) - Record Replay gecko based browser source
 - [rishirdua/awesome-code-formatters](https://github.com/rishirdua/awesome-code-formatters) - A curated list of awesome code formatting tools and libraries
@@ -625,6 +650,8 @@ A collection of awesome things.
 - [synflow/SHA-256](https://github.com/synflow/SHA-256) - SHA-256 implemented with the Cx language
 - [titzer/student-projects](https://github.com/titzer/student-projects) - A collection of projects for students on Virgil, Wizard, or WebAssembly
 - [transatomic/reactor](https://github.com/transatomic/reactor) - Transatomic reactor design documentation
+- [vshymanskyy/awesome-wasm-tools](https://github.com/vshymanskyy/awesome-wasm-tools) - 😎 A curated list of awesome, language-agnostic WebAssembly tools
+- [wasmerio/awesome-wasi](https://github.com/wasmerio/awesome-wasi) - 😎 Curated list of awesome things regarding WebAssembly WASI ecosystem.
 - [xhorak/firefox-dev-flatpak](https://github.com/xhorak/firefox-dev-flatpak) - Create flatpak from freshly compiled Firefox Nightly.
 - [zencq/NomNom](https://github.com/zencq/NomNom) - NomNom is the most complete savegame editor for NMS but also shows additional information around the data you're about to change. You can also easily look up each item individually to examine its attributes, independently of a savegame, or get other useful information that are not related to a specific savegame (but enhanced if one is loaded).
 
