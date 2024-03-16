@@ -75,7 +75,7 @@ A collection of awesome things.
 
 - [9fans/drawterm](https://github.com/9fans/drawterm) - Connect to Plan 9 CPU servers from other operating systems.
 - [D-os/dos](https://github.com/D-os/dos) - D/os source code super-repo
-- [MazinCE/Veecom](https://github.com/MazinCE/Veecom) - A Simple Yet Powerful RISC-V Computer
+- [MazinCE/Veecom](https://github.com/MazinCE/Veecom) - A Simple Yet Powerful RISC-V Logisim Computer
 - [Old-Man-Programmer/tree](https://github.com/Old-Man-Programmer/tree) - Tree for Unix/LInux
 - [Spirit-of-Oberon/Juice](https://github.com/Spirit-of-Oberon/Juice) - Juice is a technology for distributing executable content across the World Wide Web
 - [a0rtega/pafish](https://github.com/a0rtega/pafish) - Pafish is a testing tool that uses different techniques to detect virtual machines and malware analysis environments in the same way that malware families do
@@ -268,6 +268,7 @@ A collection of awesome things.
 - [cmu-sei/kaiju](https://github.com/cmu-sei/kaiju) - CERT Kaiju is a binary analysis framework extension for the Ghidra software reverse engineering suite. This repository is a "mirror" -- please file tickets, bug reports, or pull requests at the upstream home in @CERTCC: https://github.com/certcc/kaiju
 - [cpater/iDontCare](https://github.com/cpater/iDontCare) - a java agent that turns a java.lang.NullPointerException in what it really means.
 - [cprice404/la-clojure](https://github.com/cprice404/la-clojure) - Clojure plugin for IntelliJ IDEA
+- [dakrone/tigris](https://github.com/dakrone/tigris) - Stream-to-stream JSON string escaping
 - [dbis-ukon/intellij-oberon](https://github.com/dbis-ukon/intellij-oberon) - A plugin to support the Oberon programming language in JetBrains IDEs.
 - [eclipse-openj9/openj9](https://github.com/eclipse-openj9/openj9) - Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high throughput.   Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with the Extensions for OpenJDK for OpenJ9 repo.
 - [eclipse/xtext](https://github.com/eclipse/xtext) - Eclipse Xtext™ is a language development framework 
