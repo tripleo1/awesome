@@ -75,7 +75,7 @@ A collection of awesome things.
 
 - [9fans/drawterm](https://github.com/9fans/drawterm) - Connect to Plan 9 CPU servers from other operating systems.
 - [D-os/dos](https://github.com/D-os/dos) - D/os source code super-repo
-- [MazinCE/Veecom](https://github.com/MazinCE/Veecom) - A Simple Yet Powerful RISC-V Logisim Computer
+- [MazinCE/Veecom](https://github.com/MazinCE/Veecom) - A Simple Yet Powerful RISC-V Computer
 - [Old-Man-Programmer/tree](https://github.com/Old-Man-Programmer/tree) - Tree for Unix/LInux
 - [Spirit-of-Oberon/Juice](https://github.com/Spirit-of-Oberon/Juice) - Juice is a technology for distributing executable content across the World Wide Web
 - [a0rtega/pafish](https://github.com/a0rtega/pafish) - Pafish is a testing tool that uses different techniques to detect virtual machines and malware analysis environments in the same way that malware families do
@@ -438,6 +438,7 @@ A collection of awesome things.
 - [enthought/pyface](https://github.com/enthought/pyface) - pyface: traits-capable windowing framework
 - [enthought/traits](https://github.com/enthought/traits) - Observable typed attributes for Python classes
 - [enthought/traitsui](https://github.com/enthought/traitsui) - TraitsUI: Traits-capable windowing framework
+- [gbrls/pyRebinder](https://github.com/gbrls/pyRebinder) - A python based minimal DNS server to test/verify DNS rebinding attacks
 - [gevent-on-pypy/pypycore](https://github.com/gevent-on-pypy/pypycore) - gevent.core implemented as cffi module, might be used with pypy
 - [gorakhargosh/mom](https://github.com/gorakhargosh/mom) - The do-not-repeat-yourself-library. All your utils.py and compat.py are belong to us. Python 2.5+, PyPy, and Python 3.x
 - [graboluk/stiko](https://github.com/graboluk/stiko) - systray icon for syncthing
@@ -646,6 +647,7 @@ A collection of awesome things.
 - [replayio/gecko-dev](https://github.com/replayio/gecko-dev) - Record Replay gecko based browser source
 - [rishirdua/awesome-code-formatters](https://github.com/rishirdua/awesome-code-formatters) - A curated list of awesome code formatting tools and libraries
 - [sanmak/awesome-blogs](https://github.com/sanmak/awesome-blogs) - List of awesome blogs run, managed by a human or two and not an organisation, company or institution.
+- [semantalytics/awesome-semantic-web](https://github.com/semantalytics/awesome-semantic-web) - A curated list of various semantic web and linked data resources.
 - [sjh258933/IntelliJGit](https://github.com/sjh258933/IntelliJGit) - 
 - [swyxio/buying-domains](https://github.com/swyxio/buying-domains) - useful data and advice for buying domains.
 - [synflow/SHA-256](https://github.com/synflow/SHA-256) - SHA-256 implemented with the Cx language
