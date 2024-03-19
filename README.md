@@ -199,6 +199,7 @@ A collection of awesome things.
 ## Go
 
 - [Fault-lang/Fault](https://github.com/Fault-lang/Fault) - a language for building system dynamic models
+- [Jeffail/leaps](https://github.com/Jeffail/leaps) - A pair programming service using operational transforms
 - [MoodyReaper/multi-language-programming-playground](https://github.com/MoodyReaper/multi-language-programming-playground) - Multi-language programming playground (Go, Python, Rust, TypeScript)
 - [Xe/x](https://github.com/Xe/x) - Various tools, trinkets and experiments
 - [anuran-roy/ipos](https://github.com/anuran-roy/ipos) - Linux Based OS using IPFS as a Root File System
@@ -330,6 +331,7 @@ A collection of awesome things.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [hardpixel/unite-shell](https://github.com/hardpixel/unite-shell) - Unite is an extension that makes GNOME Shell look like Ubuntu Unity Shell.
 - [kevlarr/awesome-wasm](https://github.com/kevlarr/awesome-wasm) - resources for Wasm presentation; comparison of JS vs. Wasm via implementations of Game of Life
+- [leapmotion/leapjs](https://github.com/leapmotion/leapjs) - JavaScript client for the Leap Motion Controller
 - [lengstrom/falcon](https://github.com/lengstrom/falcon) - Chrome extension for full text history search!
 - [mafintosh/abstract-chunk-store](https://github.com/mafintosh/abstract-chunk-store) - A test suite and interface you can use to implement a chunk based storage backend
 - [max-mapper/abstract-blob-store](https://github.com/max-mapper/abstract-blob-store) - A test suite and interface you can use to implement streaming file (blob) storage modules for various storage backends and platforms
