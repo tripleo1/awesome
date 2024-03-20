@@ -234,6 +234,7 @@ A collection of awesome things.
 
 - [MahdiF/taptaptap](https://github.com/MahdiF/taptaptap) - 🕹 Open Source Javascript Game
 - [bbonamin/strftimeslikethese](https://github.com/bbonamin/strftimeslikethese) - A Ruby WASM implementation, fully client-side, inspired by foragoodstrftime.com
+- [callgraph/vue-callgraph-manual](https://github.com/callgraph/vue-callgraph-manual) - http://os.cs.tsinghua.edu.cn/research/kernel/callgraph2017
 - [eine/elide](https://github.com/eine/elide) - Embedded Logic Integrated Design Environment
 - [hundredrabbits/100r.co](https://github.com/hundredrabbits/100r.co) - Official Website
 - [malisipi/ubuntu-tour](https://github.com/malisipi/ubuntu-tour) - Web-Based Ubuntu
@@ -337,6 +338,7 @@ A collection of awesome things.
 - [max-mapper/abstract-blob-store](https://github.com/max-mapper/abstract-blob-store) - A test suite and interface you can use to implement streaming file (blob) storage modules for various storage backends and platforms
 - [novemberborn/never](https://github.com/novemberborn/never) - A function that throws when called, use with nullish coalescing to elide unexpected nullish values
 - [ollama-ui/ollama-ui](https://github.com/ollama-ui/ollama-ui) - Simple HTML UI for Ollama
+- [p-e-w/argos](https://github.com/p-e-w/argos) - Create GNOME Shell extensions in seconds
 - [reimertz/curse-words](https://github.com/reimertz/curse-words) - 
 - [simonw/simonwillisonblog](https://github.com/simonw/simonwillisonblog) - The source code behind my blog
 - [thesephist/unim.press](https://github.com/thesephist/unim.press) - A Reddit front-page reader in the style of The New York Times.
