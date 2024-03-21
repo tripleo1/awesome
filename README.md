@@ -11,6 +11,7 @@ A collection of awesome things.
 - [Clojure](#clojure)
 - [Common Lisp](#common-lisp)
 - [Component Pascal](#component-pascal)
+- [Coq](#coq)
 - [D](#d)
 - [Dart](#dart)
 - [Erlang](#erlang)
@@ -22,6 +23,7 @@ A collection of awesome things.
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
+- [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lean](#lean)
@@ -90,6 +92,7 @@ A collection of awesome things.
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [jonathanhogg/usepackage](https://github.com/jonathanhogg/usepackage) - Usepackage Environment Manager
 - [kernc/xsuspender](https://github.com/kernc/xsuspender) - :eyes: :computer: :zzz: :battery: Save battery by auto-suspending unfocused X11 applications.
+- [kev009/trix](https://github.com/kev009/trix) - MIT Trix operating system (UNIX-like)
 - [littlekernel/lk](https://github.com/littlekernel/lk) - LK embedded kernel
 - [phmarek/fsvs](https://github.com/phmarek/fsvs) - Full System Versioning System
 - [pixeltris/webc86](https://github.com/pixeltris/webc86) - Compile / run C in a web browser via TCC / x86 emulation
@@ -120,6 +123,7 @@ A collection of awesome things.
 - [c3d/xl](https://github.com/c3d/xl) - A minimalist, general-purpose programming language based on meta-programming and parse tree rewrites
 - [cmu-sei/pharos](https://github.com/cmu-sei/pharos) - Automated static analysis tools for binary programs
 - [facebook/redex](https://github.com/facebook/redex) - A bytecode optimizer for Android apps
+- [google/filesystem-proposal](https://github.com/google/filesystem-proposal) - Boost Filesystem Library with modifications for the C++ standards committee proposal
 - [impedimentToProgress/Ratchet](https://github.com/impedimentToProgress/Ratchet) - Ratchet source code from OSDI 2016
 - [intel-iot-devkit/object-flaw-detector-cpp](https://github.com/intel-iot-devkit/object-flaw-detector-cpp) - Detect various irregularities of a product as it moves along a conveyor belt.
 - [ktock/container2wasm](https://github.com/ktock/container2wasm) - Container to WASM converter
@@ -175,6 +179,10 @@ A collection of awesome things.
 
 - [k-john-gough/gpcp](https://github.com/k-john-gough/gpcp) - Gardens Point Component Pascal is an implementation of the Component Pascal Language (CP). There are implementations for both the CLR and the JVM.
 
+## Coq
+
+- [wkolowski/Type-Theory-Wishlist](https://github.com/wkolowski/Type-Theory-Wishlist) - Personal research notes
+
 ## D
 
 - [intellij-dlanguage/intellij-dlanguage](https://github.com/intellij-dlanguage/intellij-dlanguage) - Intellij Plugin for the D Programming Language
@@ -219,6 +227,7 @@ A collection of awesome things.
 - [perkeep/perkeep](https://github.com/perkeep/perkeep) - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
 - [psilva261/opossum](https://github.com/psilva261/opossum) - Rudimentary web browser written in Golang
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
+- [scrollmapper/bible_databases](https://github.com/scrollmapper/bible_databases) - Bible versions and cross-reference databases.
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
 - [seifer/go-seaweedfs](https://github.com/seifer/go-seaweedfs) - Seaweed-FS is a simple and highly scalable distributed file system. There are two objectives:  to store billions of files! to serve the files fast! Instead of supporting full POSIX file system semantics, Seaweed-FS choose to implement only a key~file mapping. Similar to the word "NoSQL", you can call it as "NoFS".
 - [slotix/dataflowkit](https://github.com/slotix/dataflowkit) - Extract structured data from web sites. Web sites scraping.  
@@ -273,6 +282,8 @@ A collection of awesome things.
 - [dakrone/tigris](https://github.com/dakrone/tigris) - Stream-to-stream JSON string escaping
 - [dbis-ukon/intellij-oberon](https://github.com/dbis-ukon/intellij-oberon) - A plugin to support the Oberon programming language in JetBrains IDEs.
 - [eclipse-openj9/openj9](https://github.com/eclipse-openj9/openj9) - Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high throughput.   Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with the Extensions for OpenJDK for OpenJ9 repo.
+- [eclipse-pde/eclipse.pde](https://github.com/eclipse-pde/eclipse.pde) - 
+- [eclipse-platform/eclipse.platform](https://github.com/eclipse-platform/eclipse.platform) - 
 - [eclipse/xtext](https://github.com/eclipse/xtext) - Eclipse Xtext™ is a language development framework 
 - [ericscharff/SmallWorld](https://github.com/ericscharff/SmallWorld) - Tim Budds Simple Smalltalk interpreter in Java
 - [fesh0r/fernflower](https://github.com/fesh0r/fernflower) - Unofficial mirror of FernFlower Java decompiler (All pulls should be submitted upstream)
@@ -315,10 +326,12 @@ A collection of awesome things.
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS!
 - [IBM/guide-conveyor-simulator](https://github.com/IBM/guide-conveyor-simulator) - # WARNING: This repository is no longer maintained :warning:  This content is no longer being updated or maintained. The content is provided “as is.” Given the rapid evolution of technology, some content, steps, or illustrations may have changed.
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
+- [LonelessCodes/trixiebot](https://github.com/LonelessCodes/trixiebot) - Multipurpose Discord Bot for Horses and Hoomans.
 - [MineDojo/Voyager](https://github.com/MineDojo/Voyager) - An Open-Ended Embodied Agent with Large Language Models
 - [Moon-0xff/gnome-mpris-label](https://github.com/Moon-0xff/gnome-mpris-label) - A music related GNOME extension.
 - [Overhear8805/redlib-redirect](https://github.com/Overhear8805/redlib-redirect) - Redirect reddit.com to a libre alternatives
 - [RAJAGOPALAN-GANGADHARAN/JS-OS](https://github.com/RAJAGOPALAN-GANGADHARAN/JS-OS) - An Unified Operating System on the web
+- [ShivaBhattacharjee/AnimeTrix](https://github.com/ShivaBhattacharjee/AnimeTrix) -  Animetrix is a project that utilizes the Anilist platform to obtain information on various anime titles, and it combines this data with the Gogoanime API to provide ad-free streaming of anime content. 
 - [StephenPCG/extend-left-box](https://github.com/StephenPCG/extend-left-box) - Extend _leftBox of gnome-shell top bar
 - [Swatinem/diff](https://github.com/Swatinem/diff) - implementation of myers diff algorithm
 - [WardCunningham/remodeling](https://github.com/WardCunningham/remodeling) - The original wiki rewritten as a single page application
@@ -340,7 +353,9 @@ A collection of awesome things.
 - [ollama-ui/ollama-ui](https://github.com/ollama-ui/ollama-ui) - Simple HTML UI for Ollama
 - [p-e-w/argos](https://github.com/p-e-w/argos) - Create GNOME Shell extensions in seconds
 - [reimertz/curse-words](https://github.com/reimertz/curse-words) - 
+- [shanesmith/gerrit-cli](https://github.com/shanesmith/gerrit-cli) - Gerrit in your command lines.
 - [simonw/simonwillisonblog](https://github.com/simonw/simonwillisonblog) - The source code behind my blog
+- [sindresorhus/yn](https://github.com/sindresorhus/yn) - Parse yes/no like values
 - [thesephist/unim.press](https://github.com/thesephist/unim.press) - A Reddit front-page reader in the style of The New York Times.
 - [torch2424/made-with-webassembly](https://github.com/torch2424/made-with-webassembly) - A showcase of awesome production applications, side projects, and use cases made with WebAssembly (Wasm). 👷
 
@@ -348,10 +363,15 @@ A collection of awesome things.
 
 - [debops/debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
 
+## Julia
+
+- [trixi-framework/Trixi2Vtk.jl](https://github.com/trixi-framework/Trixi2Vtk.jl) - Convert output files generated with Trixi.jl to VTK.
+
 ## Jupyter Notebook
 
 - [LabForComputationalVision/pyPyrTools](https://github.com/LabForComputationalVision/pyPyrTools) - Python tools for multi-scale image processing, including Laplacian pyramids, Wavelets, and Steerable Pyramids http://www.cns.nyu.edu/~lcv/software.php
 - [OpenDebates/openskill.py](https://github.com/OpenDebates/openskill.py) - Multiplayer Rating System. No Friction.
+- [TRI-AMDD/trixs](https://github.com/TRI-AMDD/trixs) - Toyota Research Institute X-ray Spectroscopy. Tools for machine learning of XANES.
 - [melix/NebulAI](https://github.com/melix/NebulAI) - Detecting planetary nebula using AI
 - [nurakib/fast.ai](https://github.com/nurakib/fast.ai) - Making neural nets uncool again
 
@@ -453,6 +473,7 @@ A collection of awesome things.
 - [jstepien/psota](https://github.com/jstepien/psota) - “Clojure on PyPy” would be an exaggeration
 - [kennethreitz/maya](https://github.com/kennethreitz/maya) - Datetimes for Humans™
 - [knorrie/btrfs-heatmap](https://github.com/knorrie/btrfs-heatmap) - Visualize the layout of data on your btrfs filesystem over time
+- [ks-amit/Distributed-Database](https://github.com/ks-amit/Distributed-Database) - A travel agency app with a distributed database implemented from scratch!
 - [lelit/tailor](https://github.com/lelit/tailor) - A tool to exchange changesets between different version control systems
 - [linuxmint/sticky](https://github.com/linuxmint/sticky) - A sticky notes app for the linux desktop
 - [lzzcd001/GShell](https://github.com/lzzcd001/GShell) - Official implentation of "Ghost on the Shell: An Expressive Representation of General 3D Shapes" (ICLR 2024 Oral)
@@ -504,6 +525,7 @@ A collection of awesome things.
 ## Rust
 
 - [DieracDelta/DAWN](https://github.com/DieracDelta/DAWN) - DAWN (Debug Adapter with Nix)
+- [andreafioraldi/libafl_quickjs_fuzzing](https://github.com/andreafioraldi/libafl_quickjs_fuzzing) - An example fuzzer about how to fuzz a JS engine combinign Nautilus with Token-level fuzzing 
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [digama0/lean-sys](https://github.com/digama0/lean-sys) - Rust bindings for the Lean 4 proof assistant
 - [dotboris/alt](https://github.com/dotboris/alt) - A simple version manager tool for switching between different versions of commands
@@ -644,6 +666,7 @@ A collection of awesome things.
 - [jossthev/linda](https://github.com/jossthev/linda) - Creation of a data shared space, based on Linda pattern, using Java (multi-threading, RMI)
 - [katopz/awesome-wasm](https://github.com/katopz/awesome-wasm) - WebAssembly FTW
 - [mbasso/awesome-wasm](https://github.com/mbasso/awesome-wasm) - 😎 Curated list of awesome things regarding WebAssembly (wasm) ecosystem.
+- [mholm/backbone.trix](https://github.com/mholm/backbone.trix) - Backbone.Trix: A framework that turns tricks on a dime.
 - [phoe/the-elusive-language](https://github.com/phoe/the-elusive-language) - A small Common Lisp-related art project.
 - [photopea/photopea](https://github.com/photopea/photopea) - Photopea is online image editor
 - [pventuzelo/awesome-wasm-examples](https://github.com/pventuzelo/awesome-wasm-examples) - :sunglasses: A curated list of WebAssembly (wasm) examples
