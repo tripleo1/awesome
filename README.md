@@ -14,6 +14,7 @@ A collection of awesome things.
 - [Coq](#coq)
 - [D](#d)
 - [Dart](#dart)
+- [Emacs Lisp](#emacs-lisp)
 - [Erlang](#erlang)
 - [F#](#f)
 - [Gherkin](#gherkin)
@@ -97,6 +98,7 @@ A collection of awesome things.
 - [phmarek/fsvs](https://github.com/phmarek/fsvs) - Full System Versioning System
 - [pixeltris/webc86](https://github.com/pixeltris/webc86) - Compile / run C in a web browser via TCC / x86 emulation
 - [ponylang/ponyc](https://github.com/ponylang/ponyc) - Pony is an open-source, actor-model, capabilities-secure, high performance programming language
+- [shellphish/how2heap](https://github.com/shellphish/how2heap) - A repository for learning various heap exploitation techniques.
 - [tinycorelinux/tinyx](https://github.com/tinycorelinux/tinyx) - 
 - [titzer/redpants](https://github.com/titzer/redpants) - 
 - [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)
@@ -110,6 +112,7 @@ A collection of awesome things.
 
 ## C++
 
+- [Alexiril/Cosmopolitan-SDL-example](https://github.com/Alexiril/Cosmopolitan-SDL-example) - Example of using SDL2 with Cosmopolitan Libc
 - [AlienVault-Engineering/conveyor](https://github.com/AlienVault-Engineering/conveyor) - C++11 library : efficient event cache for osquery agent with multiple read cursor support
 - [GemHunt/CoinSorter](https://github.com/GemHunt/CoinSorter) - Sorts coins by solenoid on a conveyor by classifying images with Caffe & DIGETS
 - [HaikuArchives/BeFree](https://github.com/HaikuArchives/BeFree) - BeOS API and desktop on top of the Linux kernel.
@@ -171,6 +174,7 @@ A collection of awesome things.
 - [Interlisp/medley](https://github.com/Interlisp/medley) - The main repo for the Medley Interlisp project. Wiki, Issues are here. Other repositories include maiko (the VM implementation) and Interlisp.github.io (web site sources)
 - [armedbear/abcl](https://github.com/armedbear/abcl) - Armed Bear Common Lisp &lt;git+https://github.com/armedbear/abcl/&gt; &lt;--&gt; &lt;svn+https://abcl.org/svn&gt; Bridge
 - [froggey/Mezzano](https://github.com/froggey/Mezzano) - An operating system written in Common Lisp
+- [jaredkrinke/100-languages](https://github.com/jaredkrinke/100-languages) - Solving the first 100 Project Euler problems using 100 different programming languages!
 - [jpcima/sbcl-image-builder](https://github.com/jpcima/sbcl-image-builder) - Lisp image build for SBCL
 - [kiselgra/c-mera](https://github.com/kiselgra/c-mera) - Next-level syntax for C-like languages :)
 - [pcostanza/closer-mop](https://github.com/pcostanza/closer-mop) - Closer to MOP is a compatibility layer that rectifies many of the absent or incorrect CLOS MOP features across a broad range of Common Lisp implementations.
@@ -191,6 +195,10 @@ A collection of awesome things.
 ## Dart
 
 - [gskinnerTeam/flokk](https://github.com/gskinnerTeam/flokk) - A fresh and modern Google Contacts manager that integrates with GitHub and Twitter.
+
+## Emacs Lisp
+
+- [gorauskas/darkburn-theme](https://github.com/gorauskas/darkburn-theme) - Dark Burn Theme for Emacs 24
 
 ## Erlang
 
@@ -354,6 +362,7 @@ A collection of awesome things.
 - [p-e-w/argos](https://github.com/p-e-w/argos) - Create GNOME Shell extensions in seconds
 - [reimertz/curse-words](https://github.com/reimertz/curse-words) - 
 - [shanesmith/gerrit-cli](https://github.com/shanesmith/gerrit-cli) - Gerrit in your command lines.
+- [shaunxcode/datomicism](https://github.com/shaunxcode/datomicism) - interface for visualizing datomic schemas and queries
 - [simonw/simonwillisonblog](https://github.com/simonw/simonwillisonblog) - The source code behind my blog
 - [sindresorhus/yn](https://github.com/sindresorhus/yn) - Parse yes/no like values
 - [thesephist/unim.press](https://github.com/thesephist/unim.press) - A Reddit front-page reader in the style of The New York Times.
@@ -550,8 +559,10 @@ A collection of awesome things.
 
 ## Scala
 
+- [dotta/coursier-deps-resolution-bug](https://github.com/dotta/coursier-deps-resolution-bug) - Small project demonstrating the mismatch between sbt and coursier dependency resolution
 - [lihaoyi/Metascala](https://github.com/lihaoyi/Metascala) - A JVM written in Scala
 - [qingwei91/inc-scala](https://github.com/qingwei91/inc-scala) - Incremental (from Jane Street) implemented in Scala
+- [teliatko/coursier-issue-ivy-classifiers](https://github.com/teliatko/coursier-issue-ivy-classifiers) - Simulation of issue in Cousier when Ivy is used with classifiers
 
 ## Shell
 
