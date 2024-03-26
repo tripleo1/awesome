@@ -39,6 +39,7 @@ A collection of awesome things.
 - [Perl](#perl)
 - [Python](#python)
 - [QML](#qml)
+- [R](#r)
 - [Rich Text Format](#rich-text-format)
 - [Roff](#roff)
 - [Ruby](#ruby)
@@ -52,6 +53,7 @@ A collection of awesome things.
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [V](#v)
+- [Vim Script](#vim-script)
 - [Vue](#vue)
 - [Xtend](#xtend)
 - [Zig](#zig)
@@ -460,6 +462,7 @@ A collection of awesome things.
 - [VAST-AI-Research/TripoSR](https://github.com/VAST-AI-Research/TripoSR) - 
 - [Wanderson-Magalhaes/Modern_GUI_PyDracula_PySide6_or_PyQt6](https://github.com/Wanderson-Magalhaes/Modern_GUI_PyDracula_PySide6_or_PyQt6) - 
 - [alxschwrz/codex_py2cpp](https://github.com/alxschwrz/codex_py2cpp) - Converts python code into c++ by using OpenAI CODEX.
+- [amanusk/s-tui](https://github.com/amanusk/s-tui) - Terminal-based CPU stress and monitoring utility
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [cchen156/Learning-to-See-in-the-Dark](https://github.com/cchen156/Learning-to-See-in-the-Dark) - Learning to See in the Dark. CVPR 2018
 - [cherrypy/cherrypy](https://github.com/cherrypy/cherrypy) - CherryPy is a pythonic, object-oriented HTTP framework.      https://cherrypy.dev
@@ -513,6 +516,10 @@ A collection of awesome things.
 ## QML
 
 - [Wanderson-Magalhaes/Circular_ProgressBar](https://github.com/Wanderson-Magalhaes/Circular_ProgressBar) - 
+
+## R
+
+- [vspinu/R-nREPL](https://github.com/vspinu/R-nREPL) - nREPL client and server for R
 
 ## Rich Text Format
 
@@ -615,6 +622,10 @@ A collection of awesome things.
 ## V
 
 - [vlang/c2v](https://github.com/vlang/c2v) - C/C++ to V translator
+
+## Vim Script
+
+- [liquidz/vim-iced](https://github.com/liquidz/vim-iced) - Clojure Interactive Development Environment for Vim8/Neovim
 
 ## Vue
 
