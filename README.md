@@ -486,7 +486,6 @@ A collection of awesome things.
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
 - [jorgenkg/python-neural-network](https://github.com/jorgenkg/python-neural-network) - This is an efficient implementation of a fully connected neural network in NumPy. The network can be trained by a variety of learning algorithms: backpropagation, resilient backpropagation and scaled conjugate gradient learning. The network has been developed with PYPY in mind.
 - [jstepien/psota](https://github.com/jstepien/psota) - “Clojure on PyPy” would be an exaggeration
-- [kennethreitz/maya](https://github.com/kennethreitz/maya) - Datetimes for Humans™
 - [knorrie/btrfs-heatmap](https://github.com/knorrie/btrfs-heatmap) - Visualize the layout of data on your btrfs filesystem over time
 - [ks-amit/Distributed-Database](https://github.com/ks-amit/Distributed-Database) - A travel agency app with a distributed database implemented from scratch!
 - [lelit/tailor](https://github.com/lelit/tailor) - A tool to exchange changesets between different version control systems
@@ -579,6 +578,7 @@ A collection of awesome things.
 
 - [64kramsystem/zfs-installer](https://github.com/64kramsystem/zfs-installer) - Program that prepares ZFS on a system, and installs Linux
 - [OSPreservProject/amoeba](https://github.com/OSPreservProject/amoeba) - amoeba operating system
+- [boredsquirrel/Fedora-TV-KDE-Bigscreen](https://github.com/boredsquirrel/Fedora-TV-KDE-Bigscreen) - A Linux TV based off the immutable Fedora Kinoite, along with KDE Plasma Bigscreen, Mycroft Voice control, a modified Firefox and preinstalled Flatpak apps.
 - [c3d/mbuto](https://github.com/c3d/mbuto) - Minimal Builder Using Terse Options
 - [dlang/installer](https://github.com/dlang/installer) - dmd installers for various systems
 - [jarun/advcpmv](https://github.com/jarun/advcpmv) - A patch for GNU Core Utilities cp, mv to add progress bars
@@ -587,7 +587,6 @@ A collection of awesome things.
 - [presslabs/debuilder](https://github.com/presslabs/debuilder) - Docker images for building debian/ubuntu packages
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [trentbuck/flash-kernel-efi](https://github.com/trentbuck/flash-kernel-efi) - 
-- [trytomakeyouprivate/Fedora-TV-KDE-Bigscreen](https://github.com/trytomakeyouprivate/Fedora-TV-KDE-Bigscreen) - A Linux TV based off the immutable Fedora Kinoite, along with KDE Plasma Bigscreen, Mycroft Voice control, a modified Firefox and preinstalled Flatpak apps.
 - [version-manager/woof](https://github.com/version-manager/woof) - The version manager to end all version managers.
 - [wmutschl/mutschler.dev](https://github.com/wmutschl/mutschler.dev) - Tech blog
 - [zegl/extremely-linear](https://github.com/zegl/extremely-linear) - Extremely Linear Git History // git-linearize
