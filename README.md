@@ -94,6 +94,7 @@ A collection of awesome things.
 - [idunham/tinyxserver](https://github.com/idunham/tinyxserver) - A small X server, based on Xorg 1.2 but with security fixes.
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [jonathanhogg/usepackage](https://github.com/jonathanhogg/usepackage) - Usepackage Environment Manager
+- [kayodesu/cabin](https://github.com/kayodesu/cabin) - A toy jvm written in C, based on jdk16
 - [kernc/xsuspender](https://github.com/kernc/xsuspender) - :eyes: :computer: :zzz: :battery: Save battery by auto-suspending unfocused X11 applications.
 - [kev009/trix](https://github.com/kev009/trix) - MIT Trix operating system (UNIX-like)
 - [littlekernel/lk](https://github.com/littlekernel/lk) - LK embedded kernel
@@ -134,6 +135,7 @@ A collection of awesome things.
 - [ktock/container2wasm](https://github.com/ktock/container2wasm) - Container to WASM converter
 - [managarm/managarm](https://github.com/managarm/managarm) - Pragmatic microkernel-based OS with fully asynchronous I/O
 - [mhx/dwarfs](https://github.com/mhx/dwarfs) - A fast high compression read-only file system for Linux, Windows and macOS
+- [neobrain/cftf](https://github.com/neobrain/cftf) - Clang from the Future: A C++17 to C++11 source-to-source compiler
 - [nucleic/kiwi](https://github.com/nucleic/kiwi) - Efficient C++ implementation of the Cassowary constraint solving algorithm
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
 - [onflapp/gs-desktop](https://github.com/onflapp/gs-desktop) - GNUstep Desktop
@@ -438,6 +440,7 @@ A collection of awesome things.
 
 ## PHP
 
+- [Hyupai/Classloader-by-S4J](https://github.com/Hyupai/Classloader-by-S4J) - Dinamic classloader
 - [glhd/conveyor-belt](https://github.com/glhd/conveyor-belt) - All the underlying mechanics necessary to write artisan commands that process lots of data efficiently
 
 ## Pascal
