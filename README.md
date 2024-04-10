@@ -233,7 +233,7 @@ A collection of awesome things.
 - [hashsplit/hashsplit-spec](https://github.com/hashsplit/hashsplit-spec) - 
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [j-keck/zsd](https://github.com/j-keck/zsd) - cli tool to find older versions of a given file in your zfs snapshots.
-- [nlewo/comin](https://github.com/nlewo/comin) - Git Push NixOS Machines
+- [nlewo/comin](https://github.com/nlewo/comin) - GitOps For NixOS Machines
 - [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup) - Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox or SSH compatible storage
 - [osminum/ink](https://github.com/osminum/ink) - Ink is a minimal programming language inspired by modern JavaScript and Go, with functional style.
 - [perkeep/perkeep](https://github.com/perkeep/perkeep) - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
