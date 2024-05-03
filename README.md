@@ -589,7 +589,7 @@ A collection of awesome things.
 - [kdabir/has](https://github.com/kdabir/has) - ✅ checks presence of various command line tools and their versions on the path 
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [presslabs/debuilder](https://github.com/presslabs/debuilder) - Docker images for building debian/ubuntu packages
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [trentbuck/flash-kernel-efi](https://github.com/trentbuck/flash-kernel-efi) - 
 - [version-manager/woof](https://github.com/version-manager/woof) - The version manager to end all version managers.
 - [wmutschl/mutschler.dev](https://github.com/wmutschl/mutschler.dev) - Tech blog
