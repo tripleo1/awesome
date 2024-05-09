@@ -385,10 +385,10 @@ A collection of awesome things.
 ## Jupyter Notebook
 
 - [LabForComputationalVision/pyPyrTools](https://github.com/LabForComputationalVision/pyPyrTools) - Python tools for multi-scale image processing, including Laplacian pyramids, Wavelets, and Steerable Pyramids http://www.cns.nyu.edu/~lcv/software.php
-- [OpenDebates/openskill.py](https://github.com/OpenDebates/openskill.py) - Multiplayer Rating System. No Friction.
 - [TRI-AMDD/trixs](https://github.com/TRI-AMDD/trixs) - Toyota Research Institute X-ray Spectroscopy. Tools for machine learning of XANES.
 - [melix/NebulAI](https://github.com/melix/NebulAI) - Detecting planetary nebula using AI
 - [nurakib/fast.ai](https://github.com/nurakib/fast.ai) - Making neural nets uncool again
+- [vivekjoshy/openskill.py](https://github.com/vivekjoshy/openskill.py) - Multiplayer Rating System. No Friction.
 
 ## Kotlin
 
