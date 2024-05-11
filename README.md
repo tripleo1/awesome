@@ -46,6 +46,7 @@ A collection of awesome things.
 - [Rust](#rust)
 - [SCSS](#scss)
 - [Scala](#scala)
+- [Self](#self)
 - [Shell](#shell)
 - [Smalltalk](#smalltalk)
 - [StringTemplate](#stringtemplate)
@@ -178,7 +179,6 @@ A collection of awesome things.
 - [Interlisp/medley](https://github.com/Interlisp/medley) - The main repo for the Medley Interlisp project. Wiki, Issues are here. Other repositories include maiko (the VM implementation) and Interlisp.github.io (web site sources)
 - [armedbear/abcl](https://github.com/armedbear/abcl) - Armed Bear Common Lisp &lt;git+https://github.com/armedbear/abcl/&gt; &lt;--&gt; &lt;svn+https://abcl.org/svn&gt; Bridge
 - [froggey/Mezzano](https://github.com/froggey/Mezzano) - An operating system written in Common Lisp
-- [jaredkrinke/100-languages](https://github.com/jaredkrinke/100-languages) - Solving the first 100 Project Euler problems using 100 different programming languages!
 - [jpcima/sbcl-image-builder](https://github.com/jpcima/sbcl-image-builder) - Lisp image build for SBCL
 - [kiselgra/c-mera](https://github.com/kiselgra/c-mera) - Next-level syntax for C-like languages :)
 - [pcostanza/closer-mop](https://github.com/pcostanza/closer-mop) - Closer to MOP is a compatibility layer that rectifies many of the absent or incorrect CLOS MOP features across a broad range of Common Lisp implementations.
@@ -577,6 +577,10 @@ A collection of awesome things.
 - [lihaoyi/Metascala](https://github.com/lihaoyi/Metascala) - A JVM written in Scala
 - [qingwei91/inc-scala](https://github.com/qingwei91/inc-scala) - Incremental (from Jane Street) implemented in Scala
 - [teliatko/coursier-issue-ivy-classifiers](https://github.com/teliatko/coursier-issue-ivy-classifiers) - Simulation of issue in Cousier when Ivy is used with classifiers
+
+## Self
+
+- [jaredkrinke/100-languages](https://github.com/jaredkrinke/100-languages) - Solving the first 100 Project Euler problems using 100 different programming languages!
 
 ## Shell
 
