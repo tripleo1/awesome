@@ -411,7 +411,7 @@ A collection of awesome things.
 ## Makefile
 
 - [kostya/benchmarks](https://github.com/kostya/benchmarks) - Some benchmarks of different languages
-- [riscv/riscv-svvptc](https://github.com/riscv/riscv-svvptc) - Eliding Memory-management Fences on setting PTE valid (Svvptc)
+- [riscv/riscv-svvptc](https://github.com/riscv/riscv-svvptc) - Obviating Memory-Management Instructions after Marking PTEs Valid (Svvptc)
 
 ## Modula-2
 
