@@ -237,7 +237,7 @@ A collection of awesome things.
 - [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup) - Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox or SSH compatible storage
 - [osminum/ink](https://github.com/osminum/ink) - Ink is a minimal programming language inspired by modern JavaScript and Go, with functional style.
 - [perkeep/perkeep](https://github.com/perkeep/perkeep) - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
-- [psilva261/opossum](https://github.com/psilva261/opossum) - Rudimentary web browser written in Golang
+- [psilva261/mycel](https://github.com/psilva261/mycel) - Rudimentary web browser written in Golang
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [scrollmapper/bible_databases](https://github.com/scrollmapper/bible_databases) - Bible versions and cross-reference databases.
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
