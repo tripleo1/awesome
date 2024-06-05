@@ -110,6 +110,7 @@ A collection of awesome things.
 
 ## C#
 
+- [SleepyDeb/JSharp](https://github.com/SleepyDeb/JSharp) - JSharp is a .class loader for Net Core (similar to IKVM) is based on a features remapping of JDK on .Net Core libs
 - [jksware/yatc](https://github.com/jksware/yatc) - Yet Another Tiger Compiler
 - [livingcomputermuseum/ContrAlto](https://github.com/livingcomputermuseum/ContrAlto) - This repository contains the source code for Living Computers: Museum+Labs's Xerox Alto emulator, ContrAlto.
 - [microsoft/ApplicationInspector](https://github.com/microsoft/ApplicationInspector) - A source code analyzer built for surfacing features of interest and other characteristics to answer the question 'What's in the code?' quickly using static analysis with a json based rules engine. Ideal for scanning components before use or detecting feature level changes.
