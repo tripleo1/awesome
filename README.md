@@ -46,7 +46,6 @@ A collection of awesome things.
 - [Rust](#rust)
 - [SCSS](#scss)
 - [Scala](#scala)
-- [Self](#self)
 - [Shell](#shell)
 - [Smalltalk](#smalltalk)
 - [StringTemplate](#stringtemplate)
@@ -352,6 +351,7 @@ A collection of awesome things.
 - [WardCunningham/remodeling](https://github.com/WardCunningham/remodeling) - The original wiki rewritten as a single page application
 - [az0/linkgopher](https://github.com/az0/linkgopher) - Firefox/Google Chrome add-on: Extracts all links from web page, sorts them, removes duplicates, and displays them in a new tab for inspection or copy and paste into other systems.
 - [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
+- [chrislusf/docker-plugin_seaweedfs](https://github.com/chrislusf/docker-plugin_seaweedfs) - A Docker Volume plugin for mounting SeaweedFS filesystems
 - [ditesh/node-poplib](https://github.com/ditesh/node-poplib) - POP3 client library for Node.js
 - [dosyago/DownloadNet](https://github.com/dosyago/DownloadNet) -  💾 DownloadNet - All content you browse online available offline. Search through the full-text of all pages in your browser history. ⭐️ Star to support our work!
 - [dvajs/dva-hackernews](https://github.com/dvajs/dva-hackernews) - HackerNews clone built with Dva.
@@ -579,10 +579,6 @@ A collection of awesome things.
 - [qingwei91/inc-scala](https://github.com/qingwei91/inc-scala) - Incremental (from Jane Street) implemented in Scala
 - [teliatko/coursier-issue-ivy-classifiers](https://github.com/teliatko/coursier-issue-ivy-classifiers) - Simulation of issue in Cousier when Ivy is used with classifiers
 
-## Self
-
-- [jaredkrinke/100-languages](https://github.com/jaredkrinke/100-languages) - Solving the first 100 Project Euler problems using 100 different programming languages!
-
 ## Shell
 
 - [64kramsystem/zfs-installer](https://github.com/64kramsystem/zfs-installer) - Program that prepares ZFS on a system, and installs Linux
@@ -624,6 +620,7 @@ A collection of awesome things.
 - [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI.
 - [bleedingedgeai/bleedingedge.ai](https://github.com/bleedingedgeai/bleedingedge.ai) - Bleeding edge is a feed of noteworthy developments in AI and machine learning.
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
+- [jaredkrinke/100-languages](https://github.com/jaredkrinke/100-languages) - Solving the first 100 Project Euler problems using 100 different programming languages!
 - [luooooob/create-my-awesome](https://github.com/luooooob/create-my-awesome) - Github Actions for automatically generating the personal awesome list from all of the repositories you starred.
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
 - [mihailtd/starter](https://github.com/mihailtd/starter) - Project Starter template using VueJS, Vite, GraphQL backend with PostGraphile, PostgreSQL database in Kubernetes with Crunchy Postgres Operator, local Kubernetes development with DevSpace and auto generated code with graphql-code-generator.
@@ -700,6 +697,7 @@ A collection of awesome things.
 - [jghoman/awe-wasm](https://github.com/jghoman/awe-wasm) - awe-wasm = awesome WASM - repo for tracking WASM related resources I find
 - [jossthev/linda](https://github.com/jossthev/linda) - Creation of a data shared space, based on Linda pattern, using Java (multi-threading, RMI)
 - [katopz/awesome-wasm](https://github.com/katopz/awesome-wasm) - WebAssembly FTW
+- [koding/awesome-fuse-fs](https://github.com/koding/awesome-fuse-fs) - Resources related to FUSE (filesystem in user space).
 - [mbasso/awesome-wasm](https://github.com/mbasso/awesome-wasm) - 😎 Curated list of awesome things regarding WebAssembly (wasm) ecosystem.
 - [mholm/backbone.trix](https://github.com/mholm/backbone.trix) - Backbone.Trix: A framework that turns tricks on a dime.
 - [phoe/the-elusive-language](https://github.com/phoe/the-elusive-language) - A small Common Lisp-related art project.
