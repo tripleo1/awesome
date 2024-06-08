@@ -267,6 +267,7 @@ A collection of awesome things.
 ## Haskell
 
 - [carp-lang/Carp](https://github.com/carp-lang/Carp) - A statically typed lisp, without a GC, for real-time applications.
+- [change-metrics/monocle](https://github.com/change-metrics/monocle) - Monocle helps teams and individual to better organize daily duties and to detect anomalies in the way changes are produced and reviewed.
 - [fumieval/incremental](https://github.com/fumieval/incremental) - Type class for patch and diff
 
 ## Java
@@ -281,6 +282,7 @@ A collection of awesome things.
 - [SQiShER/java-object-diff](https://github.com/SQiShER/java-object-diff) - Library to diff and merge Java objects with ease
 - [ShawnyXiao/LinkingGame](https://github.com/ShawnyXiao/LinkingGame) - A linking game with nice look and some interests
 - [StormPI69/CONVEYOR-ANALYZER](https://github.com/StormPI69/CONVEYOR-ANALYZER) - Disk Production Analyzer project for categorizing and counting disks by shape and size by analyzing pixels.
+- [TouK/sputnik](https://github.com/TouK/sputnik) - Static code review for your Gerrit patchsets. Runs Checkstyle, PMD, FindBugs, Scalastyle, CodeNarc, JSLint for you!
 - [Vineflower/vineflower](https://github.com/Vineflower/vineflower) - Modern Java decompiler aiming to be as accurate as possible, with an emphasis on output quality. Fork of the Fernflower decompiler.
 - [ZHENFENG13/My-Blog](https://github.com/ZHENFENG13/My-Blog) - :palm_tree::octocat:A simple & beautiful blogging system implemented with spring-boot & thymeleaf & mybatis My Blog 是由 SpringBoot + Mybatis + Thymeleaf 等技术实现的 Java 博客系统，页面美观、功能齐全、部署简单及完善的代码，一定会给使用者无与伦比的体验
 - [amyjko/whyline](https://github.com/amyjko/whyline) - The Whyline for Java, an interactive debugging tool that lets you ask "why" questions about program out.
