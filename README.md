@@ -139,7 +139,6 @@ A collection of awesome things.
 - [neobrain/cftf](https://github.com/neobrain/cftf) - Clang from the Future: A C++17 to C++11 source-to-source compiler
 - [nucleic/kiwi](https://github.com/nucleic/kiwi) - Efficient C++ implementation of the Cassowary constraint solving algorithm
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
-- [onflapp/gs-desktop](https://github.com/onflapp/gs-desktop) - GNUstep Desktop
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [pin3da/Programming-contest](https://github.com/pin3da/Programming-contest) - My solutions of some problems from different online judges
 - [raulcostajunior/obc](https://github.com/raulcostajunior/obc) - An Oberon 07 to LLVM IR compiler.
@@ -439,6 +438,7 @@ A collection of awesome things.
 ## Objective-C
 
 - [gnustep/libs-steptalk](https://github.com/gnustep/libs-steptalk) - StepTalk is a scripting framework for creating scriptable servers or applications.
+- [onflapp/gs-desktop](https://github.com/onflapp/gs-desktop) - GNUstep Desktop
 - [onflapp/libs-steptalk](https://github.com/onflapp/libs-steptalk) - Scripting Framework for GNUstep Desktop
 - [trunkmaster/nextspace](https://github.com/trunkmaster/nextspace) - NeXTSTEP-like desktop environment for Linux
 
