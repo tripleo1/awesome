@@ -40,6 +40,7 @@ A collection of awesome things.
 - [Python](#python)
 - [QML](#qml)
 - [R](#r)
+- [Racket](#racket)
 - [Rich Text Format](#rich-text-format)
 - [Roff](#roff)
 - [Ruby](#ruby)
@@ -85,6 +86,7 @@ A collection of awesome things.
 - [Spirit-of-Oberon/Juice](https://github.com/Spirit-of-Oberon/Juice) - Juice is a technology for distributing executable content across the World Wide Web
 - [a0rtega/pafish](https://github.com/a0rtega/pafish) - Pafish is a testing tool that uses different techniques to detect virtual machines and malware analysis environments in the same way that malware families do
 - [aheck/clib](https://github.com/aheck/clib) - Header-only library for C99 that implements the most important classes from GLib: GArray, GHashTable, GList and GString.
+- [c-testsuite/c-testsuite](https://github.com/c-testsuite/c-testsuite) - A public database of C compiler test cases, minimal test runners, and public test results.
 - [civboot/fngi](https://github.com/civboot/fngi) - a readable language that grows from the silicon
 - [cmu-sei/SCALe](https://github.com/cmu-sei/SCALe) - SCALe (Source Code Analysis Lab) is a static analysis aggregator/correlator which enables a source code analyst to combine static analysis results from multiple tools into one interface, and also provides mappings for diagnostics from the tools to the SEI CERT Secure Coding standards.
 - [console-tools/moc](https://github.com/console-tools/moc) - Music On Console
@@ -99,6 +101,7 @@ A collection of awesome things.
 - [kev009/trix](https://github.com/kev009/trix) - MIT Trix operating system (UNIX-like)
 - [littlekernel/lk](https://github.com/littlekernel/lk) - LK embedded kernel
 - [phmarek/fsvs](https://github.com/phmarek/fsvs) - Full System Versioning System
+- [phoboslab/neuralink_brainwire](https://github.com/phoboslab/neuralink_brainwire) - Attempt at Neuralink's Compression Challenge
 - [pixeltris/webc86](https://github.com/pixeltris/webc86) - Compile / run C in a web browser via TCC / x86 emulation
 - [ponylang/ponyc](https://github.com/ponylang/ponyc) - Pony is an open-source, actor-model, capabilities-secure, high performance programming language
 - [shellphish/how2heap](https://github.com/shellphish/how2heap) - A repository for learning various heap exploitation techniques.
@@ -118,6 +121,7 @@ A collection of awesome things.
 
 - [Alexiril/Cosmopolitan-SDL-example](https://github.com/Alexiril/Cosmopolitan-SDL-example) - Example of using SDL2 with Cosmopolitan Libc
 - [AlienVault-Engineering/conveyor](https://github.com/AlienVault-Engineering/conveyor) - C++11 library : efficient event cache for osquery agent with multiple read cursor support
+- [AmokHuginnsson/replxx](https://github.com/AmokHuginnsson/replxx) - A readline and libedit replacement that supports UTF-8, syntax highlighting, hints and Windows and is BSD licensed.
 - [GemHunt/CoinSorter](https://github.com/GemHunt/CoinSorter) - Sorts coins by solenoid on a conveyor by classifying images with Caffe & DIGETS
 - [HaikuArchives/BeFree](https://github.com/HaikuArchives/BeFree) - BeOS API and desktop on top of the Linux kernel.
 - [HaikuArchives/EasyToolkitAndExtension](https://github.com/HaikuArchives/EasyToolkitAndExtension) - A toolkit and extension on BeOS/Windows/POSIX, a little like the BeOS API on platforms other than BeOS.
@@ -129,6 +133,7 @@ A collection of awesome things.
 - [briantrice/slate-language](https://github.com/briantrice/slate-language) - The Slate programming language
 - [c3d/xl](https://github.com/c3d/xl) - A minimalist, general-purpose programming language based on meta-programming and parse tree rewrites
 - [cmu-sei/pharos](https://github.com/cmu-sei/pharos) - Automated static analysis tools for binary programs
+- [electronicarts/EASTL](https://github.com/electronicarts/EASTL) - EASTL stands for Electronic Arts Standard Template Library.  It is an extensive and robust implementation that has an emphasis on high performance.
 - [facebook/redex](https://github.com/facebook/redex) - A bytecode optimizer for Android apps
 - [google/filesystem-proposal](https://github.com/google/filesystem-proposal) - Boost Filesystem Library with modifications for the C++ standards committee proposal
 - [impedimentToProgress/Ratchet](https://github.com/impedimentToProgress/Ratchet) - Ratchet source code from OSDI 2016
@@ -202,6 +207,7 @@ A collection of awesome things.
 ## Emacs Lisp
 
 - [gorauskas/darkburn-theme](https://github.com/gorauskas/darkburn-theme) - Dark Burn Theme for Emacs 24
+- [jonhermansen/eiffel-mode](https://github.com/jonhermansen/eiffel-mode) - Eiffel mode for Emacs/XEmacs
 
 ## Erlang
 
@@ -221,12 +227,14 @@ A collection of awesome things.
 - [Jeffail/leaps](https://github.com/Jeffail/leaps) - A pair programming service using operational transforms
 - [MoodyReaper/multi-language-programming-playground](https://github.com/MoodyReaper/multi-language-programming-playground) - Multi-language programming playground (Go, Python, Rust, TypeScript)
 - [Xe/x](https://github.com/Xe/x) - Various tools, trinkets and experiments
+- [anthonyabeo/obx](https://github.com/anthonyabeo/obx) - Obx is an implementation of the Oberon+ compiler. 
 - [anuran-roy/ipos](https://github.com/anuran-roy/ipos) - Linux Based OS using IPFS as a Root File System
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [cpg1111/ipos](https://github.com/cpg1111/ipos) - Linux Based OS using IPFS as a Root File System
 - [elimisteve/v2go](https://github.com/elimisteve/v2go) - V-to-Go translator
+- [flokli/gerrit-queue](https://github.com/flokli/gerrit-queue) - A merge bot for Gerrit
 - [go-python/gopy](https://github.com/go-python/gopy) - gopy generates a CPython extension module from a go package.
 - [google/crfs](https://github.com/google/crfs) - CRFS: Container Registry Filesystem
 - [hashsplit/hashsplit-spec](https://github.com/hashsplit/hashsplit-spec) - 
@@ -405,6 +413,7 @@ A collection of awesome things.
 ## Lean
 
 - [leanprover/leansat](https://github.com/leanprover/leansat) - This package provides an interface and foundation for verified SAT reasoning
+- [ufmg-smite/lean-smt](https://github.com/ufmg-smite/lean-smt) - Tactics for discharging Lean goals into SMT solvers.
 
 ## Lua
 
@@ -419,6 +428,7 @@ A collection of awesome things.
 
 - [OberonSystem3/AOS_Bluebottle_Sources](https://github.com/OberonSystem3/AOS_Bluebottle_Sources) - This is the source code of the last stable release of the ETH AOS/Bluebottle System, dated March 12, 2004, in plain ISO 8859-1 UTF-8 text files
 - [OberonSystem3/Release_2.3.7_Sources](https://github.com/OberonSystem3/Release_2.3.7_Sources) - This is the source code of the Oberon System 3 Release 2.3.7 in plain ISO 8859-1 UTF-8 text files 
+- [ef15c/oberon_stm32f4](https://github.com/ef15c/oberon_stm32f4) - Portage of Oberon system to stm32f429i-disco board
 - [rochus-keller/OberonSystem3](https://github.com/rochus-keller/OberonSystem3) - A cross-platform version of the ETH Oberon System 3 compatible with the Oberon+ compiler and IDE
 
 ## Nix
@@ -473,6 +483,7 @@ A collection of awesome things.
 - [Wanderson-Magalhaes/Modern_GUI_PyDracula_PySide6_or_PyQt6](https://github.com/Wanderson-Magalhaes/Modern_GUI_PyDracula_PySide6_or_PyQt6) - 
 - [alxschwrz/codex_py2cpp](https://github.com/alxschwrz/codex_py2cpp) - Converts python code into c++ by using OpenAI CODEX.
 - [amanusk/s-tui](https://github.com/amanusk/s-tui) - Terminal-based CPU stress and monitoring utility
+- [atopile/atopile](https://github.com/atopile/atopile) - Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [cchen156/Learning-to-See-in-the-Dark](https://github.com/cchen156/Learning-to-See-in-the-Dark) - Learning to See in the Dark. CVPR 2018
 - [cherrypy/cherrypy](https://github.com/cherrypy/cherrypy) - CherryPy is a pythonic, object-oriented HTTP framework.      https://cherrypy.dev
@@ -529,6 +540,10 @@ A collection of awesome things.
 
 - [vspinu/R-nREPL](https://github.com/vspinu/R-nREPL) - nREPL client and server for R
 
+## Racket
+
+- [ashton314/muKanren_reading](https://github.com/ashton314/muKanren_reading) - [Mirror] A close reading of the μKanren paper.
+
 ## Rich Text Format
 
 - [phodal/github](https://github.com/phodal/github) - GitHub 漫游指南- a Chinese ebook on how to build a good project on Github. Explore the users' behavior. Find some thing interest.
@@ -557,6 +572,7 @@ A collection of awesome things.
 - [ekzhang/crepe](https://github.com/ekzhang/crepe) - Datalog compiler embedded in Rust as a procedural macro
 - [kahing/catfs](https://github.com/kahing/catfs) - Cache AnyThing filesystem written in Rust
 - [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible VCS that is both simple and powerful
+- [n0-computer/iroh](https://github.com/n0-computer/iroh) - A toolkit for building distributed applications
 - [nagisa/msi-rgb](https://github.com/nagisa/msi-rgb) - Linux utility for controlling RGB header on select MSI motherboards
 - [ngeor/rusty-basic](https://github.com/ngeor/rusty-basic) - An interpreter for QBasic, written in Rust.
 - [nix-community/nix-index](https://github.com/nix-community/nix-index) - Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]
@@ -612,6 +628,7 @@ A collection of awesome things.
 - [amitburst/HackerNews](https://github.com/amitburst/HackerNews) - A Hacker News reader iOS app written in Swift.
 - [bennyguitar/News-YC---iPhone](https://github.com/bennyguitar/News-YC---iPhone) - The iPhone version of News/YC, a Hacker News reader and interactive iOS application.
 - [marciok/Mu](https://github.com/marciok/Mu) - It's a Swift playground explaining how to create a tiny programming language named Mu
+- [tombonez/noTunes](https://github.com/tombonez/noTunes) - A simple macOS application that will prevent iTunes or Apple Music from launching.
 
 ## TeX
 
