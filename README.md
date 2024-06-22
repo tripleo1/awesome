@@ -88,6 +88,7 @@ A collection of awesome things.
 - [aheck/clib](https://github.com/aheck/clib) - Header-only library for C99 that implements the most important classes from GLib: GArray, GHashTable, GList and GString.
 - [c-testsuite/c-testsuite](https://github.com/c-testsuite/c-testsuite) - A public database of C compiler test cases, minimal test runners, and public test results.
 - [civboot/fngi](https://github.com/civboot/fngi) - a readable language that grows from the silicon
+- [cloudius-systems/osv](https://github.com/cloudius-systems/osv) - OSv, a new operating system for the cloud.
 - [cmu-sei/SCALe](https://github.com/cmu-sei/SCALe) - SCALe (Source Code Analysis Lab) is a static analysis aggregator/correlator which enables a source code analyst to combine static analysis results from multiple tools into one interface, and also provides mappings for diagnostics from the tools to the SEI CERT Secure Coding standards.
 - [console-tools/moc](https://github.com/console-tools/moc) - Music On Console
 - [containers/composefs](https://github.com/containers/composefs) - a file system for mounting container images
@@ -578,6 +579,7 @@ A collection of awesome things.
 - [nix-community/nix-index](https://github.com/nix-community/nix-index) - Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]
 - [pop-os/cosmic-text](https://github.com/pop-os/cosmic-text) - Pure Rust multi-line text handling
 - [project-machine/puzzlefs](https://github.com/project-machine/puzzlefs) - 
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language.
 - [snowfallorg/nixos-conf-editor](https://github.com/snowfallorg/nixos-conf-editor) - A libadwaita/gtk4 app for editing NixOS configurations
 - [sunfishcode/c-ward](https://github.com/sunfishcode/c-ward) - An implementation of libc written in Rust
