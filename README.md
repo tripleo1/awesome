@@ -518,7 +518,7 @@ A collection of awesome things.
 - [nucleic/enaml](https://github.com/nucleic/enaml) - Declarative User Interfaces for Python
 - [nyaadevs/pybittorent-tracker-sanic](https://github.com/nyaadevs/pybittorent-tracker-sanic) - Don't use pypy, it's bad. Unmaintained, no longer used.
 - [oduwsdl/ipwb](https://github.com/oduwsdl/ipwb) - InterPlanetary Wayback: A distributed and persistent archive replay system using IPFS
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models.
 - [oravus/seqNet](https://github.com/oravus/seqNet) - SeqNet: Code for the RA-L (ICRA) 2021 paper "SeqNet: Learning Descriptors for Sequence-Based Hierarchical Place Recognition"
 - [pixie-lang/pixie](https://github.com/pixie-lang/pixie) - A small, fast, native lisp with "magical" powers
 - [polmuz/pypy-image-demo](https://github.com/polmuz/pypy-image-demo) - Video processing with pypy
