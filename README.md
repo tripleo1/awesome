@@ -241,6 +241,7 @@ A collection of awesome things.
 - [hashsplit/hashsplit-spec](https://github.com/hashsplit/hashsplit-spec) - 
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [j-keck/zsd](https://github.com/j-keck/zsd) - cli tool to find older versions of a given file in your zfs snapshots.
+- [naggie/dstask](https://github.com/naggie/dstask) - Git powered terminal-based todo/note manager --  markdown note page per task. Single binary!
 - [nlewo/comin](https://github.com/nlewo/comin) - GitOps For NixOS Machines
 - [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup) - Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox or SSH compatible storage
 - [osminum/ink](https://github.com/osminum/ink) - Ink is a minimal programming language inspired by modern JavaScript and Go, with functional style.
@@ -347,7 +348,7 @@ A collection of awesome things.
 
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
 - [GonzaloGorgojo/Gnome-Shell-Crypto-Tracker](https://github.com/GonzaloGorgojo/Gnome-Shell-Crypto-Tracker) - Simple Gnome extension to keep track of BTC and ETH prices against USD and EUR.
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Web OS! Free, Open-Source, and Self-Hostable.
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [IBM/guide-conveyor-simulator](https://github.com/IBM/guide-conveyor-simulator) - # WARNING: This repository is no longer maintained :warning:  This content is no longer being updated or maintained. The content is provided “as is.” Given the rapid evolution of technology, some content, steps, or illustrations may have changed.
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
 - [LonelessCodes/trixiebot](https://github.com/LonelessCodes/trixiebot) - Multipurpose Discord Bot for Horses and Hoomans.
