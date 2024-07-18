@@ -387,7 +387,6 @@ A collection of awesome things.
 - [reimertz/curse-words](https://github.com/reimertz/curse-words) - 
 - [shanesmith/gerrit-cli](https://github.com/shanesmith/gerrit-cli) - Gerrit in your command lines.
 - [shaunxcode/datomicism](https://github.com/shaunxcode/datomicism) - interface for visualizing datomic schemas and queries
-- [simonw/simonwillisonblog](https://github.com/simonw/simonwillisonblog) - The source code behind my blog
 - [sindresorhus/yn](https://github.com/sindresorhus/yn) - Parse yes/no like values
 - [thesephist/unim.press](https://github.com/thesephist/unim.press) - A Reddit front-page reader in the style of The New York Times.
 - [torch2424/made-with-webassembly](https://github.com/torch2424/made-with-webassembly) - A showcase of awesome production applications, side projects, and use cases made with WebAssembly (Wasm). 👷
@@ -534,6 +533,7 @@ A collection of awesome things.
 - [python-eel/Eel](https://github.com/python-eel/Eel) - A little Python library for making simple Electron-like HTML/JS GUI apps
 - [ravexina/csp-sudoku-solver](https://github.com/ravexina/csp-sudoku-solver) - Python + tkinter + CSP Idea / Algorithm to solve sudoko
 - [seiferteric/remarkable_debfix](https://github.com/seiferteric/remarkable_debfix) - Remarkable Markdown Debian Package Fix
+- [simonw/simonwillisonblog](https://github.com/simonw/simonwillisonblog) - The source code behind my blog
 - [sjvasquez/handwriting-synthesis](https://github.com/sjvasquez/handwriting-synthesis) - Handwriting Synthesis with RNNs ✏️
 - [skelsec/pypykatz_wasm](https://github.com/skelsec/pypykatz_wasm) - pypykats in your browser
 - [tekknolagi/scrapscript](https://github.com/tekknolagi/scrapscript) - A functional, content-addressable programming language.
