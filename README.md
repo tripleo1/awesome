@@ -115,6 +115,7 @@ A collection of awesome things.
 ## C#
 
 - [SleepyDeb/JSharp](https://github.com/SleepyDeb/JSharp) - JSharp is a .class loader for Net Core (similar to IKVM) is based on a features remapping of JDK on .Net Core libs
+- [autofac/Autofac](https://github.com/autofac/Autofac) - An addictive .NET IoC container
 - [jksware/yatc](https://github.com/jksware/yatc) - Yet Another Tiger Compiler
 - [livingcomputermuseum/ContrAlto](https://github.com/livingcomputermuseum/ContrAlto) - This repository contains the source code for Living Computers: Museum+Labs's Xerox Alto emulator, ContrAlto.
 - [microsoft/ApplicationInspector](https://github.com/microsoft/ApplicationInspector) - A source code analyzer built for surfacing features of interest and other characteristics to answer the question 'What's in the code?' quickly using static analysis with a json based rules engine. Ideal for scanning components before use or detecting feature level changes.
@@ -590,10 +591,12 @@ A collection of awesome things.
 - [project-machine/puzzlefs](https://github.com/project-machine/puzzlefs) - 
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language.
+- [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [snowfallorg/nixos-conf-editor](https://github.com/snowfallorg/nixos-conf-editor) - A libadwaita/gtk4 app for editing NixOS configurations
 - [sunfishcode/c-ward](https://github.com/sunfishcode/c-ward) - An implementation of libc written in Rust
 - [sunfishcode/eyra](https://github.com/sunfishcode/eyra) - Rust programs written entirely in Rust
 - [sunfishcode/mustang](https://github.com/sunfishcode/mustang) - Rust programs written entirely in Rust
+- [vishaltelangre/ff](https://github.com/vishaltelangre/ff) - Find files (ff) by name, fast!
 - [zzhgithub/juner_os](https://github.com/zzhgithub/juner_os) - Rust developed OS based on blog_os Trying a repl environment running in kernel state lisp developed based on mal implementation
 
 ## SCSS
