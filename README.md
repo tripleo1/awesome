@@ -463,6 +463,7 @@ A collection of awesome things.
 
 ## PHP
 
+- [DirectoryLister/DirectoryLister](https://github.com/DirectoryLister/DirectoryLister) - 📂 Directory Lister is the easiest way to expose the contents of any web-accessible folder for browsing and sharing.
 - [Hyupai/Classloader-by-S4J](https://github.com/Hyupai/Classloader-by-S4J) - Dinamic classloader
 - [glhd/conveyor-belt](https://github.com/glhd/conveyor-belt) - All the underlying mechanics necessary to write artisan commands that process lots of data efficiently
 
@@ -496,7 +497,7 @@ A collection of awesome things.
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [cchen156/Learning-to-See-in-the-Dark](https://github.com/cchen156/Learning-to-See-in-the-Dark) - Learning to See in the Dark. CVPR 2018
 - [cherrypy/cherrypy](https://github.com/cherrypy/cherrypy) - CherryPy is a pythonic, object-oriented HTTP framework.      https://cherrypy.dev
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics.
 - [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
 - [cute-engineering/cutekit](https://github.com/cute-engineering/cutekit) - 🪄​ The *magical* build system and package manager
 - [dragnet-org/dragnet](https://github.com/dragnet-org/dragnet) - Just the facts -- web page content extraction
