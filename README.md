@@ -328,6 +328,7 @@ A collection of awesome things.
 - [hassansartaj/cdst-toolkit](https://github.com/hassansartaj/cdst-toolkit) - A toolkit to automate the testing process of Cockpit Display Systems (CDS) 
 - [hassansartaj/uast-toolset](https://github.com/hassansartaj/uast-toolset) - A toolset to support automated system-level testing of unmanned aerial systems (UAS). 
 - [heidisu/java8kanren](https://github.com/heidisu/java8kanren) - Implementation of minikanren in java
+- [java-diff-utils/java-diff-utils](https://github.com/java-diff-utils/java-diff-utils) - Diff Utils library is an OpenSource library for performing the comparison / diff operations between texts or some kind of data: computing diffs, applying patches, generating unified diffs or parsing them, generating diff output for easy future displaying (like side-by-side view) and so on.
 - [jdillon/mvnsh](https://github.com/jdillon/mvnsh) - Maven Shell
 - [jnode-revisited/jnode](https://github.com/jnode-revisited/jnode) - Code for the JNode operating system
 - [jnode-revisited/magnusja-java-fs](https://github.com/jnode-revisited/magnusja-java-fs) - Various file system implementations based on the code of the JNode operating system
@@ -484,6 +485,7 @@ A collection of awesome things.
 - [ArchiveTeam/grab-site](https://github.com/ArchiveTeam/grab-site) - The archivist's web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns
 - [Baekalfen/PyBoy](https://github.com/Baekalfen/PyBoy) - Game Boy emulator written in Python
 - [BruceDLong/CodeDog](https://github.com/BruceDLong/CodeDog) - Auto-generate programs in C derived languages for multiple platforms
+- [Educorreia932/FEUP-FPRO](https://github.com/Educorreia932/FEUP-FPRO) - 🐢 MIEIC 2018/2019 - 1ˢᵗ year / 1ˢᵗ semester
 - [FirmWire/FirmWire](https://github.com/FirmWire/FirmWire) - FirmWire is a full-system baseband firmware emulation platform for fuzzing, debugging, and root-cause analysis of smartphone baseband firmwares
 - [JohannesBuchner/chunk-fuse](https://github.com/JohannesBuchner/chunk-fuse) - Filesystem in User Space (fuse) using compressed and encrypted chunks
 - [LunaTMT/Snake](https://github.com/LunaTMT/Snake) - Snake created with Pygame
@@ -654,6 +656,7 @@ A collection of awesome things.
 ## TypeScript
 
 - [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI.
+- [antfu/retypewriter](https://github.com/antfu/retypewriter) - Replay the steps of your changes at ease.
 - [bleedingedgeai/bleedingedge.ai](https://github.com/bleedingedgeai/bleedingedge.ai) - Bleeding edge is a feed of noteworthy developments in AI and machine learning.
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
 - [jaredkrinke/100-languages](https://github.com/jaredkrinke/100-languages) - Solving the first 100 Project Euler problems using 100 different programming languages!
