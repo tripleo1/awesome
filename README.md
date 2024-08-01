@@ -159,6 +159,7 @@ A collection of awesome things.
 - [snej/smol_world](https://github.com/snej/smol_world) - Compact garbage-collected heap and JSON-like object model
 - [stephank/dumpnar](https://github.com/stephank/dumpnar) - Minimal tool to produce a Nix NAR archive.
 - [timjrd/nixrewrite](https://github.com/timjrd/nixrewrite) - Prototype implementation of Nix store path rewriting
+- [urbste/pyTheiaSfM](https://github.com/urbste/pyTheiaSfM) - An open source Python library for multiview geometry and structure from motion
 - [vprover/vampire](https://github.com/vprover/vampire) - The Vampire Theorem Prover
 - [vygr/ChrysaLisp](https://github.com/vygr/ChrysaLisp) - Parallel OS, with GUI, Terminal, OO Assembler, Class libraries, C-Script compiler, Lisp interpreter and more...
 - [wez/atomicparsley](https://github.com/wez/atomicparsley) - AtomicParsley is a lightweight command line program for reading, parsing and setting metadata into MPEG-4 files, in particular, iTunes-style metadata.
@@ -413,6 +414,7 @@ A collection of awesome things.
 ## Kotlin
 
 - [CASC-Lang/Yakou](https://github.com/CASC-Lang/Yakou) - An experimental JVM Language inspired by Rust.
+- [Tigermouthbear/Theia](https://github.com/Tigermouthbear/Theia) - A Kotlin program used to analyze and discover backdoors in Minecraft Java 1.12.2 forge mods
 - [V9vek/Sorting-Visualizer](https://github.com/V9vek/Sorting-Visualizer) - Visualizes various sorting algorithms
 - [andregasser/bigbone](https://github.com/andregasser/bigbone) - BigBone - A Mastodon Client Library for Java and Kotlin
 - [copper-leaf/ballast](https://github.com/copper-leaf/ballast) - Opinionated Application State Management framework for Kotlin Multiplatform
@@ -491,6 +493,7 @@ A collection of awesome things.
 - [LunaTMT/Snake](https://github.com/LunaTMT/Snake) - Snake created with Pygame
 - [MarcusRainbow/pypyrust](https://github.com/MarcusRainbow/pypyrust) - Python to Rust compiler
 - [NixIPFS/nixipfs-scripts](https://github.com/NixIPFS/nixipfs-scripts) - Mirror a Hydra jobset using IPFS or plain rsync
+- [StuyPulse/theia](https://github.com/StuyPulse/theia) - Theia is a visual localization solution using the ArUco fiducial system.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [VAST-AI-Research/TripoSR](https://github.com/VAST-AI-Research/TripoSR) - 
 - [Wanderson-Magalhaes/Modern_GUI_PyDracula_PySide6_or_PyQt6](https://github.com/Wanderson-Magalhaes/Modern_GUI_PyDracula_PySide6_or_PyQt6) - 
@@ -514,6 +517,7 @@ A collection of awesome things.
 - [halgari/clj-pypy](https://github.com/halgari/clj-pypy) - A implementation of Clojure on PyPy
 - [hungrywolf27/zfs-list-gtk](https://github.com/hungrywolf27/zfs-list-gtk) - A simple GUI that lists ZFS filesystems and snapshots in a Gtk TreeView widget. Written in Python.
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
+- [joactr/AnnoTheia](https://github.com/joactr/AnnoTheia) - AnnoTheia is a data annotation toolkit that identifies when a person speaks in a scene and transcribes their speech, also offering flexibility to replace modules for different languages.
 - [jorgenkg/python-neural-network](https://github.com/jorgenkg/python-neural-network) - This is an efficient implementation of a fully connected neural network in NumPy. The network can be trained by a variety of learning algorithms: backpropagation, resilient backpropagation and scaled conjugate gradient learning. The network has been developed with PYPY in mind.
 - [jstepien/psota](https://github.com/jstepien/psota) - “Clojure on PyPy” would be an exaggeration
 - [knorrie/btrfs-heatmap](https://github.com/knorrie/btrfs-heatmap) - Visualize the layout of data on your btrfs filesystem over time
@@ -659,6 +663,7 @@ A collection of awesome things.
 - [antfu/retypewriter](https://github.com/antfu/retypewriter) - Replay the steps of your changes at ease.
 - [bleedingedgeai/bleedingedge.ai](https://github.com/bleedingedgeai/bleedingedge.ai) - Bleeding edge is a feed of noteworthy developments in AI and machine learning.
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
+- [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [jaredkrinke/100-languages](https://github.com/jaredkrinke/100-languages) - Solving the first 100 Project Euler problems using 100 different programming languages!
 - [luooooob/create-my-awesome](https://github.com/luooooob/create-my-awesome) - Github Actions for automatically generating the personal awesome list from all of the repositories you starred.
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
