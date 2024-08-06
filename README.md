@@ -14,6 +14,7 @@ A collection of awesome things.
 - [Coq](#coq)
 - [D](#d)
 - [Dart](#dart)
+- [Elixir](#elixir)
 - [Emacs Lisp](#emacs-lisp)
 - [Erlang](#erlang)
 - [F#](#f)
@@ -55,6 +56,7 @@ A collection of awesome things.
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [V](#v)
+- [VBA](#vba)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
 - [Xtend](#xtend)
@@ -115,6 +117,7 @@ A collection of awesome things.
 ## C#
 
 - [SleepyDeb/JSharp](https://github.com/SleepyDeb/JSharp) - JSharp is a .class loader for Net Core (similar to IKVM) is based on a features remapping of JDK on .Net Core libs
+- [Teicsoft/GLADIATE](https://github.com/Teicsoft/GLADIATE) - GLADIATE is a Spectacle Fighter Card Game. Play with 6 unique decks and fight your way through a gauntlet of foes. Not only do you need to fight to survive, but also pull of combos to maximise your spectacle points and please the crowd.
 - [autofac/Autofac](https://github.com/autofac/Autofac) - An addictive .NET IoC container
 - [jksware/yatc](https://github.com/jksware/yatc) - Yet Another Tiger Compiler
 - [livingcomputermuseum/ContrAlto](https://github.com/livingcomputermuseum/ContrAlto) - This repository contains the source code for Living Computers: Museum+Labs's Xerox Alto emulator, ContrAlto.
@@ -156,6 +159,7 @@ A collection of awesome things.
 - [rochus-keller/ActiveOberon](https://github.com/rochus-keller/ActiveOberon) - Parser and code browser for the ActiveOberon language (original version from 2004)
 - [rochus-keller/Are-we-fast-yet](https://github.com/rochus-keller/Are-we-fast-yet) - Implementations of the Are-we-fast-yet benchmark suite in Oberon+ and C++
 - [rochus-keller/OberonSystem](https://github.com/rochus-keller/OberonSystem) - Modified version of the original from http://www.projectoberon.com/ for use with the Oberon IDE
+- [shammill/Contract-Bridge-Card-Game](https://github.com/shammill/Contract-Bridge-Card-Game) - This was a third year University project I completed in 2014. Written in C++ it sets up a deck of cards, shuffles and then deals the cards to the players. It then decides on who will make the opening bid for each hand.
 - [snej/smol_world](https://github.com/snej/smol_world) - Compact garbage-collected heap and JSON-like object model
 - [stephank/dumpnar](https://github.com/stephank/dumpnar) - Minimal tool to produce a Nix NAR archive.
 - [timjrd/nixrewrite](https://github.com/timjrd/nixrewrite) - Prototype implementation of Nix store path rewriting
@@ -209,6 +213,10 @@ A collection of awesome things.
 ## Dart
 
 - [gskinnerTeam/flokk](https://github.com/gskinnerTeam/flokk) - A fresh and modern Google Contacts manager that integrates with GitHub and Twitter.
+
+## Elixir
+
+- [EssenceOfChaos/war](https://github.com/EssenceOfChaos/war) - The classic card game, remade with Elixir and Phoenix
 
 ## Emacs Lisp
 
@@ -271,6 +279,7 @@ A collection of awesome things.
 
 ## HTML
 
+- [Kroc/impatience](https://github.com/Kroc/impatience) - A Patience / Solitaire Collection for Nintendo GameBoy that doesn't waste your time
 - [MahdiF/taptaptap](https://github.com/MahdiF/taptaptap) - 🕹 Open Source Javascript Game
 - [bbonamin/strftimeslikethese](https://github.com/bbonamin/strftimeslikethese) - A Ruby WASM implementation, fully client-side, inspired by foragoodstrftime.com
 - [callgraph/vue-callgraph-manual](https://github.com/callgraph/vue-callgraph-manual) - http://os.cs.tsinghua.edu.cn/research/kernel/callgraph2017
@@ -340,6 +349,7 @@ A collection of awesome things.
 - [ldenisey/idea-openscad](https://github.com/ldenisey/idea-openscad) - OpenSCAD language plugin for the IntelliJ platform.
 - [madhephaestus/OmniscientDebugger](https://github.com/madhephaestus/OmniscientDebugger) - Bil Lewis' Omniscient Debugger for Java. Also known as ODB
 - [magnusja/java-fs](https://github.com/magnusja/java-fs) - Various file system implementations based on the code of the JNode operating system
+- [martindes01/pickcard](https://github.com/martindes01/pickcard) - A library for creating card games with ease in Java. Make it so!
 - [matthewmccullough/OmniscientDebugger](https://github.com/matthewmccullough/OmniscientDebugger) - Bil Lewis' Omniscient Debugger for Java. Also known as ODB
 - [melix/gradlefs](https://github.com/melix/gradlefs) - Experiments around a Gradle dedicated FS
 - [meysholdt/xtext_stateful_lexer](https://github.com/meysholdt/xtext_stateful_lexer) - An experiment to derive a stateful lexer from an Xtext grammar
@@ -386,6 +396,7 @@ A collection of awesome things.
 - [lengstrom/falcon](https://github.com/lengstrom/falcon) - Chrome extension for full text history search!
 - [mafintosh/abstract-chunk-store](https://github.com/mafintosh/abstract-chunk-store) - A test suite and interface you can use to implement a chunk based storage backend
 - [max-mapper/abstract-blob-store](https://github.com/max-mapper/abstract-blob-store) - A test suite and interface you can use to implement streaming file (blob) storage modules for various storage backends and platforms
+- [mkhorin/e-champ](https://github.com/mkhorin/e-champ) - A server-side platform for turn-based online games
 - [novemberborn/never](https://github.com/novemberborn/never) - A function that throws when called, use with nullish coalescing to elide unexpected nullish values
 - [ollama-ui/ollama-ui](https://github.com/ollama-ui/ollama-ui) - Simple HTML UI for Ollama
 - [p-e-w/argos](https://github.com/p-e-w/argos) - Create GNOME Shell extensions in seconds
@@ -420,6 +431,7 @@ A collection of awesome things.
 - [andregasser/bigbone](https://github.com/andregasser/bigbone) - BigBone - A Mastodon Client Library for Java and Kotlin
 - [copper-leaf/ballast](https://github.com/copper-leaf/ballast) - Opinionated Application State Management framework for Kotlin Multiplatform
 - [facebookincubator/dataclassgenerate](https://github.com/facebookincubator/dataclassgenerate) - DataClassGenerate (or simply DCG) is a Kotlin compiler plugin that addresses an Android APK size overhead from Kotlin data classes. 
+- [kotlin-sheriff/black-sun](https://github.com/kotlin-sheriff/black-sun) - The idea is to turn your Telegram chat into a world of magic, where the one who knows the most Kotlin spells wins.
 - [nhat-phan/shit-cleaner](https://github.com/nhat-phan/shit-cleaner) - An Intellij IDE plugin which uses Code Climate CLI to analyze your source code on local machine and display code smells/duplications right in your IDE 
 - [tateisu/SubwayTooter](https://github.com/tateisu/SubwayTooter) - Mastodon client app for Android
 - [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing) - A library for testing Kotlin and Java annotation processors, compiler plugins and code generation
@@ -431,6 +443,7 @@ A collection of awesome things.
 
 ## Lua
 
+- [Qsgs-Fans/FreeKill](https://github.com/Qsgs-Fans/FreeKill) - Sanguosha (三国杀, a.k.a. Legend of Three Kingdoms, LTK) written in Qt and Lua.
 - [sblask/null-ls.nvim](https://github.com/sblask/null-ls.nvim) - Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
 
 ## Makefile
@@ -483,6 +496,7 @@ A collection of awesome things.
 ## Python
 
 - [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
+- [0xCorolaire/SmartCards](https://github.com/0xCorolaire/SmartCards) - Predictive app helping announce on various card games and AI Games cards
 - [40uf411/SemaWal](https://github.com/40uf411/SemaWal) - SemaWal: A semantic network resolver in python
 - [AndreMiras/coveralls-python-action](https://github.com/AndreMiras/coveralls-python-action) - GitHub Action for Python Coveralls.io
 - [ArchiveTeam/grab-site](https://github.com/ArchiveTeam/grab-site) - The archivist's web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns
@@ -672,12 +686,17 @@ A collection of awesome things.
 - [microsoft/vscode-wasm](https://github.com/microsoft/vscode-wasm) - A WASI implementation that uses VS Code's extension host as the implementing API
 - [mihailtd/starter](https://github.com/mihailtd/starter) - Project Starter template using VueJS, Vite, GraphQL backend with PostGraphile, PostgreSQL database in Kubernetes with Crunchy Postgres Operator, local Kubernetes development with DevSpace and auto generated code with graphql-code-generator.
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
+- [rbtying/shengji](https://github.com/rbtying/shengji) - An online version of shengji (a.k.a. tractor) and zhaopengyou (a.k.a. Finding Friends)
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [zu1k/bs-core](https://github.com/zu1k/bs-core) - Easy and blazing-fast book searcher, create and search your private library.
 
 ## V
 
 - [vlang/c2v](https://github.com/vlang/c2v) - C/C++ to V translator
+
+## VBA
+
+- [visual2000/DadaCards](https://github.com/visual2000/DadaCards) - A nihilistic card game, to simulate folks having fun on computers in the old days.
 
 ## Vim Script
 
