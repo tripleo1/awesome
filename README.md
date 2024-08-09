@@ -731,7 +731,7 @@ A collection of awesome things.
 - [Elidefunnyguy/ElidefunnyDash](https://github.com/Elidefunnyguy/ElidefunnyDash) - This is a pack for Geometry Dash made by Elidefunnyguy. It features piano versions of the RobTop levels, a custom logo thing, and a galaxy background; not anything crazy.
 - [IntelliJIdeaKeymap4Eclipse/com.github.intellijideakeymap4eclipse.feature](https://github.com/IntelliJIdeaKeymap4Eclipse/com.github.intellijideakeymap4eclipse.feature) - 
 - [LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) - List of Dirty, Naughty, Obscene, and Otherwise Bad Words
-- [Malix-off/awesome_atomic](https://github.com/Malix-off/awesome_atomic) - An awesome list of resources about operating system atomicity
+- [Malix-off/awesome_atomic](https://github.com/Malix-off/awesome_atomic) - An awesome curated knowledge-base about atomic systems
 - [MauriceButler/badwords](https://github.com/MauriceButler/badwords) - A highly consumable list of bad (profanity) english words
 - [MinecraftForge/ForgeFlower](https://github.com/MinecraftForge/ForgeFlower) - Forge's modifications to FernFlower. Fixing various bugs/inconsistencies. Main Repo: https://github.com/MinecraftForge/FernFlower
 - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
