@@ -505,6 +505,7 @@ A collection of awesome things.
 - [Educorreia932/FEUP-FPRO](https://github.com/Educorreia932/FEUP-FPRO) - 🐢 MIEIC 2018/2019 - 1ˢᵗ year / 1ˢᵗ semester
 - [FirmWire/FirmWire](https://github.com/FirmWire/FirmWire) - FirmWire is a full-system baseband firmware emulation platform for fuzzing, debugging, and root-cause analysis of smartphone baseband firmwares
 - [JohannesBuchner/chunk-fuse](https://github.com/JohannesBuchner/chunk-fuse) - Filesystem in User Space (fuse) using compressed and encrypted chunks
+- [Komodo/KomodoEdit](https://github.com/Komodo/KomodoEdit) - Komodo Edit is a fast and free multi-language code editor. Written in JS, Python, C++ and based on the Mozilla platform.
 - [LunaTMT/Snake](https://github.com/LunaTMT/Snake) - Snake created with Pygame
 - [MarcusRainbow/pypyrust](https://github.com/MarcusRainbow/pypyrust) - Python to Rust compiler
 - [NixIPFS/nixipfs-scripts](https://github.com/NixIPFS/nixipfs-scripts) - Mirror a Hydra jobset using IPFS or plain rsync
