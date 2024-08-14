@@ -142,6 +142,7 @@ A collection of awesome things.
 - [electronicarts/EASTL](https://github.com/electronicarts/EASTL) - EASTL stands for Electronic Arts Standard Template Library.  It is an extensive and robust implementation that has an emphasis on high performance.
 - [facebook/redex](https://github.com/facebook/redex) - A bytecode optimizer for Android apps
 - [facebookexperimental/object-introspection](https://github.com/facebookexperimental/object-introspection) - Object Introspection (OI) enables on-demand, hierarchical profiling of objects in arbitrary C/C++ programs with no recompilation.
+- [frol/completely-unscientific-benchmarks](https://github.com/frol/completely-unscientific-benchmarks) - Naive performance comparison of a few programming languages (JavaScript, Kotlin, Rust, Swift, Nim, Python, Go, Haskell, D, C++, Java, C#, Object Pascal, Ada, Lua, Ruby)
 - [google/filesystem-proposal](https://github.com/google/filesystem-proposal) - Boost Filesystem Library with modifications for the C++ standards committee proposal
 - [impedimentToProgress/Ratchet](https://github.com/impedimentToProgress/Ratchet) - Ratchet source code from OSDI 2016
 - [intel-iot-devkit/object-flaw-detector-cpp](https://github.com/intel-iot-devkit/object-flaw-detector-cpp) - Detect various irregularities of a product as it moves along a conveyor belt.
@@ -431,8 +432,10 @@ A collection of awesome things.
 - [andregasser/bigbone](https://github.com/andregasser/bigbone) - BigBone - A Mastodon Client Library for Java and Kotlin
 - [copper-leaf/ballast](https://github.com/copper-leaf/ballast) - Opinionated Application State Management framework for Kotlin Multiplatform
 - [facebookincubator/dataclassgenerate](https://github.com/facebookincubator/dataclassgenerate) - DataClassGenerate (or simply DCG) is a Kotlin compiler plugin that addresses an Android APK size overhead from Kotlin data classes. 
+- [joreilly/PeopleInSpace](https://github.com/joreilly/PeopleInSpace) - Kotlin Multiplatform sample with SwiftUI, Jetpack Compose, Compose for Wear, Compose for Desktop, and Compose for Web clients along with Ktor backend.
 - [kotlin-sheriff/black-sun](https://github.com/kotlin-sheriff/black-sun) - The idea is to turn your Telegram chat into a world of magic, where the one who knows the most Kotlin spells wins.
 - [nhat-phan/shit-cleaner](https://github.com/nhat-phan/shit-cleaner) - An Intellij IDE plugin which uses Code Climate CLI to analyze your source code on local machine and display code smells/duplications right in your IDE 
+- [square/workflow-kotlin](https://github.com/square/workflow-kotlin) - A Swift and Kotlin library for making composable state machines, and UIs driven by those state machines.
 - [tateisu/SubwayTooter](https://github.com/tateisu/SubwayTooter) - Mastodon client app for Android
 - [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing) - A library for testing Kotlin and Java annotation processors, compiler plugins and code generation
 
@@ -667,6 +670,7 @@ A collection of awesome things.
 
 - [amitburst/HackerNews](https://github.com/amitburst/HackerNews) - A Hacker News reader iOS app written in Swift.
 - [bennyguitar/News-YC---iPhone](https://github.com/bennyguitar/News-YC---iPhone) - The iPhone version of News/YC, a Hacker News reader and interactive iOS application.
+- [lelandrichardson/recoil](https://github.com/lelandrichardson/recoil) - Swift and Kotlin ports of React (Prototype)
 - [marciok/Mu](https://github.com/marciok/Mu) - It's a Swift playground explaining how to create a tiny programming language named Mu
 - [tombonez/noTunes](https://github.com/tombonez/noTunes) - A simple macOS application that will prevent iTunes or Apple Music from launching.
 
@@ -681,6 +685,7 @@ A collection of awesome things.
 - [bleedingedgeai/bleedingedge.ai](https://github.com/bleedingedgeai/bleedingedge.ai) - Bleeding edge is a feed of noteworthy developments in AI and machine learning.
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
+- [hyochan/react-native-audio-recorder-player](https://github.com/hyochan/react-native-audio-recorder-player) - react-native native module for audio recorder and player.
 - [jaredkrinke/100-languages](https://github.com/jaredkrinke/100-languages) - Solving the first 100 Project Euler problems using 100 different programming languages!
 - [luooooob/create-my-awesome](https://github.com/luooooob/create-my-awesome) - Github Actions for automatically generating the personal awesome list from all of the repositories you starred.
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
