@@ -96,6 +96,8 @@ A collection of awesome things.
 - [console-tools/moc](https://github.com/console-tools/moc) - Music On Console
 - [containers/composefs](https://github.com/containers/composefs) - a file system for mounting container images
 - [dspinellis/cscout](https://github.com/dspinellis/cscout) - C code refactoring browser
+- [fuhsnn/slimcc](https://github.com/fuhsnn/slimcc) - C11 compiler with GNU extensions for x86-64 Linux, working towards C23
+- [fuhsnn/widcc](https://github.com/fuhsnn/widcc) - Simple C11 compiler for x86-64 Linux able to build real-world projects including Curl, GCC, Git, Python, PostgreSQL etc
 - [github/securitylab](https://github.com/github/securitylab) - Resources related to GitHub Security Lab
 - [idunham/tinyxserver](https://github.com/idunham/tinyxserver) - A small X server, based on Xorg 1.2 but with security fixes.
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
@@ -103,6 +105,8 @@ A collection of awesome things.
 - [kayodesu/cabin](https://github.com/kayodesu/cabin) - A toy jvm written in C, based on jdk16
 - [kernc/xsuspender](https://github.com/kernc/xsuspender) - :eyes: :computer: :zzz: :battery: Save battery by auto-suspending unfocused X11 applications.
 - [kev009/trix](https://github.com/kev009/trix) - MIT Trix operating system (UNIX-like)
+- [larmel/lacc](https://github.com/larmel/lacc) - A simple, self-hosting C compiler
+- [libfirm/cparser](https://github.com/libfirm/cparser) - C99 parser and frontend for libfirm
 - [littlekernel/lk](https://github.com/littlekernel/lk) - LK embedded kernel
 - [phmarek/fsvs](https://github.com/phmarek/fsvs) - Full System Versioning System
 - [phoboslab/neuralink_brainwire](https://github.com/phoboslab/neuralink_brainwire) - Attempt at Neuralink's Compression Challenge
@@ -294,6 +298,7 @@ A collection of awesome things.
 
 ## Haskell
 
+- [Gabriella439/nix-diff](https://github.com/Gabriella439/nix-diff) - Explain why two Nix derivations differ
 - [carp-lang/Carp](https://github.com/carp-lang/Carp) - A statically typed lisp, without a GC, for real-time applications.
 - [change-metrics/monocle](https://github.com/change-metrics/monocle) - Monocle helps teams and individual to better organize daily duties and to detect anomalies in the way changes are produced and reviewed.
 - [fumieval/incremental](https://github.com/fumieval/incremental) - Type class for patch and diff
@@ -441,6 +446,8 @@ A collection of awesome things.
 
 ## Lean
 
+- [draperlaboratory/ELFSage](https://github.com/draperlaboratory/ELFSage) - A toy ELF parser/validator
+- [leanprover/LNSym](https://github.com/leanprover/LNSym) - Armv8 Native Code Symbolic Simulator in Lean
 - [leanprover/leansat](https://github.com/leanprover/leansat) - This package provides an interface and foundation for verified SAT reasoning
 - [ufmg-smite/lean-smt](https://github.com/ufmg-smite/lean-smt) - Tactics for discharging Lean goals into SMT solvers.
 
@@ -473,6 +480,7 @@ A collection of awesome things.
 
 - [Spivoxity/obc-3](https://github.com/Spivoxity/obc-3) - Oxford Oberon-2 compiler
 - [dmtrKovalenko/odiff](https://github.com/dmtrKovalenko/odiff) - The fastest pixel-by-pixel image visual difference tool in the world.
+- [hacspec/hax](https://github.com/hacspec/hax) - A Rust verification tool
 - [janestreet/incremental](https://github.com/janestreet/incremental) - A library for incremental computations
 
 ## Objective-C
@@ -624,6 +632,7 @@ A collection of awesome things.
 - [sunfishcode/c-ward](https://github.com/sunfishcode/c-ward) - An implementation of libc written in Rust
 - [sunfishcode/eyra](https://github.com/sunfishcode/eyra) - Rust programs written entirely in Rust
 - [sunfishcode/mustang](https://github.com/sunfishcode/mustang) - Rust programs written entirely in Rust
+- [versotile-org/verso](https://github.com/versotile-org/verso) - A web browser that plays old world blues to build new world hope
 - [vishaltelangre/ff](https://github.com/vishaltelangre/ff) - Find files (ff) by name, fast!
 - [zzhgithub/juner_os](https://github.com/zzhgithub/juner_os) - Rust developed OS based on blog_os Trying a repl environment running in kernel state lisp developed based on mal implementation
 
