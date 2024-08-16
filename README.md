@@ -97,7 +97,7 @@ A collection of awesome things.
 - [containers/composefs](https://github.com/containers/composefs) - a file system for mounting container images
 - [dspinellis/cscout](https://github.com/dspinellis/cscout) - C code refactoring browser
 - [fuhsnn/slimcc](https://github.com/fuhsnn/slimcc) - C11 compiler with GNU extensions for x86-64 Linux, working towards C23
-- [fuhsnn/widcc](https://github.com/fuhsnn/widcc) - Simple C11 compiler for x86-64 Linux able to build real-world projects including Curl, GCC, Git, Python, PostgreSQL etc
+- [fuhsnn/widcc](https://github.com/fuhsnn/widcc) - Simple C compiler for x86-64 Linux able to build real-world projects including Curl, GCC, Git, PHP, Perl, Python, PostgreSQL etc
 - [github/securitylab](https://github.com/github/securitylab) - Resources related to GitHub Security Lab
 - [idunham/tinyxserver](https://github.com/idunham/tinyxserver) - A small X server, based on Xorg 1.2 but with security fixes.
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
@@ -249,6 +249,7 @@ A collection of awesome things.
 - [Fault-lang/Fault](https://github.com/Fault-lang/Fault) - a language for building system dynamic models
 - [Jeffail/leaps](https://github.com/Jeffail/leaps) - A pair programming service using operational transforms
 - [MoodyReaper/multi-language-programming-playground](https://github.com/MoodyReaper/multi-language-programming-playground) - Multi-language programming playground (Go, Python, Rust, TypeScript)
+- [OSPG/godedupe](https://github.com/OSPG/godedupe) - Improved and modern fdupes alternative
 - [Xe/x](https://github.com/Xe/x) - Various tools, trinkets and experiments
 - [anthonyabeo/obx](https://github.com/anthonyabeo/obx) - Obx is an implementation of the Oberon+ compiler. 
 - [anuran-roy/ipos](https://github.com/anuran-roy/ipos) - Linux Based OS using IPFS as a Root File System
