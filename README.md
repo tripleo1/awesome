@@ -117,7 +117,7 @@ A collection of awesome things.
 - [phoboslab/neuralink_brainwire](https://github.com/phoboslab/neuralink_brainwire) - Attempt at Neuralink's Compression Challenge
 - [pixeltris/webc86](https://github.com/pixeltris/webc86) - Compile / run C in a web browser via TCC / x86 emulation
 - [ponylang/ponyc](https://github.com/ponylang/ponyc) - Pony is an open-source, actor-model, capabilities-secure, high performance programming language
-- [rochus-keller/Are-we-fast-yet](https://github.com/rochus-keller/Are-we-fast-yet) - Implementations of the Are-we-fast-yet benchmark suite in Oberon+ and C++
+- [rochus-keller/Are-we-fast-yet](https://github.com/rochus-keller/Are-we-fast-yet) - Implementations of the Are-we-fast-yet benchmark suite in Oberon+, C++, C and Pascal
 - [shellphish/how2heap](https://github.com/shellphish/how2heap) - A repository for learning various heap exploitation techniques.
 - [tinycorelinux/tinyx](https://github.com/tinycorelinux/tinyx) - 
 - [titzer/redpants](https://github.com/titzer/redpants) - 
@@ -313,8 +313,8 @@ A collection of awesome things.
 
 - [318anushka/Iris](https://github.com/318anushka/Iris) - A woman safety app that lets you reach out to other woman in case of emergency and sends your location on shaking
 - [ArcticDonkeys/Conveyor](https://github.com/ArcticDonkeys/Conveyor) - Decision Support System for Earthquake Situation
-- [Hjertesvikt/HjerteLib](https://github.com/Hjertesvikt/HjerteLib) - 
 - [HotswapProjects/HotswapAgent](https://github.com/HotswapProjects/HotswapAgent) - Java unlimited redefinition of classes at runtime.
+- [JPLeRouzic/HjerteLib](https://github.com/JPLeRouzic/HjerteLib) - 
 - [JetBrains/attachme](https://github.com/JetBrains/attachme) - IntelliJ plugin for auto-attaching the debugger to JVM applications
 - [Nuix/jnode-fs](https://github.com/Nuix/jnode-fs) - Various file system implementations based on the code of the JNode operating system
 - [Pr3roxDLC/JNode](https://github.com/Pr3roxDLC/JNode) - A WIP Block Programming Implementation in Java
