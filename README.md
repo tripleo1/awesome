@@ -156,7 +156,6 @@ A collection of awesome things.
 - [google/filesystem-proposal](https://github.com/google/filesystem-proposal) - Boost Filesystem Library with modifications for the C++ standards committee proposal
 - [impedimentToProgress/Ratchet](https://github.com/impedimentToProgress/Ratchet) - Ratchet source code from OSDI 2016
 - [intel-iot-devkit/object-flaw-detector-cpp](https://github.com/intel-iot-devkit/object-flaw-detector-cpp) - Detect various irregularities of a product as it moves along a conveyor belt.
-- [ktock/container2wasm](https://github.com/ktock/container2wasm) - Container to WASM converter
 - [managarm/managarm](https://github.com/managarm/managarm) - Pragmatic microkernel-based OS with fully asynchronous I/O
 - [mhx/dwarfs](https://github.com/mhx/dwarfs) - A fast high compression read-only file system for Linux, Windows and macOS
 - [neobrain/cftf](https://github.com/neobrain/cftf) - Clang from the Future: A C++17 to C++11 source-to-source compiler
@@ -269,6 +268,7 @@ A collection of awesome things.
 - [hashsplit/hashsplit-spec](https://github.com/hashsplit/hashsplit-spec) - 
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [j-keck/zsd](https://github.com/j-keck/zsd) - cli tool to find older versions of a given file in your zfs snapshots.
+- [ktock/container2wasm](https://github.com/ktock/container2wasm) - Container to WASM converter
 - [naggie/dstask](https://github.com/naggie/dstask) - Git powered terminal-based todo/note manager --  markdown note page per task. Single binary!
 - [nlewo/comin](https://github.com/nlewo/comin) - GitOps For NixOS Machines
 - [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup) - Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox or SSH compatible storage
@@ -313,6 +313,7 @@ A collection of awesome things.
 
 - [318anushka/Iris](https://github.com/318anushka/Iris) - A woman safety app that lets you reach out to other woman in case of emergency and sends your location on shaking
 - [ArcticDonkeys/Conveyor](https://github.com/ArcticDonkeys/Conveyor) - Decision Support System for Earthquake Situation
+- [Berkeley-CS61B/intellij-plugin](https://github.com/Berkeley-CS61B/intellij-plugin) - 
 - [HotswapProjects/HotswapAgent](https://github.com/HotswapProjects/HotswapAgent) - Java unlimited redefinition of classes at runtime.
 - [JPLeRouzic/HjerteLib](https://github.com/JPLeRouzic/HjerteLib) - 
 - [JetBrains/attachme](https://github.com/JetBrains/attachme) - IntelliJ plugin for auto-attaching the debugger to JVM applications
@@ -339,6 +340,7 @@ A collection of awesome things.
 - [eclipse-pde/eclipse.pde](https://github.com/eclipse-pde/eclipse.pde) - 
 - [eclipse-platform/eclipse.platform](https://github.com/eclipse-platform/eclipse.platform) - 
 - [eclipse/xtext](https://github.com/eclipse/xtext) - Eclipse Xtext™ is a language development framework 
+- [elipsitz/java-visualizer-intellij-plugin](https://github.com/elipsitz/java-visualizer-intellij-plugin) - 
 - [ericscharff/SmallWorld](https://github.com/ericscharff/SmallWorld) - Tim Budds Simple Smalltalk interpreter in Java
 - [fesh0r/fernflower](https://github.com/fesh0r/fernflower) - Unofficial mirror of FernFlower Java decompiler (All pulls should be submitted upstream)
 - [fluxtah/xtext-android-gradle-example](https://github.com/fluxtah/xtext-android-gradle-example) - Example of using xtext gradle plugin in an example project
