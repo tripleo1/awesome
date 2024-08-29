@@ -38,6 +38,7 @@ A collection of awesome things.
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [PHP](#php)
+- [PLpgSQL](#plpgsql)
 - [Pascal](#pascal)
 - [Perl](#perl)
 - [Python](#python)
@@ -504,6 +505,10 @@ A collection of awesome things.
 - [DirectoryLister/DirectoryLister](https://github.com/DirectoryLister/DirectoryLister) - 📂 Directory Lister is the easiest way to expose the contents of any web-accessible folder for browsing and sharing.
 - [Hyupai/Classloader-by-S4J](https://github.com/Hyupai/Classloader-by-S4J) - Dinamic classloader
 - [glhd/conveyor-belt](https://github.com/glhd/conveyor-belt) - All the underlying mechanics necessary to write artisan commands that process lots of data efficiently
+
+## PLpgSQL
+
+- [studoverse/FH-Complete-Docker](https://github.com/studoverse/FH-Complete-Docker) - Docker container version for https://github.com/FH-Complete/FHC-Core
 
 ## Pascal
 
