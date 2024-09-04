@@ -368,6 +368,7 @@ A collection of awesome things.
 - [matthewmccullough/OmniscientDebugger](https://github.com/matthewmccullough/OmniscientDebugger) - Bil Lewis' Omniscient Debugger for Java. Also known as ODB
 - [melix/gradlefs](https://github.com/melix/gradlefs) - Experiments around a Gradle dedicated FS
 - [meysholdt/xtext_stateful_lexer](https://github.com/meysholdt/xtext_stateful_lexer) - An experiment to derive a stateful lexer from an Xtext grammar
+- [musketyr/yuml-dsl-builder](https://github.com/musketyr/yuml-dsl-builder) - YUML DSL Builder (Groovy DSL Builder Example)
 - [rabdulatipoff/ConvBagsGUI](https://github.com/rabdulatipoff/ConvBagsGUI) - Conveyor bags recognition UI software
 - [rkiddy/WhencePlugin](https://github.com/rkiddy/WhencePlugin) - 
 - [slipperyseal/trebuchet](https://github.com/slipperyseal/trebuchet) - Trebuchet Transcompiler is a Java to C++ source code translator
