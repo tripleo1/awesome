@@ -684,6 +684,7 @@ A collection of awesome things.
 
 ## Smalltalk
 
+- [codefrau/jasmine](https://github.com/codefrau/jasmine) - Croquet Jasmine (2004) on SqueakJS (WIP)
 - [sbragagnolo/Xtreams](https://github.com/sbragagnolo/Xtreams) - Xtream project fork. Migration to Pharo. 
 - [seandenigris/Xtreams-Pharo](https://github.com/seandenigris/Xtreams-Pharo) - 
 
