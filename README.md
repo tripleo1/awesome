@@ -337,6 +337,7 @@ A collection of awesome things.
 - [cprice404/la-clojure](https://github.com/cprice404/la-clojure) - Clojure plugin for IntelliJ IDEA
 - [dakrone/tigris](https://github.com/dakrone/tigris) - Stream-to-stream JSON string escaping
 - [dbis-ukon/intellij-oberon](https://github.com/dbis-ukon/intellij-oberon) - A plugin to support the Oberon programming language in JetBrains IDEs.
+- [dcevm/dcevm](https://github.com/dcevm/dcevm) - Dynamic Code Evolution VM for Java 7/8
 - [eclipse-openj9/openj9](https://github.com/eclipse-openj9/openj9) - Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high throughput.   Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with the Extensions for OpenJDK for OpenJ9 repo.
 - [eclipse-pde/eclipse.pde](https://github.com/eclipse-pde/eclipse.pde) - 
 - [eclipse-platform/eclipse.platform](https://github.com/eclipse-platform/eclipse.platform) - 
@@ -669,6 +670,7 @@ A collection of awesome things.
 
 - [64kramsystem/zfs-installer](https://github.com/64kramsystem/zfs-installer) - Program that prepares ZFS on a system, and installs Linux
 - [OSPreservProject/amoeba](https://github.com/OSPreservProject/amoeba) - amoeba operating system
+- [TravaOpenJDK/trava-jdk-11-dcevm](https://github.com/TravaOpenJDK/trava-jdk-11-dcevm) - dcevm-11 built on Travis 
 - [boredsquirrel/Fedora-TV-KDE-Bigscreen](https://github.com/boredsquirrel/Fedora-TV-KDE-Bigscreen) - A Linux TV based off the immutable Fedora Kinoite, along with KDE Plasma Bigscreen, Mycroft Voice control, a modified Firefox and preinstalled Flatpak apps.
 - [c3d/mbuto](https://github.com/c3d/mbuto) - Minimal Builder Using Terse Options
 - [dlang/installer](https://github.com/dlang/installer) - dmd installers for various systems
@@ -760,7 +762,7 @@ A collection of awesome things.
 - [BruceDone/awesome-crawler](https://github.com/BruceDone/awesome-crawler) - A collection of awesome web crawler,spider in different languages
 - [DavidS95/Smokeless_UMAF](https://github.com/DavidS95/Smokeless_UMAF) - 
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-- [Elidefunnyguy/ElidefunnyDash](https://github.com/Elidefunnyguy/ElidefunnyDash) - This is a pack for Geometry Dash made by Elidefunnyguy. It features piano versions of the RobTop levels, a custom logo thing, and a galaxy background; not anything crazy.
+- [Elidefunnyguy/ElidefunnyDash](https://github.com/Elidefunnyguy/ElidefunnyDash) - This is a pack for Geometry Dash made by Elidefunnyguy. It features piano versions of the RobTop levels and a galaxy background; not anything crazy.
 - [IntelliJIdeaKeymap4Eclipse/com.github.intellijideakeymap4eclipse.feature](https://github.com/IntelliJIdeaKeymap4Eclipse/com.github.intellijideakeymap4eclipse.feature) - 
 - [LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) - List of Dirty, Naughty, Obscene, and Otherwise Bad Words
 - [Malix-Labs/awesome_atomic](https://github.com/Malix-Labs/awesome_atomic) - An awesome curated knowledge-base about atomic systems
