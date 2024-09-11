@@ -36,6 +36,7 @@ A collection of awesome things.
 - [Modula-2](#modula-2)
 - [Nix](#nix)
 - [OCaml](#ocaml)
+- [Oberon](#oberon)
 - [Objective-C](#objective-c)
 - [PHP](#php)
 - [PLpgSQL](#plpgsql)
@@ -490,10 +491,13 @@ A collection of awesome things.
 
 ## OCaml
 
-- [Spivoxity/obc-3](https://github.com/Spivoxity/obc-3) - Oxford Oberon-2 compiler
 - [dmtrKovalenko/odiff](https://github.com/dmtrKovalenko/odiff) - The fastest pixel-by-pixel image visual difference tool in the world.
 - [hacspec/hax](https://github.com/hacspec/hax) - A Rust verification tool
 - [janestreet/incremental](https://github.com/janestreet/incremental) - A library for incremental computations
+
+## Oberon
+
+- [Spivoxity/obc-3](https://github.com/Spivoxity/obc-3) - Oxford Oberon-2 compiler
 
 ## Objective-C
 
@@ -585,6 +589,7 @@ A collection of awesome things.
 - [pypy/pypy](https://github.com/pypy/pypy) - PyPy is a very fast and compliant implementation of the Python language.
 - [python-eel/Eel](https://github.com/python-eel/Eel) - A little Python library for making simple Electron-like HTML/JS GUI apps
 - [ravexina/csp-sudoku-solver](https://github.com/ravexina/csp-sudoku-solver) - Python + tkinter + CSP Idea / Algorithm to solve sudoko
+- [riscv/riscv-cheri](https://github.com/riscv/riscv-cheri) - This repository contains the CHERI extension specification, adding hardware capabilities to RISC-V ISA to enable fine-grained memory protection and scalable compartmentalization.
 - [seiferteric/remarkable_debfix](https://github.com/seiferteric/remarkable_debfix) - Remarkable Markdown Debian Package Fix
 - [simonw/simonwillisonblog](https://github.com/simonw/simonwillisonblog) - The source code behind my blog
 - [sjvasquez/handwriting-synthesis](https://github.com/sjvasquez/handwriting-synthesis) - Handwriting Synthesis with RNNs ✏️
