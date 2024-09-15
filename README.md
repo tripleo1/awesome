@@ -192,6 +192,7 @@ A collection of awesome things.
 - [flow-storm/flow-storm-debugger](https://github.com/flow-storm/flow-storm-debugger) - A debugger for Clojure and ClojureScript with some unique features.
 - [hyperfiddle/electric](https://github.com/hyperfiddle/electric) - a reactive Clojure dialect for web development that uses a compiler to manage the frontend/backend boundary
 - [jacekschae/conduit](https://github.com/jacekschae/conduit) - Real world application built with ClojureScript + re-frame
+- [joshuamiller/exif-processor](https://github.com/joshuamiller/exif-processor) - Exif processing for Clojure
 - [nextjournal/clerk](https://github.com/nextjournal/clerk) - ⚡️ Moldable Live Programming for Clojure
 - [razum2um/awesome-clojure](https://github.com/razum2um/awesome-clojure) - A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff
 - [seancorfield/honeysql](https://github.com/seancorfield/honeysql) - Turn Clojure data structures into SQL
@@ -339,6 +340,7 @@ A collection of awesome things.
 - [dakrone/tigris](https://github.com/dakrone/tigris) - Stream-to-stream JSON string escaping
 - [dbis-ukon/intellij-oberon](https://github.com/dbis-ukon/intellij-oberon) - A plugin to support the Oberon programming language in JetBrains IDEs.
 - [dcevm/dcevm](https://github.com/dcevm/dcevm) - Dynamic Code Evolution VM for Java 7/8
+- [drewnoakes/metadata-extractor](https://github.com/drewnoakes/metadata-extractor) - Extracts Exif, IPTC, XMP, ICC and other metadata from image, video and audio files
 - [eclipse-openj9/openj9](https://github.com/eclipse-openj9/openj9) - Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high throughput.   Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with the Extensions for OpenJDK for OpenJ9 repo.
 - [eclipse-pde/eclipse.pde](https://github.com/eclipse-pde/eclipse.pde) - 
 - [eclipse-platform/eclipse.platform](https://github.com/eclipse-platform/eclipse.platform) - 
@@ -405,7 +407,9 @@ A collection of awesome things.
 - [chrislusf/docker-plugin_seaweedfs](https://github.com/chrislusf/docker-plugin_seaweedfs) - A Docker Volume plugin for mounting SeaweedFS filesystems
 - [ditesh/node-poplib](https://github.com/ditesh/node-poplib) - POP3 client library for Node.js
 - [dosyago/dn](https://github.com/dosyago/dn) -  💾 dn - offline full-text search and archiving for your Chromium-based browser. 
+- [dsheeler/CoverflowAltTab](https://github.com/dsheeler/CoverflowAltTab) - Coverflow like Alt-Tab replacement for Gnome-Shell
 - [dvajs/dva-hackernews](https://github.com/dvajs/dva-hackernews) - HackerNews clone built with Dva.
+- [fthx/dock-from-dash](https://github.com/fthx/dock-from-dash) - 
 - [geoph9/hass-gshell-extension](https://github.com/geoph9/hass-gshell-extension) - A simple gnome shell extension for home assistant.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
