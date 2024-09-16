@@ -150,6 +150,7 @@ A collection of awesome things.
 - [bollu/elide](https://github.com/bollu/elide) - Elide: Elegant Metamodal Lean4 IDE. 
 - [briantrice/slate-language](https://github.com/briantrice/slate-language) - The Slate programming language
 - [c3d/xl](https://github.com/c3d/xl) - A minimalist, general-purpose programming language based on meta-programming and parse tree rewrites
+- [ceph/ceph](https://github.com/ceph/ceph) - Ceph is a distributed object, block, and file storage platform 
 - [cmu-sei/pharos](https://github.com/cmu-sei/pharos) - Automated static analysis tools for binary programs
 - [electronicarts/EASTL](https://github.com/electronicarts/EASTL) - EASTL stands for Electronic Arts Standard Template Library.  It is an extensive and robust implementation that has an emphasis on high performance.
 - [facebook/redex](https://github.com/facebook/redex) - A bytecode optimizer for Android apps
@@ -265,11 +266,13 @@ A collection of awesome things.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [cpg1111/ipos](https://github.com/cpg1111/ipos) - Linux Based OS using IPFS as a Root File System
 - [elimisteve/v2go](https://github.com/elimisteve/v2go) - V-to-Go translator
+- [fatih/astrewrite](https://github.com/fatih/astrewrite) - Go tool to walk & rewrite AST 
 - [flokli/gerrit-queue](https://github.com/flokli/gerrit-queue) - A merge bot for Gerrit
 - [go-python/gopy](https://github.com/go-python/gopy) - gopy generates a CPython extension module from a go package.
 - [google/crfs](https://github.com/google/crfs) - CRFS: Container Registry Filesystem
 - [hashsplit/hashsplit-spec](https://github.com/hashsplit/hashsplit-spec) - 
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
+- [ivzhh/go-ast-transform](https://github.com/ivzhh/go-ast-transform) - 
 - [j-keck/zsd](https://github.com/j-keck/zsd) - cli tool to find older versions of a given file in your zfs snapshots.
 - [ktock/container2wasm](https://github.com/ktock/container2wasm) - Container to WASM converter
 - [naggie/dstask](https://github.com/naggie/dstask) - Git powered terminal-based todo/note manager --  markdown note page per task. Single binary!
@@ -372,12 +375,14 @@ A collection of awesome things.
 - [matthewmccullough/OmniscientDebugger](https://github.com/matthewmccullough/OmniscientDebugger) - Bil Lewis' Omniscient Debugger for Java. Also known as ODB
 - [melix/gradlefs](https://github.com/melix/gradlefs) - Experiments around a Gradle dedicated FS
 - [meysholdt/xtext_stateful_lexer](https://github.com/meysholdt/xtext_stateful_lexer) - An experiment to derive a stateful lexer from an Xtext grammar
+- [mincong-h/java-examples](https://github.com/mincong-h/java-examples) - Java Examples
 - [musketyr/yuml-dsl-builder](https://github.com/musketyr/yuml-dsl-builder) - YUML DSL Builder (Groovy DSL Builder Example)
 - [rabdulatipoff/ConvBagsGUI](https://github.com/rabdulatipoff/ConvBagsGUI) - Conveyor bags recognition UI software
 - [rkiddy/WhencePlugin](https://github.com/rkiddy/WhencePlugin) - 
 - [slipperyseal/trebuchet](https://github.com/slipperyseal/trebuchet) - Trebuchet Transcompiler is a Java to C++ source code translator
 - [spullara/envelope](https://github.com/spullara/envelope) - Netty 4 based envelope for asynchronous protocols
 - [stepstone-tech/doom-graalvm](https://github.com/stepstone-tech/doom-graalvm) - PoC of running Doom on top of GraalVM
+- [tcurdt/jdeb](https://github.com/tcurdt/jdeb) - This library provides an Ant task and a Maven plugin to create Debian packages from Java builds in a truly cross platform manner.
 - [thinkberg/snipsnap](https://github.com/thinkberg/snipsnap) - SnipSnap - A java based wiki
 - [tripleo1/gmail-mail-importer](https://github.com/tripleo1/gmail-mail-importer) - Mail Importer for Gmail will upload the contents of a Thunderbird mail archive to Gmail and do its best to preserve the read state, flagged state, and folders of the messages.
 - [tripleo1/magnusja-java-fs](https://github.com/tripleo1/magnusja-java-fs) - Various file system implementations based on the code of the JNode operating system
@@ -472,6 +477,7 @@ A collection of awesome things.
 
 - [Qsgs-Fans/FreeKill](https://github.com/Qsgs-Fans/FreeKill) - Sanguosha (三国杀, a.k.a. Legend of Three Kingdoms, LTK) written in Qt and Lua.
 - [sblask/null-ls.nvim](https://github.com/sblask/null-ls.nvim) - Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
+- [tulip-lang/tulip](https://github.com/tulip-lang/tulip) - 
 
 ## Makefile
 
@@ -772,7 +778,6 @@ A collection of awesome things.
 
 - [BruceDone/awesome-crawler](https://github.com/BruceDone/awesome-crawler) - A collection of awesome web crawler,spider in different languages
 - [DavidS95/Smokeless_UMAF](https://github.com/DavidS95/Smokeless_UMAF) - 
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [Elidefunnyguy/ElidefunnyDash](https://github.com/Elidefunnyguy/ElidefunnyDash) - This is a pack for Geometry Dash made by Elidefunnyguy. It features piano versions of the RobTop levels and a galaxy background; not anything crazy.
 - [IntelliJIdeaKeymap4Eclipse/com.github.intellijideakeymap4eclipse.feature](https://github.com/IntelliJIdeaKeymap4Eclipse/com.github.intellijideakeymap4eclipse.feature) - 
 - [LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) - List of Dirty, Naughty, Obscene, and Otherwise Bad Words
