@@ -96,6 +96,7 @@ A collection of awesome things.
 - [Spirit-of-Oberon/Juice](https://github.com/Spirit-of-Oberon/Juice) - Juice is a technology for distributing executable content across the World Wide Web
 - [a0rtega/pafish](https://github.com/a0rtega/pafish) - Pafish is a testing tool that uses different techniques to detect virtual machines and malware analysis environments in the same way that malware families do
 - [aheck/clib](https://github.com/aheck/clib) - Header-only library for C99 that implements the most important classes from GLib: GArray, GHashTable, GList and GString.
+- [antirez/load81](https://github.com/antirez/load81) - SDL based Lua programming environment for kids similar to Codea
 - [c-testsuite/c-testsuite](https://github.com/c-testsuite/c-testsuite) - A public database of C compiler test cases, minimal test runners, and public test results.
 - [civboot/fngi](https://github.com/civboot/fngi) - a readable language that grows from the silicon
 - [cloudius-systems/osv](https://github.com/cloudius-systems/osv) - OSv, a new operating system for the cloud.
@@ -557,6 +558,7 @@ A collection of awesome things.
 - [alxschwrz/codex_py2cpp](https://github.com/alxschwrz/codex_py2cpp) - Converts python code into c++ by using OpenAI CODEX.
 - [amanusk/s-tui](https://github.com/amanusk/s-tui) - Terminal-based CPU stress and monitoring utility
 - [atopile/atopile](https://github.com/atopile/atopile) - Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️
+- [biosbits/bits](https://github.com/biosbits/bits) - BIOS Implementation Test Suite
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [cchen156/Learning-to-See-in-the-Dark](https://github.com/cchen156/Learning-to-See-in-the-Dark) - Learning to See in the Dark. CVPR 2018
 - [cherrypy/cherrypy](https://github.com/cherrypy/cherrypy) - CherryPy is a pythonic, object-oriented HTTP framework.      https://cherrypy.dev
@@ -576,6 +578,7 @@ A collection of awesome things.
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
 - [joactr/AnnoTheia](https://github.com/joactr/AnnoTheia) - AnnoTheia is a data annotation toolkit that identifies when a person speaks in a scene and transcribes their speech, also offering flexibility to replace modules for different languages.
 - [jorgenkg/python-neural-network](https://github.com/jorgenkg/python-neural-network) - This is an efficient implementation of a fully connected neural network in NumPy. The network can be trained by a variety of learning algorithms: backpropagation, resilient backpropagation and scaled conjugate gradient learning. The network has been developed with PYPY in mind.
+- [joshiemoore/snakeware](https://github.com/joshiemoore/snakeware) - A free Linux distro with a Python-based userspace
 - [jstepien/psota](https://github.com/jstepien/psota) - “Clojure on PyPy” would be an exaggeration
 - [knorrie/btrfs-heatmap](https://github.com/knorrie/btrfs-heatmap) - Visualize the layout of data on your btrfs filesystem over time
 - [ks-amit/Distributed-Database](https://github.com/ks-amit/Distributed-Database) - A travel agency app with a distributed database implemented from scratch!
@@ -642,6 +645,7 @@ A collection of awesome things.
 
 - [DieracDelta/DAWN](https://github.com/DieracDelta/DAWN) - DAWN (Debug Adapter with Nix)
 - [RyanWelly/lisp-in-rs-macros](https://github.com/RyanWelly/lisp-in-rs-macros) - A Lisp interpreter written fully in rust macros. 
+- [YtvwlD/ele](https://github.com/YtvwlD/ele) - ele spawns elevated processes.
 - [andreafioraldi/libafl_quickjs_fuzzing](https://github.com/andreafioraldi/libafl_quickjs_fuzzing) - An example fuzzer about how to fuzz a JS engine combinign Nautilus with Token-level fuzzing 
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [digama0/lean-sys](https://github.com/digama0/lean-sys) - Rust bindings for the Lean 4 proof assistant
