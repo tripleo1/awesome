@@ -153,6 +153,7 @@ A collection of awesome things.
 - [c3d/xl](https://github.com/c3d/xl) - A minimalist, general-purpose programming language based on meta-programming and parse tree rewrites
 - [ceph/ceph](https://github.com/ceph/ceph) - Ceph is a distributed object, block, and file storage platform 
 - [cmu-sei/pharos](https://github.com/cmu-sei/pharos) - Automated static analysis tools for binary programs
+- [cvmfs/cvmfs](https://github.com/cvmfs/cvmfs) - The CernVM File System
 - [electronicarts/EASTL](https://github.com/electronicarts/EASTL) - EASTL stands for Electronic Arts Standard Template Library.  It is an extensive and robust implementation that has an emphasis on high performance.
 - [facebook/redex](https://github.com/facebook/redex) - A bytecode optimizer for Android apps
 - [facebookexperimental/object-introspection](https://github.com/facebookexperimental/object-introspection) - Object Introspection (OI) enables on-demand, hierarchical profiling of objects in arbitrary C/C++ programs with no recompilation.
