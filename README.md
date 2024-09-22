@@ -419,7 +419,7 @@ A collection of awesome things.
 - [fthx/dock-from-dash](https://github.com/fthx/dock-from-dash) - 
 - [geoph9/hass-gshell-extension](https://github.com/geoph9/hass-gshell-extension) - A simple gnome shell extension for home assistant.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
-- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
+- [google/zx](https://github.com/google/zx) - 🔥🔥🔥 A tool for writing better scripts 🔥🔥🔥
 - [hardpixel/unite-shell](https://github.com/hardpixel/unite-shell) - Unite is an extension that makes GNOME Shell look like Ubuntu Unity Shell.
 - [kevlarr/awesome-wasm](https://github.com/kevlarr/awesome-wasm) - resources for Wasm presentation; comparison of JS vs. Wasm via implementations of Game of Life
 - [leapmotion/leapjs](https://github.com/leapmotion/leapjs) - JavaScript client for the Leap Motion Controller
