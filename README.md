@@ -42,6 +42,7 @@ A collection of awesome things.
 - [PLpgSQL](#plpgsql)
 - [Pascal](#pascal)
 - [Perl](#perl)
+- [Pony](#pony)
 - [Python](#python)
 - [QML](#qml)
 - [R](#r)
@@ -153,8 +154,10 @@ A collection of awesome things.
 - [briantrice/slate-language](https://github.com/briantrice/slate-language) - The Slate programming language
 - [c3d/xl](https://github.com/c3d/xl) - A minimalist, general-purpose programming language based on meta-programming and parse tree rewrites
 - [ceph/ceph](https://github.com/ceph/ceph) - Ceph is a distributed object, block, and file storage platform 
+- [cleverca22/fusenar](https://github.com/cleverca22/fusenar) - A program that mounts a NAR (Nix Archive) archive as a filesystem using FUSE. This repo is written in C++; it has now been rewritten in Haskell (https://github.com/taktoa/narfuse).
 - [cmu-sei/pharos](https://github.com/cmu-sei/pharos) - Automated static analysis tools for binary programs
 - [cvmfs/cvmfs](https://github.com/cvmfs/cvmfs) - The CernVM File System
+- [doug65536/dgos](https://github.com/doug65536/dgos) - Operating System
 - [electronicarts/EASTL](https://github.com/electronicarts/EASTL) - EASTL stands for Electronic Arts Standard Template Library.  It is an extensive and robust implementation that has an emphasis on high performance.
 - [facebook/redex](https://github.com/facebook/redex) - A bytecode optimizer for Android apps
 - [facebookexperimental/object-introspection](https://github.com/facebookexperimental/object-introspection) - Object Introspection (OI) enables on-demand, hierarchical profiling of objects in arbitrary C/C++ programs with no recompilation.
@@ -188,6 +191,7 @@ A collection of awesome things.
 
 - [SquareBracketAssociates/Booklet-Smacc](https://github.com/SquareBracketAssociates/Booklet-Smacc) - A booklet on the Smacc compiler compiler framework
 - [gayanper/eclipse-themes](https://github.com/gayanper/eclipse-themes) - Eclipse themes and some features to enhance the look and feel of Eclipse Java IDE.
+- [klange/Firefox-UI-Fix](https://github.com/klange/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
 
 ## Clojure
 
@@ -500,6 +504,7 @@ A collection of awesome things.
 ## Nix
 
 - [JeremiahSecrist/regula-nix](https://github.com/JeremiahSecrist/regula-nix) - This project aims to help implement and enforce various security standards in NixOS. Regula meaning standards in latin.
+- [cleverca22/nix-misc](https://github.com/cleverca22/nix-misc) - Small experimental things I am doing with Nix (this repository is old and will soon be merged with https://github.com/cleverca22/nix-tests).
 - [gmodena/nix-flatpak](https://github.com/gmodena/nix-flatpak) - Install flatpaks declaratively
 - [nix-community/impermanence](https://github.com/nix-community/impermanence) - Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]
 - [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) - An unofficial NixOS fork with a FreeBSD kernel
@@ -540,6 +545,10 @@ A collection of awesome things.
 ## Perl
 
 - [jimsalterjrs/perlpv](https://github.com/jimsalterjrs/perlpv) - A proof-of-concept pipe viewer similar to Andrew Wood's pv—but written in perl, for eventual use internally in syncoid.
+
+## Pony
+
+- [klange/ponysay](https://github.com/klange/ponysay) - Ponysay ported to Kuroko
 
 ## Python
 
@@ -661,6 +670,7 @@ A collection of awesome things.
 - [ekzhang/crepe](https://github.com/ekzhang/crepe) - Datalog compiler embedded in Rust as a procedural macro
 - [facebook/starlark-rust](https://github.com/facebook/starlark-rust) - A Rust implementation of the Starlark language
 - [kahing/catfs](https://github.com/kahing/catfs) - Cache AnyThing filesystem written in Rust
+- [lovesegfault/daedalos](https://github.com/lovesegfault/daedalos) - A fully (dis)functional OS!
 - [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible VCS that is both simple and powerful
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - A toolkit for building distributed applications
 - [nagisa/msi-rgb](https://github.com/nagisa/msi-rgb) - Linux utility for controlling RGB header on select MSI motherboards
@@ -702,9 +712,11 @@ A collection of awesome things.
 - [UbuntuAsahi/ubuntu-asahi](https://github.com/UbuntuAsahi/ubuntu-asahi) - Native Ubuntu installations for Apple silicon hardware
 - [boredsquirrel/Fedora-TV-KDE-Bigscreen](https://github.com/boredsquirrel/Fedora-TV-KDE-Bigscreen) - A Linux TV based off the immutable Fedora Kinoite, along with KDE Plasma Bigscreen, Mycroft Voice control, a modified Firefox and preinstalled Flatpak apps.
 - [c3d/mbuto](https://github.com/c3d/mbuto) - Minimal Builder Using Terse Options
+- [certik/bcompiler](https://github.com/certik/bcompiler) - Mirror of http://www.rano.org/bcompiler.tar.gz, with a bootstrap script
 - [dlang/installer](https://github.com/dlang/installer) - dmd installers for various systems
 - [jarun/advcpmv](https://github.com/jarun/advcpmv) - A patch for GNU Core Utilities cp, mv to add progress bars
 - [kdabir/has](https://github.com/kdabir/has) - ✅ checks presence of various command line tools and their versions on the path 
+- [klange/taylor](https://github.com/klange/taylor) - Swift on bare metal. Explorations of compiling Swift code without a standard library.
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [presslabs/debuilder](https://github.com/presslabs/debuilder) - Docker images for building debian/ubuntu packages
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
