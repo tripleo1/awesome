@@ -698,6 +698,7 @@ A collection of awesome things.
 
 ## Scala
 
+- [chipsalliance/chisel](https://github.com/chipsalliance/chisel) - Chisel: A Modern Hardware Design Language
 - [djspiewak/gll-combinators](https://github.com/djspiewak/gll-combinators) - A parser combinator library based on the GLL algorithm
 - [dotta/coursier-deps-resolution-bug](https://github.com/dotta/coursier-deps-resolution-bug) - Small project demonstrating the mismatch between sbt and coursier dependency resolution
 - [lihaoyi/Metascala](https://github.com/lihaoyi/Metascala) - A JVM written in Scala
