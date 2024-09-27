@@ -708,6 +708,7 @@ A collection of awesome things.
 ## Shell
 
 - [64kramsystem/zfs-installer](https://github.com/64kramsystem/zfs-installer) - Program that prepares ZFS on a system, and installs Linux
+- [AOSC-Archive/aosc-os-core](https://github.com/AOSC-Archive/aosc-os-core) - AOSC OS Core: definitions, abbs configurations, and build scripts.
 - [OSPreservProject/amoeba](https://github.com/OSPreservProject/amoeba) - amoeba operating system
 - [TravaOpenJDK/trava-jdk-11-dcevm](https://github.com/TravaOpenJDK/trava-jdk-11-dcevm) - dcevm-11 built on Travis 
 - [UbuntuAsahi/ubuntu-asahi](https://github.com/UbuntuAsahi/ubuntu-asahi) - Native Ubuntu installations for Apple silicon hardware
