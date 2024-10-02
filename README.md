@@ -575,6 +575,7 @@ A collection of awesome things.
 - [amanusk/s-tui](https://github.com/amanusk/s-tui) - Terminal-based CPU stress and monitoring utility
 - [atopile/atopile](https://github.com/atopile/atopile) - Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️
 - [biosbits/bits](https://github.com/biosbits/bits) - BIOS Implementation Test Suite
+- [bmuschko/rules_java_war](https://github.com/bmuschko/rules_java_war) - Bazel rules for generating a Java Web Archive (WAR).
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [cchen156/Learning-to-See-in-the-Dark](https://github.com/cchen156/Learning-to-See-in-the-Dark) - Learning to See in the Dark. CVPR 2018
 - [cherrypy/cherrypy](https://github.com/cherrypy/cherrypy) - CherryPy is a pythonic, object-oriented HTTP framework.      https://cherrypy.dev
