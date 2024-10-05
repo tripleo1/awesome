@@ -114,6 +114,7 @@ A collection of awesome things.
 - [kayodesu/cabin](https://github.com/kayodesu/cabin) - A toy jvm written in C, based on jdk16
 - [kernc/xsuspender](https://github.com/kernc/xsuspender) - :eyes: :computer: :zzz: :battery: Save battery by auto-suspending unfocused X11 applications.
 - [kev009/trix](https://github.com/kev009/trix) - MIT Trix operating system (UNIX-like)
+- [kspalaiologos/bzip3](https://github.com/kspalaiologos/bzip3) - A better and stronger spiritual successor to BZip2.
 - [larmel/lacc](https://github.com/larmel/lacc) - A simple, self-hosting C compiler
 - [libfirm/cparser](https://github.com/libfirm/cparser) - C99 parser and frontend for libfirm
 - [littlekernel/lk](https://github.com/littlekernel/lk) - LK embedded kernel
