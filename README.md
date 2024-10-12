@@ -331,9 +331,11 @@ A collection of awesome things.
 - [318anushka/Iris](https://github.com/318anushka/Iris) - A woman safety app that lets you reach out to other woman in case of emergency and sends your location on shaking
 - [ArcticDonkeys/Conveyor](https://github.com/ArcticDonkeys/Conveyor) - Decision Support System for Earthquake Situation
 - [Berkeley-CS61B/intellij-plugin](https://github.com/Berkeley-CS61B/intellij-plugin) - 
+- [DavidBurkett/Builderberg](https://github.com/DavidBurkett/Builderberg) - IntelliJ IDEA plugin to generate inner builders with constraint validation
 - [HotswapProjects/HotswapAgent](https://github.com/HotswapProjects/HotswapAgent) - Java unlimited redefinition of classes at runtime.
 - [JPLeRouzic/HjerteLib](https://github.com/JPLeRouzic/HjerteLib) - 
 - [JetBrains/attachme](https://github.com/JetBrains/attachme) - IntelliJ plugin for auto-attaching the debugger to JVM applications
+- [KisanHub/intellij-orogeny](https://github.com/KisanHub/intellij-orogeny) - Use IntelliJ as your build tool instead of ant, maven, groovy or anything else.
 - [Nuix/jnode-fs](https://github.com/Nuix/jnode-fs) - Various file system implementations based on the code of the JNode operating system
 - [Pr3roxDLC/JNode](https://github.com/Pr3roxDLC/JNode) - A WIP Block Programming Implementation in Java
 - [SQiShER/java-object-diff](https://github.com/SQiShER/java-object-diff) - Library to diff and merge Java objects with ease
@@ -465,6 +467,8 @@ A collection of awesome things.
 ## Kotlin
 
 - [CASC-Lang/Yakou](https://github.com/CASC-Lang/Yakou) - An experimental JVM Language inspired by Rust.
+- [FirstTimeInForever/gradle-run-gutter-icons](https://github.com/FirstTimeInForever/gradle-run-gutter-icons) - This plugin adds run gutter icons for the build.gradle.kts tasks declarations.
+- [IntellijMesonIntegration/IntellijMesonIntegration](https://github.com/IntellijMesonIntegration/IntellijMesonIntegration) - Meson Build System integration for CLion
 - [Tigermouthbear/Theia](https://github.com/Tigermouthbear/Theia) - A Kotlin program used to analyze and discover backdoors in Minecraft Java 1.12.2 forge mods
 - [V9vek/Sorting-Visualizer](https://github.com/V9vek/Sorting-Visualizer) - Visualizes various sorting algorithms
 - [andregasser/bigbone](https://github.com/andregasser/bigbone) - BigBone - A Mastodon Client Library for Java and Kotlin
@@ -472,6 +476,7 @@ A collection of awesome things.
 - [facebookincubator/dataclassgenerate](https://github.com/facebookincubator/dataclassgenerate) - DataClassGenerate (or simply DCG) is a Kotlin compiler plugin that addresses an Android APK size overhead from Kotlin data classes. 
 - [joreilly/PeopleInSpace](https://github.com/joreilly/PeopleInSpace) - Kotlin Multiplatform sample with SwiftUI, Jetpack Compose, Compose for Wear, Compose for Desktop, and Compose for Web clients along with Ktor backend.
 - [kotlin-sheriff/black-sun](https://github.com/kotlin-sheriff/black-sun) - The idea is to turn your Telegram chat into a world of magic, where the one who knows the most Kotlin spells wins.
+- [manriif/supabase-edge-functions-kt](https://github.com/manriif/supabase-edge-functions-kt) - Build, serve and deploy Supabase Edge Functions with Kotlin and Gradle.
 - [nhat-phan/shit-cleaner](https://github.com/nhat-phan/shit-cleaner) - An Intellij IDE plugin which uses Code Climate CLI to analyze your source code on local machine and display code smells/duplications right in your IDE 
 - [square/workflow-kotlin](https://github.com/square/workflow-kotlin) - A Swift and Kotlin library for making composable state machines, and UIs driven by those state machines.
 - [tateisu/SubwayTooter](https://github.com/tateisu/SubwayTooter) - Mastodon client app for Android
