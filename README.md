@@ -276,6 +276,7 @@ A collection of awesome things.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [cpg1111/ipos](https://github.com/cpg1111/ipos) - Linux Based OS using IPFS as a Root File System
 - [elimisteve/v2go](https://github.com/elimisteve/v2go) - V-to-Go translator
+- [etkecc/agru](https://github.com/etkecc/agru) - ansible-galaxy requirements updater is fast ansible-galaxy replacement
 - [fatih/astrewrite](https://github.com/fatih/astrewrite) - Go tool to walk & rewrite AST 
 - [flokli/gerrit-queue](https://github.com/flokli/gerrit-queue) - A merge bot for Gerrit
 - [go-python/gopy](https://github.com/go-python/gopy) - gopy generates a CPython extension module from a go package.
