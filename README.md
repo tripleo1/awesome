@@ -393,6 +393,7 @@ A collection of awesome things.
 - [mincong-h/java-examples](https://github.com/mincong-h/java-examples) - Java Examples
 - [musketyr/yuml-dsl-builder](https://github.com/musketyr/yuml-dsl-builder) - YUML DSL Builder (Groovy DSL Builder Example)
 - [rabdulatipoff/ConvBagsGUI](https://github.com/rabdulatipoff/ConvBagsGUI) - Conveyor bags recognition UI software
+- [revelc/formatter-maven-plugin](https://github.com/revelc/formatter-maven-plugin) - Formatter Maven Plugin
 - [rkiddy/WhencePlugin](https://github.com/rkiddy/WhencePlugin) - 
 - [slipperyseal/trebuchet](https://github.com/slipperyseal/trebuchet) - Trebuchet Transcompiler is a Java to C++ source code translator
 - [spullara/envelope](https://github.com/spullara/envelope) - Netty 4 based envelope for asynchronous protocols
@@ -610,6 +611,7 @@ A collection of awesome things.
 - [ks-amit/Distributed-Database](https://github.com/ks-amit/Distributed-Database) - A travel agency app with a distributed database implemented from scratch!
 - [lelit/tailor](https://github.com/lelit/tailor) - A tool to exchange changesets between different version control systems
 - [linuxmint/sticky](https://github.com/linuxmint/sticky) - A sticky notes app for the linux desktop
+- [log2timeline/dfvfs](https://github.com/log2timeline/dfvfs) - Digital Forensics Virtual File System (dfVFS)
 - [lzzcd001/GShell](https://github.com/lzzcd001/GShell) - Official implentation of "Ghost on the Shell: An Expressive Representation of General 3D Shapes" (ICLR 2024 Oral)
 - [martin68/apt-smart](https://github.com/martin68/apt-smart) - apt-smart: Smart, automated, robust apt-get mirror selection for Debian, Ubuntu and Linux Mint
 - [microsoft/az-python](https://github.com/microsoft/az-python) - A collection of Python Packages for AI usecases
