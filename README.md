@@ -733,6 +733,7 @@ A collection of awesome things.
 - [jarun/advcpmv](https://github.com/jarun/advcpmv) - A patch for GNU Core Utilities cp, mv to add progress bars
 - [kdabir/has](https://github.com/kdabir/has) - ✅ checks presence of various command line tools and their versions on the path 
 - [klange/taylor](https://github.com/klange/taylor) - Swift on bare metal. Explorations of compiling Swift code without a standard library.
+- [mkellyxp/nixbook](https://github.com/mkellyxp/nixbook) - 
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [presslabs/debuilder](https://github.com/presslabs/debuilder) - Docker images for building debian/ubuntu packages
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
