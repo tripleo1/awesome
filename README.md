@@ -5,6 +5,7 @@ A collection of awesome things.
 - [Arc](#arc)
 - [Assembly](#assembly)
 - [Astro](#astro)
+- [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c-1)
 - [C++](#c-2)
@@ -88,6 +89,10 @@ A collection of awesome things.
 
 - [markhorn-dev/astro-sphere](https://github.com/markhorn-dev/astro-sphere) - Astro Sphere is a static, minimalist, lightweight, lightning fast portfolio and blog.
 
+## Batchfile
+
+- [aghorler/Windows-10-Hardening](https://github.com/aghorler/Windows-10-Hardening) - An admittedly frivolous (and infrequently updated) attempt to harden Windows 10.
+
 ## C
 
 - [9fans/drawterm](https://github.com/9fans/drawterm) - Connect to Plan 9 CPU servers from other operating systems.
@@ -103,7 +108,7 @@ A collection of awesome things.
 - [cloudius-systems/osv](https://github.com/cloudius-systems/osv) - OSv, a new operating system for the cloud.
 - [cmu-sei/SCALe](https://github.com/cmu-sei/SCALe) - SCALe (Source Code Analysis Lab) is a static analysis aggregator/correlator which enables a source code analyst to combine static analysis results from multiple tools into one interface, and also provides mappings for diagnostics from the tools to the SEI CERT Secure Coding standards.
 - [console-tools/moc](https://github.com/console-tools/moc) - Music On Console
-- [containers/composefs](https://github.com/containers/composefs) - a file system for mounting container images
+- [containers/composefs](https://github.com/containers/composefs) - The reliability of disk images, the flexibility of files
 - [dspinellis/cscout](https://github.com/dspinellis/cscout) - C code refactoring browser
 - [fuhsnn/slimcc](https://github.com/fuhsnn/slimcc) - C11 compiler with GNU extensions for x86-64 Linux, working towards C23
 - [fuhsnn/widcc](https://github.com/fuhsnn/widcc) - Simple C compiler for x86-64 Linux able to build real-world projects including Curl, GCC, Git, PHP, Perl, Python, PostgreSQL etc
@@ -201,7 +206,6 @@ A collection of awesome things.
 - [donut-party/system](https://github.com/donut-party/system) - a dependency injection library for Clojure and ClojureScript 🍩
 - [eliascotto/tryclojure](https://github.com/eliascotto/tryclojure) - Clojure live REPL tutorial
 - [flow-storm/flow-storm-debugger](https://github.com/flow-storm/flow-storm-debugger) - A debugger for Clojure and ClojureScript with some unique features.
-- [hyperfiddle/electric](https://github.com/hyperfiddle/electric) - a reactive Clojure dialect for web development that uses a compiler to manage the frontend/backend boundary
 - [jacekschae/conduit](https://github.com/jacekschae/conduit) - Real world application built with ClojureScript + re-frame
 - [joshuamiller/exif-processor](https://github.com/joshuamiller/exif-processor) - Exif processing for Clojure
 - [nextjournal/clerk](https://github.com/nextjournal/clerk) - ⚡️ Moldable Live Programming for Clojure
@@ -294,6 +298,7 @@ A collection of awesome things.
 - [project-machine/disko](https://github.com/project-machine/disko) - Disk Operations API in Go
 - [psilva261/mycel](https://github.com/psilva261/mycel) - Rudimentary web browser written in Golang
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
+- [roddhjav/apparmor.d](https://github.com/roddhjav/apparmor.d) - Full set of AppArmor profiles (~ 1500 profiles)
 - [scrollmapper/bible_databases](https://github.com/scrollmapper/bible_databases) - Bible versions and cross-reference databases.
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
 - [seifer/go-seaweedfs](https://github.com/seifer/go-seaweedfs) - Seaweed-FS is a simple and highly scalable distributed file system. There are two objectives:  to store billions of files! to serve the files fast! Instead of supporting full POSIX file system semantics, Seaweed-FS choose to implement only a key~file mapping. Similar to the word "NoSQL", you can call it as "NoFS".
@@ -737,6 +742,7 @@ A collection of awesome things.
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [presslabs/debuilder](https://github.com/presslabs/debuilder) - Docker images for building debian/ubuntu packages
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
+- [risuorg/risu](https://github.com/risuorg/risu) - Automation Troubleshooting Framework to validate  and report configuration, software installed, etc with bash, python, and your language of choice.
 - [trentbuck/flash-kernel-efi](https://github.com/trentbuck/flash-kernel-efi) - 
 - [version-manager/woof](https://github.com/version-manager/woof) - The version manager to end all version managers.
 - [wmutschl/mutschler.dev](https://github.com/wmutschl/mutschler.dev) - Tech blog
@@ -851,6 +857,7 @@ A collection of awesome things.
 - [gutenye/syncthing-kindle](https://github.com/gutenye/syncthing-kindle) - Setup Syncthing on Kindle Touch
 - [hardikvasa/awesome-programming](https://github.com/hardikvasa/awesome-programming) - A curated list of awesome programming talks, articles, books, resources and more!!
 - [hrj/awesome-eclipse](https://github.com/hrj/awesome-eclipse) - List of awesome plugins and other resources for eclipse
+- [hyperfiddle/electric](https://github.com/hyperfiddle/electric) - Electric Clojure: full-stack differential dataflow for UI
 - [jelmer/awesome-codemods](https://github.com/jelmer/awesome-codemods) - Curated list of tools that can fix your code for you
 - [jghoman/awe-wasm](https://github.com/jghoman/awe-wasm) - awe-wasm = awesome WASM - repo for tracking WASM related resources I find
 - [jossthev/linda](https://github.com/jossthev/linda) - Creation of a data shared space, based on Linda pattern, using Java (multi-threading, RMI)
