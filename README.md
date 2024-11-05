@@ -270,6 +270,7 @@ A collection of awesome things.
 
 - [Fault-lang/Fault](https://github.com/Fault-lang/Fault) - a language for building system dynamic models
 - [Jeffail/leaps](https://github.com/Jeffail/leaps) - A pair programming service using operational transforms
+- [LeoBlanchette/bible_databases](https://github.com/LeoBlanchette/bible_databases) - Bible versions and cross-reference databases.
 - [MoodyReaper/multi-language-programming-playground](https://github.com/MoodyReaper/multi-language-programming-playground) - Multi-language programming playground (Go, Python, Rust, TypeScript)
 - [OSPG/godedupe](https://github.com/OSPG/godedupe) - Improved and modern fdupes alternative
 - [Xe/x](https://github.com/Xe/x) - Various tools, trinkets and experiments
@@ -299,7 +300,6 @@ A collection of awesome things.
 - [psilva261/mycel](https://github.com/psilva261/mycel) - Rudimentary web browser written in Golang
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [roddhjav/apparmor.d](https://github.com/roddhjav/apparmor.d) - Full set of AppArmor profiles (~ 1500 profiles)
-- [scrollmapper/bible_databases](https://github.com/scrollmapper/bible_databases) - Bible versions and cross-reference databases.
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
 - [seifer/go-seaweedfs](https://github.com/seifer/go-seaweedfs) - Seaweed-FS is a simple and highly scalable distributed file system. There are two objectives:  to store billions of files! to serve the files fast! Instead of supporting full POSIX file system semantics, Seaweed-FS choose to implement only a key~file mapping. Similar to the word "NoSQL", you can call it as "NoFS".
 - [slotix/dataflowkit](https://github.com/slotix/dataflowkit) - Extract structured data from web sites. Web sites scraping.  
@@ -442,6 +442,7 @@ A collection of awesome things.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [hardpixel/unite-shell](https://github.com/hardpixel/unite-shell) - Unite is an extension that makes GNOME Shell look like Ubuntu Unity Shell.
+- [irrum6/heximo](https://github.com/irrum6/heximo) - history export import extension for firefox
 - [kevlarr/awesome-wasm](https://github.com/kevlarr/awesome-wasm) - resources for Wasm presentation; comparison of JS vs. Wasm via implementations of Game of Life
 - [leapmotion/leapjs](https://github.com/leapmotion/leapjs) - JavaScript client for the Leap Motion Controller
 - [lengstrom/falcon](https://github.com/lengstrom/falcon) - Chrome extension for full text history search!
@@ -452,6 +453,7 @@ A collection of awesome things.
 - [ollama-ui/ollama-ui](https://github.com/ollama-ui/ollama-ui) - Simple HTML UI for Ollama
 - [p-e-w/argos](https://github.com/p-e-w/argos) - Create GNOME Shell extensions in seconds
 - [reimertz/curse-words](https://github.com/reimertz/curse-words) - 
+- [seamapi/react-repl](https://github.com/seamapi/react-repl) - React component for creating a REPL or interactive command line interface
 - [shanesmith/gerrit-cli](https://github.com/shanesmith/gerrit-cli) - Gerrit in your command lines.
 - [shaunxcode/datomicism](https://github.com/shaunxcode/datomicism) - interface for visualizing datomic schemas and queries
 - [sindresorhus/yn](https://github.com/sindresorhus/yn) - Parse yes/no like values
