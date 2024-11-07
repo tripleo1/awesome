@@ -524,6 +524,8 @@ A collection of awesome things.
 - [JeremiahSecrist/regula-nix](https://github.com/JeremiahSecrist/regula-nix) - This project aims to help implement and enforce various security standards in NixOS. Regula meaning standards in latin.
 - [cleverca22/nix-misc](https://github.com/cleverca22/nix-misc) - Small experimental things I am doing with Nix (this repository is old and will soon be merged with https://github.com/cleverca22/nix-tests).
 - [gmodena/nix-flatpak](https://github.com/gmodena/nix-flatpak) - Install flatpaks declaratively
+- [hercules-ci/canonix](https://github.com/hercules-ci/canonix) - Experiment in Nix formatting
+- [infinisil/nixlisp](https://github.com/infinisil/nixlisp) - 
 - [nix-community/impermanence](https://github.com/nix-community/impermanence) - Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]
 - [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) - An unofficial NixOS fork with a FreeBSD kernel
 - [oddlama/nix-topology](https://github.com/oddlama/nix-topology) - 🍁 Generate infrastructure and network diagrams directly from your NixOS configurations
