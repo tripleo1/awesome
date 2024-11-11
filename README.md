@@ -127,7 +127,7 @@ A collection of awesome things.
 - [phoboslab/neuralink_brainwire](https://github.com/phoboslab/neuralink_brainwire) - Attempt at Neuralink's Compression Challenge
 - [pixeltris/webc86](https://github.com/pixeltris/webc86) - Compile / run C in a web browser via TCC / x86 emulation
 - [ponylang/ponyc](https://github.com/ponylang/ponyc) - Pony is an open-source, actor-model, capabilities-secure, high performance programming language
-- [rochus-keller/Are-we-fast-yet](https://github.com/rochus-keller/Are-we-fast-yet) - Implementations of the Are-we-fast-yet benchmark suite in Oberon+, C++, C and Pascal
+- [rochus-keller/Are-we-fast-yet](https://github.com/rochus-keller/Are-we-fast-yet) - Implementations of the Are-we-fast-yet benchmark suite in Oberon+, C++, C, Pascal, Micron and Luon
 - [shellphish/how2heap](https://github.com/shellphish/how2heap) - A repository for learning various heap exploitation techniques.
 - [tinycorelinux/tinyx](https://github.com/tinycorelinux/tinyx) - 
 - [titzer/redpants](https://github.com/titzer/redpants) - 
@@ -451,6 +451,7 @@ A collection of awesome things.
 - [novemberborn/never](https://github.com/novemberborn/never) - A function that throws when called, use with nullish coalescing to elide unexpected nullish values
 - [ollama-ui/ollama-ui](https://github.com/ollama-ui/ollama-ui) - Simple HTML UI for Ollama
 - [p-e-w/argos](https://github.com/p-e-w/argos) - Create GNOME Shell extensions in seconds
+- [puzzle/wasm-hello-java](https://github.com/puzzle/wasm-hello-java) - Minimal WebAssembly Hello World in Java
 - [reimertz/curse-words](https://github.com/reimertz/curse-words) - 
 - [seamapi/react-repl](https://github.com/seamapi/react-repl) - React component for creating a REPL or interactive command line interface
 - [shanesmith/gerrit-cli](https://github.com/shanesmith/gerrit-cli) - Gerrit in your command lines.
@@ -526,6 +527,7 @@ A collection of awesome things.
 - [hercules-ci/canonix](https://github.com/hercules-ci/canonix) - Experiment in Nix formatting
 - [infinisil/nixlisp](https://github.com/infinisil/nixlisp) - 
 - [nix-community/impermanence](https://github.com/nix-community/impermanence) - Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]
+- [nix-community/srvos](https://github.com/nix-community/srvos) - NixOS profiles for servers [maintainer=@numtide]
 - [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) - An unofficial NixOS fork with a FreeBSD kernel
 - [oddlama/nix-topology](https://github.com/oddlama/nix-topology) - 🍁 Generate infrastructure and network diagrams directly from your NixOS configurations
 - [tpwrules/nixos-apple-silicon](https://github.com/tpwrules/nixos-apple-silicon) - Resources to install NixOS bare metal on Apple Silicon Macs
@@ -634,6 +636,7 @@ A collection of awesome things.
 - [nyaadevs/pybittorent-tracker-sanic](https://github.com/nyaadevs/pybittorent-tracker-sanic) - Don't use pypy, it's bad. Unmaintained, no longer used.
 - [oduwsdl/ipwb](https://github.com/oduwsdl/ipwb) - InterPlanetary Wayback: A distributed and persistent archive replay system using IPFS
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models.
+- [openstack/mistral](https://github.com/openstack/mistral) - Workflow Service for OpenStack. Mirror of code maintained at opendev.org.
 - [oravus/seqNet](https://github.com/oravus/seqNet) - SeqNet: Code for the RA-L (ICRA) 2021 paper "SeqNet: Learning Descriptors for Sequence-Based Hierarchical Place Recognition"
 - [pixie-lang/pixie](https://github.com/pixie-lang/pixie) - A small, fast, native lisp with "magical" powers
 - [polmuz/pypy-image-demo](https://github.com/polmuz/pypy-image-demo) - Video processing with pypy
