@@ -289,6 +289,7 @@ A collection of awesome things.
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [ivzhh/go-ast-transform](https://github.com/ivzhh/go-ast-transform) - 
 - [j-keck/zsd](https://github.com/j-keck/zsd) - cli tool to find older versions of a given file in your zfs snapshots.
+- [jmpsec/osctrl](https://github.com/jmpsec/osctrl) - Fast and efficient osquery management
 - [ktock/container2wasm](https://github.com/ktock/container2wasm) - Container to WASM converter
 - [naggie/dstask](https://github.com/naggie/dstask) - Git powered terminal-based todo/note manager --  markdown note page per task. Single binary!
 - [nlewo/comin](https://github.com/nlewo/comin) - GitOps For NixOS Machines
@@ -380,6 +381,7 @@ A collection of awesome things.
 - [hassansartaj/cdst-toolkit](https://github.com/hassansartaj/cdst-toolkit) - A toolkit to automate the testing process of Cockpit Display Systems (CDS) 
 - [hassansartaj/uast-toolset](https://github.com/hassansartaj/uast-toolset) - A toolset to support automated system-level testing of unmanned aerial systems (UAS). 
 - [heidisu/java8kanren](https://github.com/heidisu/java8kanren) - Implementation of minikanren in java
+- [i-net-software/JWebAssembly](https://github.com/i-net-software/JWebAssembly) - Java bytecode to WebAssembly compiler
 - [java-diff-utils/java-diff-utils](https://github.com/java-diff-utils/java-diff-utils) - Diff Utils library is an OpenSource library for performing the comparison / diff operations between texts or some kind of data: computing diffs, applying patches, generating unified diffs or parsing them, generating diff output for easy future displaying (like side-by-side view) and so on.
 - [jdillon/mvnsh](https://github.com/jdillon/mvnsh) - Maven Shell
 - [jnode-revisited/jnode](https://github.com/jnode-revisited/jnode) - Code for the JNode operating system
