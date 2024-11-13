@@ -444,6 +444,7 @@ A collection of awesome things.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [hardpixel/unite-shell](https://github.com/hardpixel/unite-shell) - Unite is an extension that makes GNOME Shell look like Ubuntu Unity Shell.
 - [irrum6/heximo](https://github.com/irrum6/heximo) - history export import extension for firefox
+- [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [kevlarr/awesome-wasm](https://github.com/kevlarr/awesome-wasm) - resources for Wasm presentation; comparison of JS vs. Wasm via implementations of Game of Life
 - [leapmotion/leapjs](https://github.com/leapmotion/leapjs) - JavaScript client for the Leap Motion Controller
 - [lengstrom/falcon](https://github.com/lengstrom/falcon) - Chrome extension for full text history search!
@@ -597,6 +598,7 @@ A collection of awesome things.
 - [alxschwrz/codex_py2cpp](https://github.com/alxschwrz/codex_py2cpp) - Converts python code into c++ by using OpenAI CODEX.
 - [amanusk/s-tui](https://github.com/amanusk/s-tui) - Terminal-based CPU stress and monitoring utility
 - [atopile/atopile](https://github.com/atopile/atopile) - Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️
+- [bibanon/tubeup](https://github.com/bibanon/tubeup) - Use yt-dlp to download video/metadata and upload to the Internet Archive.
 - [biosbits/bits](https://github.com/biosbits/bits) - BIOS Implementation Test Suite
 - [bmuschko/rules_java_war](https://github.com/bmuschko/rules_java_war) - Bazel rules for generating a Java Web Archive (WAR).
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
@@ -636,6 +638,7 @@ A collection of awesome things.
 - [nix-gui/nix-gui](https://github.com/nix-gui/nix-gui) - Use NixOS Without Coding
 - [nucleic/enaml](https://github.com/nucleic/enaml) - Declarative User Interfaces for Python
 - [nyaadevs/pybittorent-tracker-sanic](https://github.com/nyaadevs/pybittorent-tracker-sanic) - Don't use pypy, it's bad. Unmaintained, no longer used.
+- [oduwsdl/archivenow](https://github.com/oduwsdl/archivenow) - A Tool To Push Web Resources Into Web Archives
 - [oduwsdl/ipwb](https://github.com/oduwsdl/ipwb) - InterPlanetary Wayback: A distributed and persistent archive replay system using IPFS
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models.
 - [openstack/mistral](https://github.com/openstack/mistral) - Workflow Service for OpenStack. Mirror of code maintained at opendev.org.
@@ -655,6 +658,7 @@ A collection of awesome things.
 - [thatch45/sorbic](https://github.com/thatch45/sorbic) - Python/PYPY Hierarchical Distributed Hash Table Event Driven Async document/stream database/filesystem
 - [vivien/i3blocks-contrib](https://github.com/vivien/i3blocks-contrib) - Official repository for community contributed blocklets
 - [yairchu/awesome-structure-editors](https://github.com/yairchu/awesome-structure-editors) - A list of projectional and structural editors
+- [zach-morris/plugin.program.iagl](https://github.com/zach-morris/plugin.program.iagl) - The Internet Archive Game Launcher (IAGL) will launch Games from the Internet using Kodi
 
 ## QML
 
@@ -732,6 +736,7 @@ A collection of awesome things.
 - [chipsalliance/chisel](https://github.com/chipsalliance/chisel) - Chisel: A Modern Hardware Design Language
 - [djspiewak/gll-combinators](https://github.com/djspiewak/gll-combinators) - A parser combinator library based on the GLL algorithm
 - [dotta/coursier-deps-resolution-bug](https://github.com/dotta/coursier-deps-resolution-bug) - Small project demonstrating the mismatch between sbt and coursier dependency resolution
+- [helgeho/ArchiveSpark](https://github.com/helgeho/ArchiveSpark) - An Apache Spark framework for easy data processing, extraction as well as derivation for web archives and archival collections, developed at Internet Archive.
 - [lihaoyi/Metascala](https://github.com/lihaoyi/Metascala) - A JVM written in Scala
 - [qingwei91/inc-scala](https://github.com/qingwei91/inc-scala) - Incremental (from Jane Street) implemented in Scala
 - [teliatko/coursier-issue-ivy-classifiers](https://github.com/teliatko/coursier-issue-ivy-classifiers) - Simulation of issue in Cousier when Ivy is used with classifiers
@@ -743,6 +748,7 @@ A collection of awesome things.
 - [OSPreservProject/amoeba](https://github.com/OSPreservProject/amoeba) - amoeba operating system
 - [TravaOpenJDK/trava-jdk-11-dcevm](https://github.com/TravaOpenJDK/trava-jdk-11-dcevm) - dcevm-11 built on Travis 
 - [UbuntuAsahi/ubuntu-asahi](https://github.com/UbuntuAsahi/ubuntu-asahi) - Native Ubuntu installations for Apple silicon hardware
+- [a-schaefers/themelios](https://github.com/a-schaefers/themelios) - Bootstrap a zfs-on-root NixOS configuration in one command. Themelios automates the entire installation process using any NixOS livedisk with an internet connection and your git repo. Themelios is flexible with many configuration options and allows for unique, per-machine customization.
 - [boredsquirrel/Fedora-TV-KDE-Bigscreen](https://github.com/boredsquirrel/Fedora-TV-KDE-Bigscreen) - A Linux TV based off the immutable Fedora Kinoite, along with KDE Plasma Bigscreen, Mycroft Voice control, a modified Firefox and preinstalled Flatpak apps.
 - [c3d/mbuto](https://github.com/c3d/mbuto) - Minimal Builder Using Terse Options
 - [certik/bcompiler](https://github.com/certik/bcompiler) - Mirror of http://www.rano.org/bcompiler.tar.gz, with a bootstrap script
