@@ -881,7 +881,7 @@ A collection of awesome things.
 - [jossthev/linda](https://github.com/jossthev/linda) - Creation of a data shared space, based on Linda pattern, using Java (multi-threading, RMI)
 - [katopz/awesome-wasm](https://github.com/katopz/awesome-wasm) - WebAssembly FTW
 - [koding/awesome-fuse-fs](https://github.com/koding/awesome-fuse-fs) - Resources related to FUSE (filesystem in user space).
-- [mbasso/awesome-wasm](https://github.com/mbasso/awesome-wasm) - 😎 Curated list of awesome things regarding WebAssembly (wasm) ecosystem.
+- [mbasso/awesome-wasm](https://github.com/mbasso/awesome-wasm) - 😎 Curated list of awesome things regarding the WebAssembly (wasm) ecosystem.
 - [mholm/backbone.trix](https://github.com/mholm/backbone.trix) - Backbone.Trix: A framework that turns tricks on a dime.
 - [phoe/the-elusive-language](https://github.com/phoe/the-elusive-language) - A small Common Lisp-related art project.
 - [photopea/photopea](https://github.com/photopea/photopea) - Photopea is online image editor
