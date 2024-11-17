@@ -104,6 +104,7 @@ A collection of awesome things.
 - [aheck/clib](https://github.com/aheck/clib) - Header-only library for C99 that implements the most important classes from GLib: GArray, GHashTable, GList and GString.
 - [antirez/load81](https://github.com/antirez/load81) - SDL based Lua programming environment for kids similar to Codea
 - [c-testsuite/c-testsuite](https://github.com/c-testsuite/c-testsuite) - A public database of C compiler test cases, minimal test runners, and public test results.
+- [chipx86/gtkparasite](https://github.com/chipx86/gtkparasite) - A utility similar to Firebug but for GTK+ applications.
 - [civboot/fngi](https://github.com/civboot/fngi) - a readable language that grows from the silicon
 - [cloudius-systems/osv](https://github.com/cloudius-systems/osv) - OSv, a new operating system for the cloud.
 - [cmu-sei/SCALe](https://github.com/cmu-sei/SCALe) - SCALe (Source Code Analysis Lab) is a static analysis aggregator/correlator which enables a source code analyst to combine static analysis results from multiple tools into one interface, and also provides mappings for diagnostics from the tools to the SEI CERT Secure Coding standards.
@@ -116,7 +117,6 @@ A collection of awesome things.
 - [idunham/tinyxserver](https://github.com/idunham/tinyxserver) - A small X server, based on Xorg 1.2 but with security fixes.
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [jonathanhogg/usepackage](https://github.com/jonathanhogg/usepackage) - Usepackage Environment Manager
-- [kayodesu/cabin](https://github.com/kayodesu/cabin) - A toy jvm written in C, based on jdk16
 - [kernc/xsuspender](https://github.com/kernc/xsuspender) - :eyes: :computer: :zzz: :battery: Save battery by auto-suspending unfocused X11 applications.
 - [kev009/trix](https://github.com/kev009/trix) - MIT Trix operating system (UNIX-like)
 - [kspalaiologos/bzip3](https://github.com/kspalaiologos/bzip3) - A better and stronger spiritual successor to BZip2.
@@ -133,6 +133,7 @@ A collection of awesome things.
 - [titzer/redpants](https://github.com/titzer/redpants) - 
 - [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)
 - [xorvoid/sectorc](https://github.com/xorvoid/sectorc) - A C Compiler that fits in the 512 byte boot sector of an x86 machine
+- [yooka1123/cabin](https://github.com/yooka1123/cabin) - A toy jvm written in C, based on jdk16
 
 ## C#
 
@@ -526,6 +527,7 @@ A collection of awesome things.
 
 - [JeremiahSecrist/regula-nix](https://github.com/JeremiahSecrist/regula-nix) - This project aims to help implement and enforce various security standards in NixOS. Regula meaning standards in latin.
 - [cleverca22/nix-misc](https://github.com/cleverca22/nix-misc) - Small experimental things I am doing with Nix (this repository is old and will soon be merged with https://github.com/cleverca22/nix-tests).
+- [fluidattacks/makes](https://github.com/fluidattacks/makes) - A software supply chain framework powered by Nix.
 - [gmodena/nix-flatpak](https://github.com/gmodena/nix-flatpak) - Install flatpaks declaratively
 - [hercules-ci/canonix](https://github.com/hercules-ci/canonix) - Experiment in Nix formatting
 - [infinisil/nixlisp](https://github.com/infinisil/nixlisp) - 
@@ -844,6 +846,7 @@ A collection of awesome things.
 - [BruceDone/awesome-crawler](https://github.com/BruceDone/awesome-crawler) - A collection of awesome web crawler,spider in different languages
 - [DavidS95/Smokeless_UMAF](https://github.com/DavidS95/Smokeless_UMAF) - 
 - [Elidefunnyguy/ElidefunnyDash](https://github.com/Elidefunnyguy/ElidefunnyDash) - This is a pack for Geometry Dash made by Elidefunnyguy. It features piano versions of the RobTop levels and a galaxy background; not anything crazy.
+- [Frogging-Family/community-patches](https://github.com/Frogging-Family/community-patches) - A place to find patches that are maintained by the community before myself
 - [IntelliJIdeaKeymap4Eclipse/com.github.intellijideakeymap4eclipse.feature](https://github.com/IntelliJIdeaKeymap4Eclipse/com.github.intellijideakeymap4eclipse.feature) - 
 - [LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) - List of Dirty, Naughty, Obscene, and Otherwise Bad Words
 - [Malix-Labs/awesome_atomic](https://github.com/Malix-Labs/awesome_atomic) - An awesome curated knowledge-base about atomic systems
