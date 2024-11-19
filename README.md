@@ -301,6 +301,7 @@ A collection of awesome things.
 - [psilva261/mycel](https://github.com/psilva261/mycel) - Rudimentary web browser written in Golang
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [roddhjav/apparmor.d](https://github.com/roddhjav/apparmor.d) - Full set of AppArmor profiles (~ 1500 profiles)
+- [scratchdata/scratchdata](https://github.com/scratchdata/scratchdata) - Scratch is a swiss army knife for big data.
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
 - [seifer/go-seaweedfs](https://github.com/seifer/go-seaweedfs) - Seaweed-FS is a simple and highly scalable distributed file system. There are two objectives:  to store billions of files! to serve the files fast! Instead of supporting full POSIX file system semantics, Seaweed-FS choose to implement only a key~file mapping. Similar to the word "NoSQL", you can call it as "NoFS".
 - [slotix/dataflowkit](https://github.com/slotix/dataflowkit) - Extract structured data from web sites. Web sites scraping.  
@@ -351,6 +352,7 @@ A collection of awesome things.
 - [StormPI69/CONVEYOR-ANALYZER](https://github.com/StormPI69/CONVEYOR-ANALYZER) - Disk Production Analyzer project for categorizing and counting disks by shape and size by analyzing pixels.
 - [TouK/sputnik](https://github.com/TouK/sputnik) - Static code review for your Gerrit patchsets. Runs Checkstyle, PMD, FindBugs, Scalastyle, CodeNarc, JSLint for you!
 - [Vineflower/vineflower](https://github.com/Vineflower/vineflower) - Modern Java decompiler aiming to be as accurate as possible, with an emphasis on output quality. Fork of the Fernflower decompiler.
+- [Wisser/Jailer](https://github.com/Wisser/Jailer) - Database Subsetting and Relational Data Browsing Tool.
 - [ZHENFENG13/My-Blog](https://github.com/ZHENFENG13/My-Blog) - :palm_tree::octocat:A simple & beautiful blogging system implemented with spring-boot & thymeleaf & mybatis My Blog 是由 SpringBoot + Mybatis + Thymeleaf 等技术实现的 Java 博客系统，页面美观、功能齐全、部署简单及完善的代码，一定会给使用者无与伦比的体验
 - [amyjko/whyline](https://github.com/amyjko/whyline) - The Whyline for Java, an interactive debugging tool that lets you ask "why" questions about program out.
 - [arnetheduck/j2c](https://github.com/arnetheduck/j2c) - Java to C++ translator
@@ -432,11 +434,13 @@ A collection of awesome things.
 - [Swatinem/diff](https://github.com/Swatinem/diff) - implementation of myers diff algorithm
 - [WardCunningham/remodeling](https://github.com/WardCunningham/remodeling) - The original wiki rewritten as a single page application
 - [az0/linkgopher](https://github.com/az0/linkgopher) - Firefox/Google Chrome add-on: Extracts all links from web page, sorts them, removes duplicates, and displays them in a new tab for inspection or copy and paste into other systems.
+- [channaveer/tutorial-adblocker](https://github.com/channaveer/tutorial-adblocker) - Detect AdBlocker from Javascript & request viewers to disable it.
 - [charliegerard/flappy-windows](https://github.com/charliegerard/flappy-windows) - Flappy Bird with browser windows
 - [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [chrislusf/docker-plugin_seaweedfs](https://github.com/chrislusf/docker-plugin_seaweedfs) - A Docker Volume plugin for mounting SeaweedFS filesystems
 - [ditesh/node-poplib](https://github.com/ditesh/node-poplib) - POP3 client library for Node.js
 - [dosyago/dn](https://github.com/dosyago/dn) -  💾 dn - offline full-text search and archiving for your Chromium-based browser. 
+- [dpacassi/disable-javascript](https://github.com/dpacassi/disable-javascript) - Adds the ability to disable JavaScript on specific sites.
 - [dsheeler/CoverflowAltTab](https://github.com/dsheeler/CoverflowAltTab) - Coverflow like Alt-Tab replacement for Gnome-Shell
 - [dvajs/dva-hackernews](https://github.com/dvajs/dva-hackernews) - HackerNews clone built with Dva.
 - [fthx/dock-from-dash](https://github.com/fthx/dock-from-dash) - 
@@ -558,6 +562,7 @@ A collection of awesome things.
 
 - [DirectoryLister/DirectoryLister](https://github.com/DirectoryLister/DirectoryLister) - 📂 Directory Lister is the easiest way to expose the contents of any web-accessible folder for browsing and sharing.
 - [Hyupai/Classloader-by-S4J](https://github.com/Hyupai/Classloader-by-S4J) - Dinamic classloader
+- [dpacassi/face-detection](https://github.com/dpacassi/face-detection) - Comparing different Face detection solutions from Amazon, Google, IBM, Microsoft, Dlib, OpenCV and other open source solutions.
 - [glhd/conveyor-belt](https://github.com/glhd/conveyor-belt) - All the underlying mechanics necessary to write artisan commands that process lots of data efficiently
 
 ## PLpgSQL
@@ -646,6 +651,7 @@ A collection of awesome things.
 - [openstack/mistral](https://github.com/openstack/mistral) - Workflow Service for OpenStack. Mirror of code maintained at opendev.org.
 - [oravus/seqNet](https://github.com/oravus/seqNet) - SeqNet: Code for the RA-L (ICRA) 2021 paper "SeqNet: Learning Descriptors for Sequence-Based Hierarchical Place Recognition"
 - [pixie-lang/pixie](https://github.com/pixie-lang/pixie) - A small, fast, native lisp with "magical" powers
+- [ploomber/jupysql](https://github.com/ploomber/jupysql) - Better SQL in Jupyter. 📊
 - [polmuz/pypy-image-demo](https://github.com/polmuz/pypy-image-demo) - Video processing with pypy
 - [pypy/pypy](https://github.com/pypy/pypy) - PyPy is a very fast and compliant implementation of the Python language.
 - [python-eel/Eel](https://github.com/python-eel/Eel) - A little Python library for making simple Electron-like HTML/JS GUI apps
@@ -701,6 +707,7 @@ A collection of awesome things.
 - [YtvwlD/ele](https://github.com/YtvwlD/ele) - ele spawns elevated processes.
 - [andreafioraldi/libafl_quickjs_fuzzing](https://github.com/andreafioraldi/libafl_quickjs_fuzzing) - An example fuzzer about how to fuzz a JS engine combinign Nautilus with Token-level fuzzing 
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+- [build-trust/ockam](https://github.com/build-trust/ockam) - Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale.
 - [digama0/lean-sys](https://github.com/digama0/lean-sys) - Rust bindings for the Lean 4 proof assistant
 - [dotboris/alt](https://github.com/dotboris/alt) - A simple version manager tool for switching between different versions of commands
 - [edef1c/libfringe](https://github.com/edef1c/libfringe) - a Rust library implementing safe, lightweight context switches, without relying on kernel services
