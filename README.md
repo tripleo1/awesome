@@ -117,6 +117,7 @@ A collection of awesome things.
 - [idunham/tinyxserver](https://github.com/idunham/tinyxserver) - A small X server, based on Xorg 1.2 but with security fixes.
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [jonathanhogg/usepackage](https://github.com/jonathanhogg/usepackage) - Usepackage Environment Manager
+- [kdave/ffsb](https://github.com/kdave/ffsb) - Flexible filesystem benchmark (https://sourceforge.net/projects/ffsb)
 - [kernc/xsuspender](https://github.com/kernc/xsuspender) - :eyes: :computer: :zzz: :battery: Save battery by auto-suspending unfocused X11 applications.
 - [kev009/trix](https://github.com/kev009/trix) - MIT Trix operating system (UNIX-like)
 - [kspalaiologos/bzip3](https://github.com/kspalaiologos/bzip3) - A better and stronger spiritual successor to BZip2.
@@ -137,6 +138,7 @@ A collection of awesome things.
 
 ## C#
 
+- [BAndysc/AvaloniaVisualBasic6](https://github.com/BAndysc/AvaloniaVisualBasic6) - A recreation of the classic Visual Basic 6 IDE and language in C# with Avalonia
 - [SleepyDeb/JSharp](https://github.com/SleepyDeb/JSharp) - JSharp is a .class loader for Net Core (similar to IKVM) is based on a features remapping of JDK on .Net Core libs
 - [Teicsoft/GLADIATE](https://github.com/Teicsoft/GLADIATE) - GLADIATE is a Spectacle Fighter Card Game. Play with 6 unique decks and fight your way through a gauntlet of foes. Not only do you need to fight to survive, but also pull of combos to maximise your spectacle points and please the crowd.
 - [autofac/Autofac](https://github.com/autofac/Autofac) - An addictive .NET IoC container
@@ -716,7 +718,7 @@ A collection of awesome things.
 - [kahing/catfs](https://github.com/kahing/catfs) - Cache AnyThing filesystem written in Rust
 - [lovesegfault/daedalos](https://github.com/lovesegfault/daedalos) - A fully (dis)functional OS!
 - [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible VCS that is both simple and powerful
-- [n0-computer/iroh](https://github.com/n0-computer/iroh) - A toolkit for building distributed applications
+- [n0-computer/iroh](https://github.com/n0-computer/iroh) - peer-2-peer that just works
 - [nagisa/msi-rgb](https://github.com/nagisa/msi-rgb) - Linux utility for controlling RGB header on select MSI motherboards
 - [ngeor/rusty-basic](https://github.com/ngeor/rusty-basic) - An interpreter for QBasic, written in Rust.
 - [nix-community/nix-index](https://github.com/nix-community/nix-index) - Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]
