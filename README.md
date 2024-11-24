@@ -533,6 +533,7 @@ A collection of awesome things.
 
 - [JeremiahSecrist/regula-nix](https://github.com/JeremiahSecrist/regula-nix) - This project aims to help implement and enforce various security standards in NixOS. Regula meaning standards in latin.
 - [cleverca22/nix-misc](https://github.com/cleverca22/nix-misc) - Small experimental things I am doing with Nix (this repository is old and will soon be merged with https://github.com/cleverca22/nix-tests).
+- [felko/vide](https://github.com/felko/vide) - A proof of concept for a nix-powered IDE assembled from individual components
 - [fluidattacks/makes](https://github.com/fluidattacks/makes) - A software supply chain framework powered by Nix.
 - [gmodena/nix-flatpak](https://github.com/gmodena/nix-flatpak) - Install flatpaks declaratively
 - [hercules-ci/canonix](https://github.com/hercules-ci/canonix) - Experiment in Nix formatting
@@ -710,6 +711,7 @@ A collection of awesome things.
 - [andreafioraldi/libafl_quickjs_fuzzing](https://github.com/andreafioraldi/libafl_quickjs_fuzzing) - An example fuzzer about how to fuzz a JS engine combinign Nautilus with Token-level fuzzing 
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [build-trust/ockam](https://github.com/build-trust/ockam) - Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale.
+- [curlpipe/ox](https://github.com/curlpipe/ox) - The simple but flexible text editor
 - [digama0/lean-sys](https://github.com/digama0/lean-sys) - Rust bindings for the Lean 4 proof assistant
 - [dotboris/alt](https://github.com/dotboris/alt) - A simple version manager tool for switching between different versions of commands
 - [edef1c/libfringe](https://github.com/edef1c/libfringe) - a Rust library implementing safe, lightweight context switches, without relying on kernel services
@@ -725,6 +727,7 @@ A collection of awesome things.
 - [pop-os/cosmic-text](https://github.com/pop-os/cosmic-text) - Pure Rust multi-line text handling
 - [project-machine/puzzlefs](https://github.com/project-machine/puzzlefs) - A next-generation container filesystem
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
+- [rgwood/systemctl-tui](https://github.com/rgwood/systemctl-tui) - A fast, simple TUI for interacting with systemd services and their logs
 - [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [sjb3d/descent](https://github.com/sjb3d/descent) - Toy library for neural networks in Rust using Vulkan compute shaders
@@ -866,6 +869,7 @@ A collection of awesome things.
 - [QianMo/Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes) - :anchor:  我的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog。涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding.
 - [X547/OberonUtils](https://github.com/X547/OberonUtils) - Utilities for Oberon/BlackBox
 - [aalhour/awesome-compilers](https://github.com/aalhour/awesome-compilers) - :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes
+- [alsam/bookmarks](https://github.com/alsam/bookmarks) - my bookmarks
 - [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
 - [appcypher/awesome-wasm-runtimes](https://github.com/appcypher/awesome-wasm-runtimes) - A list of webassemby runtimes
 - [awesome-cryosphere/cryosphere-links](https://github.com/awesome-cryosphere/cryosphere-links) - This is a link list with awesome data, models, and tools around the cryosphere.
