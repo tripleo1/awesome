@@ -373,7 +373,7 @@ A collection of awesome things.
 - [eclipse-openj9/openj9](https://github.com/eclipse-openj9/openj9) - Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high throughput.   Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with the Extensions for OpenJDK for OpenJ9 repo.
 - [eclipse-pde/eclipse.pde](https://github.com/eclipse-pde/eclipse.pde) - 
 - [eclipse-platform/eclipse.platform](https://github.com/eclipse-platform/eclipse.platform) - 
-- [eclipse/xtext](https://github.com/eclipse/xtext) - Eclipse Xtext™ is a language development framework 
+- [eclipse-xtext/xtext](https://github.com/eclipse-xtext/xtext) - Eclipse Xtext™ is a language development framework 
 - [elipsitz/java-visualizer-intellij-plugin](https://github.com/elipsitz/java-visualizer-intellij-plugin) - 
 - [ericscharff/SmallWorld](https://github.com/ericscharff/SmallWorld) - Tim Budds Simple Smalltalk interpreter in Java
 - [fesh0r/fernflower](https://github.com/fesh0r/fernflower) - Unofficial mirror of FernFlower Java decompiler (All pulls should be submitted upstream)
