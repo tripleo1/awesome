@@ -330,6 +330,7 @@ A collection of awesome things.
 - [oberon-lang/oberon-lang.github.io](https://github.com/oberon-lang/oberon-lang.github.io) - The Oberon+ Programming Language
 - [permazen/permazen](https://github.com/permazen/permazen) - Language-Natural Persistence Layer for Java
 - [pypy/pypy.org](https://github.com/pypy/pypy.org) - Sources for website at https://www.pypy.org
+- [versotile-org/verso](https://github.com/versotile-org/verso) - A web browser that plays old world blues to build new world hope
 - [viebel/klipse](https://github.com/viebel/klipse) - Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs.
 
 ## Haskell
@@ -444,7 +445,6 @@ A collection of awesome things.
 - [chrislusf/docker-plugin_seaweedfs](https://github.com/chrislusf/docker-plugin_seaweedfs) - A Docker Volume plugin for mounting SeaweedFS filesystems
 - [ditesh/node-poplib](https://github.com/ditesh/node-poplib) - POP3 client library for Node.js
 - [dosyago/dn](https://github.com/dosyago/dn) -  💾 dn - offline full-text search and archiving for your Chromium-based browser. 
-- [dpacassi/disable-javascript](https://github.com/dpacassi/disable-javascript) - Adds the ability to disable JavaScript on specific sites.
 - [dsheeler/CoverflowAltTab](https://github.com/dsheeler/CoverflowAltTab) - Coverflow like Alt-Tab replacement for Gnome-Shell
 - [dvajs/dva-hackernews](https://github.com/dvajs/dva-hackernews) - HackerNews clone built with Dva.
 - [fthx/dock-from-dash](https://github.com/fthx/dock-from-dash) - 
@@ -738,7 +738,6 @@ A collection of awesome things.
 - [sunfishcode/c-ward](https://github.com/sunfishcode/c-ward) - An implementation of libc written in Rust
 - [sunfishcode/eyra](https://github.com/sunfishcode/eyra) - Rust programs written entirely in Rust
 - [sunfishcode/mustang](https://github.com/sunfishcode/mustang) - Rust programs written entirely in Rust
-- [versotile-org/verso](https://github.com/versotile-org/verso) - A web browser that plays old world blues to build new world hope
 - [vishaltelangre/ff](https://github.com/vishaltelangre/ff) - Find files (ff) by name, fast!
 - [zzhgithub/juner_os](https://github.com/zzhgithub/juner_os) - Rust developed OS based on blog_os Trying a repl environment running in kernel state lisp developed based on mal implementation
 
