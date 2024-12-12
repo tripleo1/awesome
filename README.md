@@ -21,6 +21,7 @@ A collection of awesome things.
 - [Erlang](#erlang)
 - [F#](#f)
 - [F*](#f-1)
+- [Fortran](#fortran)
 - [Gherkin](#gherkin)
 - [Go](#go)
 - [HTML](#html)
@@ -130,6 +131,8 @@ A collection of awesome things.
 - [ponylang/ponyc](https://github.com/ponylang/ponyc) - Pony is an open-source, actor-model, capabilities-secure, high performance programming language
 - [rochus-keller/Are-we-fast-yet](https://github.com/rochus-keller/Are-we-fast-yet) - Implementations of the Are-we-fast-yet benchmark suite in Oberon+, C++, C, Pascal, Micron and Luon
 - [shellphish/how2heap](https://github.com/shellphish/how2heap) - A repository for learning various heap exploitation techniques.
+- [symisc/unqlite](https://github.com/symisc/unqlite) - An Embedded NoSQL, Transactional Database Engine
+- [tidesdb/tidesdb](https://github.com/tidesdb/tidesdb) - High-performance, durable, transactional embedded storage engine designed for flash and RAM optimization.
 - [tinycorelinux/tinyx](https://github.com/tinycorelinux/tinyx) - 
 - [titzer/redpants](https://github.com/titzer/redpants) - 
 - [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)
@@ -158,6 +161,7 @@ A collection of awesome things.
 - [MeyerFabian/snow](https://github.com/MeyerFabian/snow) - B.Sc. Thesis Simulation of Snow
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [X547/wayland-server](https://github.com/X547/wayland-server) - In-proc Wayland server for Haiku
+- [adisbladis/lix-unit](https://github.com/adisbladis/lix-unit) - Unit testing for Nix code using Lix
 - [baislsl/jtiger](https://github.com/baislsl/jtiger) - 虎书tiger语言的jvm编译器
 - [bollu/elide](https://github.com/bollu/elide) - Elide: Elegant Metamodal Lean4 IDE. 
 - [briantrice/slate-language](https://github.com/briantrice/slate-language) - The Slate programming language
@@ -266,6 +270,10 @@ A collection of awesome things.
 ## F*
 
 - [hacl-star/hacl-star](https://github.com/hacl-star/hacl-star) - HACL*, a formally verified cryptographic library written in F*
+
+## Fortran
+
+- [jacobwilliams/AoC-2024](https://github.com/jacobwilliams/AoC-2024) - Advent of Code 2024 with Modern Fortran
 
 ## Gherkin
 
@@ -871,6 +879,7 @@ A collection of awesome things.
 - [PaulKeeble/ScalaVErlangAgents](https://github.com/PaulKeeble/ScalaVErlangAgents) - A performance test comparing Scala verses Erlang with simple agents to determine messaging performance
 - [QianMo/Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes) - :anchor:  我的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog。涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding.
 - [X547/OberonUtils](https://github.com/X547/OberonUtils) - Utilities for Oberon/BlackBox
+- [YouMightNotNeedKubernetes/.github](https://github.com/YouMightNotNeedKubernetes/.github) - @YouMightNotNeedKubernetes community files
 - [aalhour/awesome-compilers](https://github.com/aalhour/awesome-compilers) - :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes
 - [alsam/bookmarks](https://github.com/alsam/bookmarks) - my bookmarks
 - [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
