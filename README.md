@@ -841,6 +841,7 @@ A collection of awesome things.
 
 ## Vim Script
 
+- [jmcantrell/vim-fencing](https://github.com/jmcantrell/vim-fencing) - Change buffer options depending on the context
 - [liquidz/vim-iced](https://github.com/liquidz/vim-iced) - Clojure Interactive Development Environment for Vim8/Neovim
 
 ## Vue
