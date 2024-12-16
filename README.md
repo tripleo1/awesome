@@ -159,6 +159,7 @@ A collection of awesome things.
 - [HaikuArchives/EasyToolkitAndExtension](https://github.com/HaikuArchives/EasyToolkitAndExtension) - A toolkit and extension on BeOS/Windows/POSIX, a little like the BeOS API on platforms other than BeOS.
 - [LemonOSProject/LemonOS](https://github.com/LemonOSProject/LemonOS) - The Lemon Operating System
 - [MeyerFabian/snow](https://github.com/MeyerFabian/snow) - B.Sc. Thesis Simulation of Snow
+- [ReadyTalk/avian](https://github.com/ReadyTalk/avian) - [INACTIVE] Avian is a lightweight virtual machine and class library designed to provide a useful subset of Java's features, suitable for building self-contained applications.
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [X547/wayland-server](https://github.com/X547/wayland-server) - In-proc Wayland server for Haiku
 - [adisbladis/lix-unit](https://github.com/adisbladis/lix-unit) - Unit testing for Nix code using Lix
@@ -334,6 +335,7 @@ A collection of awesome things.
 - [eclipse-platform/eclipse.platform.releng.aggregator](https://github.com/eclipse-platform/eclipse.platform.releng.aggregator) - Aggregated repository for Eclipse Java IDE
 - [eine/elide](https://github.com/eine/elide) - Embedded Logic Integrated Design Environment
 - [hundredrabbits/100r.co](https://github.com/hundredrabbits/100r.co) - Official Website
+- [jeanboydev/Android-ReadTheFuckingSourceCode](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode) - 😜 记录日常的开发技巧，开发中遇到的技术重点、难点，各个知识点的总结，优质面试题等等。持续更新...
 - [malisipi/ubuntu-tour](https://github.com/malisipi/ubuntu-tour) - Web-Based Ubuntu
 - [oberon-lang/oberon-lang.github.io](https://github.com/oberon-lang/oberon-lang.github.io) - The Oberon+ Programming Language
 - [permazen/permazen](https://github.com/permazen/permazen) - Language-Natural Persistence Layer for Java
@@ -609,6 +611,7 @@ A collection of awesome things.
 - [Komodo/KomodoEdit](https://github.com/Komodo/KomodoEdit) - Komodo Edit is a fast and free multi-language code editor. Written in JS, Python, C++ and based on the Mozilla platform.
 - [LunaTMT/Snake](https://github.com/LunaTMT/Snake) - Snake created with Pygame
 - [MarcusRainbow/pypyrust](https://github.com/MarcusRainbow/pypyrust) - Python to Rust compiler
+- [MilaNLProc/honest](https://github.com/MilaNLProc/honest) - A Python package to compute HONEST, a score to measure hurtful sentence completions in language models. Published at NAACL 2021.
 - [NixIPFS/nixipfs-scripts](https://github.com/NixIPFS/nixipfs-scripts) - Mirror a Hydra jobset using IPFS or plain rsync
 - [StuyPulse/theia](https://github.com/StuyPulse/theia) - Theia is a visual localization solution using the ArUco fiducial system.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
@@ -928,6 +931,7 @@ A collection of awesome things.
 - [transatomic/reactor](https://github.com/transatomic/reactor) - Transatomic reactor design documentation
 - [vshymanskyy/awesome-wasm-tools](https://github.com/vshymanskyy/awesome-wasm-tools) - 😎 A curated list of awesome, language-agnostic WebAssembly tools
 - [wasmerio/awesome-wasi](https://github.com/wasmerio/awesome-wasi) - 😎 Curated list of awesome things regarding WebAssembly WASI ecosystem.
+- [waylau/java-virtual-machine-specification](https://github.com/waylau/java-virtual-machine-specification) - Chinese translation of The Java® Virtual Machine Specification.《Java 虚拟机规范（第11版）》中文翻译及示例，Java SE 11 版
 - [xhorak/firefox-dev-flatpak](https://github.com/xhorak/firefox-dev-flatpak) - Create flatpak from freshly compiled Firefox Nightly.
 - [zencq/NomNom](https://github.com/zencq/NomNom) - NomNom is the most complete savegame editor for NMS but also shows additional information around the data you're about to change. You can also easily look up each item individually to examine its attributes, independently of a savegame, or get other useful information that are not related to a specific savegame (but enhanced if one is loaded).
 
