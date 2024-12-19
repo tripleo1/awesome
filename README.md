@@ -731,9 +731,9 @@ A collection of awesome things.
 - [edef1c/libfringe](https://github.com/edef1c/libfringe) - a Rust library implementing safe, lightweight context switches, without relying on kernel services
 - [ekzhang/crepe](https://github.com/ekzhang/crepe) - Datalog compiler embedded in Rust as a procedural macro
 - [facebook/starlark-rust](https://github.com/facebook/starlark-rust) - A Rust implementation of the Starlark language
+- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [kahing/catfs](https://github.com/kahing/catfs) - Cache AnyThing filesystem written in Rust
 - [lovesegfault/daedalos](https://github.com/lovesegfault/daedalos) - A fully (dis)functional OS!
-- [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible VCS that is both simple and powerful
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - peer-2-peer that just works
 - [nagisa/msi-rgb](https://github.com/nagisa/msi-rgb) - Linux utility for controlling RGB header on select MSI motherboards
 - [ngeor/rusty-basic](https://github.com/ngeor/rusty-basic) - An interpreter for QBasic, written in Rust.
