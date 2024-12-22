@@ -352,7 +352,6 @@ A collection of awesome things.
 ## Java
 
 - [318anushka/Iris](https://github.com/318anushka/Iris) - A woman safety app that lets you reach out to other woman in case of emergency and sends your location on shaking
-- [ArcticDonkeys/Conveyor](https://github.com/ArcticDonkeys/Conveyor) - Decision Support System for Earthquake Situation
 - [Berkeley-CS61B/intellij-plugin](https://github.com/Berkeley-CS61B/intellij-plugin) - 
 - [DavidBurkett/Builderberg](https://github.com/DavidBurkett/Builderberg) - IntelliJ IDEA plugin to generate inner builders with constraint validation
 - [HotswapProjects/HotswapAgent](https://github.com/HotswapProjects/HotswapAgent) - Java unlimited redefinition of classes at runtime.
