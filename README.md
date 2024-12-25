@@ -114,7 +114,9 @@ A collection of awesome things.
 - [dspinellis/cscout](https://github.com/dspinellis/cscout) - C code refactoring browser
 - [fuhsnn/slimcc](https://github.com/fuhsnn/slimcc) - C11 compiler with GNU extensions for x86-64 Linux, working towards C23
 - [fuhsnn/widcc](https://github.com/fuhsnn/widcc) - Simple C compiler for x86-64 Linux able to build real-world projects including Curl, GCC, Git, PHP, Perl, Python, PostgreSQL etc
+- [fvwmorg/fvwm3](https://github.com/fvwmorg/fvwm3) - FVWM version 3 -- the successor to fvwm2
 - [github/securitylab](https://github.com/github/securitylab) - Resources related to GitHub Security Lab
+- [gnooth/xcl](https://github.com/gnooth/xcl) - An implementation of Common Lisp.
 - [idunham/tinyxserver](https://github.com/idunham/tinyxserver) - A small X server, based on Xorg 1.2 but with security fixes.
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [jonathanhogg/usepackage](https://github.com/jonathanhogg/usepackage) - Usepackage Environment Manager
@@ -646,6 +648,7 @@ A collection of awesome things.
 - [jstepien/psota](https://github.com/jstepien/psota) - “Clojure on PyPy” would be an exaggeration
 - [knorrie/btrfs-heatmap](https://github.com/knorrie/btrfs-heatmap) - Visualize the layout of data on your btrfs filesystem over time
 - [ks-amit/Distributed-Database](https://github.com/ks-amit/Distributed-Database) - A travel agency app with a distributed database implemented from scratch!
+- [ldtp/ldtp2](https://github.com/ldtp/ldtp2) - Linux Desktop Testing Project
 - [lelit/tailor](https://github.com/lelit/tailor) - A tool to exchange changesets between different version control systems
 - [linuxmint/sticky](https://github.com/linuxmint/sticky) - A sticky notes app for the linux desktop
 - [log2timeline/dfvfs](https://github.com/log2timeline/dfvfs) - Digital Forensics Virtual File System (dfVFS)
