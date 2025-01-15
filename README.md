@@ -560,8 +560,8 @@ A collection of awesome things.
 
 ## OCaml
 
+- [cryspen/hax](https://github.com/cryspen/hax) - A Rust verification tool
 - [dmtrKovalenko/odiff](https://github.com/dmtrKovalenko/odiff) - The fastest pixel-by-pixel image visual difference tool in the world.
-- [hacspec/hax](https://github.com/hacspec/hax) - A Rust verification tool
 - [janestreet/incremental](https://github.com/janestreet/incremental) - A library for incremental computations
 
 ## Oberon
