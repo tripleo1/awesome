@@ -78,6 +78,7 @@ A collection of awesome things.
 
 ## Assembly
 
+- [TheRiscGuy/Veecom](https://github.com/TheRiscGuy/Veecom) - Simple Yet Powerful RISC-V Computer
 - [donno2048/snake](https://github.com/donno2048/snake) - A minimal snake in assembly 
 - [dspinellis/unix-history-repo](https://github.com/dspinellis/unix-history-repo) - Continuous Unix commit history from 1970 until today
 - [fjballest/nix.markII](https://github.com/fjballest/nix.markII) - nix mark II
@@ -98,7 +99,6 @@ A collection of awesome things.
 
 - [9fans/drawterm](https://github.com/9fans/drawterm) - Connect to Plan 9 CPU servers from other operating systems.
 - [D-os/dos](https://github.com/D-os/dos) - D/os source code super-repo
-- [MazinCE/Veecom](https://github.com/MazinCE/Veecom) - A Simple Yet Powerful RISC-V Computer
 - [Old-Man-Programmer/tree](https://github.com/Old-Man-Programmer/tree) - Tree for Unix/LInux
 - [Spirit-of-Oberon/Juice](https://github.com/Spirit-of-Oberon/Juice) - Juice is a technology for distributing executable content across the World Wide Web
 - [a0rtega/pafish](https://github.com/a0rtega/pafish) - Pafish is a testing tool that uses different techniques to detect virtual machines and malware analysis environments in the same way that malware families do
