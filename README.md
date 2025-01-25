@@ -139,7 +139,7 @@ A collection of awesome things.
 - [titzer/redpants](https://github.com/titzer/redpants) - 
 - [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)
 - [xorvoid/sectorc](https://github.com/xorvoid/sectorc) - A C Compiler that fits in the 512 byte boot sector of an x86 machine
-- [yooka1123/cabin](https://github.com/yooka1123/cabin) - A toy jvm written in C, based on jdk16
+- [yookax/cabin](https://github.com/yookax/cabin) - A toy jvm written in C, based on jdk16
 
 ## C#
 
