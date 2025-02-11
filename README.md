@@ -78,7 +78,7 @@ A collection of awesome things.
 
 ## Assembly
 
-- [RiscWiz5/Veecom](https://github.com/RiscWiz5/Veecom) - Simple Yet Powerful RISC-V Computer
+- [Mazin-O3/Veecom](https://github.com/Mazin-O3/Veecom) - Simple Yet Powerful RISC-V Computer
 - [donno2048/snake](https://github.com/donno2048/snake) - A minimal snake in assembly 
 - [dspinellis/unix-history-repo](https://github.com/dspinellis/unix-history-repo) - Continuous Unix commit history from 1970 until today
 - [fjballest/nix.markII](https://github.com/fjballest/nix.markII) - nix mark II
