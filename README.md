@@ -510,7 +510,6 @@ A collection of awesome things.
 - [copper-leaf/ballast](https://github.com/copper-leaf/ballast) - Opinionated Application State Management framework for Kotlin Multiplatform
 - [facebookincubator/dataclassgenerate](https://github.com/facebookincubator/dataclassgenerate) - DataClassGenerate (or simply DCG) is a Kotlin compiler plugin that addresses an Android APK size overhead from Kotlin data classes. 
 - [joreilly/PeopleInSpace](https://github.com/joreilly/PeopleInSpace) - Kotlin Multiplatform sample with SwiftUI, Jetpack Compose, Compose for Wear, Compose for Desktop, and Compose for Web clients along with Ktor backend.
-- [kotlin-sheriff/black-sun](https://github.com/kotlin-sheriff/black-sun) - The idea is to turn your Telegram chat into a world of magic, where the one who knows the most Kotlin spells wins.
 - [manriif/supabase-edge-functions-kt](https://github.com/manriif/supabase-edge-functions-kt) - Build, serve and deploy Supabase Edge Functions with Kotlin and Gradle.
 - [nhat-phan/shit-cleaner](https://github.com/nhat-phan/shit-cleaner) - An Intellij IDE plugin which uses Code Climate CLI to analyze your source code on local machine and display code smells/duplications right in your IDE 
 - [square/workflow-kotlin](https://github.com/square/workflow-kotlin) - A Swift and Kotlin library for making composable state machines, and UIs driven by those state machines.
