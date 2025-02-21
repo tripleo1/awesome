@@ -357,9 +357,11 @@ A collection of awesome things.
 - [Berkeley-CS61B/intellij-plugin](https://github.com/Berkeley-CS61B/intellij-plugin) - 
 - [DavidBurkett/Builderberg](https://github.com/DavidBurkett/Builderberg) - IntelliJ IDEA plugin to generate inner builders with constraint validation
 - [HotswapProjects/HotswapAgent](https://github.com/HotswapProjects/HotswapAgent) - Java unlimited redefinition of classes at runtime.
+- [Iacon1/JCC816](https://github.com/Iacon1/JCC816) - Java C Compiler for the 65c816, an attempt to use Java to compile C to CA65-style 65c816 assembly - specifically, the SNES's main processor (the Ricoh 5a22) and the SA1 cartridge-mounted coprocessor.
 - [JPLeRouzic/HjerteLib](https://github.com/JPLeRouzic/HjerteLib) - 
 - [JetBrains/attachme](https://github.com/JetBrains/attachme) - IntelliJ plugin for auto-attaching the debugger to JVM applications
 - [KisanHub/intellij-orogeny](https://github.com/KisanHub/intellij-orogeny) - Use IntelliJ as your build tool instead of ant, maven, groovy or anything else.
+- [MTrop/DoomTools](https://github.com/MTrop/DoomTools) - Doom-related tools for Java. Home of DECOHack and lots of other utilities. Build WAD projects (and soon, other kinds) with ease!
 - [Nuix/jnode-fs](https://github.com/Nuix/jnode-fs) - Various file system implementations based on the code of the JNode operating system
 - [Pr3roxDLC/JNode](https://github.com/Pr3roxDLC/JNode) - A WIP Block Programming Implementation in Java
 - [SQiShER/java-object-diff](https://github.com/SQiShER/java-object-diff) - Library to diff and merge Java objects with ease
