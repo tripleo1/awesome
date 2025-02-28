@@ -158,6 +158,7 @@ A collection of awesome things.
 - [GemHunt/CoinSorter](https://github.com/GemHunt/CoinSorter) - Sorts coins by solenoid on a conveyor by classifying images with Caffe & DIGETS
 - [HaikuArchives/BeFree](https://github.com/HaikuArchives/BeFree) - BeOS API and desktop on top of the Linux kernel.
 - [HaikuArchives/EasyToolkitAndExtension](https://github.com/HaikuArchives/EasyToolkitAndExtension) - A toolkit and extension on BeOS/Windows/POSIX, a little like the BeOS API on platforms other than BeOS.
+- [Ithamar/cosmoe](https://github.com/Ithamar/cosmoe) - Cosmoe, Haiku userland on top of Linux/BSD/Darwin based kernel/system.
 - [LemonOSProject/LemonOS](https://github.com/LemonOSProject/LemonOS) - The Lemon Operating System
 - [MeyerFabian/snow](https://github.com/MeyerFabian/snow) - B.Sc. Thesis Simulation of Snow
 - [ReadyTalk/avian](https://github.com/ReadyTalk/avian) - [INACTIVE] Avian is a lightweight virtual machine and class library designed to provide a useful subset of Java's features, suitable for building self-contained applications.
@@ -459,6 +460,7 @@ A collection of awesome things.
 - [dosyago/dn](https://github.com/dosyago/dn) -  💾 dn - offline full-text search and archiving for your Chromium-based browser. 
 - [dsheeler/CoverflowAltTab](https://github.com/dsheeler/CoverflowAltTab) - Coverflow like Alt-Tab replacement for Gnome-Shell
 - [dvajs/dva-hackernews](https://github.com/dvajs/dva-hackernews) - HackerNews clone built with Dva.
+- [fluture-js/Fluture](https://github.com/fluture-js/Fluture) - 🦋 Fantasy Land compliant (monadic) alternative to Promises
 - [fthx/dock-from-dash](https://github.com/fthx/dock-from-dash) - 
 - [geoph9/hass-gshell-extension](https://github.com/geoph9/hass-gshell-extension) - A simple gnome shell extension for home assistant.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
@@ -477,6 +479,7 @@ A collection of awesome things.
 - [p-e-w/argos](https://github.com/p-e-w/argos) - Create GNOME Shell extensions in seconds
 - [puzzle/wasm-hello-java](https://github.com/puzzle/wasm-hello-java) - Minimal WebAssembly Hello World in Java
 - [reimertz/curse-words](https://github.com/reimertz/curse-words) - 
+- [rgrove/rawgit](https://github.com/rgrove/rawgit) - Served files from raw.githubusercontent.com, but with the correct content types. No longer actively developed.
 - [seamapi/react-repl](https://github.com/seamapi/react-repl) - React component for creating a REPL or interactive command line interface
 - [shanesmith/gerrit-cli](https://github.com/shanesmith/gerrit-cli) - Gerrit in your command lines.
 - [shaunxcode/datomicism](https://github.com/shaunxcode/datomicism) - interface for visualizing datomic schemas and queries
