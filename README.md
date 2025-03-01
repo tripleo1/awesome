@@ -437,6 +437,7 @@ A collection of awesome things.
 
 ## JavaScript
 
+- [DonAbney/BuildWatcher](https://github.com/DonAbney/BuildWatcher) - 
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
 - [GonzaloGorgojo/Gnome-Shell-Crypto-Tracker](https://github.com/GonzaloGorgojo/Gnome-Shell-Crypto-Tracker) - Simple Gnome extension to keep track of BTC and ETH prices against USD and EUR.
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
@@ -596,6 +597,7 @@ A collection of awesome things.
 ## Perl
 
 - [jimsalterjrs/perlpv](https://github.com/jimsalterjrs/perlpv) - A proof-of-concept pipe viewer similar to Andrew Wood's pv—but written in perl, for eventual use internally in syncoid.
+- [sandialabs/Juxtaposer](https://github.com/sandialabs/Juxtaposer) - Juxtaposer is software used to identify actively mobile genomic elements using Hight Throughput Sequencing data.
 
 ## Pony
 
@@ -677,6 +679,7 @@ A collection of awesome things.
 - [pixie-lang/pixie](https://github.com/pixie-lang/pixie) - A small, fast, native lisp with "magical" powers
 - [ploomber/jupysql](https://github.com/ploomber/jupysql) - Better SQL in Jupyter. 📊
 - [polmuz/pypy-image-demo](https://github.com/polmuz/pypy-image-demo) - Video processing with pypy
+- [princeton-vl/attach-juxtapose-parser](https://github.com/princeton-vl/attach-juxtapose-parser) - Code for the paper "Strongly Incremental Constituency Parsing with Graph Neural Networks"
 - [pypy/pypy](https://github.com/pypy/pypy) - PyPy is a very fast and compliant implementation of the Python language.
 - [python-eel/Eel](https://github.com/python-eel/Eel) - A little Python library for making simple Electron-like HTML/JS GUI apps
 - [ravexina/csp-sudoku-solver](https://github.com/ravexina/csp-sudoku-solver) - Python + tkinter + CSP Idea / Algorithm to solve sudoko
@@ -691,6 +694,7 @@ A collection of awesome things.
 - [vivien/i3blocks-contrib](https://github.com/vivien/i3blocks-contrib) - Official repository for community contributed blocklets
 - [yairchu/awesome-structure-editors](https://github.com/yairchu/awesome-structure-editors) - A list of projectional and structural editors
 - [zach-morris/plugin.program.iagl](https://github.com/zach-morris/plugin.program.iagl) - The Internet Archive Game Launcher (IAGL) will launch Games from the Internet using Kodi
+- [ziqinyeow/juxtapose](https://github.com/ziqinyeow/juxtapose) - juxtapose: Multi-Person Pose Tracking Inference SDK with RTMDet, YOLOv8, GDino, RTMPose (ONNX) & Trackers (ByteTrack & BotSORT) & Tapnet with custom ROIs + FastAPI GPU exe
 
 ## QML
 
@@ -805,7 +809,7 @@ A collection of awesome things.
 
 ## Smalltalk
 
-- [codefrau/jasmine](https://github.com/codefrau/jasmine) - Croquet Jasmine (2004) on SqueakJS (WIP)
+- [codefrau/jasmine](https://github.com/codefrau/jasmine) - Croquet Jasmine (2004) on SqueakJS
 - [sbragagnolo/Xtreams](https://github.com/sbragagnolo/Xtreams) - Xtream project fork. Migration to Pharo. 
 - [seandenigris/Xtreams-Pharo](https://github.com/seandenigris/Xtreams-Pharo) - 
 
@@ -827,6 +831,7 @@ A collection of awesome things.
 
 ## TypeScript
 
+- [Juxtify4Spotify/juxtify-client](https://github.com/Juxtify4Spotify/juxtify-client) - 
 - [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI.
 - [antfu/retypewriter](https://github.com/antfu/retypewriter) - Replay the steps of your changes at ease.
 - [bleedingedgeai/bleedingedge.ai](https://github.com/bleedingedgeai/bleedingedge.ai) - Bleeding edge is a feed of noteworthy developments in AI and machine learning.
