@@ -598,7 +598,7 @@ A collection of awesome things.
 ## Perl
 
 - [jimsalterjrs/perlpv](https://github.com/jimsalterjrs/perlpv) - A proof-of-concept pipe viewer similar to Andrew Wood's pv—but written in perl, for eventual use internally in syncoid.
-- [sandialabs/Juxtaposer](https://github.com/sandialabs/Juxtaposer) - Juxtaposer is software used to identify actively mobile genomic elements using Hight Throughput Sequencing data.
+- [sandialabs/Juxtaposer](https://github.com/sandialabs/Juxtaposer) - Juxtaposer is software used to identify actively mobile genomic elements using high throughput sequencing data.
 
 ## Pony
 
