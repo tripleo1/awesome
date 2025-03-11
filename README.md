@@ -109,8 +109,8 @@ A collection of awesome things.
 - [civboot/fngi](https://github.com/civboot/fngi) - a readable language that grows from the silicon
 - [cloudius-systems/osv](https://github.com/cloudius-systems/osv) - OSv, a new operating system for the cloud.
 - [cmu-sei/SCALe](https://github.com/cmu-sei/SCALe) - SCALe (Source Code Analysis Lab) is a static analysis aggregator/correlator which enables a source code analyst to combine static analysis results from multiple tools into one interface, and also provides mappings for diagnostics from the tools to the SEI CERT Secure Coding standards.
+- [composefs/composefs](https://github.com/composefs/composefs) - The reliability of disk images, the flexibility of files
 - [console-tools/moc](https://github.com/console-tools/moc) - Music On Console
-- [containers/composefs](https://github.com/containers/composefs) - The reliability of disk images, the flexibility of files
 - [dspinellis/cscout](https://github.com/dspinellis/cscout) - C code refactoring browser
 - [fuhsnn/slimcc](https://github.com/fuhsnn/slimcc) - C11 compiler with GNU extensions for x86-64 Linux, working towards C23
 - [fuhsnn/widcc](https://github.com/fuhsnn/widcc) - Simple C compiler for x86-64 Linux able to build real-world projects including Curl, GCC, Git, PHP, Perl, Python, PostgreSQL etc
