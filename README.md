@@ -511,9 +511,9 @@ A collection of awesome things.
 - [CASC-Lang/Yakou](https://github.com/CASC-Lang/Yakou) - An experimental JVM Language inspired by Rust.
 - [FirstTimeInForever/gradle-run-gutter-icons](https://github.com/FirstTimeInForever/gradle-run-gutter-icons) - This plugin adds run gutter icons for the build.gradle.kts tasks declarations.
 - [IntellijMesonIntegration/IntellijMesonIntegration](https://github.com/IntellijMesonIntegration/IntellijMesonIntegration) - Meson Build System integration for CLion
+- [PattaFeuFeu/bigbone](https://github.com/PattaFeuFeu/bigbone) - BigBone - A Mastodon Client Library for Java and Kotlin
 - [Tigermouthbear/Theia](https://github.com/Tigermouthbear/Theia) - A Kotlin program used to analyze and discover backdoors in Minecraft Java 1.12.2 forge mods
 - [V9vek/Sorting-Visualizer](https://github.com/V9vek/Sorting-Visualizer) - Visualizes various sorting algorithms
-- [andregasser/bigbone](https://github.com/andregasser/bigbone) - BigBone - A Mastodon Client Library for Java and Kotlin
 - [copper-leaf/ballast](https://github.com/copper-leaf/ballast) - Opinionated Application State Management framework for Kotlin Multiplatform
 - [facebookincubator/dataclassgenerate](https://github.com/facebookincubator/dataclassgenerate) - DataClassGenerate (or simply DCG) is a Kotlin compiler plugin that addresses an Android APK size overhead from Kotlin data classes. 
 - [joreilly/PeopleInSpace](https://github.com/joreilly/PeopleInSpace) - Kotlin Multiplatform sample with SwiftUI, Jetpack Compose, Compose for Wear, Compose for Desktop, and Compose for Web clients along with Ktor backend.
