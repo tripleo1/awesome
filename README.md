@@ -832,7 +832,6 @@ A collection of awesome things.
 
 ## TypeScript
 
-- [Juxtify4Spotify/juxtify-client](https://github.com/Juxtify4Spotify/juxtify-client) - 
 - [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI.
 - [antfu/retypewriter](https://github.com/antfu/retypewriter) - Replay the steps of your changes at ease.
 - [bleedingedgeai/bleedingedge.ai](https://github.com/bleedingedgeai/bleedingedge.ai) - Bleeding edge is a feed of noteworthy developments in AI and machine learning.
