@@ -438,6 +438,8 @@ A collection of awesome things.
 
 ## JavaScript
 
+- [Doist/ElementStore](https://github.com/Doist/ElementStore) - Standalone implementation of jQuery.data
+- [Doist/gulpist](https://github.com/Doist/gulpist) - Static asset build tool for Doist
 - [DonAbney/BuildWatcher](https://github.com/DonAbney/BuildWatcher) - 
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
 - [GonzaloGorgojo/Gnome-Shell-Crypto-Tracker](https://github.com/GonzaloGorgojo/Gnome-Shell-Crypto-Tracker) - Simple Gnome extension to keep track of BTC and ETH prices against USD and EUR.
