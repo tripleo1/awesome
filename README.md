@@ -112,7 +112,7 @@ A collection of awesome things.
 - [composefs/composefs](https://github.com/composefs/composefs) - The reliability of disk images, the flexibility of files
 - [console-tools/moc](https://github.com/console-tools/moc) - Music On Console
 - [dspinellis/cscout](https://github.com/dspinellis/cscout) - C code refactoring browser
-- [fuhsnn/slimcc](https://github.com/fuhsnn/slimcc) - C11 compiler with GNU extensions for x86-64 Linux, working towards C23
+- [fuhsnn/slimcc](https://github.com/fuhsnn/slimcc) - C11 compiler with C23/C2y/GNU extensions for x86-64 Linux/BSD
 - [fuhsnn/widcc](https://github.com/fuhsnn/widcc) - Simple C compiler for x86-64 Linux able to build real-world projects including Curl, GCC, Git, PHP, Perl, Python, PostgreSQL etc
 - [fvwmorg/fvwm3](https://github.com/fvwmorg/fvwm3) - FVWM version 3 -- the successor to fvwm2
 - [github/securitylab](https://github.com/github/securitylab) - Resources related to GitHub Security Lab
