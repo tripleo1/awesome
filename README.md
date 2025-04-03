@@ -127,6 +127,7 @@ A collection of awesome things.
 - [larmel/lacc](https://github.com/larmel/lacc) - A simple, self-hosting C compiler
 - [libfirm/cparser](https://github.com/libfirm/cparser) - C99 parser and frontend for libfirm
 - [littlekernel/lk](https://github.com/littlekernel/lk) - LK embedded kernel
+- [nothings/stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C++
 - [phmarek/fsvs](https://github.com/phmarek/fsvs) - Full System Versioning System
 - [phoboslab/neuralink_brainwire](https://github.com/phoboslab/neuralink_brainwire) - Attempt at Neuralink's Compression Challenge
 - [pixeltris/webc86](https://github.com/pixeltris/webc86) - Compile / run C in a web browser via TCC / x86 emulation
@@ -526,6 +527,8 @@ A collection of awesome things.
 
 ## Lean
 
+- [HEPLean/PhysLean](https://github.com/HEPLean/PhysLean) - A project to digitalise results from physics into Lean.
+- [avigad/mathematics_in_lean_source](https://github.com/avigad/mathematics_in_lean_source) - Source code for the Mathematics in Lean tutorial.
 - [draperlaboratory/ELFSage](https://github.com/draperlaboratory/ELFSage) - A toy ELF parser/validator
 - [leanprover/LNSym](https://github.com/leanprover/LNSym) - Armv8 Native Code Symbolic Simulator in Lean
 - [leanprover/leansat](https://github.com/leanprover/leansat) - This package provides an interface and foundation for verified SAT reasoning
