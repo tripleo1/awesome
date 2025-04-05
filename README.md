@@ -21,6 +21,7 @@ A collection of awesome things.
 - [Erlang](#erlang)
 - [F#](#f)
 - [F*](#f-1)
+- [Forth](#forth)
 - [Fortran](#fortran)
 - [Gherkin](#gherkin)
 - [Go](#go)
@@ -277,6 +278,10 @@ A collection of awesome things.
 
 - [hacl-star/hacl-star](https://github.com/hacl-star/hacl-star) - HACL*, a formally verified cryptographic library written in F*
 
+## Forth
+
+- [fuzzballcat/milliForth](https://github.com/fuzzballcat/milliForth) - A FORTH in 340 bytes — the smallest real programming language ever as of yet.
+
 ## Fortran
 
 - [jacobwilliams/AoC-2024](https://github.com/jacobwilliams/AoC-2024) - Advent of Code 2024 with Modern Fortran
@@ -310,6 +315,7 @@ A collection of awesome things.
 - [ivzhh/go-ast-transform](https://github.com/ivzhh/go-ast-transform) - 
 - [j-keck/zsd](https://github.com/j-keck/zsd) - cli tool to find older versions of a given file in your zfs snapshots.
 - [jmpsec/osctrl](https://github.com/jmpsec/osctrl) - Fast and efficient osquery management
+- [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [naggie/dstask](https://github.com/naggie/dstask) - Git powered terminal-based todo/note manager --  markdown note page per task. Single binary!
 - [nlewo/comin](https://github.com/nlewo/comin) - GitOps For NixOS Machines
 - [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup) - Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox or SSH compatible storage
@@ -336,7 +342,7 @@ A collection of awesome things.
 - [MahdiF/taptaptap](https://github.com/MahdiF/taptaptap) - 🕹 Open Source Javascript Game
 - [bbonamin/strftimeslikethese](https://github.com/bbonamin/strftimeslikethese) - A Ruby WASM implementation, fully client-side, inspired by foragoodstrftime.com
 - [callgraph/vue-callgraph-manual](https://github.com/callgraph/vue-callgraph-manual) - http://os.cs.tsinghua.edu.cn/research/kernel/callgraph2017
-- [eclipse-platform/eclipse.platform.releng.aggregator](https://github.com/eclipse-platform/eclipse.platform.releng.aggregator) - Aggregated repository for Eclipse Java IDE
+- [eclipse-platform/eclipse.platform.releng.aggregator](https://github.com/eclipse-platform/eclipse.platform.releng.aggregator) - Aggregated repository from which Eclipse SDK is being build
 - [eine/elide](https://github.com/eine/elide) - Embedded Logic Integrated Design Environment
 - [hundredrabbits/100r.co](https://github.com/hundredrabbits/100r.co) - Official Website
 - [jeanboydev/Android-ReadTheFuckingSourceCode](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode) - 😜 记录日常的开发技巧，开发中遇到的技术重点、难点，各个知识点的总结，优质面试题等等。持续更新...
@@ -601,6 +607,7 @@ A collection of awesome things.
 
 ## Perl
 
+- [hoelzro/git-pisect](https://github.com/hoelzro/git-pisect) - Parallel regression finder for Git
 - [jimsalterjrs/perlpv](https://github.com/jimsalterjrs/perlpv) - A proof-of-concept pipe viewer similar to Andrew Wood's pv—but written in perl, for eventual use internally in syncoid.
 - [sandialabs/Juxtaposer](https://github.com/sandialabs/Juxtaposer) - Juxtaposer is software used to identify actively mobile genomic elements using high throughput sequencing data.
 
