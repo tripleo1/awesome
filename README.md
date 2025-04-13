@@ -827,7 +827,7 @@ A collection of awesome things.
 
 ## StringTemplate
 
-- [Cuis-Smalltalk/TheCuisBook](https://github.com/Cuis-Smalltalk/TheCuisBook) - A book about Cuis Smalltalk
+- [DrCuis/TheCuisBook](https://github.com/DrCuis/TheCuisBook) - A book about Cuis Smalltalk
 
 ## Swift
 
