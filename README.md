@@ -444,6 +444,7 @@ A collection of awesome things.
 
 ## JavaScript
 
+- [DO-SAY-GO/dn](https://github.com/DO-SAY-GO/dn) -  💾 dn - offline full-text search and archiving for your Chromium-based browser. 
 - [Doist/ElementStore](https://github.com/Doist/ElementStore) - Standalone implementation of jQuery.data
 - [Doist/gulpist](https://github.com/Doist/gulpist) - Static asset build tool for Doist
 - [DonAbney/BuildWatcher](https://github.com/DonAbney/BuildWatcher) - 
@@ -467,7 +468,6 @@ A collection of awesome things.
 - [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [chrislusf/docker-plugin_seaweedfs](https://github.com/chrislusf/docker-plugin_seaweedfs) - A Docker Volume plugin for mounting SeaweedFS filesystems
 - [ditesh/node-poplib](https://github.com/ditesh/node-poplib) - POP3 client library for Node.js
-- [dosyago/dn](https://github.com/dosyago/dn) -  💾 dn - offline full-text search and archiving for your Chromium-based browser. 
 - [dsheeler/CoverflowAltTab](https://github.com/dsheeler/CoverflowAltTab) - Coverflow like Alt-Tab replacement for Gnome-Shell
 - [dvajs/dva-hackernews](https://github.com/dvajs/dva-hackernews) - HackerNews clone built with Dva.
 - [fluture-js/Fluture](https://github.com/fluture-js/Fluture) - 🦋 Fantasy Land compliant (monadic) alternative to Promises
