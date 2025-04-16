@@ -696,7 +696,6 @@ A collection of awesome things.
 - [pypy/pypy](https://github.com/pypy/pypy) - PyPy is a very fast and compliant implementation of the Python language.
 - [python-eel/Eel](https://github.com/python-eel/Eel) - A little Python library for making simple Electron-like HTML/JS GUI apps
 - [ravexina/csp-sudoku-solver](https://github.com/ravexina/csp-sudoku-solver) - Python + tkinter + CSP Idea / Algorithm to solve sudoko
-- [riscv/riscv-cheri](https://github.com/riscv/riscv-cheri) - This repository contains the CHERI extension specification, adding hardware capabilities to RISC-V ISA to enable fine-grained memory protection and scalable compartmentalization.
 - [scrollmapper/bible_databases](https://github.com/scrollmapper/bible_databases) - Bible versions and cross-reference databases.
 - [seiferteric/remarkable_debfix](https://github.com/seiferteric/remarkable_debfix) - Remarkable Markdown Debian Package Fix
 - [simonw/simonwillisonblog](https://github.com/simonw/simonwillisonblog) - The source code behind my blog
@@ -839,6 +838,7 @@ A collection of awesome things.
 
 ## TeX
 
+- [riscv/riscv-cheri](https://github.com/riscv/riscv-cheri) - This repository contains the CHERI extension specification, adding hardware capabilities to RISC-V ISA to enable fine-grained memory protection and scalable compartmentalization.
 - [sysprog21/lkmpg](https://github.com/sysprog21/lkmpg) - The Linux Kernel Module Programming Guide (updated for 5.0+ kernels)
 
 ## TypeScript
