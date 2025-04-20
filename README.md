@@ -112,7 +112,6 @@ A collection of awesome things.
 - [cmu-sei/SCALe](https://github.com/cmu-sei/SCALe) - SCALe (Source Code Analysis Lab) is a static analysis aggregator/correlator which enables a source code analyst to combine static analysis results from multiple tools into one interface, and also provides mappings for diagnostics from the tools to the SEI CERT Secure Coding standards.
 - [composefs/composefs](https://github.com/composefs/composefs) - The reliability of disk images, the flexibility of files
 - [console-tools/moc](https://github.com/console-tools/moc) - Music On Console
-- [dspinellis/cscout](https://github.com/dspinellis/cscout) - C code refactoring browser
 - [fuhsnn/slimcc](https://github.com/fuhsnn/slimcc) - C11 compiler with C23/C2y/GNU extensions for x86-64 Linux/BSD
 - [fuhsnn/widcc](https://github.com/fuhsnn/widcc) - Simple C compiler for x86-64 Linux able to build real-world projects including Curl, GCC, Git, PHP, Perl, Python, PostgreSQL etc
 - [fvwmorg/fvwm3](https://github.com/fvwmorg/fvwm3) - FVWM version 3 -- the successor to fvwm2
@@ -177,6 +176,7 @@ A collection of awesome things.
 - [cmu-sei/pharos](https://github.com/cmu-sei/pharos) - Automated static analysis tools for binary programs
 - [cvmfs/cvmfs](https://github.com/cvmfs/cvmfs) - The CernVM File System
 - [doug65536/dgos](https://github.com/doug65536/dgos) - Operating System
+- [dspinellis/cscout](https://github.com/dspinellis/cscout) - C code refactoring browser
 - [electronicarts/EASTL](https://github.com/electronicarts/EASTL) - EASTL stands for Electronic Arts Standard Template Library.  It is an extensive and robust implementation that has an emphasis on high performance.
 - [facebook/redex](https://github.com/facebook/redex) - A bytecode optimizer for Android apps
 - [facebookexperimental/object-introspection](https://github.com/facebookexperimental/object-introspection) - Object Introspection (OI) enables on-demand, hierarchical profiling of objects in arbitrary C/C++ programs with no recompilation.
