@@ -395,7 +395,7 @@ A collection of awesome things.
 - [drewnoakes/metadata-extractor](https://github.com/drewnoakes/metadata-extractor) - Extracts Exif, IPTC, XMP, ICC and other metadata from image, video and audio files
 - [eclipse-openj9/openj9](https://github.com/eclipse-openj9/openj9) - Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high throughput.   Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with the Extensions for OpenJDK for OpenJ9 repo.
 - [eclipse-pde/eclipse.pde](https://github.com/eclipse-pde/eclipse.pde) - 
-- [eclipse-platform/eclipse.platform](https://github.com/eclipse-platform/eclipse.platform) - 
+- [eclipse-platform/eclipse.platform](https://github.com/eclipse-platform/eclipse.platform) - Eclipse Platform - a comprehensive set of frameworks and common services that collectively provide a powerful software development infrastructure.
 - [eclipse-xtext/xtext](https://github.com/eclipse-xtext/xtext) - Eclipse Xtext™ is a language development framework 
 - [elipsitz/java-visualizer-intellij-plugin](https://github.com/elipsitz/java-visualizer-intellij-plugin) - 
 - [ericscharff/SmallWorld](https://github.com/ericscharff/SmallWorld) - Tim Budds Simple Smalltalk interpreter in Java
