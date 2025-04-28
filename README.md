@@ -925,6 +925,7 @@ A collection of awesome things.
 - [diasks2/ruby-nlp](https://github.com/diasks2/ruby-nlp) - A collection of links to Ruby Natural Language Processing (NLP) libraries, tools and software
 - [digitalformula/qclocktwo](https://github.com/digitalformula/qclocktwo) - 
 - [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome) - A curated list of awesome curated lists of many topics.
+- [esa-oss/EclipseRCP-Patcher](https://github.com/esa-oss/EclipseRCP-Patcher) - This repository contains modifications on Eclipse classes in order to provide known patches or new functionalities
 - [fasten-project/Debian-license-collector](https://github.com/fasten-project/Debian-license-collector) - 
 - [first20hours/google-10000-english](https://github.com/first20hours/google-10000-english) - This repo contains a list of the 10,000 most common English words in order of frequency, as determined by n-gram frequency analysis of the Google's Trillion Word Corpus.
 - [ftomassetti/awesome-compilers](https://github.com/ftomassetti/awesome-compilers) - :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes
