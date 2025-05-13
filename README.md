@@ -555,7 +555,7 @@ A collection of awesome things.
 
 - [OberonSystem3/AOS_Bluebottle_Sources](https://github.com/OberonSystem3/AOS_Bluebottle_Sources) - This is the source code of the last stable release of the ETH AOS/Bluebottle System, dated March 12, 2004, in plain ISO 8859-1 UTF-8 text files
 - [OberonSystem3/Release_2.3.7_Sources](https://github.com/OberonSystem3/Release_2.3.7_Sources) - This is the source code of the Oberon System 3 Release 2.3.7 in plain ISO 8859-1 UTF-8 text files 
-- [ef15c/oberon_stm32f4](https://github.com/ef15c/oberon_stm32f4) - Portage of Oberon system to stm32f429i-disco board
+- [ef15c/oberon_stm32f4](https://github.com/ef15c/oberon_stm32f4) - Portage of Oberon system to stm32f429i-disco or disc1 board
 - [rochus-keller/OberonSystem3](https://github.com/rochus-keller/OberonSystem3) - A cross-platform version of the ETH Oberon System 3 compatible with the Oberon+ compiler and IDE
 
 ## Nix
