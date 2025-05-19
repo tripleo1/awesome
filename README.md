@@ -35,6 +35,7 @@ A collection of awesome things.
 - [Kotlin](#kotlin)
 - [Lean](#lean)
 - [Lua](#lua)
+- [MATLAB](#matlab)
 - [Makefile](#makefile)
 - [Modula-2](#modula-2)
 - [Nix](#nix)
@@ -100,6 +101,7 @@ A collection of awesome things.
 
 - [9fans/drawterm](https://github.com/9fans/drawterm) - Connect to Plan 9 CPU servers from other operating systems.
 - [D-os/dos](https://github.com/D-os/dos) - D/os source code super-repo
+- [KelvinNovais/Kasasa](https://github.com/KelvinNovais/Kasasa) - Snip and pin useful information
 - [Old-Man-Programmer/tree](https://github.com/Old-Man-Programmer/tree) - Tree for Unix/LInux
 - [Spirit-of-Oberon/Juice](https://github.com/Spirit-of-Oberon/Juice) - Juice is a technology for distributing executable content across the World Wide Web
 - [a0rtega/pafish](https://github.com/a0rtega/pafish) - Pafish is a testing tool that uses different techniques to detect virtual machines and malware analysis environments in the same way that malware families do
@@ -263,6 +265,7 @@ A collection of awesome things.
 
 ## Emacs Lisp
 
+- [bbatsov/projectile](https://github.com/bbatsov/projectile) - Project Interaction Library for Emacs
 - [gorauskas/darkburn-theme](https://github.com/gorauskas/darkburn-theme) - Dark Burn Theme for Emacs 24
 - [jonhermansen/eiffel-mode](https://github.com/jonhermansen/eiffel-mode) - Eiffel mode for Emacs/XEmacs
 
@@ -546,6 +549,10 @@ A collection of awesome things.
 - [sblask/null-ls.nvim](https://github.com/sblask/null-ls.nvim) - Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
 - [tulip-lang/tulip](https://github.com/tulip-lang/tulip) - 
 
+## MATLAB
+
+- [DipeshNiraula/Log-Normal-Statistics](https://github.com/DipeshNiraula/Log-Normal-Statistics) - This repo contains two files: natural and artificial rock fragmentation process. The natural process yields log-normal description and follows Kolomogorov's approach however the artificial process do not yield Log-normal. 
+
 ## Makefile
 
 - [kostya/benchmarks](https://github.com/kostya/benchmarks) - Some benchmarks of different languages
@@ -689,6 +696,7 @@ A collection of awesome things.
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models with support for multiple inference backends.
 - [openstack/mistral](https://github.com/openstack/mistral) - Workflow Service for OpenStack. Mirror of code maintained at opendev.org.
 - [oravus/seqNet](https://github.com/oravus/seqNet) - SeqNet: Code for the RA-L (ICRA) 2021 paper "SeqNet: Learning Descriptors for Sequence-Based Hierarchical Place Recognition"
+- [pdumin/mm_kolmogorov_ode](https://github.com/pdumin/mm_kolmogorov_ode) - Latex code generator from mermaid flowchart of Markov chain
 - [pixie-lang/pixie](https://github.com/pixie-lang/pixie) - A small, fast, native lisp with "magical" powers
 - [ploomber/jupysql](https://github.com/ploomber/jupysql) - Better SQL in Jupyter. 📊
 - [polmuz/pypy-image-demo](https://github.com/polmuz/pypy-image-demo) - Video processing with pypy
@@ -715,6 +723,7 @@ A collection of awesome things.
 ## R
 
 - [Silviculturalist/forester](https://github.com/Silviculturalist/forester) - A collection of forest science and forestry functions, data and vignettes. Intended to follow a standardised form of structures, variable names. Do you want to add something, but don't have a GitHub? Contact carl.vigren@slu.se
+- [katehret/measuring-language-complexity](https://github.com/katehret/measuring-language-complexity) - Kolmogorov complexity, language complexity, compression
 - [vspinu/R-nREPL](https://github.com/vspinu/R-nREPL) - nREPL client and server for R
 
 ## Racket
@@ -946,6 +955,7 @@ A collection of awesome things.
 - [mholm/backbone.trix](https://github.com/mholm/backbone.trix) - Backbone.Trix: A framework that turns tricks on a dime.
 - [phoe/the-elusive-language](https://github.com/phoe/the-elusive-language) - A small Common Lisp-related art project.
 - [photopea/photopea](https://github.com/photopea/photopea) - Photopea is online image editor
+- [prathyvsh/os-catalog](https://github.com/prathyvsh/os-catalog) - Catalogue of novel operating systems
 - [pventuzelo/awesome-wasm-examples](https://github.com/pventuzelo/awesome-wasm-examples) - :sunglasses: A curated list of WebAssembly (wasm) examples
 - [pysemtec/semantic-python-overview](https://github.com/pysemtec/semantic-python-overview) - (subjective) overview of projects which are related both to python and semantic technologies (RDF, OWL, Reasoning, ...)
 - [relink2013/Awesome-Self-hosting-for-the-whole-family](https://github.com/relink2013/Awesome-Self-hosting-for-the-whole-family) - An Awesome List of apps that can be self hosted that your family can actually use without frustration. 
