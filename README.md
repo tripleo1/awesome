@@ -349,6 +349,7 @@ A collection of awesome things.
 - [eine/elide](https://github.com/eine/elide) - Embedded Logic Integrated Design Environment
 - [hundredrabbits/100r.co](https://github.com/hundredrabbits/100r.co) - Official Website
 - [jeanboydev/Android-ReadTheFuckingSourceCode](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode) - 😜 记录日常的开发技巧，开发中遇到的技术重点、难点，各个知识点的总结，优质面试题等等。持续更新...
+- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares 
 - [malisipi/ubuntu-tour](https://github.com/malisipi/ubuntu-tour) - Web-Based Ubuntu
 - [oberon-lang/oberon-lang.github.io](https://github.com/oberon-lang/oberon-lang.github.io) - The Oberon+ Programming Language
 - [permazen/permazen](https://github.com/permazen/permazen) - Language-Natural Persistence Layer for Java
@@ -679,7 +680,6 @@ A collection of awesome things.
 - [lelit/tailor](https://github.com/lelit/tailor) - A tool to exchange changesets between different version control systems
 - [linuxmint/sticky](https://github.com/linuxmint/sticky) - A sticky notes app for the linux desktop
 - [log2timeline/dfvfs](https://github.com/log2timeline/dfvfs) - Digital Forensics Virtual File System (dfVFS)
-- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares 
 - [lzzcd001/GShell](https://github.com/lzzcd001/GShell) - Official implentation of "Ghost on the Shell: An Expressive Representation of General 3D Shapes" (ICLR 2024 Oral)
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [martin68/apt-smart](https://github.com/martin68/apt-smart) - apt-smart: Smart, automated, robust apt-get mirror selection for Debian, Ubuntu and Linux Mint
