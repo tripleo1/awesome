@@ -784,7 +784,7 @@ A collection of awesome things.
 - [sunfishcode/eyra](https://github.com/sunfishcode/eyra) - Rust programs written entirely in Rust
 - [sunfishcode/mustang](https://github.com/sunfishcode/mustang) - Rust programs written entirely in Rust
 - [tgirlcloud/lix-diff](https://github.com/tgirlcloud/lix-diff) - 
-- [versotile-org/verso](https://github.com/versotile-org/verso) - A web browser that plays old world blues to build new world hope
+- [versotile-org/verso](https://github.com/versotile-org/verso) - Mirror of https://gitlab.com/verso-browser/verso
 - [vishaltelangre/ff](https://github.com/vishaltelangre/ff) - Find files (ff) by name, fast!
 - [zzhgithub/juner_os](https://github.com/zzhgithub/juner_os) - Rust developed OS based on blog_os Trying a repl environment running in kernel state lisp developed based on mal implementation
 
