@@ -114,7 +114,7 @@ A collection of awesome things.
 - [cmu-sei/SCALe](https://github.com/cmu-sei/SCALe) - SCALe (Source Code Analysis Lab) is a static analysis aggregator/correlator which enables a source code analyst to combine static analysis results from multiple tools into one interface, and also provides mappings for diagnostics from the tools to the SEI CERT Secure Coding standards.
 - [composefs/composefs](https://github.com/composefs/composefs) - The reliability of disk images, the flexibility of files
 - [console-tools/moc](https://github.com/console-tools/moc) - Music On Console
-- [fuhsnn/slimcc](https://github.com/fuhsnn/slimcc) - C11 compiler with C23/C2y/GNU extensions for x86-64 Linux/BSD
+- [fuhsnn/slimcc](https://github.com/fuhsnn/slimcc) - C23 compiler with C2y/GNU extensions for x86-64 Linux/BSD
 - [fuhsnn/widcc](https://github.com/fuhsnn/widcc) - Simple C compiler for x86-64 Linux able to build real-world projects including Curl, GCC, Git, PHP, Perl, Python, PostgreSQL etc
 - [fvwmorg/fvwm3](https://github.com/fvwmorg/fvwm3) - FVWM version 3 -- the successor to fvwm2
 - [github/securitylab](https://github.com/github/securitylab) - Resources related to GitHub Security Lab
@@ -577,10 +577,10 @@ A collection of awesome things.
 - [infinisil/nixlisp](https://github.com/infinisil/nixlisp) - 
 - [mkellyxp/nixbook](https://github.com/mkellyxp/nixbook) - 
 - [nix-community/impermanence](https://github.com/nix-community/impermanence) - Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]
+- [nix-community/nixos-apple-silicon](https://github.com/nix-community/nixos-apple-silicon) - Resources to install NixOS bare metal on Apple Silicon Macs [maintainers=@tpwrules]
 - [nix-community/srvos](https://github.com/nix-community/srvos) - NixOS profiles for servers [maintainer=@numtide]
 - [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) - An unofficial NixOS fork with a FreeBSD kernel
 - [oddlama/nix-topology](https://github.com/oddlama/nix-topology) - 🍁 Generate infrastructure and network diagrams directly from your NixOS configurations
-- [tpwrules/nixos-apple-silicon](https://github.com/tpwrules/nixos-apple-silicon) - Resources to install NixOS bare metal on Apple Silicon Macs
 
 ## OCaml
 
