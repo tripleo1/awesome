@@ -793,6 +793,7 @@ A collection of awesome things.
 
 - [LispLang/lisplang.github.io](https://github.com/LispLang/lisplang.github.io) - Common Lisp homepage
 - [hydecorp/hydejack](https://github.com/hydecorp/hydejack) - A boutique Jekyll theme for hackers, nerds, and academics
+- [paracrawl/corset](https://github.com/paracrawl/corset) - Corset is a web-based data selection portal that helps you getting relevant data from massive amounts of parallel data.
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 
 ## Scala
