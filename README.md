@@ -577,7 +577,6 @@ A collection of awesome things.
 - [ElvishJerricco/bcachefs-fstab-generator](https://github.com/ElvishJerricco/bcachefs-fstab-generator) - Unlock bcachefs file systems with systemd
 - [JeremiahSecrist/regula-nix](https://github.com/JeremiahSecrist/regula-nix) - This project aims to help implement and enforce various security standards in NixOS. Regula meaning standards in latin.
 - [cleverca22/nix-misc](https://github.com/cleverca22/nix-misc) - Small experimental things I am doing with Nix (this repository is old and will soon be merged with https://github.com/cleverca22/nix-tests).
-- [felko/vide](https://github.com/felko/vide) - A proof of concept for a nix-powered IDE assembled from individual components
 - [fluidattacks/makes](https://github.com/fluidattacks/makes) - A software supply chain framework powered by Nix.
 - [gmodena/nix-flatpak](https://github.com/gmodena/nix-flatpak) - Install flatpaks declaratively
 - [hercules-ci/canonix](https://github.com/hercules-ci/canonix) - Experiment in Nix formatting
