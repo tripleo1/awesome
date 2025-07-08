@@ -115,7 +115,7 @@ A collection of awesome things.
 - [cmu-sei/SCALe](https://github.com/cmu-sei/SCALe) - SCALe (Source Code Analysis Lab) is a static analysis aggregator/correlator which enables a source code analyst to combine static analysis results from multiple tools into one interface, and also provides mappings for diagnostics from the tools to the SEI CERT Secure Coding standards.
 - [composefs/composefs](https://github.com/composefs/composefs) - The reliability of disk images, the flexibility of files
 - [console-tools/moc](https://github.com/console-tools/moc) - Music On Console
-- [fuhsnn/slimcc](https://github.com/fuhsnn/slimcc) - C23 compiler with C2y/GNU extensions for x86-64 Linux/BSD
+- [fuhsnn/slimcc](https://github.com/fuhsnn/slimcc) - C23 compiler with C2y/GNU extensions for x86-64 Linux/BSD, written in C99
 - [fuhsnn/widcc](https://github.com/fuhsnn/widcc) - Simple C compiler for x86-64 Linux able to build real-world projects including Curl, GCC, Git, PHP, Perl, Python, PostgreSQL etc
 - [fvwmorg/fvwm3](https://github.com/fvwmorg/fvwm3) - FVWM version 3 -- the successor to fvwm2
 - [github/securitylab](https://github.com/github/securitylab) - Resources related to GitHub Security Lab
