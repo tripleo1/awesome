@@ -535,7 +535,6 @@ A collection of awesome things.
 - [V9vek/Sorting-Visualizer](https://github.com/V9vek/Sorting-Visualizer) - Visualizes various sorting algorithms
 - [copper-leaf/ballast](https://github.com/copper-leaf/ballast) - Opinionated Application State Management framework for Kotlin Multiplatform
 - [facebookincubator/dataclassgenerate](https://github.com/facebookincubator/dataclassgenerate) - DataClassGenerate (or simply DCG) is a Kotlin compiler plugin that addresses an Android APK size overhead from Kotlin data classes. 
-- [hyochan/react-native-audio-recorder-player](https://github.com/hyochan/react-native-audio-recorder-player) - react-native native module for audio recorder and player with nitromodule!
 - [joreilly/PeopleInSpace](https://github.com/joreilly/PeopleInSpace) - Kotlin Multiplatform sample with SwiftUI, Jetpack Compose, Compose for Wear, Compose for Desktop, and Compose for Web clients along with Ktor backend.
 - [manriif/supabase-edge-functions-kt](https://github.com/manriif/supabase-edge-functions-kt) - Build, serve and deploy Supabase Edge Functions with Kotlin and Gradle.
 - [nhat-phan/shit-cleaner](https://github.com/nhat-phan/shit-cleaner) - An Intellij IDE plugin which uses Code Climate CLI to analyze your source code on local machine and display code smells/duplications right in your IDE 
@@ -866,6 +865,7 @@ A collection of awesome things.
 - [bleedingedgeai/bleedingedge.ai](https://github.com/bleedingedgeai/bleedingedge.ai) - Bleeding edge is a feed of noteworthy developments in AI and machine learning.
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
+- [hyochan/react-native-audio-recorder-player](https://github.com/hyochan/react-native-audio-recorder-player) - react-native native module for audio recorder and player with nitromodule!
 - [jaredkrinke/100-languages](https://github.com/jaredkrinke/100-languages) - Solving the first 100 Project Euler problems using 100 different programming languages!
 - [luooooob/create-my-awesome](https://github.com/luooooob/create-my-awesome) - Github Actions for automatically generating the personal awesome list from all of the repositories you starred.
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
