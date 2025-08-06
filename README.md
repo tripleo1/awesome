@@ -120,6 +120,7 @@ A collection of awesome things.
 - [fvwmorg/fvwm3](https://github.com/fvwmorg/fvwm3) - FVWM version 3 -- the successor to fvwm2
 - [github/securitylab](https://github.com/github/securitylab) - Resources related to GitHub Security Lab
 - [gnooth/xcl](https://github.com/gnooth/xcl) - An implementation of Common Lisp.
+- [iczelia/bzip3](https://github.com/iczelia/bzip3) - A better and stronger spiritual successor to BZip2.
 - [idunham/tinyxserver](https://github.com/idunham/tinyxserver) - A small X server, based on Xorg 1.2 but with security fixes.
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [jonathanhogg/usepackage](https://github.com/jonathanhogg/usepackage) - Usepackage Environment Manager
@@ -127,7 +128,6 @@ A collection of awesome things.
 - [kernc/xsuspender](https://github.com/kernc/xsuspender) - :eyes: :computer: :zzz: :battery: Save battery by auto-suspending unfocused X11 applications.
 - [kev009/trix](https://github.com/kev009/trix) - MIT Trix operating system (UNIX-like)
 - [koverstreet/bcachefs](https://github.com/koverstreet/bcachefs) - 
-- [kspalaiologos/bzip3](https://github.com/kspalaiologos/bzip3) - A better and stronger spiritual successor to BZip2.
 - [larmel/lacc](https://github.com/larmel/lacc) - A simple, self-hosting C compiler
 - [libfirm/cparser](https://github.com/libfirm/cparser) - C99 parser and frontend for libfirm
 - [littlekernel/lk](https://github.com/littlekernel/lk) - LK embedded kernel
