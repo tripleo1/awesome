@@ -843,7 +843,7 @@ A collection of awesome things.
 
 ## StringTemplate
 
-- [DrCuis/TheCuisBook](https://github.com/DrCuis/TheCuisBook) - A book about Cuis Smalltalk
+- [DrCuis/TheCuisBook](https://github.com/DrCuis/TheCuisBook) - Get started with Cuis Smalltalk
 
 ## Swift
 
