@@ -632,7 +632,7 @@ A collection of awesome things.
 
 ## Python
 
-- [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
+- [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A book-in-progress about the Linux kernel and its insides.
 - [0xCorolaire/SmartCards](https://github.com/0xCorolaire/SmartCards) - Predictive app helping announce on various card games and AI Games cards
 - [40uf411/SemaWal](https://github.com/40uf411/SemaWal) - SemaWal: A semantic network resolver in python
 - [AndreMiras/coveralls-python-action](https://github.com/AndreMiras/coveralls-python-action) - GitHub Action for Python Coveralls.io
