@@ -125,7 +125,7 @@ A collection of awesome things.
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [jonathanhogg/usepackage](https://github.com/jonathanhogg/usepackage) - Usepackage Environment Manager
 - [kdave/ffsb](https://github.com/kdave/ffsb) - Flexible filesystem benchmark (https://sourceforge.net/projects/ffsb)
-- [kernc/xsuspender](https://github.com/kernc/xsuspender) - :eyes: :computer: :zzz: :battery: Save battery by auto-suspending unfocused X11 applications.
+- [kernc/xsuspender](https://github.com/kernc/xsuspender) - 👀 💻 💤 🔋 Save battery by auto-suspending unfocused X11 applications.
 - [kev009/trix](https://github.com/kev009/trix) - MIT Trix operating system (UNIX-like)
 - [koverstreet/bcachefs](https://github.com/koverstreet/bcachefs) - 
 - [larmel/lacc](https://github.com/larmel/lacc) - A simple, self-hosting C compiler
