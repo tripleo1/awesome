@@ -190,7 +190,7 @@ A collection of awesome things.
 - [impedimentToProgress/Ratchet](https://github.com/impedimentToProgress/Ratchet) - Ratchet source code from OSDI 2016
 - [intel-iot-devkit/object-flaw-detector-cpp](https://github.com/intel-iot-devkit/object-flaw-detector-cpp) - Detect various irregularities of a product as it moves along a conveyor belt.
 - [managarm/managarm](https://github.com/managarm/managarm) - Pragmatic microkernel-based OS with fully asynchronous I/O
-- [mhx/dwarfs](https://github.com/mhx/dwarfs) - A fast high compression read-only file system for Linux, Windows and macOS
+- [mhx/dwarfs](https://github.com/mhx/dwarfs) - A fast high-compression read-only file system for Linux, FreeBSD, macOS and Windows
 - [neobrain/cftf](https://github.com/neobrain/cftf) - Clang from the Future: A C++17 to C++11 source-to-source compiler
 - [nucleic/kiwi](https://github.com/nucleic/kiwi) - Efficient C++ implementation of the Cassowary constraint solving algorithm
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
