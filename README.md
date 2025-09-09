@@ -591,7 +591,6 @@ A collection of awesome things.
 ## OCaml
 
 - [cryspen/hax](https://github.com/cryspen/hax) - A Rust verification tool
-- [dmtrKovalenko/odiff](https://github.com/dmtrKovalenko/odiff) - The fastest pixel-by-pixel image visual difference tool in the world.
 - [janestreet/incremental](https://github.com/janestreet/incremental) - A library for incremental computations
 
 ## Oberon
@@ -902,6 +901,7 @@ A collection of awesome things.
 
 ## Zig
 
+- [dmtrKovalenko/odiff](https://github.com/dmtrKovalenko/odiff) - A very fast SIMD-first image comparison library (with nodejs API)
 - [jamii/preimp](https://github.com/jamii/preimp) - 
 - [nix-community/zon2nix](https://github.com/nix-community/zon2nix) - Convert the dependencies in `build.zig.zon` to a Nix expression [maintainer=@figsoda]
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
