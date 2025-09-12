@@ -81,7 +81,7 @@ A collection of awesome things.
 ## Assembly
 
 - [Mazin-O3/Veecom](https://github.com/Mazin-O3/Veecom) - Simple Yet Powerful RISC-V Computer
-- [donno2048/snake](https://github.com/donno2048/snake) - A minimal snake in assembly 
+- [donno2048/snake](https://github.com/donno2048/snake) - A 56 bytes snake game in assembly 
 - [dspinellis/unix-history-repo](https://github.com/dspinellis/unix-history-repo) - Continuous Unix commit history from 1970 until today
 - [fjballest/nix.markII](https://github.com/fjballest/nix.markII) - nix mark II
 - [fjballest/nixMarkIV](https://github.com/fjballest/nixMarkIV) - Nix source
@@ -934,7 +934,6 @@ A collection of awesome things.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [beriberikix/awesome-wasm-blockchain](https://github.com/beriberikix/awesome-wasm-blockchain) - 📦⛓ Curated list of awesome things regarding WebAssembly (wasm) and Blockchain projects
 - [bhatti/JavaNOW](https://github.com/bhatti/JavaNOW) - Java Network of Workstation - Linda and Actor based framework for writing parallel and distributed applications
-- [builtbybel/CloneApp](https://github.com/builtbybel/CloneApp) - 📦Easily Backup & Restore Windows Programs Settings
 - [bxd/advcpmv](https://github.com/bxd/advcpmv) - A patch for cp / mv to add progress bars
 - [coders-vechai/awesome-stars](https://github.com/coders-vechai/awesome-stars) - A curated list of my GitHub stars!
 - [d-cook/SomethingNew](https://github.com/d-cook/SomethingNew) - Collaboration for reinventing software in human terms
