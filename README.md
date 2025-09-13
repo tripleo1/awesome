@@ -934,6 +934,7 @@ A collection of awesome things.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [beriberikix/awesome-wasm-blockchain](https://github.com/beriberikix/awesome-wasm-blockchain) - 📦⛓ Curated list of awesome things regarding WebAssembly (wasm) and Blockchain projects
 - [bhatti/JavaNOW](https://github.com/bhatti/JavaNOW) - Java Network of Workstation - Linda and Actor based framework for writing parallel and distributed applications
+- [builtbybel/CloneApp](https://github.com/builtbybel/CloneApp) - 📦Easily Backup & Restore Windows Programs Settings
 - [bxd/advcpmv](https://github.com/bxd/advcpmv) - A patch for cp / mv to add progress bars
 - [coders-vechai/awesome-stars](https://github.com/coders-vechai/awesome-stars) - A curated list of my GitHub stars!
 - [d-cook/SomethingNew](https://github.com/d-cook/SomethingNew) - Collaboration for reinventing software in human terms
