@@ -374,6 +374,7 @@ A collection of awesome things.
 - [Iacon1/JCC816](https://github.com/Iacon1/JCC816) - Java C Compiler for the 65c816, an attempt to use Java to compile C to CA65-style 65c816 assembly - specifically, the SNES's main processor (the Ricoh 5a22) and the SA1 cartridge-mounted coprocessor.
 - [JPLeRouzic/HjerteLib](https://github.com/JPLeRouzic/HjerteLib) - 
 - [JetBrains/attachme](https://github.com/JetBrains/attachme) - IntelliJ plugin for auto-attaching the debugger to JVM applications
+- [JetBrains/fernflower](https://github.com/JetBrains/fernflower) - Decompiler from Java bytecode to Java, used in IntelliJ IDEA.
 - [KisanHub/intellij-orogeny](https://github.com/KisanHub/intellij-orogeny) - Use IntelliJ as your build tool instead of ant, maven, groovy or anything else.
 - [MTrop/DoomTools](https://github.com/MTrop/DoomTools) - Doom-related tools for Java. Home of DECOHack and lots of other utilities. Build WAD projects (and soon, other kinds) with ease!
 - [NICTA/iris-reasoner](https://github.com/NICTA/iris-reasoner) - Clone of iris-reasoner (http://iris-reasoner.org) from sourceforge
@@ -410,7 +411,6 @@ A collection of awesome things.
 - [eclipse-xtext/xtext](https://github.com/eclipse-xtext/xtext) - Eclipse Xtext™ is a language development framework 
 - [elipsitz/java-visualizer-intellij-plugin](https://github.com/elipsitz/java-visualizer-intellij-plugin) - 
 - [ericscharff/SmallWorld](https://github.com/ericscharff/SmallWorld) - Tim Budds Simple Smalltalk interpreter in Java
-- [fesh0r/fernflower](https://github.com/fesh0r/fernflower) - Unofficial mirror of FernFlower Java decompiler (All pulls should be submitted upstream)
 - [fluxtah/xtext-android-gradle-example](https://github.com/fluxtah/xtext-android-gradle-example) - Example of using xtext gradle plugin in an example project
 - [ftomassetti/MonacoFX-Tutorials](https://github.com/ftomassetti/MonacoFX-Tutorials) - Tutorial projects for MonacoFX
 - [ftomassetti/spoon-examples](https://github.com/ftomassetti/spoon-examples) - 
