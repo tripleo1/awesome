@@ -210,7 +210,7 @@ A collection of awesome things.
 - [vprover/vampire](https://github.com/vprover/vampire) - The Vampire Theorem Prover
 - [vygr/ChrysaLisp](https://github.com/vygr/ChrysaLisp) - Parallel OS, with GUI, Terminal, OO Assembler, Class libraries, C-Script compiler, Lisp interpreter and more...
 - [wez/atomicparsley](https://github.com/wez/atomicparsley) - AtomicParsley is a lightweight command line program for reading, parsing and setting metadata into MPEG-4 files, in particular, iTunes-style metadata.
-- [yookax/jvm.cc](https://github.com/yookax/jvm.cc) - A tiny JVM written in C++, based on JDK 24.
+- [yookax/jvm.cc](https://github.com/yookax/jvm.cc) - A tiny JVM written in C++, based on JDK 25.
 
 ## CSS
 
