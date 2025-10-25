@@ -65,6 +65,7 @@ A collection of awesome things.
 - [TypeScript](#typescript)
 - [V](#v)
 - [VBA](#vba)
+- [Verilog](#verilog)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
 - [Xtend](#xtend)
@@ -104,7 +105,9 @@ A collection of awesome things.
 - [KelvinNovais/Kasasa](https://github.com/KelvinNovais/Kasasa) - Snip and pin useful information
 - [Old-Man-Programmer/tree](https://github.com/Old-Man-Programmer/tree) - Tree for Unix/LInux
 - [Spirit-of-Oberon/Juice](https://github.com/Spirit-of-Oberon/Juice) - Juice is a technology for distributing executable content across the World Wide Web
+- [Stichting-MINIX-Research-Foundation/minix](https://github.com/Stichting-MINIX-Research-Foundation/minix) - Official MINIX sources - Automatically replicated from gerrit.minix3.org
 - [Tautvydas411/bcachefs-playground](https://github.com/Tautvydas411/bcachefs-playground) - various random stuff around bcachefs-tools
+- [TinyCC/tinycc](https://github.com/TinyCC/tinycc) - Unofficial mirror of mob development branch
 - [a0rtega/pafish](https://github.com/a0rtega/pafish) - Pafish is a testing tool that uses different techniques to detect virtual machines and malware analysis environments in the same way that malware families do
 - [aheck/clib](https://github.com/aheck/clib) - Header-only library for C99 that implements the most important classes from GLib: GArray, GHashTable, GList and GString.
 - [antirez/load81](https://github.com/antirez/load81) - SDL based Lua programming environment for kids similar to Codea
@@ -138,6 +141,7 @@ A collection of awesome things.
 - [ponylang/ponyc](https://github.com/ponylang/ponyc) - Pony is an open-source, actor-model, capabilities-secure, high performance programming language
 - [rochus-keller/Are-we-fast-yet](https://github.com/rochus-keller/Are-we-fast-yet) - Implementations of the Are-we-fast-yet benchmark suite in Oberon, C++, C, Pascal, Micron and Luon
 - [rofl0r/libulz](https://github.com/rofl0r/libulz) - a collection of useful functions and data structures to create C apps faster. focus on simplicity, ability to statically link and minimal binary size.
+- [seL4/seL4](https://github.com/seL4/seL4) - The seL4 microkernel
 - [shellphish/how2heap](https://github.com/shellphish/how2heap) - A repository for learning various heap exploitation techniques.
 - [symisc/unqlite](https://github.com/symisc/unqlite) - An Embedded NoSQL, Transactional Database Engine
 - [tidesdb/tidesdb](https://github.com/tidesdb/tidesdb) - High-performance durable, transactional embedded storage engine designed for flash and RAM optimization.
@@ -205,7 +209,6 @@ A collection of awesome things.
 - [shammill/Contract-Bridge-Card-Game](https://github.com/shammill/Contract-Bridge-Card-Game) - This was a third year University project I completed in 2014. Written in C++ it sets up a deck of cards, shuffles and then deals the cards to the players. It then decides on who will make the opening bid for each hand.
 - [snej/smol_world](https://github.com/snej/smol_world) - Compact garbage-collected heap and JSON-like object model
 - [stephank/dumpnar](https://github.com/stephank/dumpnar) - Minimal tool to produce a Nix NAR archive.
-- [timjrd/nixrewrite](https://github.com/timjrd/nixrewrite) - Prototype implementation of Nix store path rewriting
 - [urbste/pyTheiaSfM](https://github.com/urbste/pyTheiaSfM) - An open source Python library for multiview geometry and structure from motion
 - [vprover/vampire](https://github.com/vprover/vampire) - The Vampire Theorem Prover
 - [vygr/ChrysaLisp](https://github.com/vygr/ChrysaLisp) - Parallel OS, with GUI, Terminal, OO Assembler, Class libraries, C-Script compiler, Lisp interpreter and more...
@@ -322,6 +325,7 @@ A collection of awesome things.
 - [j-keck/zsd](https://github.com/j-keck/zsd) - cli tool to find older versions of a given file in your zfs snapshots.
 - [jmpsec/osctrl](https://github.com/jmpsec/osctrl) - Fast and efficient osquery management
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
+- [n2p5/uuid47](https://github.com/n2p5/uuid47) - a go implementation of uuid47
 - [naggie/dstask](https://github.com/naggie/dstask) - Git powered terminal-based todo/note manager --  markdown note page per task. Single binary!
 - [nlewo/comin](https://github.com/nlewo/comin) - GitOps For NixOS Machines
 - [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup) - Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox, Google Drive or SSH compatible storage
@@ -439,6 +443,7 @@ A collection of awesome things.
 - [meysholdt/xtext_stateful_lexer](https://github.com/meysholdt/xtext_stateful_lexer) - An experiment to derive a stateful lexer from an Xtext grammar
 - [mincong-h/java-examples](https://github.com/mincong-h/java-examples) - Java Examples
 - [musketyr/yuml-dsl-builder](https://github.com/musketyr/yuml-dsl-builder) - YUML DSL Builder (Groovy DSL Builder Example)
+- [palantir/witchcraft-java-logging](https://github.com/palantir/witchcraft-java-logging) - Java implementation of Witchcraft structured logging
 - [rabdulatipoff/ConvBagsGUI](https://github.com/rabdulatipoff/ConvBagsGUI) - Conveyor bags recognition UI software
 - [revelc/formatter-maven-plugin](https://github.com/revelc/formatter-maven-plugin) - Formatter Maven Plugin
 - [rkiddy/WhencePlugin](https://github.com/rkiddy/WhencePlugin) - 
@@ -882,6 +887,10 @@ A collection of awesome things.
 ## VBA
 
 - [visual2000/DadaCards](https://github.com/visual2000/DadaCards) - A nihilistic card game, to simulate folks having fun on computers in the old days.
+
+## Verilog
+
+- [chili-chips-ba/wireguard-fpga](https://github.com/chili-chips-ba/wireguard-fpga) - Full-throttle, wire-speed hardware implementation of Wireguard VPN, using low-cost Artix7 FPGA with opensource toolchain. If you seek security and privacy, nothing is private in our codebase. Our door is wide open for backdoor scrutiny, be it related to RTL, embedded, build, bitstream or any other aspect of design and delivery package. Bujrum!
 
 ## Vim Script
 
