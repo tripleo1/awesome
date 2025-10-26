@@ -498,6 +498,7 @@ A collection of awesome things.
 - [leapmotion/leapjs](https://github.com/leapmotion/leapjs) - JavaScript client for the Leap Motion Controller
 - [lengstrom/falcon](https://github.com/lengstrom/falcon) - Chrome extension for full text history search!
 - [mafintosh/abstract-chunk-store](https://github.com/mafintosh/abstract-chunk-store) - A test suite and interface you can use to implement a chunk based storage backend
+- [magicmouse/beads-examples](https://github.com/magicmouse/beads-examples) - Examples of Beads programs
 - [max-mapper/abstract-blob-store](https://github.com/max-mapper/abstract-blob-store) - A test suite and interface you can use to implement streaming file (blob) storage modules for various storage backends and platforms
 - [mkhorin/e-champ](https://github.com/mkhorin/e-champ) - A server-side platform for turn-based online games
 - [novemberborn/never](https://github.com/novemberborn/never) - A function that throws when called, use with nullish coalescing to elide unexpected nullish values
