@@ -472,7 +472,6 @@ A collection of awesome things.
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
 - [MineDojo/Voyager](https://github.com/MineDojo/Voyager) - An Open-Ended Embodied Agent with Large Language Models
 - [Moon-0xff/gnome-mpris-label](https://github.com/Moon-0xff/gnome-mpris-label) - A music related GNOME extension.
-- [Overhear8805/redlib-redirect](https://github.com/Overhear8805/redlib-redirect) - Redirect reddit.com to a libre alternatives
 - [RAJAGOPALAN-GANGADHARAN/JS-OS](https://github.com/RAJAGOPALAN-GANGADHARAN/JS-OS) - An Unified Operating System on the web
 - [ShivaBhattacharjee/AnimeTrix](https://github.com/ShivaBhattacharjee/AnimeTrix) -  Animetrix is a project that utilizes the Anilist platform to obtain information on various anime titles, and it combines this data with the Gogoanime API to provide ad-free streaming of anime content. 
 - [StephenPCG/extend-left-box](https://github.com/StephenPCG/extend-left-box) - Extend _leftBox of gnome-shell top bar
