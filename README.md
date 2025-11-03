@@ -432,6 +432,7 @@ A collection of awesome things.
 - [jnode-revisited/nuix-java-fs](https://github.com/jnode-revisited/nuix-java-fs) - Various file system implementations based on the code of the JNode operating system
 - [jnode/jnode](https://github.com/jnode/jnode) - Code for the JNode operating system
 - [kaby76/AntlrVSIX](https://github.com/kaby76/AntlrVSIX) - AntlrVSIX is a language server for use with Visual Studio 2019, Visual Studio Code, and Gnu Emacs to support Antlr, Bison, and W3C EBNF grammars. In addition to the IDE extensions provided here, a command-line tool is available to refactor grammars in order to make them cleaner, more readable, and more efficient.
+- [kframework/java-semantics](https://github.com/kframework/java-semantics) - The semantics of Java in K
 - [kieler/klassviz](https://github.com/kieler/klassviz) - Visualization of class diagrams using KIELER Lightweight Diagrams (KLighD)
 - [kukido/eclipser](https://github.com/kukido/eclipser) - Eclipser is an IntelliJ plugin. It converts Eclipse launch configurations into IntelliJ IDEA run configurations.
 - [ldenisey/idea-openscad](https://github.com/ldenisey/idea-openscad) - OpenSCAD language plugin for the IntelliJ platform.
@@ -444,6 +445,7 @@ A collection of awesome things.
 - [mincong-h/java-examples](https://github.com/mincong-h/java-examples) - Java Examples
 - [musketyr/yuml-dsl-builder](https://github.com/musketyr/yuml-dsl-builder) - YUML DSL Builder (Groovy DSL Builder Example)
 - [palantir/witchcraft-java-logging](https://github.com/palantir/witchcraft-java-logging) - Java implementation of Witchcraft structured logging
+- [pvoosten/explicit-semantic-analysis](https://github.com/pvoosten/explicit-semantic-analysis) - Wikipedia-based Explicit Semantic Analysis, as described by Gabrilovich and Markovitch
 - [rabdulatipoff/ConvBagsGUI](https://github.com/rabdulatipoff/ConvBagsGUI) - Conveyor bags recognition UI software
 - [revelc/formatter-maven-plugin](https://github.com/revelc/formatter-maven-plugin) - Formatter Maven Plugin
 - [rkiddy/WhencePlugin](https://github.com/rkiddy/WhencePlugin) - 
