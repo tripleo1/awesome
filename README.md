@@ -37,6 +37,7 @@ A collection of awesome things.
 - [Lua](#lua)
 - [MATLAB](#matlab)
 - [Makefile](#makefile)
+- [Marko](#marko)
 - [Modula-2](#modula-2)
 - [Nix](#nix)
 - [OCaml](#ocaml)
@@ -571,6 +572,10 @@ A collection of awesome things.
 
 - [kostya/benchmarks](https://github.com/kostya/benchmarks) - Some benchmarks of different languages
 - [riscv/riscv-svvptc](https://github.com/riscv/riscv-svvptc) - Obviating Memory-Management Instructions after Marking PTEs Valid (Svvptc)
+
+## Marko
+
+- [Zigistry/Zigistry](https://github.com/Zigistry/Zigistry) - A place where you can find all the libraries that suit your Zig lang needs. ⭐️ Please star to support this work!
 
 ## Modula-2
 
