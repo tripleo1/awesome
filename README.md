@@ -515,6 +515,7 @@ A collection of awesome things.
 - [sindresorhus/yn](https://github.com/sindresorhus/yn) - Parse yes/no like values
 - [thesephist/unim.press](https://github.com/thesephist/unim.press) - A Reddit front-page reader in the style of The New York Times.
 - [torch2424/made-with-webassembly](https://github.com/torch2424/made-with-webassembly) - A showcase of awesome production applications, side projects, and use cases made with WebAssembly (Wasm). 👷
+- [wreedb/god](https://github.com/wreedb/god) - data text formats don't need to be awful
 
 ## Jinja
 
