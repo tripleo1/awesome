@@ -62,6 +62,7 @@ A collection of awesome things.
 - [Smalltalk](#smalltalk)
 - [StringTemplate](#stringtemplate)
 - [Swift](#swift)
+- [SystemVerilog](#systemverilog)
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [V](#v)
@@ -864,6 +865,10 @@ A collection of awesome things.
 - [lelandrichardson/recoil](https://github.com/lelandrichardson/recoil) - Swift and Kotlin ports of React (Prototype)
 - [marciok/Mu](https://github.com/marciok/Mu) - It's a Swift playground explaining how to create a tiny programming language named Mu
 - [tombonez/noTunes](https://github.com/tombonez/noTunes) - A simple macOS application that will prevent iTunes or Apple Music from launching.
+
+## SystemVerilog
+
+- [cluelogic/uvm-tutorial-for-candy-lovers](https://github.com/cluelogic/uvm-tutorial-for-candy-lovers) - Source code repo for UVM Tutorial for Candy Lovers
 
 ## TeX
 
