@@ -37,7 +37,6 @@ A collection of awesome things.
 - [Lua](#lua)
 - [MATLAB](#matlab)
 - [Makefile](#makefile)
-- [Marko](#marko)
 - [Modula-2](#modula-2)
 - [Nix](#nix)
 - [OCaml](#ocaml)
@@ -61,6 +60,7 @@ A collection of awesome things.
 - [Shell](#shell)
 - [Smalltalk](#smalltalk)
 - [StringTemplate](#stringtemplate)
+- [Svelte](#svelte)
 - [Swift](#swift)
 - [SystemVerilog](#systemverilog)
 - [TeX](#tex)
@@ -575,10 +575,6 @@ A collection of awesome things.
 - [kostya/benchmarks](https://github.com/kostya/benchmarks) - Some benchmarks of different languages
 - [riscv/riscv-svvptc](https://github.com/riscv/riscv-svvptc) - Obviating Memory-Management Instructions after Marking PTEs Valid (Svvptc)
 
-## Marko
-
-- [Zigistry/Zigistry](https://github.com/Zigistry/Zigistry) - A place where you can find all the libraries that suit your Zig lang needs. ⭐️ Please star to support this work!
-
 ## Modula-2
 
 - [OberonSystem3/AOS_Bluebottle_Sources](https://github.com/OberonSystem3/AOS_Bluebottle_Sources) - This is the source code of the last stable release of the ETH AOS/Bluebottle System, dated March 12, 2004, in plain ISO 8859-1 UTF-8 text files
@@ -858,6 +854,10 @@ A collection of awesome things.
 ## StringTemplate
 
 - [DrCuis/TheCuisBook](https://github.com/DrCuis/TheCuisBook) - Get started with Cuis Smalltalk
+
+## Svelte
+
+- [Zigistry/Zigistry](https://github.com/Zigistry/Zigistry) - A place where you can find all the libraries that suit your Zig lang needs. ⭐️ Please star to support this work!
 
 ## Swift
 
