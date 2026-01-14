@@ -842,7 +842,6 @@ A collection of awesome things.
 - [risuorg/risu](https://github.com/risuorg/risu) - Automation Troubleshooting Framework to validate  and report configuration, software installed, etc with bash, python, and your language of choice.
 - [trentbuck/flash-kernel-efi](https://github.com/trentbuck/flash-kernel-efi) - 
 - [version-manager/woof](https://github.com/version-manager/woof) - The version manager to end all version managers.
-- [wmutschl/mutschler.dev](https://github.com/wmutschl/mutschler.dev) - Tech blog
 - [zegl/extremely-linear](https://github.com/zegl/extremely-linear) - Extremely Linear Git History // git-linearize
 
 ## Smalltalk
@@ -1000,6 +999,7 @@ A collection of awesome things.
 - [vshymanskyy/awesome-wasm-tools](https://github.com/vshymanskyy/awesome-wasm-tools) - 😎 A curated list of awesome, language-agnostic WebAssembly tools
 - [wasmerio/awesome-wasi](https://github.com/wasmerio/awesome-wasi) - 😎 Curated list of awesome things regarding WebAssembly WASI ecosystem.
 - [waylau/java-virtual-machine-specification](https://github.com/waylau/java-virtual-machine-specification) - Chinese translation of The Java® Virtual Machine Specification.《Java 虚拟机规范（第11版）》中文翻译及示例，Java SE 11 版
+- [wmutschl/mutschler.dev](https://github.com/wmutschl/mutschler.dev) - Tech blog
 - [xhorak/firefox-dev-flatpak](https://github.com/xhorak/firefox-dev-flatpak) - Create flatpak from freshly compiled Firefox Nightly.
 - [zencq/NomNom](https://github.com/zencq/NomNom) - NomNom is the most complete savegame editor for NMS but also shows additional information around the data you're about to change. You can also easily look up each item individually to examine its attributes, independently of a savegame, or get other useful information that are not related to a specific savegame (but enhanced if one is loaded).
 
