@@ -673,7 +673,7 @@ A collection of awesome things.
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
 - [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
 - [corna/me_cleaner](https://github.com/corna/me_cleaner) - Tool for partial deblobbing of Intel ME/TXE firmware images
-- [cute-engineering/cutekit](https://github.com/cute-engineering/cutekit) - 🪄​ The *magical* build system and package manager
+- [cute-engineering/cutekit](https://github.com/cute-engineering/cutekit) - 🪄​ The *magical* build system and package manager (mirror)
 - [dragnet-org/dragnet](https://github.com/dragnet-org/dragnet) - Just the facts -- web page content extraction
 - [enthought/pyface](https://github.com/enthought/pyface) - pyface: traits-capable windowing framework
 - [enthought/traits](https://github.com/enthought/traits) - Observable typed attributes for Python classes
