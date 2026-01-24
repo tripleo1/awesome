@@ -361,6 +361,7 @@ A collection of awesome things.
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares 
 - [malisipi/ubuntu-tour](https://github.com/malisipi/ubuntu-tour) - Web-Based Ubuntu
 - [oberon-lang/oberon-lang.github.io](https://github.com/oberon-lang/oberon-lang.github.io) - The Oberon+ Programming Language
+- [palantir/witchcraft-java-logging](https://github.com/palantir/witchcraft-java-logging) - Java implementation of Witchcraft structured logging
 - [permazen/permazen](https://github.com/permazen/permazen) - Language-Natural Persistence Layer for Java
 - [pypy/pypy.org](https://github.com/pypy/pypy.org) - Sources for website at https://www.pypy.org
 - [viebel/klipse](https://github.com/viebel/klipse) - Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs.
@@ -446,7 +447,6 @@ A collection of awesome things.
 - [meysholdt/xtext_stateful_lexer](https://github.com/meysholdt/xtext_stateful_lexer) - An experiment to derive a stateful lexer from an Xtext grammar
 - [mincong-h/java-examples](https://github.com/mincong-h/java-examples) - Java Examples
 - [musketyr/yuml-dsl-builder](https://github.com/musketyr/yuml-dsl-builder) - YUML DSL Builder (Groovy DSL Builder Example)
-- [palantir/witchcraft-java-logging](https://github.com/palantir/witchcraft-java-logging) - Java implementation of Witchcraft structured logging
 - [pvoosten/explicit-semantic-analysis](https://github.com/pvoosten/explicit-semantic-analysis) - Wikipedia-based Explicit Semantic Analysis, as described by Gabrilovich and Markovitch
 - [rabdulatipoff/ConvBagsGUI](https://github.com/rabdulatipoff/ConvBagsGUI) - Conveyor bags recognition UI software
 - [revelc/formatter-maven-plugin](https://github.com/revelc/formatter-maven-plugin) - Formatter Maven Plugin
