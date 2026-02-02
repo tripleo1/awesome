@@ -807,7 +807,6 @@ A collection of awesome things.
 - [LispLang/lisplang.github.io](https://github.com/LispLang/lisplang.github.io) - Common Lisp homepage.
 - [hydecorp/hydejack](https://github.com/hydecorp/hydejack) - A boutique Jekyll theme for hackers, nerds, and academics
 - [paracrawl/corset](https://github.com/paracrawl/corset) - Corset is a web-based data selection portal that helps you getting relevant data from massive amounts of parallel data.
-- [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 
 ## Scala
 
@@ -991,6 +990,7 @@ A collection of awesome things.
 - [sanmak/awesome-blogs](https://github.com/sanmak/awesome-blogs) - List of awesome blogs run, managed by a human or two and not an organisation, company or institution.
 - [semantalytics/awesome-semantic-web](https://github.com/semantalytics/awesome-semantic-web) - A curated list of various semantic web and linked data resources.
 - [sjh258933/IntelliJGit](https://github.com/sjh258933/IntelliJGit) - 
+- [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [swyxio/buying-domains](https://github.com/swyxio/buying-domains) - useful data and advice for buying domains.
 - [synflow/SHA-256](https://github.com/synflow/SHA-256) - SHA-256 implemented with the Cx language
 - [titzer/student-projects](https://github.com/titzer/student-projects) - A collection of projects for students on Virgil, Wizard, or WebAssembly
