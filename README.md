@@ -554,9 +554,9 @@ A collection of awesome things.
 
 ## Lean
 
-- [HEPLean/PhysLean](https://github.com/HEPLean/PhysLean) - A project to digitalise results from physics into Lean.
 - [avigad/mathematics_in_lean_source](https://github.com/avigad/mathematics_in_lean_source) - Source code for the Mathematics in Lean tutorial.
 - [draperlaboratory/ELFSage](https://github.com/draperlaboratory/ELFSage) - A toy ELF parser/validator
+- [lean-phys-community/PhysLean](https://github.com/lean-phys-community/PhysLean) - A project to digitalise results from physics into Lean.
 - [leanprover/LNSym](https://github.com/leanprover/LNSym) - Armv8 Native Code Symbolic Simulator in Lean
 - [leanprover/leansat](https://github.com/leanprover/leansat) - This package provides an interface and foundation for verified SAT reasoning
 - [ufmg-smite/lean-smt](https://github.com/ufmg-smite/lean-smt) - Tactics for discharging Lean goals into SMT solvers.
