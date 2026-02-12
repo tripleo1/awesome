@@ -84,7 +84,7 @@ A collection of awesome things.
 ## Assembly
 
 - [Mazin-O3/Veecom](https://github.com/Mazin-O3/Veecom) - Simple Yet Powerful RISC-V Computer
-- [donno2048/snake](https://github.com/donno2048/snake) - A 54 bytes snake game in assembly 
+- [donno2048/snake](https://github.com/donno2048/snake) - A 54 bytes snake game in x86 assembly 
 - [dspinellis/unix-history-repo](https://github.com/dspinellis/unix-history-repo) - Continuous Unix commit history from 1970 until today
 - [fjballest/nix.markII](https://github.com/fjballest/nix.markII) - nix mark II
 - [fjballest/nixMarkIV](https://github.com/fjballest/nixMarkIV) - Nix source
