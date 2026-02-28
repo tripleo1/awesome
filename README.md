@@ -140,7 +140,6 @@ A collection of awesome things.
 - [phmarek/fsvs](https://github.com/phmarek/fsvs) - Full System Versioning System
 - [phoboslab/neuralink_brainwire](https://github.com/phoboslab/neuralink_brainwire) - Attempt at Neuralink's Compression Challenge
 - [pixeltris/webc86](https://github.com/pixeltris/webc86) - Compile / run C in a web browser via TCC / x86 emulation
-- [ponylang/ponyc](https://github.com/ponylang/ponyc) - Pony is an open-source, actor-model, capabilities-secure, high performance programming language
 - [rochus-keller/Are-we-fast-yet](https://github.com/rochus-keller/Are-we-fast-yet) - Implementations of the Are-we-fast-yet benchmark suite in Oberon, C++, C, Pascal, Micron and Luon
 - [rofl0r/libulz](https://github.com/rofl0r/libulz) - a collection of useful functions and data structures to create C apps faster. focus on simplicity, ability to statically link and minimal binary size.
 - [seL4/seL4](https://github.com/seL4/seL4) - The seL4 microkernel
@@ -638,6 +637,7 @@ A collection of awesome things.
 ## Pony
 
 - [klange/ponysay](https://github.com/klange/ponysay) - Ponysay ported to Kuroko
+- [ponylang/ponyc](https://github.com/ponylang/ponyc) - Pony is an open-source, actor-model, capabilities-secure, high performance programming language
 
 ## Python
 
