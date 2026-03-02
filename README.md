@@ -696,7 +696,7 @@ A collection of awesome things.
 - [linuxmint/sticky](https://github.com/linuxmint/sticky) - A sticky notes app for the linux desktop
 - [log2timeline/dfvfs](https://github.com/log2timeline/dfvfs) - Digital Forensics Virtual File System (dfVFS)
 - [lzzcd001/GShell](https://github.com/lzzcd001/GShell) - Official implentation of "Ghost on the Shell: An Expressive Representation of General 3D Shapes" (ICLR 2024 Oral)
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [martin68/apt-smart](https://github.com/martin68/apt-smart) - apt-smart: Smart, automated, robust apt-get mirror selection for Debian, Ubuntu and Linux Mint
 - [microsoft/az-python](https://github.com/microsoft/az-python) - A collection of Python Packages for AI usecases
 - [mist64/c64ref](https://github.com/mist64/c64ref) - Ultimate Commodore 64 Reference: ROM Disassembly, Memory Map, ...
