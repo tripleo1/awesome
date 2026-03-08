@@ -60,7 +60,6 @@ A collection of awesome things.
 - [Shell](#shell)
 - [Smalltalk](#smalltalk)
 - [StringTemplate](#stringtemplate)
-- [Svelte](#svelte)
 - [Swift](#swift)
 - [SystemVerilog](#systemverilog)
 - [TeX](#tex)
@@ -351,6 +350,7 @@ A collection of awesome things.
 
 - [Kroc/impatience](https://github.com/Kroc/impatience) - A Patience / Solitaire Collection for Nintendo GameBoy that doesn't waste your time
 - [MahdiF/taptaptap](https://github.com/MahdiF/taptaptap) - 🕹 Open Source Javascript Game
+- [Zigistry/Zigistry](https://github.com/Zigistry/Zigistry) - A place where you can find all the libraries that suit your Zig lang needs. ⭐️ Please star to support this work!
 - [bbonamin/strftimeslikethese](https://github.com/bbonamin/strftimeslikethese) - A Ruby WASM implementation, fully client-side, inspired by foragoodstrftime.com
 - [callgraph/vue-callgraph-manual](https://github.com/callgraph/vue-callgraph-manual) - http://os.cs.tsinghua.edu.cn/research/kernel/callgraph2017
 - [eclipse-platform/eclipse.platform.releng.aggregator](https://github.com/eclipse-platform/eclipse.platform.releng.aggregator) - Aggregated repository from which Eclipse SDK is being build
@@ -851,10 +851,6 @@ A collection of awesome things.
 ## StringTemplate
 
 - [DrCuis/TheCuisBook](https://github.com/DrCuis/TheCuisBook) - Get started with Cuis Smalltalk
-
-## Svelte
-
-- [Zigistry/Zigistry](https://github.com/Zigistry/Zigistry) - A place where you can find all the libraries that suit your Zig lang needs. ⭐️ Please star to support this work!
 
 ## Swift
 
