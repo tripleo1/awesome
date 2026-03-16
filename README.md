@@ -432,6 +432,7 @@ A collection of awesome things.
 - [jnode-revisited/magnusja-java-fs](https://github.com/jnode-revisited/magnusja-java-fs) - Various file system implementations based on the code of the JNode operating system
 - [jnode-revisited/nuix-java-fs](https://github.com/jnode-revisited/nuix-java-fs) - Various file system implementations based on the code of the JNode operating system
 - [jnode/jnode](https://github.com/jnode/jnode) - Code for the JNode operating system
+- [jspecify/jspecify](https://github.com/jspecify/jspecify) - An artifact of fully-specified annotations to power static-analysis checks, beginning with nullness analysis.
 - [kaby76/AntlrVSIX](https://github.com/kaby76/AntlrVSIX) - AntlrVSIX is a language server for use with Visual Studio 2019, Visual Studio Code, and Gnu Emacs to support Antlr, Bison, and W3C EBNF grammars. In addition to the IDE extensions provided here, a command-line tool is available to refactor grammars in order to make them cleaner, more readable, and more efficient.
 - [kframework/java-semantics](https://github.com/kframework/java-semantics) - The semantics of Java in K
 - [kieler/klassviz](https://github.com/kieler/klassviz) - Visualization of class diagrams using KIELER Lightweight Diagrams (KLighD)
@@ -708,7 +709,7 @@ A collection of awesome things.
 - [nyaadevs/pybittorent-tracker-sanic](https://github.com/nyaadevs/pybittorent-tracker-sanic) - Don't use pypy, it's bad. Unmaintained, no longer used.
 - [oduwsdl/archivenow](https://github.com/oduwsdl/archivenow) - A Tool To Push Web Resources Into Web Archives
 - [oduwsdl/ipwb](https://github.com/oduwsdl/ipwb) - InterPlanetary Wayback: A distributed and persistent archive replay system using IPFS
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The best local UI for large language models, with easy setup and powerful features. 100% offline.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The original local LLM interface. Text, vision, tool-calling, training, and more. 100% offline.
 - [openstack/mistral](https://github.com/openstack/mistral) - Workflow Service for OpenStack. Mirror of code maintained at opendev.org.
 - [oravus/seqNet](https://github.com/oravus/seqNet) - SeqNet: Code for the RA-L (ICRA) 2021 paper "SeqNet: Learning Descriptors for Sequence-Based Hierarchical Place Recognition"
 - [pdumin/mm_kolmogorov_ode](https://github.com/pdumin/mm_kolmogorov_ode) - Latex code generator from mermaid flowchart of Markov chain
