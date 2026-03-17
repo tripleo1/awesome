@@ -97,7 +97,7 @@ A collection of awesome things.
 
 ## Batchfile
 
-- [a52924506414585696564761/Windows-10-Hardening](https://github.com/a52924506414585696564761/Windows-10-Hardening) - An admittedly frivolous (and infrequently updated) attempt to harden Windows 10.
+- [a8763506128977812212307169331690/Windows-10-Hardening](https://github.com/a8763506128977812212307169331690/Windows-10-Hardening) - An admittedly frivolous (and infrequently updated) attempt to harden Windows 10.
 
 ## C
 
