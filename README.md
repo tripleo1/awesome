@@ -23,7 +23,6 @@ A collection of awesome things.
 - [F*](#f-1)
 - [Forth](#forth)
 - [Fortran](#fortran)
-- [Gherkin](#gherkin)
 - [Go](#go)
 - [HTML](#html)
 - [Haskell](#haskell)
@@ -294,10 +293,6 @@ A collection of awesome things.
 ## Fortran
 
 - [jacobwilliams/AoC-2024](https://github.com/jacobwilliams/AoC-2024) - Advent of Code 2024 with Modern Fortran
-
-## Gherkin
-
-- [sdkman/sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
 
 ## Go
 
@@ -839,6 +834,7 @@ A collection of awesome things.
 - [presslabs/debuilder](https://github.com/presslabs/debuilder) - Docker images for building debian/ubuntu packages
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [risuorg/risu](https://github.com/risuorg/risu) - Automation Troubleshooting Framework to validate  and report configuration, software installed, etc with bash, python, and your language of choice.
+- [sdkman/sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
 - [trentbuck/flash-kernel-efi](https://github.com/trentbuck/flash-kernel-efi) - 
 - [version-manager/woof](https://github.com/version-manager/woof) - The version manager to end all version managers.
 - [zegl/extremely-linear](https://github.com/zegl/extremely-linear) - Extremely Linear Git History // git-linearize
