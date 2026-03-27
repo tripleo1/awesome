@@ -612,7 +612,6 @@ A collection of awesome things.
 ## PHP
 
 - [DirectoryLister/DirectoryLister](https://github.com/DirectoryLister/DirectoryLister) - 📂 Directory Lister is the easiest way to expose the contents of any web-accessible folder for browsing and sharing.
-- [Hyupai/Classloader-by-S4J](https://github.com/Hyupai/Classloader-by-S4J) - Dinamic classloader
 - [dpacassi/face-detection](https://github.com/dpacassi/face-detection) - Comparing different Face detection solutions from Amazon, Google, IBM, Microsoft, Dlib, OpenCV and other open source solutions.
 - [glhd/conveyor-belt](https://github.com/glhd/conveyor-belt) - All the underlying mechanics necessary to write artisan commands that process lots of data efficiently
 
