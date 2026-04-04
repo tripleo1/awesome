@@ -21,6 +21,7 @@ A collection of awesome things.
 - [Erlang](#erlang)
 - [F#](#f)
 - [F*](#f-1)
+- [Fluent](#fluent)
 - [Forth](#forth)
 - [Fortran](#fortran)
 - [Go](#go)
@@ -285,6 +286,10 @@ A collection of awesome things.
 ## F*
 
 - [hacl-star/hacl-star](https://github.com/hacl-star/hacl-star) - HACL*, a formally verified cryptographic library written in F*
+
+## Fluent
+
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 
 ## Forth
 
@@ -784,7 +789,6 @@ A collection of awesome things.
 - [nix-community/nix-index](https://github.com/nix-community/nix-index) - Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]
 - [pop-os/cosmic-text](https://github.com/pop-os/cosmic-text) - Pure Rust multi-line text handling
 - [project-machine/puzzlefs](https://github.com/project-machine/puzzlefs) - A next-generation container filesystem
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [rgwood/systemctl-tui](https://github.com/rgwood/systemctl-tui) - A fast, simple TUI for interacting with systemd services and their logs
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [sjb3d/descent](https://github.com/sjb3d/descent) - Toy library for neural networks in Rust using Vulkan compute shaders
