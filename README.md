@@ -342,7 +342,7 @@ A collection of awesome things.
 - [tripleos/ipos](https://github.com/tripleos/ipos) - Linux Based OS using IPFS as a Root File System
 - [tushar2708/conveyor](https://github.com/tushar2708/conveyor) - A go pipeline management library, supporting concurrent pipelines, with multiple nodes and joints
 - [vdemeester/docker-volume-ipfs](https://github.com/vdemeester/docker-volume-ipfs) - 🐳 This is an open source volume plugin that allows using an ipfs filesystem as a volume.
-- [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero) - Backup and migrate Kubernetes applications and their persistent volumes
+- [velero-io/velero](https://github.com/velero-io/velero) - Backup and migrate Kubernetes applications and their persistent volumes
 - [wabarc/wayback](https://github.com/wabarc/wayback) - An archiving tool with an IM-style interface that prioritizes privacy and accessibility, integrated with various archival services including Internet Archive, archive.today, Ghostarchive, IPFS, Telegraph, and file systems.
 - [zignig/astralboot](https://github.com/zignig/astralboot) - a low level boot server that deploys servers from file system or ipfs
 
