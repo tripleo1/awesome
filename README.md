@@ -780,6 +780,7 @@ A collection of awesome things.
 - [edef1c/libfringe](https://github.com/edef1c/libfringe) - a Rust library implementing safe, lightweight context switches, without relying on kernel services
 - [ekzhang/crepe](https://github.com/ekzhang/crepe) - Datalog compiler embedded in Rust as a procedural macro
 - [facebook/starlark-rust](https://github.com/facebook/starlark-rust) - A Rust implementation of the Starlark language
+- [isabelroses/lix-diff](https://github.com/isabelroses/lix-diff) - 
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [kahing/catfs](https://github.com/kahing/catfs) - Cache AnyThing filesystem written in Rust
 - [lovesegfault/daedalos](https://github.com/lovesegfault/daedalos) - A fully (dis)functional OS!
@@ -796,7 +797,6 @@ A collection of awesome things.
 - [sunfishcode/c-ward](https://github.com/sunfishcode/c-ward) - An implementation of libc written in Rust
 - [sunfishcode/eyra](https://github.com/sunfishcode/eyra) - Rust programs written entirely in Rust
 - [sunfishcode/mustang](https://github.com/sunfishcode/mustang) - Rust programs written entirely in Rust
-- [tgirlcloud/lix-diff](https://github.com/tgirlcloud/lix-diff) - 
 - [versotile-org/verso](https://github.com/versotile-org/verso) - Mirror of https://gitlab.com/verso-browser/verso
 - [vishaltelangre/ff](https://github.com/vishaltelangre/ff) - Find files (ff) by name, fast!
 - [zzhgithub/juner_os](https://github.com/zzhgithub/juner_os) - Rust developed OS based on blog_os Trying a repl environment running in kernel state lisp developed based on mal implementation
