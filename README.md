@@ -246,7 +246,6 @@ A collection of awesome things.
 - [froggey/Mezzano](https://github.com/froggey/Mezzano) - An operating system written in Common Lisp
 - [jpcima/sbcl-image-builder](https://github.com/jpcima/sbcl-image-builder) - Lisp image build for SBCL
 - [kiselgra/c-mera](https://github.com/kiselgra/c-mera) - Next-level syntax for C-like languages :)
-- [pcostanza/closer-mop](https://github.com/pcostanza/closer-mop) - Closer to MOP is a compatibility layer that rectifies many of the absent or incorrect CLOS MOP features across a broad range of Common Lisp implementations.
 
 ## Component Pascal
 
