@@ -415,6 +415,7 @@ A collection of awesome things.
 - [eclipse-xtext/xtext](https://github.com/eclipse-xtext/xtext) - Eclipse Xtext™ is a language development framework 
 - [elipsitz/java-visualizer-intellij-plugin](https://github.com/elipsitz/java-visualizer-intellij-plugin) - 
 - [ericscharff/SmallWorld](https://github.com/ericscharff/SmallWorld) - Tim Budds Simple Smalltalk interpreter in Java
+- [evpl/jkscope](https://github.com/evpl/jkscope) - Java scope functions inspired by Kotlin
 - [fluxtah/xtext-android-gradle-example](https://github.com/fluxtah/xtext-android-gradle-example) - Example of using xtext gradle plugin in an example project
 - [ftomassetti/MonacoFX-Tutorials](https://github.com/ftomassetti/MonacoFX-Tutorials) - Tutorial projects for MonacoFX
 - [ftomassetti/spoon-examples](https://github.com/ftomassetti/spoon-examples) - 
