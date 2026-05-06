@@ -483,7 +483,7 @@ A collection of awesome things.
 - [az0/linkgopher](https://github.com/az0/linkgopher) - Firefox/Google Chrome add-on: Extracts all links from web page, sorts them, removes duplicates, and displays them in a new tab for inspection or copy and paste into other systems.
 - [channaveer/tutorial-adblocker](https://github.com/channaveer/tutorial-adblocker) - Detect AdBlocker from Javascript & request viewers to disable it.
 - [charliegerard/flappy-windows](https://github.com/charliegerard/flappy-windows) - Flappy Bird with browser windows
-- [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。 欢迎参加飞书AI先锋诗活动  https://bytedance.aiforce.cloud/app/app_4jvnd48x7khm1
+- [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [chrislusf/docker-plugin_seaweedfs](https://github.com/chrislusf/docker-plugin_seaweedfs) - A Docker Volume plugin for mounting SeaweedFS filesystems
 - [ditesh/node-poplib](https://github.com/ditesh/node-poplib) - POP3 client library for Node.js
 - [dsheeler/CoverflowAltTab](https://github.com/dsheeler/CoverflowAltTab) - Coverflow like Alt-Tab replacement for Gnome-Shell
