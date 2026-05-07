@@ -5,7 +5,6 @@ A collection of awesome things.
 - [Arc](#arc)
 - [Assembly](#assembly)
 - [Astro](#astro)
-- [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c-1)
 - [C++](#c-2)
@@ -95,10 +94,6 @@ A collection of awesome things.
 
 - [markhorn-dev/astro-sphere](https://github.com/markhorn-dev/astro-sphere) - Astro Sphere is a static, minimalist, lightweight, lightning fast portfolio and blog.
 
-## Batchfile
-
-- [a8763506128977812212307169331690/Windows-10-Hardening](https://github.com/a8763506128977812212307169331690/Windows-10-Hardening) - An admittedly frivolous (and infrequently updated) attempt to harden Windows 10.
-
 ## C
 
 - [9fans/drawterm](https://github.com/9fans/drawterm) - Connect to Plan 9 CPU servers from other operating systems.
@@ -183,7 +178,6 @@ A collection of awesome things.
 - [ceph/ceph](https://github.com/ceph/ceph) - Ceph is a distributed object, block, and file storage platform 
 - [cleverca22/fusenar](https://github.com/cleverca22/fusenar) - A program that mounts a NAR (Nix Archive) archive as a filesystem using FUSE. This repo is written in C++; it has now been rewritten in Haskell (https://github.com/taktoa/narfuse).
 - [cmu-sei/pharos](https://github.com/cmu-sei/pharos) - Automated static analysis tools for binary programs
-- [cvmfs/cvmfs](https://github.com/cvmfs/cvmfs) - The CernVM File System
 - [doug65536/dgos](https://github.com/doug65536/dgos) - Operating System
 - [dspinellis/cscout](https://github.com/dspinellis/cscout) - C code refactoring browser
 - [electronicarts/EASTL](https://github.com/electronicarts/EASTL) - EASTL stands for Electronic Arts Standard Template Library.  It is an extensive and robust implementation that has an emphasis on high performance.
@@ -218,7 +212,6 @@ A collection of awesome things.
 ## CSS
 
 - [SquareBracketAssociates/Booklet-Smacc](https://github.com/SquareBracketAssociates/Booklet-Smacc) - A booklet on the Smacc compiler compiler framework
-- [gayanper/eclipse-themes](https://github.com/gayanper/eclipse-themes) - Eclipse themes and some features to enhance the look and feel of Eclipse Java IDE.
 - [klange/Firefox-UI-Fix](https://github.com/klange/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
 
 ## Clojure
@@ -323,7 +316,6 @@ A collection of awesome things.
 - [ivzhh/go-ast-transform](https://github.com/ivzhh/go-ast-transform) - 
 - [j-keck/zsd](https://github.com/j-keck/zsd) - cli tool to find older versions of a given file in your zfs snapshots.
 - [jmpsec/osctrl](https://github.com/jmpsec/osctrl) - Fast and efficient osquery management
-- [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [n2p5/uuid47](https://github.com/n2p5/uuid47) - a go implementation of uuid47
 - [naggie/dstask](https://github.com/naggie/dstask) - Git powered terminal-based todo/note manager --  markdown note page per task. Single binary!
 - [nlewo/comin](https://github.com/nlewo/comin) - GitOps For NixOS Machines
@@ -354,7 +346,6 @@ A collection of awesome things.
 - [callgraph/vue-callgraph-manual](https://github.com/callgraph/vue-callgraph-manual) - http://os.cs.tsinghua.edu.cn/research/kernel/callgraph2017
 - [eclipse-platform/eclipse.platform.releng.aggregator](https://github.com/eclipse-platform/eclipse.platform.releng.aggregator) - Aggregated repository from which Eclipse SDK is being build
 - [eine/elide](https://github.com/eine/elide) - Embedded Logic Integrated Design Environment
-- [hundredrabbits/100r.co](https://github.com/hundredrabbits/100r.co) - Official Website
 - [jeanboydev/Android-ReadTheFuckingSourceCode](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode) - 😜 记录日常的开发技巧，开发中遇到的技术重点、难点，各个知识点的总结，优质面试题等等。持续更新...
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares 
 - [malisipi/ubuntu-tour](https://github.com/malisipi/ubuntu-tour) - Web-Based Ubuntu
@@ -373,11 +364,9 @@ A collection of awesome things.
 ## Java
 
 - [Berkeley-CS61B/intellij-plugin](https://github.com/Berkeley-CS61B/intellij-plugin) - 
-- [DavidBurkett/Builderberg](https://github.com/DavidBurkett/Builderberg) - IntelliJ IDEA plugin to generate inner builders with constraint validation
 - [HotswapProjects/HotswapAgent](https://github.com/HotswapProjects/HotswapAgent) - Java unlimited redefinition of classes at runtime.
 - [Iacon1/JCC816](https://github.com/Iacon1/JCC816) - Java C Compiler for the 65c816, an attempt to use Java to compile C to CA65-style 65c816 assembly - specifically, the SNES's main processor (the Ricoh 5a22) and the SA1 cartridge-mounted coprocessor.
 - [JPLeRouzic/HjerteLib](https://github.com/JPLeRouzic/HjerteLib) - 
-- [JetBrains/attachme](https://github.com/JetBrains/attachme) - IntelliJ plugin for auto-attaching the debugger to JVM applications
 - [JetBrains/fernflower](https://github.com/JetBrains/fernflower) - Decompiler from Java bytecode to Java, used in IntelliJ IDEA.
 - [KisanHub/intellij-orogeny](https://github.com/KisanHub/intellij-orogeny) - Use IntelliJ as your build tool instead of ant, maven, groovy or anything else.
 - [MTrop/DoomTools](https://github.com/MTrop/DoomTools) - Doom-related tools for Java. Home of DECOHack and lots of other utilities. Build WAD projects (and soon, other kinds) with ease!
@@ -423,7 +412,6 @@ A collection of awesome things.
 - [google/mail-importer](https://github.com/google/mail-importer) - Mail Importer for Gmail will upload the contents of a Thunderbird mail archive to Gmail and do its best to preserve the read state, flagged state, and folders of the messages.
 - [google/truth](https://github.com/google/truth) - Fluent assertions for Java and Android
 - [hassansartaj/cdst-toolkit](https://github.com/hassansartaj/cdst-toolkit) - A toolkit to automate the testing process of Cockpit Display Systems (CDS) 
-- [hassansartaj/uast-toolset](https://github.com/hassansartaj/uast-toolset) - A toolset to support automated system-level testing of unmanned aerial systems (UAS). 
 - [heidisu/java8kanren](https://github.com/heidisu/java8kanren) - Implementation of minikanren in java
 - [i-net-software/JWebAssembly](https://github.com/i-net-software/JWebAssembly) - Java bytecode to WebAssembly compiler
 - [java-diff-utils/java-diff-utils](https://github.com/java-diff-utils/java-diff-utils) - Diff Utils library is an OpenSource library for performing the comparison / diff operations between texts or some kind of data: computing diffs, applying patches, generating unified diffs or parsing them, generating diff output for easy future displaying (like side-by-side view) and so on.
@@ -547,7 +535,6 @@ A collection of awesome things.
 - [facebookincubator/dataclassgenerate](https://github.com/facebookincubator/dataclassgenerate) - DataClassGenerate (or simply DCG) is a Kotlin compiler plugin that addresses an Android APK size overhead from Kotlin data classes. 
 - [joreilly/PeopleInSpace](https://github.com/joreilly/PeopleInSpace) - Kotlin Multiplatform sample with SwiftUI, Jetpack Compose, Compose for Wear, Compose for Desktop, and Compose for Web clients along with Ktor backend.
 - [manriif/supabase-edge-functions-kt](https://github.com/manriif/supabase-edge-functions-kt) - Build, serve and deploy Supabase Edge Functions with Kotlin and Gradle.
-- [nhat-phan/shit-cleaner](https://github.com/nhat-phan/shit-cleaner) - An Intellij IDE plugin which uses Code Climate CLI to analyze your source code on local machine and display code smells/duplications right in your IDE 
 - [square/workflow-kotlin](https://github.com/square/workflow-kotlin) - A Swift and Kotlin library for making composable state machines, and UIs driven by those state machines.
 - [tateisu/SubwayTooter](https://github.com/tateisu/SubwayTooter) - Mastodon client app for Android
 - [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing) - A library for testing Kotlin and Java annotation processors, compiler plugins and code generation
@@ -586,7 +573,6 @@ A collection of awesome things.
 
 - [ElvishJerricco/bcachefs-fstab-generator](https://github.com/ElvishJerricco/bcachefs-fstab-generator) - Unlock bcachefs file systems with systemd
 - [JeremiahSecrist/regula-nix](https://github.com/JeremiahSecrist/regula-nix) - This project aims to help implement and enforce various security standards in NixOS. Regula meaning standards in latin.
-- [cleverca22/nix-misc](https://github.com/cleverca22/nix-misc) - Small experimental things I am doing with Nix (this repository is old and will soon be merged with https://github.com/cleverca22/nix-tests).
 - [fluidattacks/makes](https://github.com/fluidattacks/makes) - A software supply chain framework powered by Nix.
 - [gmodena/nix-flatpak](https://github.com/gmodena/nix-flatpak) - Install flatpaks declaratively
 - [hercules-ci/canonix](https://github.com/hercules-ci/canonix) - Experiment in Nix formatting
@@ -664,7 +650,6 @@ A collection of awesome things.
 - [alxschwrz/codex_py2cpp](https://github.com/alxschwrz/codex_py2cpp) - Converts python code into c++ by using OpenAI CODEX.
 - [amanusk/s-tui](https://github.com/amanusk/s-tui) - Terminal-based CPU stress and monitoring utility
 - [atopile/atopile](https://github.com/atopile/atopile) - Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️
-- [bibanon/tubeup](https://github.com/bibanon/tubeup) - Use yt-dlp to download video/metadata and upload to the Internet Archive.
 - [biosbits/bits](https://github.com/biosbits/bits) - BIOS Implementation Test Suite
 - [bmuschko/rules_java_war](https://github.com/bmuschko/rules_java_war) - Bazel rules for generating a Java Web Archive (WAR).
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
@@ -931,8 +916,6 @@ A collection of awesome things.
 ## Misc
 
 - [BruceDone/awesome-crawler](https://github.com/BruceDone/awesome-crawler) - A collection of awesome web crawler,spider in different languages
-- [DavidS95/Smokeless_UMAF](https://github.com/DavidS95/Smokeless_UMAF) - 
-- [Elidefunnyguy/ElidefunnyDash](https://github.com/Elidefunnyguy/ElidefunnyDash) - This is a pack for Geometry Dash made by Elidefunnyguy. It features piano versions of the RobTop levels and a galaxy background; not anything crazy.
 - [Frogging-Family/community-patches](https://github.com/Frogging-Family/community-patches) - A place to find patches that are maintained by the community before myself
 - [IntelliJIdeaKeymap4Eclipse/com.github.intellijideakeymap4eclipse.feature](https://github.com/IntelliJIdeaKeymap4Eclipse/com.github.intellijideakeymap4eclipse.feature) - 
 - [LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) - List of Dirty, Naughty, Obscene, and Otherwise Bad Words
