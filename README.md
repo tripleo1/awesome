@@ -305,6 +305,7 @@ A collection of awesome things.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [container2wasm/container2wasm](https://github.com/container2wasm/container2wasm) - Container to WASM converter
 - [cpg1111/ipos](https://github.com/cpg1111/ipos) - Linux Based OS using IPFS as a Root File System
+- [eliben/raft](https://github.com/eliben/raft) - :rowboat: Raft implementation in Go
 - [elimisteve/v2go](https://github.com/elimisteve/v2go) - V-to-Go translator
 - [etkecc/agru](https://github.com/etkecc/agru) - ansible-galaxy requirements updater is fast ansible-galaxy replacement
 - [fatih/astrewrite](https://github.com/fatih/astrewrite) - Go tool to walk & rewrite AST 
