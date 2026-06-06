@@ -981,5 +981,5 @@ A collection of awesome things.
 - [waylau/java-virtual-machine-specification](https://github.com/waylau/java-virtual-machine-specification) - Chinese translation of The Java® Virtual Machine Specification.《Java 虚拟机规范（第11版）》中文翻译及示例，Java SE 11 版
 - [wmutschl/mutschler.dev](https://github.com/wmutschl/mutschler.dev) - Tech blog
 - [xhorak/firefox-dev-flatpak](https://github.com/xhorak/firefox-dev-flatpak) - Create flatpak from freshly compiled Firefox Nightly.
-- [zencq/NomNom](https://github.com/zencq/NomNom) - NomNom is the most complete savegame editor for NMS but also shows additional information around the data you're about to change. You can also easily look up each item individually to examine its attributes, independently of a savegame, or get other useful information that are not related to a specific savegame (but enhanced if one is loaded).
+- [zencq/nomnom](https://github.com/zencq/nomnom) - NomNom is the most complete savegame editor for NMS but also shows additional information around the data you're about to change. You can also easily look up each item individually to examine its attributes, independently of a savegame, or get other useful information that are not related to a specific savegame (but enhanced if one is loaded).
 
