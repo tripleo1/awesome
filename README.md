@@ -24,6 +24,7 @@ A collection of awesome things.
 - [Forth](#forth)
 - [Fortran](#fortran)
 - [Go](#go)
+- [Groovy](#groovy)
 - [HTML](#html)
 - [Haskell](#haskell)
 - [Java](#java)
@@ -337,6 +338,10 @@ A collection of awesome things.
 - [velero-io/velero](https://github.com/velero-io/velero) - Backup and migrate Kubernetes applications and their persistent volumes
 - [wabarc/wayback](https://github.com/wabarc/wayback) - An archiving tool with an IM-style interface that prioritizes privacy and accessibility, integrated with various archival services including Internet Archive, archive.today, Ghostarchive, IPFS, Telegraph, and file systems.
 - [zignig/astralboot](https://github.com/zignig/astralboot) - a low level boot server that deploys servers from file system or ipfs
+
+## Groovy
+
+- [hexaredecimal/GroovyVMExperiment](https://github.com/hexaredecimal/GroovyVMExperiment) - A LIVE, programmable environment for Groovy inspired by Pharo Smalltalk and Interlisp
 
 ## HTML
 
@@ -951,6 +956,7 @@ A collection of awesome things.
 - [gunnarmorling/awesome-annotation-processing](https://github.com/gunnarmorling/awesome-annotation-processing) - A curated list of resources related to the Java annotation processing API (JSR 269)
 - [gutenye/syncthing-kindle](https://github.com/gutenye/syncthing-kindle) - Setup Syncthing on Kindle Touch
 - [hardikvasa/awesome-programming](https://github.com/hardikvasa/awesome-programming) - A curated list of awesome programming talks, articles, books, resources and more!!
+- [hengestone/lua-languages](https://github.com/hengestone/lua-languages) - Languages that compile to Lua
 - [hrj/awesome-eclipse](https://github.com/hrj/awesome-eclipse) - List of awesome plugins and other resources for eclipse
 - [jelmer/awesome-codemods](https://github.com/jelmer/awesome-codemods) - Curated list of tools that can fix your code for you
 - [jghoman/awe-wasm](https://github.com/jghoman/awe-wasm) - awe-wasm = awesome WASM - repo for tracking WASM related resources I find
@@ -959,6 +965,7 @@ A collection of awesome things.
 - [koding/awesome-fuse-fs](https://github.com/koding/awesome-fuse-fs) - Resources related to FUSE (filesystem in user space).
 - [mbasso/awesome-wasm](https://github.com/mbasso/awesome-wasm) - 😎 Curated list of awesome things regarding the WebAssembly (wasm) ecosystem.
 - [mholm/backbone.trix](https://github.com/mholm/backbone.trix) - Backbone.Trix: A framework that turns tricks on a dime.
+- [pamoroso/dandegui](https://github.com/pamoroso/dandegui) - A Medley Interlisp GUI library for simple text and graphics output
 - [phoe/the-elusive-language](https://github.com/phoe/the-elusive-language) - A small Common Lisp-related art project.
 - [photopea/photopea](https://github.com/photopea/photopea) - Photopea is online image editor
 - [prathyvsh/os-catalog](https://github.com/prathyvsh/os-catalog) - Catalogue of novel operating systems
