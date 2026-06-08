@@ -120,6 +120,7 @@ A collection of awesome things.
 - [fvwmorg/fvwm3](https://github.com/fvwmorg/fvwm3) - FVWM version 3 -- the successor to fvwm2
 - [github/securitylab](https://github.com/github/securitylab) - Resources related to GitHub Security Lab
 - [gnooth/xcl](https://github.com/gnooth/xcl) - An implementation of Common Lisp.
+- [gutschke/safeexec](https://github.com/gutschke/safeexec) - 
 - [iczelia/bzip3](https://github.com/iczelia/bzip3) - A better and stronger spiritual successor to BZip2.
 - [idunham/tinyxserver](https://github.com/idunham/tinyxserver) - A small X server, based on Xorg 1.2 but with security fixes.
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
@@ -789,6 +790,7 @@ A collection of awesome things.
 - [sunfishcode/c-ward](https://github.com/sunfishcode/c-ward) - An implementation of libc written in Rust
 - [sunfishcode/eyra](https://github.com/sunfishcode/eyra) - Rust programs written entirely in Rust
 - [sunfishcode/mustang](https://github.com/sunfishcode/mustang) - Rust programs written entirely in Rust
+- [treyzania/mglisp](https://github.com/treyzania/mglisp) - Milligram Lisp - A lightweight, safe, embeddable lisp engine.
 - [versotile-org/verso](https://github.com/versotile-org/verso) - Mirror of https://gitlab.com/verso-browser/verso
 - [vishaltelangre/ff](https://github.com/vishaltelangre/ff) - Find files (ff) by name, fast!
 - [zzhgithub/juner_os](https://github.com/zzhgithub/juner_os) - Rust developed OS based on blog_os Trying a repl environment running in kernel state lisp developed based on mal implementation
