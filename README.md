@@ -465,7 +465,6 @@ A collection of awesome things.
 - [Doist/gulpist](https://github.com/Doist/gulpist) - Static asset build tool for Doist
 - [DonAbney/BuildWatcher](https://github.com/DonAbney/BuildWatcher) - 
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [IBM/guide-conveyor-simulator](https://github.com/IBM/guide-conveyor-simulator) - # WARNING: This repository is no longer maintained :warning:  This content is no longer being updated or maintained. The content is provided “as is.” Given the rapid evolution of technology, some content, steps, or illustrations may have changed.
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - Programming style, best practices, and coding conventions.
 - [MineDojo/Voyager](https://github.com/MineDojo/Voyager) - An Open-Ended Embodied Agent with Large Language Models
@@ -589,6 +588,7 @@ A collection of awesome things.
 - [nix-community/nixos-apple-silicon](https://github.com/nix-community/nixos-apple-silicon) - Resources to install NixOS bare metal on Apple Silicon Macs [maintainers=@tpwrules,@flokli,@yuyuyureka]
 - [nix-community/srvos](https://github.com/nix-community/srvos) - NixOS profiles for servers [maintainer=@numtide]
 - [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) - An unofficial NixOS fork with a FreeBSD kernel
+- [numtide/blueprint](https://github.com/numtide/blueprint) - Standard folder structure for Nix projects
 - [oddlama/nix-topology](https://github.com/oddlama/nix-topology) - 🍁 Generate infrastructure and network diagrams directly from your NixOS configurations
 
 ## OCaml
@@ -864,6 +864,7 @@ A collection of awesome things.
 
 ## TypeScript
 
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI.
 - [antfu/retypewriter](https://github.com/antfu/retypewriter) - Replay the steps of your changes at ease.
 - [bleedingedgeai/bleedingedge.ai](https://github.com/bleedingedgeai/bleedingedge.ai) - Bleeding edge is a feed of noteworthy developments in AI and machine learning.
