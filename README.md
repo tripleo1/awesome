@@ -446,6 +446,7 @@ A collection of awesome things.
 - [rabdulatipoff/ConvBagsGUI](https://github.com/rabdulatipoff/ConvBagsGUI) - Conveyor bags recognition UI software
 - [revelc/formatter-maven-plugin](https://github.com/revelc/formatter-maven-plugin) - Formatter Maven Plugin
 - [rkiddy/WhencePlugin](https://github.com/rkiddy/WhencePlugin) - 
+- [rvirding/erjang](https://github.com/rvirding/erjang) - A JVM-based Erlang VM
 - [slipperyseal/trebuchet](https://github.com/slipperyseal/trebuchet) - Trebuchet Transcompiler is a Java to C++ source code translator
 - [spullara/envelope](https://github.com/spullara/envelope) - Netty 4 based envelope for asynchronous protocols
 - [stepstone-tech/doom-graalvm](https://github.com/stepstone-tech/doom-graalvm) - PoC of running Doom on top of GraalVM
@@ -494,6 +495,7 @@ A collection of awesome things.
 - [kevlarr/awesome-wasm](https://github.com/kevlarr/awesome-wasm) - resources for Wasm presentation; comparison of JS vs. Wasm via implementations of Game of Life
 - [leapmotion/leapjs](https://github.com/leapmotion/leapjs) - JavaScript client for the Leap Motion Controller
 - [lengstrom/falcon](https://github.com/lengstrom/falcon) - Chrome extension for full text history search!
+- [liriliri/licia](https://github.com/liriliri/licia) - Useful utility collection with zero dependencies
 - [mafintosh/abstract-chunk-store](https://github.com/mafintosh/abstract-chunk-store) - A test suite and interface you can use to implement a chunk based storage backend
 - [magicmouse/beads-examples](https://github.com/magicmouse/beads-examples) - Examples of Beads programs
 - [max-mapper/abstract-blob-store](https://github.com/max-mapper/abstract-blob-store) - A test suite and interface you can use to implement streaming file (blob) storage modules for various storage backends and platforms
