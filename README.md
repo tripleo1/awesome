@@ -441,6 +441,7 @@ A collection of awesome things.
 - [meysholdt/xtext_stateful_lexer](https://github.com/meysholdt/xtext_stateful_lexer) - An experiment to derive a stateful lexer from an Xtext grammar
 - [mincong-h/java-examples](https://github.com/mincong-h/java-examples) - Java Examples
 - [musketyr/yuml-dsl-builder](https://github.com/musketyr/yuml-dsl-builder) - YUML DSL Builder (Groovy DSL Builder Example)
+- [openforis/android-ports](https://github.com/openforis/android-ports) - Porting of libraries to make them compatible with Android
 - [palantir/witchcraft-java-logging](https://github.com/palantir/witchcraft-java-logging) - Java implementation of Witchcraft structured logging
 - [pvoosten/explicit-semantic-analysis](https://github.com/pvoosten/explicit-semantic-analysis) - Wikipedia-based Explicit Semantic Analysis, as described by Gabrilovich and Markovitch
 - [rabdulatipoff/ConvBagsGUI](https://github.com/rabdulatipoff/ConvBagsGUI) - Conveyor bags recognition UI software
@@ -614,6 +615,7 @@ A collection of awesome things.
 - [DirectoryLister/DirectoryLister](https://github.com/DirectoryLister/DirectoryLister) - 📂 Directory Lister is the easiest way to expose the contents of any web-accessible folder for browsing and sharing.
 - [dpacassi/face-detection](https://github.com/dpacassi/face-detection) - Comparing different Face detection solutions from Amazon, Google, IBM, Microsoft, Dlib, OpenCV and other open source solutions.
 - [glhd/conveyor-belt](https://github.com/glhd/conveyor-belt) - All the underlying mechanics necessary to write artisan commands that process lots of data efficiently
+- [openforis/maven-latest-artifact-plugin](https://github.com/openforis/maven-latest-artifact-plugin) - Wordpress plugin to obtain the latest available version and publishing date of an artifact hosted in the Mave Central repository.
 
 ## PLpgSQL
 
@@ -779,7 +781,7 @@ A collection of awesome things.
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [kahing/catfs](https://github.com/kahing/catfs) - Cache AnyThing filesystem written in Rust
 - [lovesegfault/daedalos](https://github.com/lovesegfault/daedalos) - A fully (dis)functional OS!
-- [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. Modular networking stack in Rust.
+- [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.
 - [nagisa/msi-rgb](https://github.com/nagisa/msi-rgb) - Linux utility for controlling RGB header on select MSI motherboards
 - [ngeor/rusty-basic](https://github.com/ngeor/rusty-basic) - An interpreter for QBasic, written in Rust.
 - [nix-community/nix-index](https://github.com/nix-community/nix-index) - Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]
