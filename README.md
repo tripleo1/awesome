@@ -140,6 +140,7 @@ A collection of awesome things.
 - [rofl0r/libulz](https://github.com/rofl0r/libulz) - a collection of useful functions and data structures to create C apps faster. focus on simplicity, ability to statically link and minimal binary size.
 - [seL4/seL4](https://github.com/seL4/seL4) - The seL4 microkernel
 - [shellphish/how2heap](https://github.com/shellphish/how2heap) - A repository for learning various heap exploitation techniques.
+- [sudo-project/sudo](https://github.com/sudo-project/sudo) - Utility to execute a command as another user
 - [symisc/unqlite](https://github.com/symisc/unqlite) - An Embedded NoSQL, Transactional Database Engine
 - [tidesdb/tidesdb](https://github.com/tidesdb/tidesdb) - High-performance adaptive, durable, portable, transactional embeddable storage engine with optional tiered object storage for infinite scale. Designed for flash and RAM optimization.
 - [tinycorelinux/tinyx](https://github.com/tinycorelinux/tinyx) - 
