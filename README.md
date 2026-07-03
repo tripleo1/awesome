@@ -97,10 +97,12 @@ A collection of awesome things.
 
 ## C
 
+- [86Box/86Box](https://github.com/86Box/86Box) - Emulator of x86-based machines.
 - [9fans/drawterm](https://github.com/9fans/drawterm) - Connect to Plan 9 CPU servers from other operating systems.
 - [D-os/dos](https://github.com/D-os/dos) - D/os source code super-repo
 - [KelvinNovais/Kasasa](https://github.com/KelvinNovais/Kasasa) - Snip and pin useful information
 - [Old-Man-Programmer/tree](https://github.com/Old-Man-Programmer/tree) - Tree for Unix/LInux
+- [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance) - iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started:  https://wiki.provenance-emu.com  | 
 - [Spirit-of-Oberon/Juice](https://github.com/Spirit-of-Oberon/Juice) - Juice is a technology for distributing executable content across the World Wide Web
 - [Stichting-MINIX-Research-Foundation/minix](https://github.com/Stichting-MINIX-Research-Foundation/minix) - Official MINIX sources - Automatically replicated from gerrit.minix3.org
 - [Tautvydas411/bcachefs-playground](https://github.com/Tautvydas411/bcachefs-playground) - various random stuff around bcachefs-tools
@@ -136,6 +138,7 @@ A collection of awesome things.
 - [phmarek/fsvs](https://github.com/phmarek/fsvs) - Full System Versioning System
 - [phoboslab/neuralink_brainwire](https://github.com/phoboslab/neuralink_brainwire) - Attempt at Neuralink's Compression Challenge
 - [pixeltris/webc86](https://github.com/pixeltris/webc86) - Compile / run C in a web browser via TCC / x86 emulation
+- [ptitSeb/box64](https://github.com/ptitSeb/box64) - Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64, RV64 and LoongArch Linux devices
 - [rochus-keller/Are-we-fast-yet](https://github.com/rochus-keller/Are-we-fast-yet) - Implementations of the Are-we-fast-yet benchmark suite in Oberon, C++, C, Pascal, Micron and Luon
 - [rofl0r/libulz](https://github.com/rofl0r/libulz) - a collection of useful functions and data structures to create C apps faster. focus on simplicity, ability to statically link and minimal binary size.
 - [seL4/seL4](https://github.com/seL4/seL4) - The seL4 microkernel
@@ -155,6 +158,7 @@ A collection of awesome things.
 - [SleepyDeb/JSharp](https://github.com/SleepyDeb/JSharp) - JSharp is a .class loader for Net Core (similar to IKVM) is based on a features remapping of JDK on .Net Core libs
 - [Teicsoft/GLADIATE](https://github.com/Teicsoft/GLADIATE) - GLADIATE is a Spectacle Fighter Card Game. Play with 6 unique decks and fight your way through a gauntlet of foes. Not only do you need to fight to survive, but also pull of combos to maximise your spectacle points and please the crowd.
 - [autofac/Autofac](https://github.com/autofac/Autofac) - An addictive .NET IoC container
+- [jeromerg/NGitVersion](https://github.com/jeromerg/NGitVersion) - Automatic versioning of C# and C++ DLLs (CLI and Native) based on Git Repository information
 - [jksware/yatc](https://github.com/jksware/yatc) - Yet Another Tiger Compiler
 - [livingcomputermuseum/ContrAlto](https://github.com/livingcomputermuseum/ContrAlto) - This repository contains the source code for Living Computers: Museum+Labs's Xerox Alto emulator, ContrAlto.
 - [microsoft/ApplicationInspector](https://github.com/microsoft/ApplicationInspector) - A source code analyzer built for surfacing features of interest and other characteristics to answer the question 'What's in the code?' quickly using static analysis with a json based rules engine. Ideal for scanning components before use or detecting feature level changes.
@@ -167,6 +171,7 @@ A collection of awesome things.
 - [GemHunt/CoinSorter](https://github.com/GemHunt/CoinSorter) - Sorts coins by solenoid on a conveyor by classifying images with Caffe & DIGETS
 - [HaikuArchives/BeFree](https://github.com/HaikuArchives/BeFree) - BeOS API and desktop on top of the Linux kernel.
 - [HaikuArchives/EasyToolkitAndExtension](https://github.com/HaikuArchives/EasyToolkitAndExtension) - A toolkit and extension on BeOS/Windows/POSIX, a little like the BeOS API on platforms other than BeOS.
+- [Inori/GPCS4](https://github.com/Inori/GPCS4) - A work-in-progress PlayStation 4 emulator.
 - [Ithamar/cosmoe](https://github.com/Ithamar/cosmoe) - Cosmoe, Haiku userland on top of Linux/BSD/Darwin based kernel/system.
 - [LemonOSProject/LemonOS](https://github.com/LemonOSProject/LemonOS) - The Lemon Operating System
 - [MeyerFabian/snow](https://github.com/MeyerFabian/snow) - B.Sc. Thesis Simulation of Snow
@@ -186,12 +191,14 @@ A collection of awesome things.
 - [electronicarts/EASTL](https://github.com/electronicarts/EASTL) - EASTL stands for Electronic Arts Standard Template Library.  It is an extensive and robust implementation that has an emphasis on high performance.
 - [facebook/redex](https://github.com/facebook/redex) - A bytecode optimizer for Android apps
 - [facebookexperimental/object-introspection](https://github.com/facebookexperimental/object-introspection) - Object Introspection (OI) enables on-demand, hierarchical profiling of objects in arbitrary C/C++ programs with no recompilation.
+- [flyinghead/flycast](https://github.com/flyinghead/flycast) - Flycast is a multiplatform Sega Dreamcast, Naomi, Naomi 2 and Atomiswave emulator
 - [frol/completely-unscientific-benchmarks](https://github.com/frol/completely-unscientific-benchmarks) - Naive performance comparison of a few programming languages (JavaScript, Kotlin, Rust, Swift, Nim, Python, Go, Haskell, D, C++, Java, C#, Object Pascal, Ada, Lua, Ruby)
 - [google/filesystem-proposal](https://github.com/google/filesystem-proposal) - Boost Filesystem Library with modifications for the C++ standards committee proposal
 - [impedimentToProgress/Ratchet](https://github.com/impedimentToProgress/Ratchet) - Ratchet source code from OSDI 2016
 - [intel-iot-devkit/object-flaw-detector-cpp](https://github.com/intel-iot-devkit/object-flaw-detector-cpp) - Detect various irregularities of a product as it moves along a conveyor belt.
 - [managarm/managarm](https://github.com/managarm/managarm) - Pragmatic microkernel-based OS with fully asynchronous I/O
 - [mhx/dwarfs](https://github.com/mhx/dwarfs) - A fast high-compression read-only file system for Linux, FreeBSD, macOS and Windows
+- [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows & Linux userspace emulator 
 - [neobrain/cftf](https://github.com/neobrain/cftf) - Clang from the Future: A C++17 to C++11 source-to-source compiler
 - [nucleic/kiwi](https://github.com/nucleic/kiwi) - Efficient C++ implementation of the Cassowary constraint solving algorithm
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
@@ -210,6 +217,7 @@ A collection of awesome things.
 - [vprover/vampire](https://github.com/vprover/vampire) - The Vampire Theorem Prover
 - [vygr/ChrysaLisp](https://github.com/vygr/ChrysaLisp) - Parallel OS, with GUI, Terminal, OO Assembler, Class libraries, C-Script compiler, Lisp interpreter and more...
 - [wez/atomicparsley](https://github.com/wez/atomicparsley) - AtomicParsley is a lightweight command line program for reading, parsing and setting metadata into MPEG-4 files, in particular, iTunes-style metadata.
+- [xenia-project/xenia](https://github.com/xenia-project/xenia) - Xbox 360 Emulator Research Project
 - [yookax/jvm.cc](https://github.com/yookax/jvm.cc) - A tiny JVM written in C++, based on JDK 25.
 
 ## CSS
@@ -411,6 +419,7 @@ A collection of awesome things.
 - [eclipse-platform/eclipse.platform](https://github.com/eclipse-platform/eclipse.platform) - Eclipse Platform - a comprehensive set of frameworks and common services that collectively provide a powerful software development infrastructure.
 - [eclipse-xtext/xtext](https://github.com/eclipse-xtext/xtext) - Eclipse Xtext™ is a language development framework 
 - [elipsitz/java-visualizer-intellij-plugin](https://github.com/elipsitz/java-visualizer-intellij-plugin) - 
+- [emito-k/happy-birthday-nikito](https://github.com/emito-k/happy-birthday-nikito) - Happy Birthday Nikito and thanks for being super awesome! RUN THE PROGRAM USING JAVAC!
 - [ericscharff/SmallWorld](https://github.com/ericscharff/SmallWorld) - Tim Budds Simple Smalltalk interpreter in Java
 - [evpl/jkscope](https://github.com/evpl/jkscope) - Java scope functions inspired by Kotlin
 - [fluxtah/xtext-android-gradle-example](https://github.com/fluxtah/xtext-android-gradle-example) - Example of using xtext gradle plugin in an example project
@@ -459,6 +468,7 @@ A collection of awesome things.
 - [unktomi/form-follows-function](https://github.com/unktomi/form-follows-function) - F3 Programming Language
 - [usethesource/rascal](https://github.com/usethesource/rascal) - The implementation of the Rascal meta-programming language (including interpreter, type checker, parser generator, compiler and JVM based run-time system)
 - [wucao/jw3gparser](https://github.com/wucao/jw3gparser) - Java Warcraft Ⅲ Replay Parser（Java解析《魔兽争霸3》游戏录像工具）
+- [xoureldeen/Vectras-VM-Android](https://github.com/xoureldeen/Vectras-VM-Android) - It's a Virtual Machine App for Android Which is Based on QEMU
 - [zbra-dev/android-linq](https://github.com/zbra-dev/android-linq) - Manipulate collections easily using C# LINQ style queries and Java 8 closures.
 
 ## JavaScript
@@ -696,6 +706,8 @@ A collection of awesome things.
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [martin68/apt-smart](https://github.com/martin68/apt-smart) - apt-smart: Smart, automated, robust apt-get mirror selection for Debian, Ubuntu and Linux Mint
 - [microsoft/az-python](https://github.com/microsoft/az-python) - A collection of Python Packages for AI usecases
+- [mininet/mininet](https://github.com/mininet/mininet) - Emulator for rapid prototyping of Software Defined Networks
+- [ministackorg/ministack](https://github.com/ministackorg/ministack) - Ministack: Free, open-source local AWS emulator - 55+ services, Terraform compatible, real databases. Free forever. MIT   licensed.
 - [mist64/c64ref](https://github.com/mist64/c64ref) - Ultimate Commodore 64 Reference: ROM Disassembly, Memory Map, ...
 - [multiformats/py-multibase](https://github.com/multiformats/py-multibase) - Multibase implementation in Python
 - [netneurolab/pypyls](https://github.com/netneurolab/pypyls) - A Python implementation of Partial Least Squares (PLS) decomposition
@@ -957,6 +969,7 @@ A collection of awesome things.
 - [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome) - A curated list of awesome curated lists of many topics.
 - [esa-oss/EclipseRCP-Patcher](https://github.com/esa-oss/EclipseRCP-Patcher) - This repository contains modifications on Eclipse classes in order to provide known patches or new functionalities
 - [fasten-project/Debian-license-collector](https://github.com/fasten-project/Debian-license-collector) - 
+- [fcambus/jsemu](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript programming language
 - [first20hours/google-10000-english](https://github.com/first20hours/google-10000-english) - This repo contains a list of the 10,000 most common English words in order of frequency, as determined by n-gram frequency analysis of the Google's Trillion Word Corpus.
 - [ftomassetti/awesome-compilers](https://github.com/ftomassetti/awesome-compilers) - :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes
 - [fuse-compound/awesome-fuse](https://github.com/fuse-compound/awesome-fuse) - A curated list of awesome Fuse applications, articles, and plugins
