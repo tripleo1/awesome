@@ -356,7 +356,6 @@ A collection of awesome things.
 
 ## HTML
 
-- [Kroc/impatience](https://github.com/Kroc/impatience) - A Patience / Solitaire Collection for Nintendo GameBoy that doesn't waste your time
 - [MahdiF/taptaptap](https://github.com/MahdiF/taptaptap) - 🕹 Open Source Javascript Game
 - [bbonamin/strftimeslikethese](https://github.com/bbonamin/strftimeslikethese) - A Ruby WASM implementation, fully client-side, inspired by foragoodstrftime.com
 - [callgraph/vue-callgraph-manual](https://github.com/callgraph/vue-callgraph-manual) - http://os.cs.tsinghua.edu.cn/research/kernel/callgraph2017
