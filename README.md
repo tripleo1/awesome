@@ -35,7 +35,6 @@ A collection of awesome things.
 - [Kotlin](#kotlin)
 - [Lean](#lean)
 - [Lua](#lua)
-- [MATLAB](#matlab)
 - [Makefile](#makefile)
 - [Modula-2](#modula-2)
 - [Nix](#nix)
@@ -571,10 +570,6 @@ A collection of awesome things.
 
 - [sblask/null-ls.nvim](https://github.com/sblask/null-ls.nvim) - Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
 - [tulip-lang/tulip](https://github.com/tulip-lang/tulip) - 
-
-## MATLAB
-
-- [DipeshNiraula/Log-Normal-Statistics](https://github.com/DipeshNiraula/Log-Normal-Statistics) - This repo contains two files: natural and artificial rock fragmentation process. The natural process yields log-normal description and follows Kolomogorov's approach however the artificial process do not yield Log-normal. 
 
 ## Makefile
 
