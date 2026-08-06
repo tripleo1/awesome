@@ -701,7 +701,7 @@ A collection of awesome things.
 - [martin68/apt-smart](https://github.com/martin68/apt-smart) - apt-smart: Smart, automated, robust apt-get mirror selection for Debian, Ubuntu and Linux Mint
 - [microsoft/az-python](https://github.com/microsoft/az-python) - A collection of Python Packages for AI usecases
 - [mininet/mininet](https://github.com/mininet/mininet) - Emulator for rapid prototyping of Software Defined Networks
-- [ministackorg/ministack](https://github.com/ministackorg/ministack) - Ministack: Free, open-source local AWS emulator - 55+ services, Terraform compatible, real databases. Free forever. MIT   licensed.
+- [ministackorg/ministack](https://github.com/ministackorg/ministack) - Ministack: Free, open-source local AWS emulator - 60+ services, Terraform compatible, real databases. Free forever. MIT   licensed.
 - [mist64/c64ref](https://github.com/mist64/c64ref) - Ultimate Commodore 64 Reference: ROM Disassembly, Memory Map, ...
 - [multiformats/py-multibase](https://github.com/multiformats/py-multibase) - Multibase implementation in Python
 - [netneurolab/pypyls](https://github.com/netneurolab/pypyls) - A Python implementation of Partial Least Squares (PLS) decomposition
