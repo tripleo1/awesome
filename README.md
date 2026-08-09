@@ -669,6 +669,7 @@ A collection of awesome things.
 - [biosbits/bits](https://github.com/biosbits/bits) - BIOS Implementation Test Suite
 - [bmuschko/rules_java_war](https://github.com/bmuschko/rules_java_war) - Bazel rules for generating a Java Web Archive (WAR).
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
+- [byte-pro-max/juxtapose](https://github.com/byte-pro-max/juxtapose) - juxtapose: Multi-Person Pose Tracking Inference SDK with RTMDet, YOLOv8, GDino, RTMPose (ONNX) & Trackers (ByteTrack & BotSORT) & Tapnet with custom ROIs + FastAPI GPU exe
 - [cchen156/Learning-to-See-in-the-Dark](https://github.com/cchen156/Learning-to-See-in-the-Dark) - Learning to See in the Dark. CVPR 2018
 - [cherrypy/cherrypy](https://github.com/cherrypy/cherrypy) - CherryPy is a pythonic, object-oriented HTTP framework.      https://cherrypy.dev
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
@@ -733,7 +734,6 @@ A collection of awesome things.
 - [vivien/i3blocks-contrib](https://github.com/vivien/i3blocks-contrib) - Official repository for community contributed blocklets
 - [yairchu/awesome-structure-editors](https://github.com/yairchu/awesome-structure-editors) - A list of projectional and structural editors
 - [zach-morris/plugin.program.iagl](https://github.com/zach-morris/plugin.program.iagl) - The Internet Archive Game Launcher (IAGL) will launch Games from the Internet using Kodi
-- [ziqinyeow/juxtapose](https://github.com/ziqinyeow/juxtapose) - juxtapose: Multi-Person Pose Tracking Inference SDK with RTMDet, YOLOv8, GDino, RTMPose (ONNX) & Trackers (ByteTrack & BotSORT) & Tapnet with custom ROIs + FastAPI GPU exe
 
 ## QML
 
