@@ -568,7 +568,6 @@ A collection of awesome things.
 
 ## Lua
 
-- [sblask/null-ls.nvim](https://github.com/sblask/null-ls.nvim) - Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
 - [tulip-lang/tulip](https://github.com/tulip-lang/tulip) - 
 
 ## Makefile
@@ -600,7 +599,6 @@ A collection of awesome things.
 
 ## OCaml
 
-- [cryspen/hax](https://github.com/cryspen/hax) - A Rust verification tool
 - [janestreet/incremental](https://github.com/janestreet/incremental) - A library for incremental computations
 
 ## Oberon
@@ -778,6 +776,7 @@ A collection of awesome things.
 - [andreafioraldi/libafl_quickjs_fuzzing](https://github.com/andreafioraldi/libafl_quickjs_fuzzing) - An example fuzzer about how to fuzz a JS engine combinign Nautilus with Token-level fuzzing 
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [build-trust/ockam](https://github.com/build-trust/ockam) - Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale.
+- [cryspen/hax](https://github.com/cryspen/hax) - A Rust verification tool
 - [curlpipe/ox](https://github.com/curlpipe/ox) - The simple but flexible text editor
 - [digama0/lean-sys](https://github.com/digama0/lean-sys) - Rust bindings for the Lean 4 proof assistant
 - [dotboris/alt](https://github.com/dotboris/alt) - A simple version manager tool for switching between different versions of commands
