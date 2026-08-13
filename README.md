@@ -186,8 +186,8 @@ A collection of awesome things.
 - [ceph/ceph](https://github.com/ceph/ceph) - Ceph is a distributed object, block, and file storage platform 
 - [cleverca22/fusenar](https://github.com/cleverca22/fusenar) - A program that mounts a NAR (Nix Archive) archive as a filesystem using FUSE. This repo is written in C++; it has now been rewritten in Haskell (https://github.com/taktoa/narfuse).
 - [cmu-sei/pharos](https://github.com/cmu-sei/pharos) - Automated static analysis tools for binary programs
+- [cscout-project/cscout-engine](https://github.com/cscout-project/cscout-engine) - C code refactoring browser
 - [doug65536/dgos](https://github.com/doug65536/dgos) - Operating System
-- [dspinellis/cscout](https://github.com/dspinellis/cscout) - C code refactoring browser
 - [electronicarts/EASTL](https://github.com/electronicarts/EASTL) - EASTL stands for Electronic Arts Standard Template Library.  It is an extensive and robust implementation that has an emphasis on high performance.
 - [facebook/redex](https://github.com/facebook/redex) - A bytecode optimizer for Android apps
 - [facebookexperimental/object-introspection](https://github.com/facebookexperimental/object-introspection) - Object Introspection (OI) enables on-demand, hierarchical profiling of objects in arbitrary C/C++ programs with no recompilation.
