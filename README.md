@@ -891,6 +891,7 @@ A collection of awesome things.
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
 - [microsoft/vscode-wasm](https://github.com/microsoft/vscode-wasm) - A WASI implementation that uses VS Code's extension host as the implementing API
 - [mihailtd/starter](https://github.com/mihailtd/starter) - Project Starter template using VueJS, Vite, GraphQL backend with PostGraphile, PostgreSQL database in Kubernetes with Crunchy Postgres Operator, local Kubernetes development with DevSpace and auto generated code with graphql-code-generator.
+- [nuxt/hackernews](https://github.com/nuxt/hackernews) - HackerNews clone built with Nuxt.
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 - [rbtying/shengji](https://github.com/rbtying/shengji) - An online version of shengji (a.k.a. tractor) and zhaopengyou (a.k.a. Finding Friends)
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
@@ -916,7 +917,6 @@ A collection of awesome things.
 ## Vue
 
 - [nuxt-community/hackernews-nuxt-ts](https://github.com/nuxt-community/hackernews-nuxt-ts) - Typescript Version of HackerNews Nuxt
-- [nuxt/hackernews](https://github.com/nuxt/hackernews) - HackerNews clone built with Nuxt.
 - [vuejs/vue-hackernews](https://github.com/vuejs/vue-hackernews) - HackerNews clone with Vue.js
 
 ## Xtend
