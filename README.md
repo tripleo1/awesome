@@ -219,6 +219,7 @@ A collection of awesome things.
 - [wez/atomicparsley](https://github.com/wez/atomicparsley) - AtomicParsley is a lightweight command line program for reading, parsing and setting metadata into MPEG-4 files, in particular, iTunes-style metadata.
 - [xenia-project/xenia](https://github.com/xenia-project/xenia) - Xbox 360 Emulator Research Project
 - [yookax/jvm.cc](https://github.com/yookax/jvm.cc) - A tiny JVM written in C++, based on JDK 25.
+- [youraerials/gecko-b2g](https://github.com/youraerials/gecko-b2g) - Gecko with Gonk support
 
 ## CSS
 
@@ -523,6 +524,8 @@ A collection of awesome things.
 - [thesephist/unim.press](https://github.com/thesephist/unim.press) - A Reddit front-page reader in the style of The New York Times.
 - [torch2424/made-with-webassembly](https://github.com/torch2424/made-with-webassembly) - A showcase of awesome production applications, side projects, and use cases made with WebAssembly (Wasm). 👷
 - [wreedb/god](https://github.com/wreedb/god) - data text formats don't need to be awful
+- [youraerials/NextBillionVoices](https://github.com/youraerials/NextBillionVoices) - 
+- [youraerials/ShowMe](https://github.com/youraerials/ShowMe) - a touch event relay for firefox os
 
 ## Jinja
 
@@ -958,6 +961,7 @@ A collection of awesome things.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [beriberikix/awesome-wasm-blockchain](https://github.com/beriberikix/awesome-wasm-blockchain) - 📦⛓ Curated list of awesome things regarding WebAssembly (wasm) and Blockchain projects
 - [bhatti/JavaNOW](https://github.com/bhatti/JavaNOW) - Java Network of Workstation - Linda and Actor based framework for writing parallel and distributed applications
+- [bitwiseworks/mozilla-os2](https://github.com/bitwiseworks/mozilla-os2) - Mozilla for OS/2 and OS/2-based systems
 - [builtbybel/CloneApp](https://github.com/builtbybel/CloneApp) - 📦Easily Backup & Restore Windows Programs Settings
 - [bxd/advcpmv](https://github.com/bxd/advcpmv) - A patch for cp / mv to add progress bars
 - [coders-vechai/awesome-stars](https://github.com/coders-vechai/awesome-stars) - A curated list of my GitHub stars!
