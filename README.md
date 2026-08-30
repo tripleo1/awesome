@@ -975,7 +975,6 @@ A collection of awesome things.
 - [ftomassetti/awesome-compilers](https://github.com/ftomassetti/awesome-compilers) - :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes
 - [fuse-compound/awesome-fuse](https://github.com/fuse-compound/awesome-fuse) - A curated list of awesome Fuse applications, articles, and plugins
 - [gerardokaztro/cybersecurity-entry-level](https://github.com/gerardokaztro/cybersecurity-entry-level) - Curso para aprender Ciberseguridad desde cero, en español y 100% gratis. Abarca 5 dominios fundamentales que necesitas conocer para poder dar tus primeros pasos en este apasionante mundo.
-- [gunnarmorling/awesome-annotation-processing](https://github.com/gunnarmorling/awesome-annotation-processing) - A curated list of resources related to the Java annotation processing API (JSR 269)
 - [gutenye/syncthing-kindle](https://github.com/gutenye/syncthing-kindle) - Setup Syncthing on Kindle Touch
 - [hardikvasa/awesome-programming](https://github.com/hardikvasa/awesome-programming) - A curated list of awesome programming talks, articles, books, resources and more!!
 - [hengestone/lua-languages](https://github.com/hengestone/lua-languages) - Languages that compile to Lua
