@@ -563,7 +563,6 @@ A collection of awesome things.
 ## Lean
 
 - [avigad/mathematics_in_lean_source](https://github.com/avigad/mathematics_in_lean_source) - Source code for the Mathematics in Lean tutorial.
-- [cryspen/hax](https://github.com/cryspen/hax) - A Rust verification tool
 - [draperlaboratory/ELFSage](https://github.com/draperlaboratory/ELFSage) - A toy ELF parser/validator
 - [leanprover-community/physlib](https://github.com/leanprover-community/physlib) - A project to digitalise results from physics into Lean.
 - [leanprover/LNSym](https://github.com/leanprover/LNSym) - Armv8 Native Code Symbolic Simulator in Lean
@@ -780,6 +779,7 @@ A collection of awesome things.
 - [andreafioraldi/libafl_quickjs_fuzzing](https://github.com/andreafioraldi/libafl_quickjs_fuzzing) - An example fuzzer about how to fuzz a JS engine combinign Nautilus with Token-level fuzzing 
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [build-trust/ockam](https://github.com/build-trust/ockam) - Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale.
+- [cryspen/hax](https://github.com/cryspen/hax) - A Rust verification tool
 - [curlpipe/ox](https://github.com/curlpipe/ox) - The simple but flexible text editor
 - [digama0/lean-sys](https://github.com/digama0/lean-sys) - Rust bindings for the Lean 4 proof assistant
 - [dotboris/alt](https://github.com/dotboris/alt) - A simple version manager tool for switching between different versions of commands
