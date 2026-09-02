@@ -51,6 +51,7 @@ A collection of awesome things.
 - [R](#r)
 - [Racket](#racket)
 - [Rich Text Format](#rich-text-format)
+- [Rocq Prover](#rocq-prover)
 - [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -753,6 +754,10 @@ A collection of awesome things.
 ## Rich Text Format
 
 - [phodal/github](https://github.com/phodal/github) - GitHub 漫游指南- a Chinese ebook on how to build a good project on Github. Explore the users' behavior. Find some thing interest.
+
+## Rocq Prover
+
+- [emarzion/coqchess](https://github.com/emarzion/coqchess) - rocq formalization of chess tablebases
 
 ## Roff
 
