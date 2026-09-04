@@ -556,6 +556,7 @@ A collection of awesome things.
 - [copper-leaf/ballast](https://github.com/copper-leaf/ballast) - Opinionated Application State Management framework for Kotlin Multiplatform
 - [facebookincubator/dataclassgenerate](https://github.com/facebookincubator/dataclassgenerate) - DataClassGenerate (or simply DCG) is a Kotlin compiler plugin that addresses an Android APK size overhead from Kotlin data classes. 
 - [joreilly/PeopleInSpace](https://github.com/joreilly/PeopleInSpace) - Kotlin Multiplatform sample with SwiftUI, Jetpack Compose, Compose for Wear, Compose for Desktop, and Compose for Web clients along with Ktor backend.
+- [jport/borrowed-memory](https://github.com/jport/borrowed-memory) - Executable Kotlin models of catalytic-computation constructions, with deterministic oracle and exact tape-restoration tests.
 - [manriif/supabase-edge-functions-kt](https://github.com/manriif/supabase-edge-functions-kt) - Build, serve and deploy Supabase Edge Functions with Kotlin and Gradle.
 - [square/workflow-kotlin](https://github.com/square/workflow-kotlin) - A Swift and Kotlin library for making composable state machines, and UIs driven by those state machines.
 - [tateisu/SubwayTooter](https://github.com/tateisu/SubwayTooter) - Mastodon client app for Android
@@ -659,6 +660,7 @@ A collection of awesome things.
 - [Komodo/KomodoEdit](https://github.com/Komodo/KomodoEdit) - Komodo Edit is a fast and free multi-language code editor. Written in JS, Python, C++ and based on the Mozilla platform.
 - [LunaTMT/Snake](https://github.com/LunaTMT/Snake) - Snake created with Pygame
 - [MarcusRainbow/pypyrust](https://github.com/MarcusRainbow/pypyrust) - Python to Rust compiler
+- [MettaMazza/Smithian-Fold-Computational-Sciences](https://github.com/MettaMazza/Smithian-Fold-Computational-Sciences) - Proof-carrying Smithian Fold derivation and executable laboratory for classical and quantum computational sciences
 - [MilaNLProc/honest](https://github.com/MilaNLProc/honest) - A Python package to compute HONEST, a score to measure hurtful sentence completions in language models. Published at NAACL 2021.
 - [NixIPFS/nixipfs-scripts](https://github.com/NixIPFS/nixipfs-scripts) - Mirror a Hydra jobset using IPFS or plain rsync
 - [StuyPulse/theia](https://github.com/StuyPulse/theia) - Theia is a visual localization solution using the ArUco fiducial system.
