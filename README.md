@@ -216,7 +216,6 @@ A collection of awesome things.
 - [stephank/dumpnar](https://github.com/stephank/dumpnar) - Minimal tool to produce a Nix NAR archive.
 - [urbste/pyTheiaSfM](https://github.com/urbste/pyTheiaSfM) - An open source Python library for multiview geometry and structure from motion
 - [vprover/vampire](https://github.com/vprover/vampire) - The Vampire Theorem Prover
-- [vygr/ChrysaLisp](https://github.com/vygr/ChrysaLisp) - Parallel OS, with GUI, Terminal, OO Assembler, Class libraries, C-Script compiler, Lisp interpreter and more...
 - [wez/atomicparsley](https://github.com/wez/atomicparsley) - AtomicParsley is a lightweight command line program for reading, parsing and setting metadata into MPEG-4 files, in particular, iTunes-style metadata.
 - [xenia-project/xenia](https://github.com/xenia-project/xenia) - Xbox 360 Emulator Research Project
 - [yookax/jvm.cc](https://github.com/yookax/jvm.cc) - A tiny JVM written in C++, based on JDK 25.
@@ -252,6 +251,7 @@ A collection of awesome things.
 - [froggey/Mezzano](https://github.com/froggey/Mezzano) - An operating system written in Common Lisp
 - [jpcima/sbcl-image-builder](https://github.com/jpcima/sbcl-image-builder) - Lisp image build for SBCL
 - [kiselgra/c-mera](https://github.com/kiselgra/c-mera) - Next-level syntax for C-like languages :)
+- [vygr/ChrysaLisp](https://github.com/vygr/ChrysaLisp) - Parallel OS, with GUI, Terminal, OO Assembler, Class libraries, C-Script compiler, Lisp interpreter and more...
 
 ## Component Pascal
 
