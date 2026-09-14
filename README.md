@@ -419,7 +419,6 @@ A collection of awesome things.
 - [eclipse-platform/eclipse.platform](https://github.com/eclipse-platform/eclipse.platform) - Eclipse Platform - a comprehensive set of frameworks and common services that collectively provide a powerful software development infrastructure.
 - [eclipse-xtext/xtext](https://github.com/eclipse-xtext/xtext) - Eclipse Xtext™ is a language development framework 
 - [elipsitz/java-visualizer-intellij-plugin](https://github.com/elipsitz/java-visualizer-intellij-plugin) - 
-- [emito-k/happy-birthday-nikito](https://github.com/emito-k/happy-birthday-nikito) - Happy Birthday Nikito and thanks for being super awesome! RUN THE PROGRAM USING JAVAC!
 - [ericscharff/SmallWorld](https://github.com/ericscharff/SmallWorld) - Tim Budds Simple Smalltalk interpreter in Java
 - [evpl/jkscope](https://github.com/evpl/jkscope) - Java scope functions inspired by Kotlin
 - [fluxtah/xtext-android-gradle-example](https://github.com/fluxtah/xtext-android-gradle-example) - Example of using xtext gradle plugin in an example project
@@ -660,7 +659,6 @@ A collection of awesome things.
 - [Komodo/KomodoEdit](https://github.com/Komodo/KomodoEdit) - Komodo Edit is a fast and free multi-language code editor. Written in JS, Python, C++ and based on the Mozilla platform.
 - [LunaTMT/Snake](https://github.com/LunaTMT/Snake) - Snake created with Pygame
 - [MarcusRainbow/pypyrust](https://github.com/MarcusRainbow/pypyrust) - Python to Rust compiler
-- [MettaMazza/Smithian-Fold-Computational-Sciences](https://github.com/MettaMazza/Smithian-Fold-Computational-Sciences) - Proof-carrying Smithian Fold derivation and executable laboratory for classical and quantum computational sciences
 - [MilaNLProc/honest](https://github.com/MilaNLProc/honest) - A Python package to compute HONEST, a score to measure hurtful sentence completions in language models. Published at NAACL 2021.
 - [NixIPFS/nixipfs-scripts](https://github.com/NixIPFS/nixipfs-scripts) - Mirror a Hydra jobset using IPFS or plain rsync
 - [StuyPulse/theia](https://github.com/StuyPulse/theia) - Theia is a visual localization solution using the ArUco fiducial system.
