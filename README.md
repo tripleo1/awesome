@@ -216,7 +216,6 @@ A collection of awesome things.
 - [stephank/dumpnar](https://github.com/stephank/dumpnar) - Minimal tool to produce a Nix NAR archive.
 - [urbste/pyTheiaSfM](https://github.com/urbste/pyTheiaSfM) - An open source Python library for multiview geometry and structure from motion
 - [vprover/vampire](https://github.com/vprover/vampire) - The Vampire Theorem Prover
-- [vygr/ChrysaLisp](https://github.com/vygr/ChrysaLisp) - Parallel OS, with GUI, Terminal, OO Assembler, Class libraries, C-Script compiler, Lisp interpreter and more...
 - [wez/atomicparsley](https://github.com/wez/atomicparsley) - AtomicParsley is a lightweight command line program for reading, parsing and setting metadata into MPEG-4 files, in particular, iTunes-style metadata.
 - [xenia-project/xenia](https://github.com/xenia-project/xenia) - Xbox 360 Emulator Research Project
 - [yookax/jvm.cc](https://github.com/yookax/jvm.cc) - A tiny JVM written in C++, based on JDK 25.
@@ -230,6 +229,8 @@ A collection of awesome things.
 ## Clojure
 
 - [TodePond/ClojePond](https://github.com/TodePond/ClojePond) - lu learns clojure
+- [brandonbloom/eclj](https://github.com/brandonbloom/eclj) - Extensible Clojure
+- [brandonbloom/metaclj](https://github.com/brandonbloom/metaclj) - Staged compilation for Clojure through environment & special-form aware syntax-quoting.
 - [clojure/core.logic](https://github.com/clojure/core.logic) - A logic programming library for Clojure & ClojureScript
 - [donut-party/system](https://github.com/donut-party/system) - a dependency injection library for Clojure and ClojureScript 🍩
 - [eliascotto/tryclojure](https://github.com/eliascotto/tryclojure) - Clojure live REPL tutorial
@@ -237,6 +238,7 @@ A collection of awesome things.
 - [hyperfiddle/electric](https://github.com/hyperfiddle/electric) - Electric Clojure: full-stack differential dataflow for UI
 - [jacekschae/conduit](https://github.com/jacekschae/conduit) - Real world application built with ClojureScript + re-frame
 - [joshuamiller/exif-processor](https://github.com/joshuamiller/exif-processor) - Exif processing for Clojure
+- [kennytilton/mxtodomvc](https://github.com/kennytilton/mxtodomvc) - The TodoMVC Classic implemented with mxWeb and Matrix
 - [mbuczko/revolt](https://github.com/mbuczko/revolt) - Your trampoline to Clojure dev toolbox
 - [nextjournal/clerk](https://github.com/nextjournal/clerk) - ⚡️ Moldable Live Programming for Clojure
 - [razum2um/awesome-clojure](https://github.com/razum2um/awesome-clojure) - A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff
@@ -249,9 +251,11 @@ A collection of awesome things.
 
 - [Interlisp/medley](https://github.com/Interlisp/medley) - The main repo for the Medley Interlisp project. Wiki, Issues are here. Other repositories include maiko (the VM implementation) and Interlisp.github.io (web site sources)
 - [armedbear/abcl](https://github.com/armedbear/abcl) - Armed Bear Common Lisp &lt;git+https://github.com/armedbear/abcl/&gt; &lt;--&gt; &lt;svn+https://abcl.org/svn&gt; Bridge
+- [digikar99/numericals](https://github.com/digikar99/numericals) - SIMD powered simple-math numerical operations on arrays for Common Lisp through CFFI [still experimental]
 - [froggey/Mezzano](https://github.com/froggey/Mezzano) - An operating system written in Common Lisp
 - [jpcima/sbcl-image-builder](https://github.com/jpcima/sbcl-image-builder) - Lisp image build for SBCL
 - [kiselgra/c-mera](https://github.com/kiselgra/c-mera) - Next-level syntax for C-like languages :)
+- [vygr/ChrysaLisp](https://github.com/vygr/ChrysaLisp) - Parallel OS, with GUI, Terminal, OO Assembler, Class libraries, C-Script compiler, Lisp interpreter and more...
 
 ## Component Pascal
 
