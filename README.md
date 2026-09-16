@@ -367,6 +367,7 @@ A collection of awesome things.
 - [eclipse-platform/eclipse.platform.releng.aggregator](https://github.com/eclipse-platform/eclipse.platform.releng.aggregator) - Aggregated repository from which Eclipse SDK is being build
 - [eine/elide](https://github.com/eine/elide) - Embedded Logic Integrated Design Environment
 - [jeanboydev/Android-ReadTheFuckingSourceCode](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode) - 😜 记录日常的开发技巧，开发中遇到的技术重点、难点，各个知识点的总结，优质面试题等等。持续更新...
+- [linux-kernel-labs/linux-kernel-labs.github.io](https://github.com/linux-kernel-labs/linux-kernel-labs.github.io) - 
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares 
 - [malisipi/ubuntu-tour](https://github.com/malisipi/ubuntu-tour) - Web-Based Ubuntu
 - [oberon-lang/oberon-lang.github.io](https://github.com/oberon-lang/oberon-lang.github.io) - The Oberon+ Programming Language
