@@ -462,6 +462,7 @@ A collection of awesome things.
 - [revelc/formatter-maven-plugin](https://github.com/revelc/formatter-maven-plugin) - Formatter Maven Plugin
 - [rkiddy/WhencePlugin](https://github.com/rkiddy/WhencePlugin) - 
 - [rvirding/erjang](https://github.com/rvirding/erjang) - A JVM-based Erlang VM
+- [sam0x17/bettercast](https://github.com/sam0x17/bettercast) - Cast from anything, to anything, no strings attached
 - [slipperyseal/trebuchet](https://github.com/slipperyseal/trebuchet) - Trebuchet Transcompiler is a Java to C++ source code translator
 - [spullara/envelope](https://github.com/spullara/envelope) - Netty 4 based envelope for asynchronous protocols
 - [stepstone-tech/doom-graalvm](https://github.com/stepstone-tech/doom-graalvm) - PoC of running Doom on top of GraalVM
