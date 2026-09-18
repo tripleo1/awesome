@@ -83,6 +83,7 @@ A collection of awesome things.
 
 ## Assembly
 
+- [MakrSas/MS-DOS-2026](https://github.com/MakrSas/MS-DOS-2026) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
 - [Mazin-O3/Veecom](https://github.com/Mazin-O3/Veecom) - Simple Yet Powerful RISC-V Computer
 - [donno2048/snake](https://github.com/donno2048/snake) - A 54 bytes snake game in x86 assembly 
 - [dspinellis/unix-history-repo](https://github.com/dspinellis/unix-history-repo) - Continuous Unix commit history from 1970 until today
@@ -91,6 +92,7 @@ A collection of awesome things.
 - [jimon/libkorutin](https://github.com/jimon/libkorutin) - small C coroutine library based on pypy's stacklet and boost context
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
 - [nakst/flip](https://github.com/nakst/flip) - A 16-bit Lisp based operating system.
+- [robertlane0/MS-DOS64](https://github.com/robertlane0/MS-DOS64) - A 64-bit version of MS-DOS v1.25.
 
 ## Astro
 
@@ -223,6 +225,8 @@ A collection of awesome things.
 
 ## CSS
 
+- [Paladin1991/Lats-Fvwm](https://github.com/Paladin1991/Lats-Fvwm) - 
+- [Paladin1991/dotfiles.i3-gaps](https://github.com/Paladin1991/dotfiles.i3-gaps) - 
 - [SquareBracketAssociates/Booklet-Smacc](https://github.com/SquareBracketAssociates/Booklet-Smacc) - A booklet on the Smacc compiler compiler framework
 - [klange/Firefox-UI-Fix](https://github.com/klange/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
 
@@ -468,7 +472,6 @@ A collection of awesome things.
 - [stepstone-tech/doom-graalvm](https://github.com/stepstone-tech/doom-graalvm) - PoC of running Doom on top of GraalVM
 - [tcurdt/jdeb](https://github.com/tcurdt/jdeb) - This library provides an Ant task and a Maven plugin to create Debian packages from Java builds in a truly cross platform manner.
 - [thinkberg/snipsnap](https://github.com/thinkberg/snipsnap) - SnipSnap - A java based wiki
-- [tripleo1/gmail-mail-importer](https://github.com/tripleo1/gmail-mail-importer) - Mail Importer for Gmail will upload the contents of a Thunderbird mail archive to Gmail and do its best to preserve the read state, flagged state, and folders of the messages.
 - [tripleo1/magnusja-java-fs](https://github.com/tripleo1/magnusja-java-fs) - Various file system implementations based on the code of the JNode operating system
 - [unktomi/form-follows-function](https://github.com/unktomi/form-follows-function) - F3 Programming Language
 - [usethesource/rascal](https://github.com/usethesource/rascal) - The implementation of the Rascal meta-programming language (including interpreter, type checker, parser generator, compiler and JVM based run-time system)
