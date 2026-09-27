@@ -133,7 +133,7 @@ A collection of awesome things.
 - [kdave/ffsb](https://github.com/kdave/ffsb) - Flexible filesystem benchmark (https://sourceforge.net/projects/ffsb)
 - [kernc/xsuspender](https://github.com/kernc/xsuspender) - 👀 💻 💤 🔋 Save battery by auto-suspending unfocused X11 apps
 - [kev009/trix](https://github.com/kev009/trix) - MIT Trix operating system (UNIX-like)
-- [koverstreet/bcachefs](https://github.com/koverstreet/bcachefs) - 
+- [koverstreet/bcachefs](https://github.com/koverstreet/bcachefs) - Archived - bcachefs development has moved to koverstreet/bcachefs-tools (the kernel code is in fs/ there). Please file issues and PRs there.
 - [larmel/lacc](https://github.com/larmel/lacc) - A simple, self-hosting C compiler
 - [libfirm/cparser](https://github.com/libfirm/cparser) - C99 parser and frontend for libfirm
 - [littlekernel/lk](https://github.com/littlekernel/lk) - LK embedded kernel
