@@ -105,7 +105,6 @@ A collection of awesome things.
 - [D-os/dos](https://github.com/D-os/dos) - D/os source code super-repo
 - [KelvinNovais/Kasasa](https://github.com/KelvinNovais/Kasasa) - Snip and pin useful information
 - [Old-Man-Programmer/tree](https://github.com/Old-Man-Programmer/tree) - Tree for Unix/LInux
-- [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance) - iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started:  https://wiki.provenance-emu.com  | 
 - [Spirit-of-Oberon/Juice](https://github.com/Spirit-of-Oberon/Juice) - Juice is a technology for distributing executable content across the World Wide Web
 - [Stichting-MINIX-Research-Foundation/minix](https://github.com/Stichting-MINIX-Research-Foundation/minix) - Official MINIX sources - Automatically replicated from gerrit.minix3.org
 - [Tautvydas411/bcachefs-playground](https://github.com/Tautvydas411/bcachefs-playground) - various random stuff around bcachefs-tools
@@ -178,6 +177,7 @@ A collection of awesome things.
 - [Ithamar/cosmoe](https://github.com/Ithamar/cosmoe) - Cosmoe, Haiku userland on top of Linux/BSD/Darwin based kernel/system.
 - [LemonOSProject/LemonOS](https://github.com/LemonOSProject/LemonOS) - The Lemon Operating System
 - [MeyerFabian/snow](https://github.com/MeyerFabian/snow) - B.Sc. Thesis Simulation of Snow
+- [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance) - iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started:  https://wiki.provenance-emu.com  | 
 - [ReadyTalk/avian](https://github.com/ReadyTalk/avian) - [INACTIVE] Avian is a lightweight virtual machine and class library designed to provide a useful subset of Java's features, suitable for building self-contained applications.
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [X547/wayland-server](https://github.com/X547/wayland-server) - In-proc Wayland server for Haiku
