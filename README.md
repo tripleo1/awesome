@@ -67,7 +67,6 @@ A collection of awesome things.
 - [TypeScript](#typescript)
 - [V](#v)
 - [VBA](#vba)
-- [Verilog](#verilog)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
 - [Xtend](#xtend)
@@ -887,6 +886,7 @@ A collection of awesome things.
 
 ## SystemVerilog
 
+- [chili-chips-ba/wireguard-fpga](https://github.com/chili-chips-ba/wireguard-fpga) - Full-throttle, wire-speed hardware implementation of Wireguard VPN, using low-cost Artix7 FPGA with opensource toolchain. If you seek security and privacy, nothing is private in our codebase. Our door is wide open for backdoor scrutiny, be it related to RTL, embedded, build, bitstream or any other aspect of design and delivery package. Bujrum!
 - [cluelogic/uvm-tutorial-for-candy-lovers](https://github.com/cluelogic/uvm-tutorial-for-candy-lovers) - Source code repo for UVM Tutorial for Candy Lovers
 
 ## TeX
@@ -921,10 +921,6 @@ A collection of awesome things.
 ## VBA
 
 - [visual2000/DadaCards](https://github.com/visual2000/DadaCards) - A nihilistic card game, to simulate folks having fun on computers in the old days.
-
-## Verilog
-
-- [chili-chips-ba/wireguard-fpga](https://github.com/chili-chips-ba/wireguard-fpga) - Full-throttle, wire-speed hardware implementation of Wireguard VPN, using low-cost Artix7 FPGA with opensource toolchain. If you seek security and privacy, nothing is private in our codebase. Our door is wide open for backdoor scrutiny, be it related to RTL, embedded, build, bitstream or any other aspect of design and delivery package. Bujrum!
 
 ## Vim Script
 
