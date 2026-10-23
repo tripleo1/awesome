@@ -792,7 +792,6 @@ A collection of awesome things.
 - [andreafioraldi/libafl_quickjs_fuzzing](https://github.com/andreafioraldi/libafl_quickjs_fuzzing) - An example fuzzer about how to fuzz a JS engine combinign Nautilus with Token-level fuzzing 
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [build-trust/ockam](https://github.com/build-trust/ockam) - Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale.
-- [cryspen/hax](https://github.com/cryspen/hax) - A Rust verification tool
 - [curlpipe/ox](https://github.com/curlpipe/ox) - The simple but flexible text editor
 - [digama0/lean-sys](https://github.com/digama0/lean-sys) - Rust bindings for the Lean 4 proof assistant
 - [dotboris/alt](https://github.com/dotboris/alt) - A simple version manager tool for switching between different versions of commands
@@ -807,6 +806,7 @@ A collection of awesome things.
 - [nagisa/msi-rgb](https://github.com/nagisa/msi-rgb) - Linux utility for controlling RGB header on select MSI motherboards
 - [ngeor/rusty-basic](https://github.com/ngeor/rusty-basic) - An interpreter for QBasic, written in Rust.
 - [nix-community/nix-index](https://github.com/nix-community/nix-index) - Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]
+- [pereq-dev/hax](https://github.com/pereq-dev/hax) - A Rust verification tool
 - [pop-os/cosmic-text](https://github.com/pop-os/cosmic-text) - Pure Rust multi-line text handling
 - [project-machine/puzzlefs](https://github.com/project-machine/puzzlefs) - A next-generation container filesystem
 - [rgwood/systemctl-tui](https://github.com/rgwood/systemctl-tui) - A fast, simple TUI for interacting with systemd services and their logs
