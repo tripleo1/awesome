@@ -191,7 +191,6 @@ A collection of awesome things.
 - [cscout-project/cscout-engine](https://github.com/cscout-project/cscout-engine) - C code refactoring browser
 - [doug65536/dgos](https://github.com/doug65536/dgos) - Operating System
 - [electronicarts/EASTL](https://github.com/electronicarts/EASTL) - EASTL stands for Electronic Arts Standard Template Library.  It is an extensive and robust implementation that has an emphasis on high performance.
-- [facebook/redex](https://github.com/facebook/redex) - A bytecode optimizer for Android apps
 - [facebookexperimental/object-introspection](https://github.com/facebookexperimental/object-introspection) - Object Introspection (OI) enables on-demand, hierarchical profiling of objects in arbitrary C/C++ programs with no recompilation.
 - [flyinghead/flycast](https://github.com/flyinghead/flycast) - Flycast is a multiplatform Sega Dreamcast, Naomi, Naomi 2 and Atomiswave emulator
 - [frol/completely-unscientific-benchmarks](https://github.com/frol/completely-unscientific-benchmarks) - Naive performance comparison of a few programming languages (JavaScript, Kotlin, Rust, Swift, Nim, Python, Go, Haskell, D, C++, Java, C#, Object Pascal, Ada, Lua, Ruby)
@@ -199,6 +198,7 @@ A collection of awesome things.
 - [impedimentToProgress/Ratchet](https://github.com/impedimentToProgress/Ratchet) - Ratchet source code from OSDI 2016
 - [intel-iot-devkit/object-flaw-detector-cpp](https://github.com/intel-iot-devkit/object-flaw-detector-cpp) - Detect various irregularities of a product as it moves along a conveyor belt.
 - [managarm/managarm](https://github.com/managarm/managarm) - Pragmatic microkernel-based OS with fully asynchronous I/O
+- [meta/redex](https://github.com/meta/redex) - A bytecode optimizer for Android apps
 - [mhx/dwarfs](https://github.com/mhx/dwarfs) - A fast high-compression read-only file system for Linux, FreeBSD, macOS and Windows
 - [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows & Linux userspace emulator 
 - [neobrain/cftf](https://github.com/neobrain/cftf) - Clang from the Future: A C++17 to C++11 source-to-source compiler
@@ -797,11 +797,11 @@ A collection of awesome things.
 - [dotboris/alt](https://github.com/dotboris/alt) - A simple version manager tool for switching between different versions of commands
 - [edef1c/libfringe](https://github.com/edef1c/libfringe) - a Rust library implementing safe, lightweight context switches, without relying on kernel services
 - [ekzhang/crepe](https://github.com/ekzhang/crepe) - Datalog compiler embedded in Rust as a procedural macro
-- [facebook/starlark-rust](https://github.com/facebook/starlark-rust) - A Rust implementation of the Starlark language
 - [isabelroses/lix-diff](https://github.com/isabelroses/lix-diff) - 
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [kahing/catfs](https://github.com/kahing/catfs) - Cache AnyThing filesystem written in Rust
 - [lovesegfault/daedalos](https://github.com/lovesegfault/daedalos) - A fully (dis)functional OS!
+- [meta/starlark-rust](https://github.com/meta/starlark-rust) - A Rust implementation of the Starlark language
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.
 - [nagisa/msi-rgb](https://github.com/nagisa/msi-rgb) - Linux utility for controlling RGB header on select MSI motherboards
 - [ngeor/rusty-basic](https://github.com/ngeor/rusty-basic) - An interpreter for QBasic, written in Rust.
