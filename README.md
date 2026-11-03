@@ -347,7 +347,7 @@ A collection of awesome things.
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [roddhjav/apparmor.d](https://github.com/roddhjav/apparmor.d) - Full set of AppArmor policies
 - [scratchdata/scratchdata](https://github.com/scratchdata/scratchdata) - Scratch is a swiss army knife for big data.
-- [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.
+- [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a distributed storage system for object storage (S3), file systems, Iceberg table buckets, and Lance vector buckets, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.
 - [seifer/go-seaweedfs](https://github.com/seifer/go-seaweedfs) - Seaweed-FS is a simple and highly scalable distributed file system. There are two objectives:  to store billions of files! to serve the files fast! Instead of supporting full POSIX file system semantics, Seaweed-FS choose to implement only a key~file mapping. Similar to the word "NoSQL", you can call it as "NoFS".
 - [slotix/dataflowkit](https://github.com/slotix/dataflowkit) - Extract structured data from web sites. Web sites scraping.  
 - [thesephist/ink](https://github.com/thesephist/ink) - Ink is a minimal programming language inspired by modern JavaScript and Go, with functional style.
@@ -682,6 +682,7 @@ A collection of awesome things.
 - [byte-pro-max/juxtapose](https://github.com/byte-pro-max/juxtapose) - juxtapose: Multi-Person Pose Tracking Inference SDK with RTMDet, YOLOv8, GDino, RTMPose (ONNX) & Trackers (ByteTrack & BotSORT) & Tapnet with custom ROIs + FastAPI GPU exe
 - [cchen156/Learning-to-See-in-the-Dark](https://github.com/cchen156/Learning-to-See-in-the-Dark) - Learning to See in the Dark. CVPR 2018
 - [cherrypy/cherrypy](https://github.com/cherrypy/cherrypy) - CherryPy is a pythonic, object-oriented HTTP framework.      https://cherrypy.dev
+- [chili-chips-ba/wireguard-fpga](https://github.com/chili-chips-ba/wireguard-fpga) - Full-throttle, wire-speed hardware implementation of Wireguard VPN, using low-cost Artix7 FPGA with opensource toolchain. If you seek security and privacy, nothing is private in our codebase. Our door is wide open for backdoor scrutiny, be it related to RTL, embedded, build, bitstream or any other aspect of design and delivery package. Bujrum!
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
 - [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
 - [corna/me_cleaner](https://github.com/corna/me_cleaner) - Tool for partial deblobbing of Intel ME/TXE firmware images
@@ -886,7 +887,6 @@ A collection of awesome things.
 
 ## SystemVerilog
 
-- [chili-chips-ba/wireguard-fpga](https://github.com/chili-chips-ba/wireguard-fpga) - Full-throttle, wire-speed hardware implementation of Wireguard VPN, using low-cost Artix7 FPGA with opensource toolchain. If you seek security and privacy, nothing is private in our codebase. Our door is wide open for backdoor scrutiny, be it related to RTL, embedded, build, bitstream or any other aspect of design and delivery package. Bujrum!
 - [cluelogic/uvm-tutorial-for-candy-lovers](https://github.com/cluelogic/uvm-tutorial-for-candy-lovers) - Source code repo for UVM Tutorial for Candy Lovers
 
 ## TeX
