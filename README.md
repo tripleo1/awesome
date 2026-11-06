@@ -786,7 +786,7 @@ A collection of awesome things.
 - [ArthurBrussee/brush](https://github.com/ArthurBrussee/brush) - 3D Reconstruction for all
 - [AsahiLinux/muvm](https://github.com/AsahiLinux/muvm) - muvm - run programs from your system in a microVM
 - [DieracDelta/DAWN](https://github.com/DieracDelta/DAWN) - DAWN (Debug Adapter with Nix)
-- [NixOS/nix-index](https://github.com/NixOS/nix-index) - Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]
+- [NixOS/nix-index](https://github.com/NixOS/nix-index) - Quickly locate nix packages with specific files [maintainers=@Mic92 @bennofs @figsoda @raitobezarius @r-vdp @samestep]
 - [RustPython/Parser](https://github.com/RustPython/Parser) - 
 - [RyanWelly/lisp-in-rs-macros](https://github.com/RyanWelly/lisp-in-rs-macros) - A Lisp interpreter written fully in rust macros. 
 - [YtvwlD/ele](https://github.com/YtvwlD/ele) - ele spawns elevated processes.
