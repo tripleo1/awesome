@@ -124,7 +124,7 @@ A collection of awesome things.
 - [github/securitylab](https://github.com/github/securitylab) - Resources related to GitHub Security Lab
 - [gnooth/xcl](https://github.com/gnooth/xcl) - An implementation of Common Lisp.
 - [gutschke/safeexec](https://github.com/gutschke/safeexec) - 
-- [iczelia/bzip3](https://github.com/iczelia/bzip3) - A better and stronger spiritual successor to BZip2.
+- [iczelia/bzip3](https://github.com/iczelia/bzip3) - A better and stronger spiritual successor to bzip2.
 - [idunham/tinyxserver](https://github.com/idunham/tinyxserver) - A small X server, based on Xorg 1.2 but with security fixes.
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [jonathanhogg/usepackage](https://github.com/jonathanhogg/usepackage) - Usepackage Environment Manager
