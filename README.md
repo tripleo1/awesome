@@ -481,8 +481,6 @@ A collection of awesome things.
 ## JavaScript
 
 - [DO-SAY-GO/tdf](https://github.com/DO-SAY-GO/tdf) - 🌱 TDF - Tree Document Format - a universal file format for web collections
-- [Doist/ElementStore](https://github.com/Doist/ElementStore) - Standalone implementation of jQuery.data
-- [Doist/gulpist](https://github.com/Doist/gulpist) - Static asset build tool for Doist
 - [DonAbney/BuildWatcher](https://github.com/DonAbney/BuildWatcher) - 
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
 - [IBM/guide-conveyor-simulator](https://github.com/IBM/guide-conveyor-simulator) - # WARNING: This repository is no longer maintained :warning:  This content is no longer being updated or maintained. The content is provided “as is.” Given the rapid evolution of technology, some content, steps, or illustrations may have changed.
@@ -530,6 +528,8 @@ A collection of awesome things.
 - [shaunxcode/datomicism](https://github.com/shaunxcode/datomicism) - interface for visualizing datomic schemas and queries
 - [sindresorhus/yn](https://github.com/sindresorhus/yn) - Parse yes/no like values
 - [thesephist/unim.press](https://github.com/thesephist/unim.press) - A Reddit front-page reader in the style of The New York Times.
+- [todoist/ElementStore](https://github.com/todoist/ElementStore) - Standalone implementation of jQuery.data
+- [todoist/gulpist](https://github.com/todoist/gulpist) - Static asset build tool for Doist
 - [torch2424/made-with-webassembly](https://github.com/torch2424/made-with-webassembly) - A showcase of awesome production applications, side projects, and use cases made with WebAssembly (Wasm). 👷
 - [wreedb/god](https://github.com/wreedb/god) - data text formats don't need to be awful
 - [youraerials/NextBillionVoices](https://github.com/youraerials/NextBillionVoices) - 
