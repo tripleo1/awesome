@@ -29,7 +29,6 @@ A collection of awesome things.
 - [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
-- [Jinja](#jinja)
 - [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
@@ -200,7 +199,7 @@ A collection of awesome things.
 - [managarm/managarm](https://github.com/managarm/managarm) - Pragmatic microkernel-based OS with fully asynchronous I/O
 - [meta/redex](https://github.com/meta/redex) - A bytecode optimizer for Android apps
 - [mhx/dwarfs](https://github.com/mhx/dwarfs) - A fast high-compression read-only file system for Linux, FreeBSD, macOS and Windows
-- [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows & Linux userspace emulator 
+- [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Userspace emulator for Windows, Linux & macOS
 - [neobrain/cftf](https://github.com/neobrain/cftf) - Clang from the Future: A C++17 to C++11 source-to-source compiler
 - [nucleic/kiwi](https://github.com/nucleic/kiwi) - Efficient C++ implementation of the Cassowary constraint solving algorithm
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
@@ -535,10 +534,6 @@ A collection of awesome things.
 - [youraerials/NextBillionVoices](https://github.com/youraerials/NextBillionVoices) - 
 - [youraerials/ShowMe](https://github.com/youraerials/ShowMe) - a touch event relay for firefox os
 
-## Jinja
-
-- [debops/debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
-
 ## Julia
 
 - [trixi-framework/Trixi2Vtk.jl](https://github.com/trixi-framework/Trixi2Vtk.jl) - Convert output files generated with Trixi.jl to VTK.
@@ -686,6 +681,7 @@ A collection of awesome things.
 - [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
 - [corna/me_cleaner](https://github.com/corna/me_cleaner) - Tool for partial deblobbing of Intel ME/TXE firmware images
 - [cute-engineering/cutekit](https://github.com/cute-engineering/cutekit) - 🪄​ The *magical* build system and package manager (mirror)
+- [debops/debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
 - [dragnet-org/dragnet](https://github.com/dragnet-org/dragnet) - Just the facts -- web page content extraction
 - [enthought/pyface](https://github.com/enthought/pyface) - pyface: traits-capable windowing framework
 - [enthought/traits](https://github.com/enthought/traits) - Observable typed attributes for Python classes
