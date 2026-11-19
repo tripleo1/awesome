@@ -894,7 +894,7 @@ A collection of awesome things.
 - [antfu/retypewriter](https://github.com/antfu/retypewriter) - Replay the steps of your changes at ease.
 - [bleedingedgeai/bleedingedge.ai](https://github.com/bleedingedgeai/bleedingedge.ai) - Bleeding edge is a feed of noteworthy developments in AI and machine learning.
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
-- [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
+- [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is an open-source platform for building custom IDEs and tools for browser and desktop. It includes Theia AI, the vendor-neutral AI harness platform, and powers the AI-native Theia IDE.
 - [gurytraub/remarkable-bus](https://github.com/gurytraub/remarkable-bus) - a remarkable bus for node. uses rabbitmq to implement queuing and tasks. quite awesome and tiny.
 - [hyochan/react-native-nitro-sound](https://github.com/hyochan/react-native-nitro-sound) - react-native native module for audio recorder and player with nitromodule!
 - [jaredkrinke/100-languages](https://github.com/jaredkrinke/100-languages) - Solving the first 100 Project Euler problems using 100 different programming languages!
