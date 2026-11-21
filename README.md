@@ -376,6 +376,7 @@ A collection of awesome things.
 - [permazen/permazen](https://github.com/permazen/permazen) - Language-Natural Persistence Layer for Java
 - [pypy/pypy.org](https://github.com/pypy/pypy.org) - Sources for website at https://www.pypy.org
 - [viebel/klipse](https://github.com/viebel/klipse) - Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs.
+- [wmutschl/mutschler.dev](https://github.com/wmutschl/mutschler.dev) - Tech blog
 
 ## Haskell
 
@@ -1012,7 +1013,6 @@ A collection of awesome things.
 - [vshymanskyy/awesome-wasm-tools](https://github.com/vshymanskyy/awesome-wasm-tools) - 😎 A curated list of awesome, language-agnostic WebAssembly tools
 - [wasmerio/awesome-wasi](https://github.com/wasmerio/awesome-wasi) - 😎 Curated list of awesome things regarding WebAssembly WASI ecosystem.
 - [waylau/java-virtual-machine-specification](https://github.com/waylau/java-virtual-machine-specification) - Chinese translation of The Java® Virtual Machine Specification.《Java 虚拟机规范（第11版）》中文翻译及示例，Java SE 11 版
-- [wmutschl/mutschler.dev](https://github.com/wmutschl/mutschler.dev) - Tech blog
 - [xhorak/firefox-dev-flatpak](https://github.com/xhorak/firefox-dev-flatpak) - Create flatpak from freshly compiled Firefox Nightly.
 - [zencq/nomnom](https://github.com/zencq/nomnom) - NomNom is one of the most complete savegame editor for No Man's Sky but also shows additional information around the data you're about to change.
 
